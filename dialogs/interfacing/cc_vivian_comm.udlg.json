@@ -1,0 +1,758 @@
+[
+    {
+        "className": "DM",
+        "objectId": 3,
+        "description": "n/a",
+        "originalText": "cc_vivian_comm",
+        "translatedText": ""
+    },
+    {
+        "className": "DM",
+        "objectId": 4,
+        "description": "n/a",
+        "originalText": "",
+        "translatedText": ""
+    },
+    {
+        "className": "J",
+        "objectId": 34,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "className": "A4",
+        "objectId": 35,
+        "description": "n/a",
+        "originalText": "vivian",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 40,
+        "description": "n/a",
+        "originalText": "::You hear nothing but static.::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 46,
+        "description": "n/a",
+        "originalText": "::There is no need to use this now.::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 58,
+        "description": "n/a",
+        "originalText": "Hey, the elevator is working! Lovely! You did it, $(context.player.Name)! Come up here!",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 64,
+        "description": "n/a",
+        "originalText": "::You hear Vivian's worried voice over the speaker.:: $(context.player.Name)! $(context.player.Name)! Can you hear me? Are you okay? ",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 72,
+        "description": "n/a",
+        "originalText": "I read you.",
+        "translatedText": ""
+    },
+    {
+        "className": "BC",
+        "objectId": 76,
+        "description": "n/a",
+        "originalText": "context.npc_cc_vivian_playerFell",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 84,
+        "description": "n/a",
+        "originalText": "I'm fine, but I can't seem to get back up. What is this place?",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 127,
+        "description": "n/a",
+        "originalText": "Drats! The stupid elevator is not working! I can't do anything to make it operational again, not from up here. Let's see, hmm, there is a console in this room, let me take a look. Just... one... moment...\r\n\r\nAha, got it! According to what I'm reading, below me is some Biocorp research facility. Who knows what they've got there, so be careful. Also, I've just opened the map of the area, and I can see the whole layout. Wait, I think I can also remotely unlock some doors, maybe that'll be useful at some point. Tell me, where are you now?",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 135,
+        "description": "n/a",
+        "originalText": "How can I get the elevator working?",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 140,
+        "description": "n/a",
+        "originalText": "Can you give me some directions?",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 147,
+        "description": "n/a",
+        "originalText": "Some doors are locked in here. Can you do anything to help?",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 152,
+        "description": "n/a",
+        "originalText": "I'm in the armory.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 157,
+        "description": "n/a",
+        "originalText": "I'm in the toilet.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 163,
+        "description": "n/a",
+        "originalText": "I'm in a large room full of desks.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 168,
+        "description": "n/a",
+        "originalText": "I'm in the office.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 173,
+        "description": "n/a",
+        "originalText": "I'm in the storage room.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 178,
+        "description": "n/a",
+        "originalText": "I'm in a small room full of large metal boxes.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 184,
+        "description": "n/a",
+        "originalText": "I'm in a small room with a console, two desks and some shelves.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 190,
+        "description": "n/a",
+        "originalText": "I'm in the security room.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 195,
+        "description": "n/a",
+        "originalText": "I'm in a room with desks, tables and some high tech equipment.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 201,
+        "description": "n/a",
+        "originalText": "I'm in a room full of work tables, shelves with all sorts of equipment and some fuel tanks.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 206,
+        "description": "n/a",
+        "originalText": "I'm in the maintenance room.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 211,
+        "description": "n/a",
+        "originalText": "I'm in the room with the generator.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 216,
+        "description": "n/a",
+        "originalText": "I'm in the pumping room. There's lots of pipes and tanks here.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 221,
+        "description": "n/a",
+        "originalText": "There is a collapsed passage near the maintenance room.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 227,
+        "description": "n/a",
+        "originalText": "I checked the hydraulic pump, but there was an error regarding a breach in the pipeline.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 233,
+        "description": "n/a",
+        "originalText": "I checked the hydraulic generator and it looks to me that some parts are broken.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 238,
+        "description": "n/a",
+        "originalText": "I have some generator parts with me.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 243,
+        "description": "n/a",
+        "originalText": "I'm in the generator room, and have the necessary parts.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 250,
+        "description": "n/a",
+        "originalText": "I can't start the hydraulic generator, it said that the hydraulic fluid levels are low.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 255,
+        "description": "n/a",
+        "originalText": "I'm roaming the corridors.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 260,
+        "description": "n/a",
+        "originalText": "I'm in the vents.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 265,
+        "description": "n/a",
+        "originalText": "I'm near the elevator.",
+        "translatedText": ""
+    },
+    {
+        "className": "SBFV",
+        "objectId": 271,
+        "description": "n/a",
+        "originalText": "context.interface_cc_vivian_talkFalling",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 276,
+        "description": "n/a",
+        "originalText": "I have no idea, but there is a \"generator room\" just by the elevator, judging from what I can see here.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 287,
+        "description": "n/a",
+        "originalText": "Okay, let's see. You are now in Sector 1, as far as I can see here. Just next to the elevator is the \"Generator room,\" and to the east of that is the \"Armory,\" or so it says here. All the way to the west is the \"Main Storage,\" and to the east is the \"Offices.\" Northwest you've got the \"Maintenance Room,\" and south-southeast is where the \"Security Room\" is located. \r\n\r\nSouth doors lead to Sector 2. Meanwhile, Sector 3 is accessed near the maintenance room.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 294,
+        "description": "n/a",
+        "originalText": "Okay, let's see... You are now in Sector 2, and there are only three rooms here. The westernmost reads \"Pumping room,\" the middle one is \"Research 2,\" and the eastern one is unlabeled on this map.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 303,
+        "description": "n/a",
+        "originalText": "Let's see, you're in Sector 1... Drats, I don't think I can unlock any of the doors near you. I need some special permission or something. But, listen, I can see all these doors require keycards to open, so maybe you should check the office; perhaps you'll be able to find some of the keycards there.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 315,
+        "description": "n/a",
+        "originalText": "Let's see, you're now in Sector 2... Hey, I can unlock all the doors in this sector from here! All done! Damn Vivian, you are hacking like a cham-- Khm, sorry.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 322,
+        "description": "n/a",
+        "originalText": "It says here all doors are unlocked in Sector 2. Maybe they're just stuck. Try kicking them.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 329,
+        "description": "n/a",
+        "originalText": "That sounds lovely, maybe you can find something of interest there. Maybe some weapons and ammo.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 336,
+        "description": "n/a",
+        "originalText": "$(context.player.Name)! Yuck! I did not need to know that.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 344,
+        "description": "n/a",
+        "originalText": "That's the office. Let me check... Yes, it is. You should look around.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 354,
+        "description": "n/a",
+        "originalText": "Did you find that sandwi-- I mean, lovely. See if you can find something useful there.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 364,
+        "description": "n/a",
+        "originalText": "Okay, got it. I tried accessing the storage manifest, but the file seems corrupted. Still, it should not be a problem, you can check it out what's in there for yourself.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 372,
+        "description": "n/a",
+        "originalText": "Hmm, there is an unmarked room in Sector 2. Maybe that's the one.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 379,
+        "description": "n/a",
+        "originalText": "Console? Hmmm, can you be a bit more specific?",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 390,
+        "description": "n/a",
+        "originalText": "Okay, there was a console there, right? Maybe you should check it out. I've finally found info regarding the sentries: They are patrolling the main hallway in Sector 2.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 399,
+        "description": "n/a",
+        "originalText": "There is a room in here, marked as \"Research 2.\" Maybe that's the one.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 410,
+        "description": "n/a",
+        "originalText": "That sounds like the maintenance room. ",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 423,
+        "description": "n/a",
+        "originalText": "Got it. Look around...",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 430,
+        "description": "n/a",
+        "originalText": "Lovely, I can see on the console that the hydraulic generator for the elevator is in that room. That's the one, see if you can start it up.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 438,
+        "description": "n/a",
+        "originalText": "Oh, okay. As far as I can gather, the pump in this room is used to supply fluid to the elevator's hydraulic generator.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 446,
+        "description": "n/a",
+        "originalText": "Oh, that leads to Sector 3. Drats! Let me see for a second... Sector... 3... Okay, it's a large research and development area of this facility, much larger than Sector 1 and 2 combined!",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 454,
+        "description": "n/a",
+        "originalText": "Oh, so that's a problem. Well, see if you can follow the pipes and see where they're damaged. Maybe you can find a way fix it somehow, if it's not too severe?",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 466,
+        "description": "n/a",
+        "originalText": "Oh, that is not good. Not good at all! ::She pauses for a few seconds.:: Hey, I got an idea: We can repair the generator together; I can guide you through the whole process; I've worked on hydraulic generators before, which is *incredibly* convenient. But, if something seems broken, then our best bet is to try to find a replacement before anything else.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 477,
+        "description": "n/a",
+        "originalText": "Lovely! Call me when you're near the generator so that we can start working on it.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 487,
+        "description": "n/a",
+        "originalText": "Lovely. ::She takes a deep breath.:: Okay, listen carefully: First, I need you to explain to me what you see in there...",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 497,
+        "description": "n/a",
+        "originalText": "Yeah, we've gotta fix those pipes and start the pump; the generator can't work without it.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 504,
+        "description": "n/a",
+        "originalText": "Hmm... check the pumping room in Sector 2.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 524,
+        "description": "n/a",
+        "originalText": "Understood. Call me when you're somewhere specific.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 532,
+        "description": "n/a",
+        "originalText": "Okay, I don't think there is much to be done there right now.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 537,
+        "description": "n/a",
+        "originalText": "Okay, please take care, and call me if you need help.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 544,
+        "description": "n/a",
+        "originalText": "Maybe you should check it out.",
+        "translatedText": ""
+    },
+    {
+        "className": "PIIAWPC",
+        "objectId": 547,
+        "description": "n/a",
+        "originalText": "cc_bcf1",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 551,
+        "description": "n/a",
+        "originalText": "Got everything?",
+        "translatedText": ""
+    },
+    {
+        "className": "PIIAC",
+        "objectId": 558,
+        "description": "n/a",
+        "originalText": "cc_bcf2",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 562,
+        "description": "n/a",
+        "originalText": "That's all I can see here...",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 571,
+        "description": "n/a",
+        "originalText": "At least I got to unlock the doors in Sector 2 for you, so I'm not completely useless. ::She laughs.::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 577,
+        "description": "n/a",
+        "originalText": "Still, from what I see here I think I might be able to open some of the doors in Sector 2, so call me when you get there.\r\n\r\nDid you catch all that?",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 585,
+        "description": "n/a",
+        "originalText": "You should be good to go.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 603,
+        "description": "n/a",
+        "originalText": "Stupid doors...",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 609,
+        "description": "n/a",
+        "originalText": "I really don't know what else to tell you about an armory.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 615,
+        "description": "n/a",
+        "originalText": "I mean, really.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 623,
+        "description": "n/a",
+        "originalText": "Maybe someone left you a sandwich there. ::She laughs.:: I'm sorry, this is no time for jokes.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 631,
+        "description": "n/a",
+        "originalText": "Keep your eyes open.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 638,
+        "description": "n/a",
+        "originalText": "Maybe you can find those generator parts in here.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 644,
+        "description": "n/a",
+        "originalText": "There could be useful stuff in there.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 651,
+        "description": "n/a",
+        "originalText": "Maybe you can find something to fix those pipes.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 658,
+        "description": "n/a",
+        "originalText": "Maybe you can find parts for the generator in here, or something to fix the pipes.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 664,
+        "description": "n/a",
+        "originalText": "I've got nothing here. You're gonna have to check it out for yourself.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 680,
+        "description": "n/a",
+        "originalText": "Maybe you can do something about that from the security room.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 687,
+        "description": "n/a",
+        "originalText": "Other than that... I've got nothing. Drats.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 695,
+        "description": "n/a",
+        "originalText": "Maybe you can find some useful equipment. It's a maintenance room after all.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 703,
+        "description": "n/a",
+        "originalText": "Get back to me after that.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 710,
+        "description": "n/a",
+        "originalText": "Lovely! This is exactly what you need!",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 716,
+        "description": "n/a",
+        "originalText": "That could prove important for your escape, $(context.player.Name). You should check its condition.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 724,
+        "description": "n/a",
+        "originalText": "A collapsed tunnel doesn't help us at all!",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 732,
+        "description": "n/a",
+        "originalText": "Check the maintenance room or the storage, maybe you can find something there to help you check the pip-- I mean fix the pipes! Fix the pipes!",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 741,
+        "description": "n/a",
+        "originalText": "My best guess is that there could be some spare parts either in the storage or in the maintenance room. Check them both out.",
+        "translatedText": ""
+    },
+    {
+        "className": "PHIC",
+        "objectId": 747,
+        "description": "n/a",
+        "originalText": "cc_bcf.generatorParts",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 752,
+        "description": "n/a",
+        "originalText": "Got it. Talk to you later.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 762,
+        "description": "n/a",
+        "originalText": "::Start the repairs.::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 769,
+        "description": "n/a",
+        "originalText": "Drats, problems everywhere.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 775,
+        "description": "n/a",
+        "originalText": "It's gotta be that.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 795,
+        "description": "n/a",
+        "originalText": "If you need my help, that is.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 801,
+        "description": "n/a",
+        "originalText": "Unless you wanna try climbing up, but it looks pretty high...",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 806,
+        "description": "n/a",
+        "originalText": "::End Conversation::",
+        "translatedText": ""
+    },
+    {
+        "className": "SLSJ1",
+        "objectId": 811,
+        "description": "n/a",
+        "originalText": "cc_bcf2",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 829,
+        "description": "n/a",
+        "originalText": "Oh, the security room, makes sense. Nothing specific about it on my end. Check the console; if it's working, maybe it could prove useful.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 837,
+        "description": "n/a",
+        "originalText": "I have them right here with me.",
+        "translatedText": ""
+    },
+    {
+        "className": "RIFPA",
+        "objectId": 841,
+        "description": "n/a",
+        "originalText": "cc_bcf.generatorParts",
+        "translatedText": ""
+    },
+    {
+        "className": "PCA1",
+        "objectId": 843,
+        "description": "n/a",
+        "originalText": "Cc_RepairHydraulicGenerator",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 852,
+        "description": "n/a",
+        "originalText": "I saw mention of patrolling security sentries somewhere in here, but I can't seem find it again. Drats!",
+        "translatedText": ""
+    }
+]

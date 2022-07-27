@@ -1,0 +1,590 @@
+[
+    {
+        "className": "DM",
+        "objectId": 3,
+        "description": "n/a",
+        "originalText": "dc-pp_consoles",
+        "translatedText": ""
+    },
+    {
+        "className": "J",
+        "objectId": 61,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "className": "A4",
+        "objectId": 62,
+        "description": "n/a",
+        "originalText": "interface",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 70,
+        "description": "n/a",
+        "originalText": "",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 103,
+        "description": "n/a",
+        "originalText": "::Arke Power Station Security Console\r\n\r\nWarning - Intruder Alert! 1 intruder(s) detected!\r\nSecurity response level: Maximum!\r\n::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 109,
+        "description": "n/a",
+        "originalText": "::Arke Power Station Security Console\r\n\r\nWarning - All security systems are offline!\r\n::",
+        "translatedText": ""
+    },
+    {
+        "className": "PIIAC",
+        "objectId": 112,
+        "description": "n/a",
+        "originalText": "dc-pp_m",
+        "translatedText": ""
+    },
+    {
+        "className": "BC",
+        "objectId": 191,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_SecurityDisabled",
+        "translatedText": ""
+    },
+    {
+        "className": "SC1",
+        "objectId": 203,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_consoleId",
+        "translatedText": ""
+    },
+    {
+        "className": "SC1",
+        "objectId": 204,
+        "description": "n/a",
+        "originalText": "m_down",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 210,
+        "description": "n/a",
+        "originalText": "::This security console seems to be shutting down and restarting every few seconds, making it completely unusable. You could try opening the front panel and investigating what causes the problem.::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 220,
+        "description": "n/a",
+        "originalText": "::The console is unresponsive to your commands. Your first guess is that there is something wrong with the keyboard, but you'd have to thoroughly inspect the console to confirm whether that is true..::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 232,
+        "description": "n/a",
+        "originalText": "::The console shuts down every time you press a key - any key - with the problem persisting even after several restarts. If you want to use this console you will have to open the front panel and attempt to fix the problem.::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 242,
+        "description": "n/a",
+        "originalText": "::The screen is blank.::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 247,
+        "description": "n/a",
+        "originalText": "::Why do you want to murder Father?::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 256,
+        "description": "n/a",
+        "originalText": "::The screen is blank.::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 261,
+        "description": "n/a",
+        "originalText": "::Father taught me everything. He taught me how to repel the invaders; that is what I've been doing all these years. Erasing them from existence.::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 270,
+        "description": "n/a",
+        "originalText": "::The screen is blank.::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 275,
+        "description": "n/a",
+        "originalText": "::Why? He is a good man. He is someone who creates; you are someone who destroys.::",
+        "translatedText": ""
+    },
+    {
+        "className": "SC1",
+        "objectId": 280,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_consoleId",
+        "translatedText": ""
+    },
+    {
+        "className": "SC1",
+        "objectId": 281,
+        "description": "n/a",
+        "originalText": "c_iris",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 285,
+        "description": "n/a",
+        "originalText": "::IRIS Core main terminal: ::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 295,
+        "description": "n/a",
+        "originalText": "::The screen is blank.::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 304,
+        "description": "n/a",
+        "originalText": "::[Hacking] Temporarily disable security system in this area::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 310,
+        "description": "n/a",
+        "originalText": "::Open repair line gates::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 317,
+        "description": "n/a",
+        "originalText": "::Open gate to IRIS core::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 323,
+        "description": "n/a",
+        "originalText": "::Open entry gates::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 331,
+        "description": "n/a",
+        "originalText": "::Open gate to office sector::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 335,
+        "description": "n/a",
+        "originalText": "::Exit::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 341,
+        "description": "n/a",
+        "originalText": "::[Electronics] Attempt to fix the console.::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 347,
+        "description": "n/a",
+        "originalText": "::[Electronics] Attempt to fix the console.::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 353,
+        "description": "n/a",
+        "originalText": "::[Electronics] Attempt to fix the console.::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 360,
+        "description": "n/a",
+        "originalText": "::Why?::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 367,
+        "description": "n/a",
+        "originalText": "::Erasing!::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 377,
+        "description": "n/a",
+        "originalText": "::Destroys!::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 383,
+        "description": "n/a",
+        "originalText": "::IRIS version history::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 387,
+        "description": "n/a",
+        "originalText": "::Documents::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 393,
+        "description": "n/a",
+        "originalText": "::Open core storage room door::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 403,
+        "description": "n/a",
+        "originalText": "::Security surveillance has been temporarily disabled::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 411,
+        "description": "n/a",
+        "originalText": "::Your hacking attempt was successful. Suddenly, the screen goes blank and green text begins flashing across the screen.\r\n\r\nNOT BAD! BUT NOW I KNOW WHERE YOU ARE! HA-HA-HA!::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 417,
+        "description": "n/a",
+        "originalText": "::You begin your hacking, but the screen suddenly goes completely black. Then, green letters flash across the screen.\r\n\r\nYOU THINK YOU CAN OUTSMART ME? ME? HA-HA-HA!::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 425,
+        "description": "n/a",
+        "originalText": "::Gates opened successfully::",
+        "translatedText": ""
+    },
+    {
+        "className": "SBFV",
+        "objectId": 429,
+        "description": "n/a",
+        "originalText": "context.loc_dc-pp_ama_openRepairLine",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 438,
+        "description": "n/a",
+        "originalText": "::Gate opened successfully::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 444,
+        "description": "n/a",
+        "originalText": "::The screen goes completely black and green text begins flashing.\r\n\r\nDON'T TOUCH THAT! HA-HA-HA!::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 456,
+        "description": "n/a",
+        "originalText": "::Opening Arke Power Station entry gates...\r\n\r\nAll gates successfully opened!\r\n\r\nPress any key to continue...::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 464,
+        "description": "n/a",
+        "originalText": "::Gate opened successfully::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 477,
+        "description": "n/a",
+        "originalText": "::Just as you suspected, the console's power supply was the real culprit. Thankfully, you repair it quickly and with ease and successfully turn on the console.::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 482,
+        "description": "n/a",
+        "originalText": "::Even though you suspect that the issue lies with the faulty power supply, you do not have the skill to repair it. You will have to find another console until you figure out how to repair this one.::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 491,
+        "description": "n/a",
+        "originalText": "::The problem turned out to be a bit more complicated than you had originally thought, requiring some extensive, luckily not too time-consuming dismantling. Once you found the faulty connector, however, you were able to complete the repairs with little delay. It now correctly registers all user input.::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 496,
+        "description": "n/a",
+        "originalText": "::No matter what you try, the console stubornly remains unresponsive to your input. You will have to find another console until you figure out how to repair this one.::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 505,
+        "description": "n/a",
+        "originalText": "::After some tinkering you turn the console on again to see how it behaves. After pressing every possible key and confirming that the problem is no longer present, you are finally ready to use it.::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 510,
+        "description": "n/a",
+        "originalText": "::You tried every fix in your vocabulary, but it appears it wasn't enough; the console still shuts down after any key has been pressed. You will have to find another console until you figure out how to repair this one.::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 516,
+        "description": "n/a",
+        "originalText": "::What did he ever do to you?::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 526,
+        "description": "n/a",
+        "originalText": "::But then you come along.::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 536,
+        "description": "n/a",
+        "originalText": "::I WILL NOT LET YOU MURDER HIM!::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 555,
+        "description": "n/a",
+        "originalText": "::Entry deleted\r\nEntry deleted\r\nEntry deleted\r\nEntry deleted\r\nEntry deleted\r\nEntry deleted\r\nEntry deleted\r\nEntry deleted\r\nVer. 17.908976\r\n\r\nLast backup was made 189 years, 75 days, 13 hours ago::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 562,
+        "description": "n/a",
+        "originalText": "::Documents::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 569,
+        "description": "n/a",
+        "originalText": "::Gate opened successfully::",
+        "translatedText": ""
+    },
+    {
+        "className": "SIJ",
+        "objectId": 577,
+        "description": "n/a",
+        "originalText": "characters\\dc-iris",
+        "translatedText": ""
+    },
+    {
+        "className": "SIJ",
+        "objectId": 578,
+        "description": "n/a",
+        "originalText": "IRIS",
+        "translatedText": ""
+    },
+    {
+        "className": "SIJ",
+        "objectId": 579,
+        "description": "n/a",
+        "originalText": "interface",
+        "translatedText": ""
+    },
+    {
+        "className": "Q0",
+        "objectId": 630,
+        "description": "n/a",
+        "originalText": "dc-pp_m",
+        "translatedText": ""
+    },
+    {
+        "className": "OSGJ",
+        "objectId": 643,
+        "description": "n/a",
+        "originalText": "dc-pp_c",
+        "translatedText": ""
+    },
+    {
+        "className": "Q99",
+        "objectId": 645,
+        "description": "n/a",
+        "originalText": "dc-pp_c",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 665,
+        "description": "n/a",
+        "originalText": "::Boot backup version of IRIS.::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 669,
+        "description": "n/a",
+        "originalText": "::Back::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q99",
+        "objectId": 728,
+        "description": "n/a",
+        "originalText": "dc-pp_ama",
+        "translatedText": ""
+    },
+    {
+        "className": "Q69",
+        "objectId": 732,
+        "description": "n/a",
+        "originalText": "dc-pp_m",
+        "translatedText": ""
+    },
+    {
+        "className": "Q0",
+        "objectId": 762,
+        "description": "n/a",
+        "originalText": "dc-pp_e",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 766,
+        "description": "n/a",
+        "originalText": "::Access denied!::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 818,
+        "description": "n/a",
+        "originalText": "::[Hacking] Attempt to boot backup version of IRIS.::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 870,
+        "description": "n/a",
+        "originalText": "::You manage to successfully revert IRIS to the previous version. The projector in front of you lights up...::",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 878,
+        "description": "n/a",
+        "originalText": "::You must've done something wrong during your attempt, for what appears on the projector is not the thing you expected.::",
+        "translatedText": ""
+    },
+    {
+        "className": "SP",
+        "objectId": 910,
+        "description": "n/a",
+        "originalText": "dc-pp_m",
+        "translatedText": ""
+    },
+    {
+        "className": "SP",
+        "objectId": 911,
+        "description": "n/a",
+        "originalText": "consoleDown",
+        "translatedText": ""
+    },
+    {
+        "className": "SP",
+        "objectId": 925,
+        "description": "n/a",
+        "originalText": "consoleDown",
+        "translatedText": ""
+    },
+    {
+        "className": "SP",
+        "objectId": 927,
+        "description": "n/a",
+        "originalText": "consoleMid",
+        "translatedText": ""
+    },
+    {
+        "className": "SP",
+        "objectId": 929,
+        "description": "n/a",
+        "originalText": "consoleUp",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 950,
+        "description": "n/a",
+        "originalText": "::Return to main::",
+        "translatedText": ""
+    },
+    {
+        "className": "S10",
+        "objectId": 957,
+        "description": "n/a",
+        "originalText": "blueTemper",
+        "translatedText": ""
+    },
+    {
+        "className": "U01",
+        "objectId": 958,
+        "description": "n/a",
+        "originalText": "dc_irisBots",
+        "translatedText": ""
+    },
+    {
+        "className": "U01",
+        "objectId": 959,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 965,
+        "description": "n/a",
+        "originalText": "::Arke Power Station Security Console::",
+        "translatedText": ""
+    }
+]

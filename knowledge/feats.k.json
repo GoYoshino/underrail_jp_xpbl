@@ -1,0 +1,3376 @@
+[
+    {
+        "className": "KI",
+        "objectId": 3,
+        "description": "n/a",
+        "originalText": "generalinfo",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 4,
+        "description": "n/a",
+        "originalText": "Feats are special traits or tricks of the trade your character has learned over time.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 5,
+        "description": "n/a",
+        "originalText": "s2",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 6,
+        "description": "n/a",
+        "originalText": "You can activate the Sprint ability which grants you {0} additional movement points for {1}. Only effective while not in stealth.\r\n\r\nCooldown: {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 7,
+        "description": "n/a",
+        "originalText": "as",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 8,
+        "description": "n/a",
+        "originalText": "You can perform an aimed shot with any single-target ranged weapon for a guaranteed critical hit.\r\n\r\nCooldown: {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 9,
+        "description": "n/a",
+        "originalText": "s-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 10,
+        "description": "n/a",
+        "originalText": "Grants you a special attack with a crossbow or sniper rifle that deals additional damage per stealth skill point. Can only be used in stealth. This attack cannot critically hit.\r\n\r\nCooldown: {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 11,
+        "description": "n/a",
+        "originalText": "s",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 12,
+        "description": "n/a",
+        "originalText": "Grants you a special attack with a crossbow or sniper rifle that deals {0}% weapon damage plus additional {1}% damage per stealth skill point. Can only be used in stealth. This attack cannot critically hit.\r\n\r\nCooldown: {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 13,
+        "description": "n/a",
+        "originalText": "cookedshot",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 14,
+        "description": "n/a",
+        "originalText": "Grants you a special attack with chemical blob pistols that launches a big blob at the targeted location, dealing normal weapon damage to everything in a small radius. This attack costs {0}% of regular attack action points.\r\n\r\nCooldown: {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 15,
+        "description": "n/a",
+        "originalText": "a",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 16,
+        "description": "n/a",
+        "originalText": "If your snipe attack deals over {0}% of the target's remaining health it will be instantly killed. Target must be unaware of your presence prior to the attack.\r\n\r\nOnly works on biological targets.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 17,
+        "description": "n/a",
+        "originalText": "kcs-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 18,
+        "description": "n/a",
+        "originalText": "An attack with a pistol, crossbow or SMG that does normal damage and applies a bleeding wound that deals additional {0}% of the original damage over {2} plus additional {1}% for every point in perception and removes all movement points from the target for {2} (target can still move using action points).\r\n\r\nOnly works on living targets (that have knees). Cooldown: {3}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 19,
+        "description": "n/a",
+        "originalText": "kcs",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 20,
+        "description": "n/a",
+        "originalText": "An attack with a pistol, crossbow or SMG that does normal damage and applies a bleeding wound that deals additional {0}% of the original damage over {1} and removes all movement points for the same duration.\r\n\r\nOnly works on living targets (that have knees).\r\n\r\nCooldown: {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 21,
+        "description": "n/a",
+        "originalText": "kcs-xpbl",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 22,
+        "description": "n/a",
+        "originalText": "An attack with a pistol, crossbow, SMG or shotgun that does normal damage and applies a bleeding wound that deals additional {0}% of the original damage over {1} and removes all movement points for the same duration.\r\n\r\nOnly works on living targets (that have knees).\r\n\r\nCooldown: {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 23,
+        "description": "n/a",
+        "originalText": "ss-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 24,
+        "description": "n/a",
+        "originalText": "Increases your weapon critical bonuses when fully focused:\r\n\r\nPistols +{0}%\r\nCrossbows +{1}%\r\nSniper Rifles +{2}%",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 25,
+        "description": "n/a",
+        "originalText": "ss",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 26,
+        "description": "n/a",
+        "originalText": "Increases your critical damage bonus with pistols, crossbows and sniper rifles when fully focused by {0}%. Firearm pistols receive this bonus at all times, regardless of focus.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 27,
+        "description": "n/a",
+        "originalText": "o",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 28,
+        "description": "n/a",
+        "originalText": "Increases damage against rooted, stunned and incapacitated targets by {0}% and against slowed targets by {1}% with weapons, unarmed attacks and throwing knives.\r\n\r\nOnly works on living targets.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 29,
+        "description": "n/a",
+        "originalText": "g",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 30,
+        "description": "n/a",
+        "originalText": "Reduces the amount of action points required to fire pistols by {0} and increases initiative by {1} while wielding one. Only applies to firearms.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 31,
+        "description": "n/a",
+        "originalText": "qr",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 32,
+        "description": "n/a",
+        "originalText": "Increases attack speed with crossbows by 20%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 33,
+        "description": "n/a",
+        "originalText": "pe",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 34,
+        "description": "n/a",
+        "originalText": "Allows the character to learn and invoke psi abilities, but their base health is reduced by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 35,
+        "description": "n/a",
+        "originalText": "ci",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 36,
+        "description": "n/a",
+        "originalText": "Increases the duration of all cold effects of your psi abilities by {0} and allows you to shatter targets caught in your cryostasis if the attack deals over {1}% of target's remaining health (only mechanical and cold damage dealt is considered).\r\n\r\nAlso increases the health of cryogenic barrier by {2}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 37,
+        "description": "n/a",
+        "originalText": "im",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 38,
+        "description": "n/a",
+        "originalText": "Grants you a special close range attack with the pistol that deals {0}% weapon damage against stunned and incapacitated targets. Does not work with pistols that deal their primary damage to multiple targets. Costs 5 action points more than a regular attack.\r\n\r\nCooldown: {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 39,
+        "description": "n/a",
+        "originalText": "h",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 40,
+        "description": "n/a",
+        "originalText": "Your cold based metathermic psi abilities also reduce target's constitution by {0}. This effect stacks up to {1} times and lasts up to {2}.\r\n\r\nCan be mitigated with cold resistance and targets that are immune to chilling and freezing effects are also immune to hypothermia.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 41,
+        "description": "n/a",
+        "originalText": "i",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 42,
+        "description": "n/a",
+        "originalText": "Lowers the stealth movement speed penalty to {0}% and allows you to retain up to {1} movement points in combat while stealthed.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 43,
+        "description": "n/a",
+        "originalText": "st",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 44,
+        "description": "n/a",
+        "originalText": "If you spend more than {0} seconds in stealth, you will gain {1}% displacement. This effect will persist for the duration of the stealth mode and {2} seconds afterwards.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 45,
+        "description": "n/a",
+        "originalText": "ct-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 46,
+        "description": "n/a",
+        "originalText": "Increases the base damage of your Neural Overload psi ability by {0}%. Also, whenever it lands it reduces all target's psi point gains by {1}% for {2} turns. This effect stacks {3} times.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 47,
+        "description": "n/a",
+        "originalText": "ct",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 48,
+        "description": "n/a",
+        "originalText": "Increases the base damage of your Neural Overload psi ability by {0}%. Also, whenever it lands it reduces target's psi point reserves by {1}% of their maximum psi points.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 49,
+        "description": "n/a",
+        "originalText": "ms",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 50,
+        "description": "n/a",
+        "originalText": "Each offensive mind affecting psi ability you land on the target reduces its resolve by a small percentage, but can ultimately stack up to {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 51,
+        "description": "n/a",
+        "originalText": "co",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 52,
+        "description": "n/a",
+        "originalText": "Reduces all mechanical, heat and cold damage taken by {0}% plus {1}% for every point in constitution above {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 53,
+        "description": "n/a",
+        "originalText": "ds-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 54,
+        "description": "n/a",
+        "originalText": "Increases precision with the crossbow when firing special bolts and removes additional action point cost.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 55,
+        "description": "n/a",
+        "originalText": "ds",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 56,
+        "description": "n/a",
+        "originalText": "Removes additional action point cost when firing special bolts.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 57,
+        "description": "n/a",
+        "originalText": "td-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 58,
+        "description": "n/a",
+        "originalText": "After invoking heat based psi ability you gain thermodynamicity which reduces the psi cost of your next cold based psi ability by {0}% and vice versa.\r\n\r\nIf unused, the bonus expires after {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 59,
+        "description": "n/a",
+        "originalText": "td",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 60,
+        "description": "n/a",
+        "originalText": "After invoking heat based psi ability you gain thermodynamicity which reduces the action point cost of your next cold based psi ability by {0}% and vice versa.\r\n\r\nIf unused, the bonus expires after {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 61,
+        "description": "n/a",
+        "originalText": "pm-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 62,
+        "description": "n/a",
+        "originalText": "Whenever you deal damage with your fire based psi abilities you have a {0}% chance to set the target on fire, dealing {1}% of that damage again over {2} turns.\r\n\r\nSetting living targets on fire will put them in state of extreme panic.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 63,
+        "description": "n/a",
+        "originalText": "pm",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 64,
+        "description": "n/a",
+        "originalText": "Whenever you deal damage with your fire based psi abilities you have a chance to set the target on fire, dealing {0}% of that damage again over {1} turns.\r\n\r\nSetting living targets on fire will put them in state of extreme panic.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 65,
+        "description": "n/a",
+        "originalText": "fullauto",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 66,
+        "description": "n/a",
+        "originalText": "You can fire two extra rounds during your assault rifle and SMG burst attack if you are strong enough to take the kickback.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 67,
+        "description": "n/a",
+        "originalText": "fullauto-xpbl",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 68,
+        "description": "n/a",
+        "originalText": "You can fire two extra rounds during your assault rifle and SMG burst attack and one extra shell during shotgun bursts if you are strong enough to take the kickback.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 69,
+        "description": "n/a",
+        "originalText": "ambush",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 70,
+        "description": "n/a",
+        "originalText": "When attacking an illuminated target from out of the darkness with a single-target ranged weapon you ignore half the target's evasion and your critical chance is increased by {0}% plus {1}% for each stealth skill point.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 71,
+        "description": "n/a",
+        "originalText": "forceuser",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 72,
+        "description": "n/a",
+        "originalText": "Telekinesis is strong with you.\r\n\r\nDamage from your telekinetic punch is increased by {0}%, your force field has {1}% more health and lasts {2} additional turns, and your force emission costs {3} less psi point.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 73,
+        "description": "n/a",
+        "originalText": "locusofcontrol",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 74,
+        "description": "n/a",
+        "originalText": "You are the master of your own fate.\r\n\r\nActivate this ability to remove and gain immunity to stun, fear, incapacitation, and mind control for {0}.\r\n\r\nWhile this effect is active you can invoke any thought control psi ability as an area of effect ability, but that will end the effect.\r\n\r\nCooldown: {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 75,
+        "description": "n/a",
+        "originalText": "tranquility-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 76,
+        "description": "n/a",
+        "originalText": "Reduces the psi point cost of all psi abilities by {0}%, but increases the action point cost by the same percentage.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 77,
+        "description": "n/a",
+        "originalText": "tranquility",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 78,
+        "description": "n/a",
+        "originalText": "Reduces the action point cost of all psi abilities by {0} while at full health.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 79,
+        "description": "n/a",
+        "originalText": "psychosis",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 80,
+        "description": "n/a",
+        "originalText": "Increases critical chance of all psi abilities by {0}%, but also increases their psi point cost by {1}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 81,
+        "description": "n/a",
+        "originalText": "premeditation-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 82,
+        "description": "n/a",
+        "originalText": "When activated this ability will make your next psi ability cost no psi points and have its range increased by {0}.\r\n\r\nCooldown: {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 83,
+        "description": "n/a",
+        "originalText": "premeditation",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 84,
+        "description": "n/a",
+        "originalText": "When activated this ability will reduce the psi cost of your next psi ability by {0}%, its action point cost by {1}% and increase its range by {2}. The range is not increased for channeled abilities.\r\n\r\nCooldown: {3}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 85,
+        "description": "n/a",
+        "originalText": "cutthroat",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 86,
+        "description": "n/a",
+        "originalText": "You can perform a powerful knife stealth attack from behind the target that bypasses all resistances and shields, applies a bleeding wound that deals extra {0}% damage over {1} and stuns the target for the same duration.\r\n\r\nYou must either be hidden from your target through stealth or the target needs to be incapacitated. Only works on humanoids.\r\n\r\nAction point cost: {2}. Cooldown: {3}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 87,
+        "description": "n/a",
+        "originalText": "doctor",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 88,
+        "description": "n/a",
+        "originalText": "You can heal any wound with bandages. You also gain {0}% more health from health restoring medications.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 89,
+        "description": "n/a",
+        "originalText": "powermanagement",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 90,
+        "description": "n/a",
+        "originalText": "Electronic devices you craft have {0}% greater energy capacity.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 91,
+        "description": "n/a",
+        "originalText": "lightningpunches-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 92,
+        "description": "n/a",
+        "originalText": "Reduces the action point cost of your unarmed attack by {0} while your armor penalty is below {1}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 93,
+        "description": "n/a",
+        "originalText": "lightningpunches",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 94,
+        "description": "n/a",
+        "originalText": "Reduces the action point cost of your unarmed and fist weapon attacks by {0} while your armor penalty is below {1}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 95,
+        "description": "n/a",
+        "originalText": "deflection",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 96,
+        "description": "n/a",
+        "originalText": "While unarmed or wielding fist weapons, your dodge is increased by {0}% of your melee skill.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 97,
+        "description": "n/a",
+        "originalText": "--chuckattack",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 98,
+        "description": "n/a",
+        "originalText": "You can perform a powerful roundhouse kick that deals {0}% unarmed weapon damage and has a chance of breaking target's ribs (humans only), reducing their action points by {1} for {2}.\r\n\r\nYou also gain a small amount of fame and infamy first time you perform this attack.\r\n\r\nCooldown: {3}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 99,
+        "description": "n/a",
+        "originalText": "burglar",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 100,
+        "description": "n/a",
+        "originalText": "Reduces the time it takes to pick and hack locks by {0}%. Also grants you +{1} bonus to stealth skill when in controlled areas.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 101,
+        "description": "n/a",
+        "originalText": "ninjalooter",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 102,
+        "description": "n/a",
+        "originalText": "Reduces pickpocketing time by {0}%. Also reduces suspicion raised when pickpocketing by {1}% when hidden from the target.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 103,
+        "description": "n/a",
+        "originalText": "quickpockets",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 104,
+        "description": "n/a",
+        "originalText": "Provides you with an extra utility slot and reduces the action point cost of equipping items during combat by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 105,
+        "description": "n/a",
+        "originalText": "snooping",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 106,
+        "description": "n/a",
+        "originalText": "Increases perception by {0} for the purpose of detecting hidden passages and other secrets.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 107,
+        "description": "n/a",
+        "originalText": "recklessness",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 108,
+        "description": "n/a",
+        "originalText": "Increases your chance to critically hit with weapons and unarmed attacks by {0}%, but also increases your chance to get critically hit by weapon and unarmed attacks and psi abilities by {1}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 109,
+        "description": "n/a",
+        "originalText": "nimble",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 110,
+        "description": "n/a",
+        "originalText": "Reduces armor penalty by {0}% and grants {1}% bonus to dodge and evasion if your armor penalty is at zero.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 111,
+        "description": "n/a",
+        "originalText": "specialtactics",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 112,
+        "description": "n/a",
+        "originalText": "Grants you an ability that when activated will remove the action point cost of your next special bolt attack. This ability can only be activated while out of combat.\r\n\r\nCooldown: {0} seconds.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 113,
+        "description": "n/a",
+        "originalText": "pummel",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 114,
+        "description": "n/a",
+        "originalText": "You can perform a special attack with a sledgehammer that deals {0}% weapon damage and does not ignore damage threshold, but puts living targets off balance for {1} if it lands and costs only {2} action points.\r\n\r\nOff-balanced characters have their dodge and evasion reduced to zero.\r\n\r\nCooldown: {3}",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 115,
+        "description": "n/a",
+        "originalText": "shroomhead-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 116,
+        "description": "n/a",
+        "originalText": "You regenerate psi points in presence of mindshrooms when below {0}% of your psi point capacity.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 117,
+        "description": "n/a",
+        "originalText": "shroomhead",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 118,
+        "description": "n/a",
+        "originalText": "Your subconscious is tuned into the fungal surroundings so well that you recover {0} psi points when picking up mindshrooms.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 119,
+        "description": "n/a",
+        "originalText": "yell",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 120,
+        "description": "n/a",
+        "originalText": "You can issue an intimidating shout in an attempt to reduce combat readiness of surrounding enemies and remove them from stealth . All affected enemies will have their offensive skills reduced by an amount equal to {0}% of your intimidation skill for {1}.\r\n\r\nCooldown: {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 121,
+        "description": "n/a",
+        "originalText": "hitandrun",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 122,
+        "description": "n/a",
+        "originalText": "Every time you kill an enemy with your melee or ranged weapon your movement points are reset to {0} (cannot exceed your maximum) if they were below that number.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 123,
+        "description": "n/a",
+        "originalText": "dirtykick-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 124,
+        "description": "n/a",
+        "originalText": "You can perform a special unarmed attack that deals normal damage and stuns living targets for {0}. If the target is human male, it's stunned for {1} instead.\r\n\r\nCooldown: {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 125,
+        "description": "n/a",
+        "originalText": "dirtykick",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 126,
+        "description": "n/a",
+        "originalText": "You can perform a special melee attack for {3} action points that deals increased unarmed damage and stuns living targets for {0}. If the target is humanoid male, it's stunned for {1} instead.\r\n\r\nThis attack can be performed regardless of the currently equipped weapon. The damage scales up with your unarmed attack damage.\r\n\r\nCooldown: {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 127,
+        "description": "n/a",
+        "originalText": "heavypunch",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 128,
+        "description": "n/a",
+        "originalText": "You can perform an unconditional unarmed or fist weapon attack that deals {0}% damage at {1}% action point cost.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 129,
+        "description": "n/a",
+        "originalText": "cripplingstrike",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 130,
+        "description": "n/a",
+        "originalText": "An unarmed, fist weapon or knife attack that deals {0}% damage and reduces the target's strength by {1} if it penetrates armor. Lasts {2}. Stacks {3} times.\r\n\r\nOnly works on living targets.\r\n\r\nCooldown: {4}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 131,
+        "description": "n/a",
+        "originalText": "bonebreaker",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 132,
+        "description": "n/a",
+        "originalText": "Critical hits from your blunt melee attacks break ribs if they deal at least {0}% of target's maximal health through mechanical damage. Targets with broken ribs receive additional {1}% mechanical damage from all sources. \r\n\r\nThis effect lasts {2} and stacks up to {3} times. Only works on targets that actually have ribs.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 133,
+        "description": "n/a",
+        "originalText": "bonebreaker_cleave",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 134,
+        "description": "n/a",
+        "originalText": "If the attack deals at least {0}% of target's maximal health through mechanical damage, it will break their ribs. Targets with broken ribs receive additional {1}% mechanical damage from all sources. \r\n\r\nThis effect lasts {2} and stacks up to {3} times. Only works on targets that actually have ribs.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 135,
+        "description": "n/a",
+        "originalText": "cheapshots",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 136,
+        "description": "n/a",
+        "originalText": "Increases critical damage bonus of your melee attacks by {0}% and gives your melee attacks {1}% chance to incapacitate the target for {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 137,
+        "description": "n/a",
+        "originalText": "paranoia",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 138,
+        "description": "n/a",
+        "originalText": "Everyone is out to get you and you know it. Detection increased by {0}%, initiative by {1} and chance to get critically hit by weapon and unarmed attacks reduced by {2}%. Also your weapon and unarmed damage is increased by {3}% against stealthed targets.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 139,
+        "description": "n/a",
+        "originalText": "uncannydodge",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 140,
+        "description": "n/a",
+        "originalText": "Grants you an ability that when activated will cause you to dodge the next {0} regular or special melee attacks targeted against you, plus an additional attack for each {1} points in dodge.\r\n\r\nCooldown: {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 141,
+        "description": "n/a",
+        "originalText": "evasivemaneuvers",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 142,
+        "description": "n/a",
+        "originalText": "Grants you an ability that when activated converts all remaining movement points into thrice the evasion for {0}.\r\n\r\nCooldown: {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 143,
+        "description": "n/a",
+        "originalText": "grenadier",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 144,
+        "description": "n/a",
+        "originalText": "Reduces the cooldown of fragmentation, high explosive, and incendiary grenades by {0} and special grenades by {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 145,
+        "description": "n/a",
+        "originalText": "trapexpert",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 146,
+        "description": "n/a",
+        "originalText": "Reduces time required to arm and disarm traps by {0}% and increases the detection difficulty of the traps you set by {1}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 147,
+        "description": "n/a",
+        "originalText": "threepointer-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 148,
+        "description": "n/a",
+        "originalText": "Gives your damage dealing grenades {0}% chance to critically hit. This chance is increased by {1}% for each point in dexterity above {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 149,
+        "description": "n/a",
+        "originalText": "threepointer",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 150,
+        "description": "n/a",
+        "originalText": "Gives your damage dealing grenades {0}% chance to critically hit. This chance is increased by {1}% for each 10 points in throwing skill above {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 151,
+        "description": "n/a",
+        "originalText": "vileweaponry",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 152,
+        "description": "n/a",
+        "originalText": "Whenever you cause a bleeding wound with a cold weapon, armor enhancement or trap you also apply infected wound which increases the damage taken from all sources by {0}% and reduces healing effects by {1}%. Stacks {2} times.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 153,
+        "description": "n/a",
+        "originalText": "exposeweakness",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 154,
+        "description": "n/a",
+        "originalText": "You can perform a special melee attack that deals normal damage and reduces target's mechanical resistance and threshold by {0}% for {1} if it lands.\r\n\r\nCooldown: {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 155,
+        "description": "n/a",
+        "originalText": "steadfastaim",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 156,
+        "description": "n/a",
+        "originalText": "Increases critical hit chance with a pistol by {0}% for each base action point required to fire it above {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 157,
+        "description": "n/a",
+        "originalText": "specops",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 158,
+        "description": "n/a",
+        "originalText": "Reduces action point cost modifier for burst attack from {0}% to {1}% when using SMGs. Also reduces cooldown of flashbangs and similar tactical grenades by {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 159,
+        "description": "n/a",
+        "originalText": "suppressivefire",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 160,
+        "description": "n/a",
+        "originalText": "Enemies caught in your assault rifle or SMG burst attack cone (regardless of whether they've been shot) have their ranged chance to hit reduced by {0}%, action points reduced by {1} and movement points reduced by {2} for {3}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 161,
+        "description": "n/a",
+        "originalText": "suppressivefire-xpbl",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 162,
+        "description": "n/a",
+        "originalText": "Enemies caught in your assault rifle, SMG or shotgun burst attack cone (regardless of whether they've been shot) have their ranged chance to hit reduced by {0}%, action points reduced by {1} and movement points reduced by {2} for {3}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 163,
+        "description": "n/a",
+        "originalText": "quicktinkering-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 164,
+        "description": "n/a",
+        "originalText": "Grants you an ability that when activated will allow you to arm your next trap instantly, even in combat in which case it will cost no action points.\r\n\r\nCooldown: {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 165,
+        "description": "n/a",
+        "originalText": "quicktinkering",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 166,
+        "description": "n/a",
+        "originalText": "Grants you an ability that when activated will allow you to arm your next trap instantly, even in combat in which case it will cost {0} action points.\r\n\r\nCooldown: {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 167,
+        "description": "n/a",
+        "originalText": "fancyfootwork",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 168,
+        "description": "n/a",
+        "originalText": "When you land a melee attack you gain up to {0} movement points, depending on your armor penalty. This cannot raise your movement points beyond twice your normal maximum.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 169,
+        "description": "n/a",
+        "originalText": "tasteforblood-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 170,
+        "description": "n/a",
+        "originalText": "Whenever you attack a bleeding target with a melee weapon or an unarmed attack, you increase your melee damage by {0}% and reduce action point cost of melee weapons by {1} for each bleeding wound the target has. This can stack up to {2} times. Killing blows against living targets will also grant a single stack regardless of the number of bleeding wounds.\r\n\r\nExpires after {3} if not refreshed.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 171,
+        "description": "n/a",
+        "originalText": "tasteforblood",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 172,
+        "description": "n/a",
+        "originalText": "Whenever you attack a bleeding target with a melee weapon, you increase your melee damage by {0}% for each bleeding wound the target has. This can stack up to {1} times. Killing blows against living targets will also grant a single stack regardless of the number of bleeding wounds.\r\n\r\nExpires after {2} if not refreshed.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 173,
+        "description": "n/a",
+        "originalText": "eviscerate",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 174,
+        "description": "n/a",
+        "originalText": "Grants you a special knife attack that removes all bleeding wounds from the target and deals {0}% bonus damage for each bleeding wound removed. \r\n\r\nCooldown: {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 175,
+        "description": "n/a",
+        "originalText": "hypertoxicity",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 176,
+        "description": "n/a",
+        "originalText": "Increases damage done by poisons you apply by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 177,
+        "description": "n/a",
+        "originalText": "hunter",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 178,
+        "description": "n/a",
+        "originalText": "Increases damage dealt to critters with crossbows and knives by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 179,
+        "description": "n/a",
+        "originalText": "hunter-xpbl",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 180,
+        "description": "n/a",
+        "originalText": "Increases damage dealt to critters with crossbows, knives and spears by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 181,
+        "description": "n/a",
+        "originalText": "wrestling",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 182,
+        "description": "n/a",
+        "originalText": "When you strike a living target with fist weapon or unarmed attack you have {0}% chance to reduce target's movement points by {1}, action points by {2} and chance to hit with all ranged weapons by {3}%. Stacks {4} times.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 183,
+        "description": "n/a",
+        "originalText": "combo",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 184,
+        "description": "n/a",
+        "originalText": "If you land three consecutive damage dealing unarmed or fist weapon attacks against a single target in a single turn, the third attack will deal {0}% bonus damage and have {1}% chance to stun the target for {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 185,
+        "description": "n/a",
+        "originalText": "packrathound",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 186,
+        "description": "n/a",
+        "originalText": "Increases carry capacity by {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 187,
+        "description": "n/a",
+        "originalText": "laststand-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 188,
+        "description": "n/a",
+        "originalText": "Grants you an ability that when activated will provide your character with additional {0} health immediately and reduce damage taken from all sources by {1}% for {2}. After this effect expires, the character will lose this extra health but this event cannot kill them.\r\n\r\nCooldown: {3}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 189,
+        "description": "n/a",
+        "originalText": "laststand",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 190,
+        "description": "n/a",
+        "originalText": "Grants you an ability that when activated will temporarily reset your health to your maximum for {0}. After the effect expires, your health will be reduced to 1.\r\n\r\nCooldown: {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 191,
+        "description": "n/a",
+        "originalText": "salesman",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 192,
+        "description": "n/a",
+        "originalText": "Increases the amount of goods merchants will buy from you by {0}% per mercantile skill.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 193,
+        "description": "n/a",
+        "originalText": "disassemble",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 194,
+        "description": "n/a",
+        "originalText": "Grants you a blueprint that enables you to disassemble items that are marked as disassemble-able, obtaining the components from which it was constructed. The retreived components have {0}% of the original quality.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 195,
+        "description": "n/a",
+        "originalText": "thickskull",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 196,
+        "description": "n/a",
+        "originalText": "Whenever you should be stunned, you're dazed instead which reduces your action points by {0} and movement points by {1} but still allows you to act.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 197,
+        "description": "n/a",
+        "originalText": "concentratedfire",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 198,
+        "description": "n/a",
+        "originalText": "Each hit from assault rifle burst attack increases the damage from further burst hits by {0}%. Stacks {1} times and lasts until the end of the turn.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 199,
+        "description": "n/a",
+        "originalText": "commando",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 200,
+        "description": "n/a",
+        "originalText": "Killing an opponent using assault rifle or SMG burst attack will grant you an extra free burst attack that can be performed in the same turn. This can only happen once every turn.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 201,
+        "description": "n/a",
+        "originalText": "pinning",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 202,
+        "description": "n/a",
+        "originalText": "Your throwing knives have {0}% chance to pin living targets to the ground for one turn.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 203,
+        "description": "n/a",
+        "originalText": "fatalthrow",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 204,
+        "description": "n/a",
+        "originalText": "Throwing knives always critically hit against targets below {0}% health. Killing a target with a knife throw will refund {1} action points (this can only happen once per turn).",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 205,
+        "description": "n/a",
+        "originalText": "splitspare",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 206,
+        "description": "n/a",
+        "originalText": "When throwing knives you throw an extra one at a nearby target that's within the attack cone.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 207,
+        "description": "n/a",
+        "originalText": "ripper",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 208,
+        "description": "n/a",
+        "originalText": "Critical hit damage with knives and throwing knives increased by {0}% for each {1}% of the target's missing health. Applied multiplicatively to regular critical damage bonus.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 209,
+        "description": "n/a",
+        "originalText": "ripper-xpbl",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 210,
+        "description": "n/a",
+        "originalText": "Critical hit damage with knives, swords and throwing knives increased by {0}% for each {1}% of the target's missing health. Applied multiplicatively to regular critical damage bonus.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 211,
+        "description": "n/a",
+        "originalText": "criticalpower",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 212,
+        "description": "n/a",
+        "originalText": "For each {0}% of weapon or unarmed attack critical damage bonus above {1}%, you gain an additional {2}% critical damage bonus.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 213,
+        "description": "n/a",
+        "originalText": "expertise",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 214,
+        "description": "n/a",
+        "originalText": "Your non-critical crossbow, melee, and bullet-based firearm attacks deal additional mechanical damage equal to your level, up to maximum {0} bonus damage.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 215,
+        "description": "n/a",
+        "originalText": "blitz",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 216,
+        "description": "n/a",
+        "originalText": "Grants you an ability that when invoked will instantly convert all your movement points to action points, granting you 1 action point for each {0} movement points, up to maximum of {1} action points.\r\n\r\nCooldown: {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 217,
+        "description": "n/a",
+        "originalText": "pointshot",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 218,
+        "description": "n/a",
+        "originalText": "Grants you the ability to perform a quick pistol, SMG or assault rifle attack that costs {0}% of the standard action point cost but has reduced precision.\r\n\r\nCooldown: {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 219,
+        "description": "n/a",
+        "originalText": "survivalinstincts",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 220,
+        "description": "n/a",
+        "originalText": "Increases the chance to critically hit with weapons, unarmed attacks and psi abilities by {0}% while under {1}% health.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 221,
+        "description": "n/a",
+        "originalText": "stoicism",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 222,
+        "description": "n/a",
+        "originalText": "You receive {0}% less damage from all sources for each {1}% health missing.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 223,
+        "description": "n/a",
+        "originalText": "juggernaut",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 224,
+        "description": "n/a",
+        "originalText": "Total health increased by {0}% while wearing armor suit with (unmodified) armor penalty of {1}% or higher.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 225,
+        "description": "n/a",
+        "originalText": "fastmetabolism",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 226,
+        "description": "n/a",
+        "originalText": "All healing increased by {0}% and psi boosters restore extra {1} psi.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 227,
+        "description": "n/a",
+        "originalText": "escapeartist",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 228,
+        "description": "n/a",
+        "originalText": "Grants you the ability to remove all immobilization effects.\r\n\r\nCooldown: {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 229,
+        "description": "n/a",
+        "originalText": "rapidfire",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 230,
+        "description": "n/a",
+        "originalText": "Grants you the ability to rapidly fire {0} bullets from firearm pistols, SMGs, and assault rifles at reduced precision for {1}% action point cost of a regular attack.\r\n\r\nCooldown: {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 231,
+        "description": "n/a",
+        "originalText": "heavyweight",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 232,
+        "description": "n/a",
+        "originalText": "You add your total armor penalty to the critical damage bonus of sledgehammer, fist weapon and unarmed attacks.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 233,
+        "description": "n/a",
+        "originalText": "surestep",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 234,
+        "description": "n/a",
+        "originalText": "You can safely navigate caltrops and puddles of acid.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 235,
+        "description": "n/a",
+        "originalText": "superslam",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 236,
+        "description": "n/a",
+        "originalText": "Grants you a special attack with the sledgehammer that does normal damage plus {0}% of attacker's maximum health as additional mechanical damage.\r\n\r\nCooldown: {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 237,
+        "description": "n/a",
+        "originalText": "guard",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 238,
+        "description": "n/a",
+        "originalText": "You have {0}% chance to block melee mechanical damage equal to twice your strength. Does not work if stunned or otherwise fully disabled.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 239,
+        "description": "n/a",
+        "originalText": "deadlysnares",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 240,
+        "description": "n/a",
+        "originalText": "Your crossbow attacks always critically hit against the targets caught in bear traps and acidic entanglements.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 241,
+        "description": "n/a",
+        "originalText": "gunnut",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 242,
+        "description": "n/a",
+        "originalText": "Increases the upper damage range of all firearms you craft by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 243,
+        "description": "n/a",
+        "originalText": "skinner",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 244,
+        "description": "n/a",
+        "originalText": "The quality of leathers counts as if {0}% higher in all your crafts.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 245,
+        "description": "n/a",
+        "originalText": "armorsloping",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 246,
+        "description": "n/a",
+        "originalText": "Reduces the armor penalty originating from metal plates when crafting armor by {0}% (multiplicative).",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 247,
+        "description": "n/a",
+        "originalText": "clothier",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 248,
+        "description": "n/a",
+        "originalText": "The quality of fabrics counts as if {0}% higher in all your crafts.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 249,
+        "description": "n/a",
+        "originalText": "madchemist",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 250,
+        "description": "n/a",
+        "originalText": "On-hit effects of chemical pistols you craft are twice as strong.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 251,
+        "description": "n/a",
+        "originalText": "weaponsmith",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 252,
+        "description": "n/a",
+        "originalText": "Non-fist melee weapons that you craft have {0}% higher critical hit chance.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 253,
+        "description": "n/a",
+        "originalText": "practicalphysicist",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 254,
+        "description": "n/a",
+        "originalText": "Critical damage bonus of energy weapons you craft is increased by {0}% (additive).",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 255,
+        "description": "n/a",
+        "originalText": "ballistics",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 256,
+        "description": "n/a",
+        "originalText": "Carrier vests give additional {0} mechanical damage threshold when used in crafting.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 257,
+        "description": "n/a",
+        "originalText": "neurology",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 258,
+        "description": "n/a",
+        "originalText": "Psi headbands you craft also provide additional {0} maximum psi points.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 259,
+        "description": "n/a",
+        "originalText": "elementalbolts",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 260,
+        "description": "n/a",
+        "originalText": "Increases electrical, acid and heat damage of all special bolts by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 261,
+        "description": "n/a",
+        "originalText": "concussiveshots",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 262,
+        "description": "n/a",
+        "originalText": "When you deal mechanical damage with your crossbow bolts you have {0}% chance to daze living targets, reducing their action points by {1} and movement points by {2} for {3}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 263,
+        "description": "n/a",
+        "originalText": "meditation",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 264,
+        "description": "n/a",
+        "originalText": "Maximum psi points increased by {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 265,
+        "description": "n/a",
+        "originalText": "neuraloverclocking",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 266,
+        "description": "n/a",
+        "originalText": "Critical damage bonus of all psi abilities increased by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 267,
+        "description": "n/a",
+        "originalText": "psionicmania",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 268,
+        "description": "n/a",
+        "originalText": "Grants you an ability that when activated makes your next offensive psi ability an automatic critical hit. Activating this ability will also remove up to {0}% of your maximum health, but cannot kill you.\r\n\r\nCooldown: {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 269,
+        "description": "n/a",
+        "originalText": "telekineticundulation",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 270,
+        "description": "n/a",
+        "originalText": "When you damage a living target by moving your telekinetic proxy, there's {0}% chance it will be dazed for {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 271,
+        "description": "n/a",
+        "originalText": "corporealprojection",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 272,
+        "description": "n/a",
+        "originalText": "All telekinetic damage increased by {0}% for each point of strength above {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 273,
+        "description": "n/a",
+        "originalText": "psychostaticelectricity",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 274,
+        "description": "n/a",
+        "originalText": "When you damage a target with your electrical psionics you apply a debuff that increases the chance for the target to be critically hit by weapon and unarmed attacks and psi abilities by {0}% for {1}. Stacks {2} times.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 275,
+        "description": "n/a",
+        "originalText": "echoingsoliloquy",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 276,
+        "description": "n/a",
+        "originalText": "Slows down the rate at which the unspeakable things penetrate your mind.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 277,
+        "description": "n/a",
+        "originalText": "fisherman",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 278,
+        "description": "n/a",
+        "originalText": "You never fail to reel the catch in.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 279,
+        "description": "n/a",
+        "originalText": "temperedheat",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 280,
+        "description": "n/a",
+        "originalText": "Reduces all heat damage taken by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 281,
+        "description": "n/a",
+        "originalText": "temperedcold",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 282,
+        "description": "n/a",
+        "originalText": "Reduces all cold damage taken by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 283,
+        "description": "n/a",
+        "originalText": "temperedacid",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 284,
+        "description": "n/a",
+        "originalText": "Reduces all acid damage taken by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 285,
+        "description": "n/a",
+        "originalText": "temperedelectricity",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 286,
+        "description": "n/a",
+        "originalText": "Reduces all electrical damage taken by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 287,
+        "description": "n/a",
+        "originalText": "advancedpsiempathy",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 288,
+        "description": "n/a",
+        "originalText": "Base health reduced by additional {0}% (additive to the original penalty) and psi cost of invoking psionic abilities reduced by {1}% (multiplicative).",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 289,
+        "description": "n/a",
+        "originalText": "bodybuilding",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 290,
+        "description": "n/a",
+        "originalText": "Health increased by {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 291,
+        "description": "n/a",
+        "originalText": "improveddodging",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 292,
+        "description": "n/a",
+        "originalText": "Increases the chance you'll dodge a melee attack by {0}% (additive).",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 293,
+        "description": "n/a",
+        "originalText": "improvedevasion",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 294,
+        "description": "n/a",
+        "originalText": "Increases the chance you'll evade a ranged attack by {0}% (additive).",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 295,
+        "description": "n/a",
+        "originalText": "improvedthrowing",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 296,
+        "description": "n/a",
+        "originalText": "Increases throwing precision by {0}% (additive).",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 297,
+        "description": "n/a",
+        "originalText": "serialkiller",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 298,
+        "description": "n/a",
+        "originalText": "Unarmed and weapon damage increased by {0}% against humanoids.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 299,
+        "description": "n/a",
+        "originalText": "monsterslayer",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 300,
+        "description": "n/a",
+        "originalText": "Unarmed and weapon damage increased by {0}% against creatures.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 301,
+        "description": "n/a",
+        "originalText": "decommissioner",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 302,
+        "description": "n/a",
+        "originalText": "Unarmed and weapon damage increased by {0}% against machines.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 303,
+        "description": "n/a",
+        "originalText": "fightresponse",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 304,
+        "description": "n/a",
+        "originalText": "When starting a turn below {0}% of maximum health, your action points are increased by {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 305,
+        "description": "n/a",
+        "originalText": "flightresponse",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 306,
+        "description": "n/a",
+        "originalText": "When starting a turn below {0}% of maximum health, your movement points are increased by up to {1} (depending on your armor penalty).",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 307,
+        "description": "n/a",
+        "originalText": "stuntman",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 308,
+        "description": "n/a",
+        "originalText": "Reduces the damage taken from area of effect attacks by 20% (additive to regular evasion).",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 309,
+        "description": "n/a",
+        "originalText": "bodyweighttraining",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 310,
+        "description": "n/a",
+        "originalText": "Reduces armor penalty by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 311,
+        "description": "n/a",
+        "originalText": "majorsupplier",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 312,
+        "description": "n/a",
+        "originalText": "Increases the amount of money the merchants are willing to use when trading with you by {0}% per mercantile skill.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 313,
+        "description": "n/a",
+        "originalText": "mantra",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 314,
+        "description": "n/a",
+        "originalText": "Increases psi regeneration by {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 315,
+        "description": "n/a",
+        "originalText": "shootingspree",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 316,
+        "description": "n/a",
+        "originalText": "Grants you an ability that when activated will cause your next sniper rifle attack to refund 100% of its action point cost if it kills the target. This will expire at the end of the turn if unused.\r\n\r\nCooldown: {1}.\r\n\r\nAlso, killing a target with a sniper rifle reduces the cooldown of Shooting Spree and Aimed Shot by {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 317,
+        "description": "n/a",
+        "originalText": "shootingspree-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 318,
+        "description": "n/a",
+        "originalText": "Killing a target with a sniper rifle reduces the cooldown of Aimed Shot by {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 319,
+        "description": "n/a",
+        "originalText": "strafe",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 320,
+        "description": "n/a",
+        "originalText": "Reduces move and shoot penalty by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 321,
+        "description": "n/a",
+        "originalText": "bowyer",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 322,
+        "description": "n/a",
+        "originalText": "Crossbows that you craft have their critical damage bonus increased by {0}% (additive).",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 323,
+        "description": "n/a",
+        "originalText": "brutality",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 324,
+        "description": "n/a",
+        "originalText": "When you kill a target with a melee attack, there's a {0}% chance to instill fear in each nearby enemy for {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 325,
+        "description": "n/a",
+        "originalText": "shieldarm",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 326,
+        "description": "n/a",
+        "originalText": "Increases the chance to block with shields by {0}% (additive) and the amount blocked by {1}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 327,
+        "description": "n/a",
+        "originalText": "triggerhappy",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 328,
+        "description": "n/a",
+        "originalText": "Initiative increased by {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 329,
+        "description": "n/a",
+        "originalText": "hemopsychosis",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 330,
+        "description": "n/a",
+        "originalText": "Grants you an ability that when activated will make all your psi abilities cost health instead of psi until the end of the turn.\r\n\r\nCooldown: {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 331,
+        "description": "n/a",
+        "originalText": "blindsiding",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 332,
+        "description": "n/a",
+        "originalText": "Increases unarmed and weapon attack damage by {0}% while in stealth and one turn after exiting stealth.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 333,
+        "description": "n/a",
+        "originalText": "continuumripple",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 334,
+        "description": "n/a",
+        "originalText": "When your temporal distortion triggers, it has {0}% chance to be applied to each nearby enemy. Distortions that came about in this way can now themselves trigger further distortions.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 335,
+        "description": "n/a",
+        "originalText": "psychotemporalacceleration",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 336,
+        "description": "n/a",
+        "originalText": "Increases action point modification of all psycho-temporal effects by {0} and increases their duration by {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 337,
+        "description": "n/a",
+        "originalText": "futureorientation",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 338,
+        "description": "n/a",
+        "originalText": "Reduces cooldowns of all temporal manipulation psi abilities that have cooldown by {0}, and increases action point cost for those psi abilities by {1}, providing they have action point cost.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 339,
+        "description": "n/a",
+        "originalText": "fend",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 340,
+        "description": "n/a",
+        "originalText": "Grants you an ability to immediately gain Spear Guard that can block {0}% more damage than normal for {1}% of the action point cost of a regular attack.\r\n\r\nCooldown: {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 341,
+        "description": "n/a",
+        "originalText": "spearguardian",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 342,
+        "description": "n/a",
+        "originalText": "Increases the block chance of Spear Guard by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 343,
+        "description": "n/a",
+        "originalText": "impale",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 344,
+        "description": "n/a",
+        "originalText": "Grants you a special attack with the spear that automatically critically hits if it lands.\r\n\r\nCooldown: {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 345,
+        "description": "n/a",
+        "originalText": "flurry",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 346,
+        "description": "n/a",
+        "originalText": "Grants you an ability to launch {0} consecutive attacks with a sword. Each attack reduces the action point cost of further Flurry activations by {1} action points (this stacks {2} times) until the end of next turn. \r\n\r\nIf any of the attacks misses or deals no damage, the flurry will stop and be put on cooldown for {3} and the cost reduction will be removed.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 347,
+        "description": "n/a",
+        "originalText": "flurry-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 348,
+        "description": "n/a",
+        "originalText": "Grants you an ability to launch {0} consecutive attacks with a sword with reduced precision. Each attack reduces the action point cost of further Flurry activations by {1} action points (this stacks {2} times) until the end of next turn. \r\n\r\nIf any of the attacks misses or deals no damage, the flurry will stop and be put on cooldown for {3} and the cost reduction will be removed.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 349,
+        "description": "n/a",
+        "originalText": "spearthrow",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 350,
+        "description": "n/a",
+        "originalText": "Grants you the ability to throw a spear at the target, dealing {0}%, plus additional {1}% per unit of range, of normal weapon damage. The precision of this attack is dependent on throwing skill. Costs {2} action points.\r\n\r\nCooldown: {3}.\r\n\r\nYou will usually be able to retrieve the thrown spear afterwards, as it lands nearby the target, at no action point cost.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 351,
+        "description": "n/a",
+        "originalText": "onslaught",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 352,
+        "description": "n/a",
+        "originalText": "Your successful sword attacks increase the damage of further sword attacks by {0}% for {1}. Stacks {2} times. This bonus will be removed if a sword attack misses or does no damage.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 353,
+        "description": "n/a",
+        "originalText": "decapitate",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 354,
+        "description": "n/a",
+        "originalText": "Grants you a special sword attack that deals {0}% of normal weapon damage and can instantly kill a living target if it deals more than {1}% of its remaining health (providing the target has an exposed head).\r\n\r\nCooldown: {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 355,
+        "description": "n/a",
+        "originalText": "riposte",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 356,
+        "description": "n/a",
+        "originalText": "When you block any damage while holding a sword, you can perform a special sword attack with increased chance to hit that deals normal weapon damage at no action point cost.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 357,
+        "description": "n/a",
+        "originalText": "leadingshot",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 358,
+        "description": "n/a",
+        "originalText": "Your shotgun attacks ignore {0}% of target's evasion as long as there are no enemies in melee range to disrupt you.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 359,
+        "description": "n/a",
+        "originalText": "barrelstare",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 360,
+        "description": "n/a",
+        "originalText": "Increases the damage done by your shotgun attacks to targets at close (near-melee) range by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 361,
+        "description": "n/a",
+        "originalText": "perfectscattering",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 362,
+        "description": "n/a",
+        "originalText": "Each shotgun pellet you fire does additional {0} to {1} points of mechanical damage.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 363,
+        "description": "n/a",
+        "originalText": "fragmentedchaos",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 364,
+        "description": "n/a",
+        "originalText": "Increases critical damage bonus of your shotgun attacks by {0}% divided by number of pellets fired.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 365,
+        "description": "n/a",
+        "originalText": "pelletmayhem",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 366,
+        "description": "n/a",
+        "originalText": "Your shotgun attacks grant you additional {0}% critical chance for each target you hit for the next shotgun shot.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 367,
+        "description": "n/a",
+        "originalText": "philosophy1",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 368,
+        "description": "n/a",
+        "originalText": "Dipping your feet into philosophy has given you a fresh outlook on life.\r\n\r\nIncreases resolve by {0} and maximum psi points by {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 369,
+        "description": "n/a",
+        "originalText": "philosophy2",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 370,
+        "description": "n/a",
+        "originalText": "You might not be a fully trained philosopher, but you have a good grasp of the essentials.\r\n\r\nIncreases resolve by {0} and maximum psi points by {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 371,
+        "description": "n/a",
+        "originalText": "philosophy3",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 372,
+        "description": "n/a",
+        "originalText": "You are starting to put the pieces together... There might yet be some meaning behind this wretched existence.\r\n\r\nIncreases resolve by {0} and maximum psi points by {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 373,
+        "description": "n/a",
+        "originalText": "hightechnicalities",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 374,
+        "description": "n/a",
+        "originalText": "Increases damage done by energy pistols by {0}% for each intelligence point above {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 375,
+        "description": "n/a",
+        "originalText": "parry",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 376,
+        "description": "n/a",
+        "originalText": "While holding a sword or a knife, the character has {0}% plus {1}% per point of dexterity above {2} chance to block a melee attack. The amount blocked is equal to the average base mechanical damage of the current weapon in case of swords and twice that for knives.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 377,
+        "description": "n/a",
+        "originalText": "navalcombat",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 378,
+        "description": "n/a",
+        "originalText": "Increases effective stability by {0}% and maneuverability by {1}% when piloting jet skis. Reduces action point cost of disembarking by {2}. Also increases precision of mounted jet ski weapons for those unproficient with guns.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 379,
+        "description": "n/a",
+        "originalText": "improvednavalcombat",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 380,
+        "description": "n/a",
+        "originalText": "Further increases effective stability by {0}% and maneuverability by {1}% when piloting jet skis. Further reduces action point cost of disembarking by {2}. Also increases precision of mounted jet ski weapons for those unproficient with guns.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 381,
+        "description": "n/a",
+        "originalText": "jetandjab",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 382,
+        "description": "n/a",
+        "originalText": "Removes the additional {0}% precision penalty with knife, fist weapon and unarmed attacks when riding jet skis.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 383,
+        "description": "n/a",
+        "originalText": "navaljousting",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 384,
+        "description": "n/a",
+        "originalText": "Increases damage with spears when riding jet skis by 30%",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 385,
+        "description": "n/a",
+        "originalText": "seadog",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 386,
+        "description": "n/a",
+        "originalText": "Increases unarmed and weapon damage by {0}% and effective stability and maneuverability by {1}% when attacking from a jet ski.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 387,
+        "description": "n/a",
+        "originalText": "versatility",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 388,
+        "description": "n/a",
+        "originalText": "Your effective Guns, Crossbows and Melee skill value is brought up to {0}% of the effective value of the highest of those skills.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 389,
+        "description": "n/a",
+        "originalText": "scrutinous",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 390,
+        "description": "n/a",
+        "originalText": "Increases critical chance of unarmed and weapon attacks by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 391,
+        "description": "n/a",
+        "originalText": "expertsprint",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 392,
+        "description": "n/a",
+        "originalText": "Sprint now also grants you {0} action points.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 393,
+        "description": "n/a",
+        "originalText": "increasedbaseability",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 394,
+        "description": "n/a",
+        "originalText": "{0} increased by {1}. This feat increases the base value of {2} and will count towards other feat requirements.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 395,
+        "description": "n/a",
+        "originalText": "strider",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 396,
+        "description": "n/a",
+        "originalText": "Increase unstealthed movement points by {0} and out of combat unstealthed movement speed by {1}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 397,
+        "description": "n/a",
+        "originalText": "ironwill",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 398,
+        "description": "n/a",
+        "originalText": "Increases resolve by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 399,
+        "description": "n/a",
+        "originalText": "improvedunarmedcombat",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 400,
+        "description": "n/a",
+        "originalText": "Increases unarmed damage by {0}% and gives your unarmed attack {1}% chance to daze the target for {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 401,
+        "description": "n/a",
+        "originalText": "expertunarmedcombat",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 402,
+        "description": "n/a",
+        "originalText": "Further increases unarmed damage by {0}% and gives your unarmed attack {1}% chance to stun the organic target target for {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 403,
+        "description": "n/a",
+        "originalText": "empoweredinvocation",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 404,
+        "description": "n/a",
+        "originalText": "Grants you the empowered invocation ability that increases the {0} skill by {1}% until the end of the turn, but drains away all the remaining psi points afterwards.\r\n\r\nCooldown: {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 405,
+        "description": "n/a",
+        "originalText": "shieldbash",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 406,
+        "description": "n/a",
+        "originalText": "Grants you a melee attack that deals mechanical damage equal to {0}%-{1}% of the amount blocked by the carried riot shield and dazes the target for {2}.\r\n\r\nCooldown: {3}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 407,
+        "description": "n/a",
+        "originalText": "boardingup",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 408,
+        "description": "n/a",
+        "originalText": "Landing a melee attack while wearing a riot shield increases the amount blocked by the riot shield by {0}% for {1}. Stacks up to {2} times.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 409,
+        "description": "n/a",
+        "originalText": "sweep",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 410,
+        "description": "n/a",
+        "originalText": "Grants you a special spear attack with deals {0}% of normal weapon damage to all enemies adjacent to you and puts living targets off balance for {1} if they are hit.\r\n\r\nOff-balanced characters have their dodge and evasion reduced to zero.\r\n\r\nCooldown: {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 411,
+        "description": "n/a",
+        "originalText": "bodyhorror",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 412,
+        "description": "n/a",
+        "originalText": "After what you have seen, you'll never look at the fleshly form the same again.\r\n\r\nCritical hit chance with weapons and unarmed attacks against humanoids and non-insectoid critters increased by {0}%. Resolve reduced by {1}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 413,
+        "description": "n/a",
+        "originalText": "outervisions",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 414,
+        "description": "n/a",
+        "originalText": "You've seen the wonderous possibilities of the Outer Expanses, both the beautiful and the abominable, and you're now less inclined to believe in the necessity of the limits of this particular physical world.\r\n\r\nRange of all psi abilities increased by {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 415,
+        "description": "n/a",
+        "originalText": "irongrip",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 416,
+        "description": "n/a",
+        "originalText": "Allows you to wield spears in one hand when wearing a suit of armor with a riot shield, but at {0}% penalty to weapon damage.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 417,
+        "description": "n/a",
+        "originalText": "sixthshell",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 418,
+        "description": "n/a",
+        "originalText": "Each shotgun shot will grant {0}% bonus damage to shotgun attacks. When stacked up to 5, this damage bonus will change to {1}% and after the sixth attack the bonus will reset.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 419,
+        "description": "n/a",
+        "originalText": "forcefullinnervation",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 420,
+        "description": "n/a",
+        "originalText": "You conditioned your mind for psionic powers the raw way and it left its mark on you. You use your Will base ability instead of Intelligence to determine the number of psi slots, but your max psi points are reduced by {0}.\r\n\r\nYou obtained the rare golden pill that might undo this, but you are not sure if you should use it.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 421,
+        "description": "n/a",
+        "originalText": "psychoneuraloptimization",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 422,
+        "description": "n/a",
+        "originalText": "While having only one psi school innervated, the psi cost of all abilities is reduced by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 423,
+        "description": "n/a",
+        "originalText": "psychoneuralflexibility",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 424,
+        "description": "n/a",
+        "originalText": "One psi school is ignored when determining the multi-school innervation psi cost penalty.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 425,
+        "description": "n/a",
+        "originalText": "expandedpsicapacitance",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 426,
+        "description": "n/a",
+        "originalText": "Psi reserves increased by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 427,
+        "description": "n/a",
+        "originalText": "tattooprotectorate",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 428,
+        "description": "n/a",
+        "originalText": "At ease, Corporal.\r\n\r\nIncreases health by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 429,
+        "description": "n/a",
+        "originalText": "tattoojkk",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 430,
+        "description": "n/a",
+        "originalText": "You are one tactful operative.\r\n\r\nIncreases persuasion skill by {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 431,
+        "description": "n/a",
+        "originalText": "tattooanarchy",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 432,
+        "description": "n/a",
+        "originalText": "You bow to no authority.\r\n\r\nIncreases chance to critically hit with weapon and unarmed attacks by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 433,
+        "description": "n/a",
+        "originalText": "tattoocoretech",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 434,
+        "description": "n/a",
+        "originalText": "State-of-the-art equipment amounts to a state-of-the-art agent.\r\n\r\nIncreases mechanics and electronics skills by {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 435,
+        "description": "n/a",
+        "originalText": "tattoopraetoriansecurity",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 436,
+        "description": "n/a",
+        "originalText": "Order through strength.\r\n\r\nDecreases chance to get critically hit by weapon and unarmed attacks by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 437,
+        "description": "n/a",
+        "originalText": "tattooaegisincorporated",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 438,
+        "description": "n/a",
+        "originalText": "You will go anywhere, provided it be forward.\r\n\r\nIncreases all offensive skills by {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 439,
+        "description": "n/a",
+        "originalText": "tattoomagnarghost",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 440,
+        "description": "n/a",
+        "originalText": "The king is dead, long live the king!\r\n\r\nIncreases dodge and evasion by {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 441,
+        "description": "n/a",
+        "originalText": "tattooshadowlith",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 442,
+        "description": "n/a",
+        "originalText": "The monoliths malicious influence has been removed, but not from your skin.\r\n\r\nIncreases psi regeneration by {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 443,
+        "description": "n/a",
+        "originalText": "tattoothebeast",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 444,
+        "description": "n/a",
+        "originalText": "To be Man is to fight monsters.\r\n\r\nUnarmed and weapon damage increased by {0}% against creatures.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 445,
+        "description": "n/a",
+        "originalText": "tattootchort",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 446,
+        "description": "n/a",
+        "originalText": "Whether it was a monster or a god, it's dead now.\r\n\r\nIncreases resolve by {0}%, but reduces detection by {1}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 447,
+        "description": "n/a",
+        "originalText": "tattootchortinstitute",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 448,
+        "description": "n/a",
+        "originalText": "Tchort is evolution. Evolution is Tchort.\r\n\r\nIncreases biology and chemistry skills by {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 449,
+        "description": "n/a",
+        "originalText": "tattoobalorseye",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 450,
+        "description": "n/a",
+        "originalText": "The only thing this electric eye couldn't see is Balor's untimely demise.\r\n\r\nIncreases detection by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 451,
+        "description": "n/a",
+        "originalText": "tattoosgs",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 452,
+        "description": "n/a",
+        "originalText": "There's no station like home station.\r\n\r\nIncreases all skills by {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 453,
+        "description": "n/a",
+        "originalText": "tattoopirate",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 454,
+        "description": "n/a",
+        "originalText": "Sometimes you just have to hoist the black flag and start slitting throats.\r\n\r\nIncreases all offensive and defensive skills by {0}% while riding a jet ski.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 455,
+        "description": "n/a",
+        "originalText": "tattoodrifter",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 456,
+        "description": "n/a",
+        "originalText": "You can't seem to settle anywhere. Just as soon as you get involved with a faction or a place, something urges you to move on.\r\n\r\nIncreases movement speed by {0}% and movement points by {1} when not in stealth.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 457,
+        "description": "n/a",
+        "originalText": "tattoojeteater",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 458,
+        "description": "n/a",
+        "originalText": "The caustic stench of the vile fluid is ever with you and your skin tingles with memories of pain.\r\n\r\nIncreases acid damage threshold by {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 459,
+        "description": "n/a",
+        "originalText": "tattoofatso",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 460,
+        "description": "n/a",
+        "originalText": "Eat and drink your fill. Gorge yourself on the cave's bounty. Become large.\r\n\r\nDuration of food items increased by {0} minutes.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 461,
+        "description": "n/a",
+        "originalText": "tattooblackcrawler",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 462,
+        "description": "n/a",
+        "originalText": "You can still make out its large red eyes if you stare into the darkest corners of Underrail long enough.\r\n\r\nStealth increased by {0}% of base value.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 463,
+        "description": "n/a",
+        "originalText": "tattooabomination",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 464,
+        "description": "n/a",
+        "originalText": "Life force - primordial, lasting, potent - twisted into a gruesome form.\r\n\r\nChanges the health percentage above which you receive natural regeneration to {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 465,
+        "description": "n/a",
+        "originalText": "monstrousyell",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 466,
+        "description": "n/a",
+        "originalText": "Your Yell makes such a disturbing sound that it also has {0}% chance to to instill fear for {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 467,
+        "description": "n/a",
+        "originalText": "cohesivemucusglands",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 468,
+        "description": "n/a",
+        "originalText": "Allows you to spit acid blobs that damage and entangle your targets.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 469,
+        "description": "n/a",
+        "originalText": "gunfu",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 470,
+        "description": "n/a",
+        "originalText": "When attacking with firearm pistols in melee range, your effective attack skill is increased by {0}% of your unmodified melee skill for all purposes, including the damage done.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 471,
+        "description": "n/a",
+        "originalText": "bullettime",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 472,
+        "description": "n/a",
+        "originalText": "When activated, reduces action point cost of firing firearm pistols by {0}% until the end of the turn. \r\n\r\nCannot reduce the action point cost below the hard minimum.\r\n\r\nCooldown: {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 473,
+        "description": "n/a",
+        "originalText": "remotesurgeon",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 474,
+        "description": "n/a",
+        "originalText": "Increases the unresisted damage modifier of throwing knives by additional {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 475,
+        "description": "n/a",
+        "originalText": "psychokineticelasticity",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 476,
+        "description": "n/a",
+        "originalText": "Increases the range of your telekinetic psi abilities, and also the number of links in psychokinetic chains you produce, by one.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 477,
+        "description": "n/a",
+        "originalText": "beyondcold",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 478,
+        "description": "n/a",
+        "originalText": "You've experienced that terrible feeling that lies on the other side of extreme cold, at the threshold of complete stillness, where the living body is drained of all energy.\r\n\r\nWhen chilled or frozen, you will gain a buff that will increase your will by {4}, reduce all the cold damage taken by {0}% and all the mechanical damage taken by {1}%, and make you immune to further chilling or freezing for {2}. This can occur only once every {3}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 479,
+        "description": "n/a",
+        "originalText": "motioner",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 480,
+        "description": "n/a",
+        "originalText": "You abused this dangerous substance one too many times and now your brain has suffered long-term damage.\r\n\r\nYour intelligence is reduced by {0} and you occasionally suffer worse acute effects.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 481,
+        "description": "n/a",
+        "originalText": "shoemaker",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 482,
+        "description": "n/a",
+        "originalText": "The quality of leather counts as if {0}% higher when crafting leather boots.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 483,
+        "description": "n/a",
+        "originalText": "finetuned",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 484,
+        "description": "n/a",
+        "originalText": "You're starting to develop an ear for the subtle differences in sound. In a world comprised largely of dark caves and metro tunnels, this is no small a boon.\r\n\r\nDetection increased by {0}%.",
+        "translatedText": ""
+    }
+]

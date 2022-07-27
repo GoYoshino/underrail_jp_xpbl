@@ -1,0 +1,1122 @@
+[
+    {
+        "className": "KI",
+        "objectId": 3,
+        "description": "n/a",
+        "originalText": "autoattack",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 4,
+        "description": "n/a",
+        "originalText": "Attacks the target with the currently equipped weapon.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 5,
+        "description": "n/a",
+        "originalText": "autoattack-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 6,
+        "description": "n/a",
+        "originalText": "Starts automatically attacking the target with the currently equipped weapon.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 7,
+        "description": "n/a",
+        "originalText": "aimedshot",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 8,
+        "description": "n/a",
+        "originalText": "An aimed attack with any single-target ranged weapon that guarantees a critical hit.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 9,
+        "description": "n/a",
+        "originalText": "snipe",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 10,
+        "description": "n/a",
+        "originalText": "A special attack with a crossbow or sniper rifle that deals {0}% damage (scales with stealth skill). Can only be used in stealth. This attack cannot critically hit.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 11,
+        "description": "n/a",
+        "originalText": "kcs",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 12,
+        "description": "n/a",
+        "originalText": "Deals normal weapon damage and inflicts a bleeding wound that deals additional {0}% damage (scales with perception) over {1} and removes all movement points from the target (target can still move using action points).\r\n\r\nCan only be performed with a pistol, crossbow or SMG.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 13,
+        "description": "n/a",
+        "originalText": "kcs-xpbl",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 14,
+        "description": "n/a",
+        "originalText": "Deals normal weapon damage and inflicts a bleeding wound that deals additional {0}% damage (scales with perception) over {1} and removes all movement points from the target (target can still move using action points).\r\n\r\nCan only be performed with a pistol, crossbow, SMG or shotgun.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 15,
+        "description": "n/a",
+        "originalText": "kcs-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 16,
+        "description": "n/a",
+        "originalText": "Deals normal weapon damage and inflicts a bleeding wound that deals additional {0}% damage over {1} seconds and reduces target's speed by up to {2}%.\r\n\r\nCan only be performed with a pistol, crossbow or SMG. Only works on living targets (that have knees).",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 17,
+        "description": "n/a",
+        "originalText": "burst-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 18,
+        "description": "n/a",
+        "originalText": "Rapidly fires five bullets at reduced precision. This attack also has chance to miss the primary target and hit other characters in the line of fire instead. This chance increases with range.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 19,
+        "description": "n/a",
+        "originalText": "burst",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 20,
+        "description": "n/a",
+        "originalText": "Rapidly fires {0} bullets with reduced precision. This attack also has a chance to miss the primary target, possibly hitting other characters in the line of fire instead. This chance increases with range. This is an unconditional special attack.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 21,
+        "description": "n/a",
+        "originalText": "shotgunburst",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 22,
+        "description": "n/a",
+        "originalText": "Rapidly fires {0} shells with reduced precision. This is an unconditional special attack.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 23,
+        "description": "n/a",
+        "originalText": "pistolburst",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 24,
+        "description": "n/a",
+        "originalText": "Rapidly fires {0} bullets with reduced precision. This is an unconditional special attack.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 25,
+        "description": "n/a",
+        "originalText": "rapidfire",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 26,
+        "description": "n/a",
+        "originalText": "Rapidly fires {0} bullets with reduced precision.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 27,
+        "description": "n/a",
+        "originalText": "burrowerpoisonitemeffect_applied",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 28,
+        "description": "n/a",
+        "originalText": "If the attack penetrates the armor, burrower poison is applied that deals {0} damage every turn for up to {1} turns. Stacks {2} times.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 29,
+        "description": "n/a",
+        "originalText": "burrowerpoisonitemeffect_cap",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 30,
+        "description": "n/a",
+        "originalText": "Applies {0} of burrower poison to a suitable melee weapon that deals {1} damage every turn for up to {2} turns. Stacks {3} times.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 31,
+        "description": "n/a",
+        "originalText": "shootpoisonbolt",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 32,
+        "description": "n/a",
+        "originalText": "Shoots this bolt from a crossbow dealing normal bolt damage and afflicting the target with {0} that deals {1} damage every turn for up to {2} turns.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 33,
+        "description": "n/a",
+        "originalText": "shootpoisonboltstackable",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 34,
+        "description": "n/a",
+        "originalText": "Shoots this bolt from a crossbow dealing normal bolt damage and afflicting the target with {0} that deals {1} damage every turn for up to {2} turns. Stacks {3} times.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 35,
+        "description": "n/a",
+        "originalText": "caveearpoisonitemeffect_applied",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 36,
+        "description": "n/a",
+        "originalText": "If the attack penetrates the armor, cave ear poison is applied which increases all biological damage taken by {0}% and reduces perception by {1} for up to {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 37,
+        "description": "n/a",
+        "originalText": "caveearpoisonitemeffect_cap",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 38,
+        "description": "n/a",
+        "originalText": "Applies {0} of cave ear poison to a suitable melee weapon which increases all biological damage taken by {1}% and reduces perception by {2} for up to {3}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 39,
+        "description": "n/a",
+        "originalText": "shootcaveearpoisonbolt",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 40,
+        "description": "n/a",
+        "originalText": "Shoots this bolt from a crossbow dealing normal bolt damage and afflicting the target with poison that increases all biological damage taken by {0}% and reduces perception by {1}. Lasts up to {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 41,
+        "description": "n/a",
+        "originalText": "spiritpoisonitemeffect_applied",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 42,
+        "description": "n/a",
+        "originalText": "If the attack penetrates the armor, spirit poison is applied which deals {0} damage per turn for {1} and reduces resolve by {2}%. If the poison is not removed before it expires it will summon a psionic doppelganger of the victim if it's humanoid.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 43,
+        "description": "n/a",
+        "originalText": "spiritpoisonitemeffect_cap",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 44,
+        "description": "n/a",
+        "originalText": "Applies {0} of spirit poison to a suitable melee weapon which deals {1} damage per turn for {2} and reduces resolve by {3}%. If the poison is not removed before it expires it will summon a psionic doppelganger of the victim if it's humanoid.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 45,
+        "description": "n/a",
+        "originalText": "shootspiritpoisonbolt",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 46,
+        "description": "n/a",
+        "originalText": "Shoots this bolt from a crossbow dealing normal bolt damage and afflicting the target with poison that deals {0} damage per turn each turn for {1} and reduces resolve by {2}%. If the poison is not removed before it expires it will summon a psionic doppelganger of the victim if it's humanoid.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 47,
+        "description": "n/a",
+        "originalText": "blackdragonpoisonitemeffect_applied",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 48,
+        "description": "n/a",
+        "originalText": "If the attack penetrates the armor, black dragon poison is applied which causes psionic inhibition, preventing the victim from invoking psi abilities and regenerating psi points for {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 49,
+        "description": "n/a",
+        "originalText": "blackdragonpoisonitemeffect_cap",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 50,
+        "description": "n/a",
+        "originalText": "Applies {0} of black dragon poison to a suitable melee weapon which causes psionic inhibition, preventing the victim from invoking psi abilities and regenerating psi points for {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 51,
+        "description": "n/a",
+        "originalText": "shootblackdragonpoisonbolt",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 52,
+        "description": "n/a",
+        "originalText": "Shoots this bolt from a crossbow dealing normal bolt damage and afflicting the target with poison that causes psionic inhibition, which prevents the victim from invoking psi abilities and regenerating psi points. Lasts {0}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 53,
+        "description": "n/a",
+        "originalText": "blindingpoisonitemeffect_applied",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 54,
+        "description": "n/a",
+        "originalText": "If the attack penetrates the armor, blinding poison is applied which deals {0} damage per turn for up to {1} and reduces percetion by {2}. Stacks {3} times.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 55,
+        "description": "n/a",
+        "originalText": "blindingpoisonitemeffect_cap",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 56,
+        "description": "n/a",
+        "originalText": "Applies {0} of blinding poison to a suitable melee weapon which deals {1} damage per turn for up to {2} and reduces perception by {3}. Stacks {4} times.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 57,
+        "description": "n/a",
+        "originalText": "shootblindingpoisonbolt",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 58,
+        "description": "n/a",
+        "originalText": "Shoots this bolt from a crossbow dealing normal bolt damage and afflicting the target with poison that deals {0} damage per turn each turn for up to {1} and reduces perception by {2}. Stacks {3} times.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 59,
+        "description": "n/a",
+        "originalText": "leperpoisonitemeffect_applied",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 60,
+        "description": "n/a",
+        "originalText": "If the attack penetrates the armor, leper poison is applied which deals {0} damage per turn for up to {1} and increases all mechanical damage taken by {2}%. Stacks {3} times.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 61,
+        "description": "n/a",
+        "originalText": "leperpoisonitemeffect_cap",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 62,
+        "description": "n/a",
+        "originalText": "Applies {0} of leper poison to a suitable melee weapon which deals {1} damage per turn for up to {2} and increases all mechanical damage taken by {3}%. Stacks {4} times.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 63,
+        "description": "n/a",
+        "originalText": "shootleperpoisonbolt",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 64,
+        "description": "n/a",
+        "originalText": "Shoots this bolt from a crossbow dealing normal bolt damage and afflicting the target with poison that deals {0} damage per turn each turn for up to {1} and increases all mechanical damage taken by {2}%. Stacks {3} times.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 65,
+        "description": "n/a",
+        "originalText": "heartbreakpoisonitemeffect_applied",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 66,
+        "description": "n/a",
+        "originalText": "If the attack penetrates the armor, heartbreak poison is applied which deals {0} damage per turn for {1}. Stacks {2} times. If this poison is allowed the expire naturally it will then deal a great amount of damage which increases ever more rapidly with each stack.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 67,
+        "description": "n/a",
+        "originalText": "heartbreakpoisonitemeffect_cap",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 68,
+        "description": "n/a",
+        "originalText": "Applies {0} of heartbreak poison to a suitable melee weapon which deals {1} damage per turn for {2}. Stacks {3} times. If this poison is allowed the expire naturally it will then deal a great amount of damage which increases ever more rapidly with each stack.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 69,
+        "description": "n/a",
+        "originalText": "shootheartbreakpoisonbolt",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 70,
+        "description": "n/a",
+        "originalText": "Shoots this bolt from a crossbow dealing normal bolt damage and afflicting the target with poison that deals {0} damage per turn each turn for {1}. Stacks {2} times. If this poison is allowed the expire naturally it will then deal a great amount of damage which increases ever more rapidly with each stack.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 71,
+        "description": "n/a",
+        "originalText": "crawlerpoisonitemeffect_applied",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 72,
+        "description": "n/a",
+        "originalText": "If the attack penetrates the armor, crawler poison is applied which deals {0} damage per turn for {1}. If the poison is not removed before it expires it will stun the victim for {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 73,
+        "description": "n/a",
+        "originalText": "crawlerpoisonitemeffect_cap",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 74,
+        "description": "n/a",
+        "originalText": "Applies {0} of crawler poison to a suitable melee weapon that deals {1} damage every turn for {2}. If the poison is not removed before it expires it will stun the victim for {3}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 75,
+        "description": "n/a",
+        "originalText": "shootcrawlerpoisonbolt",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 76,
+        "description": "n/a",
+        "originalText": "Shoots this bolt from a crossbow dealing normal bolt damage and afflicting the target with poison that deals {0} damage per turn each turn for {1}. If the poison is not removed before it expires it will stun the victim for {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 77,
+        "description": "n/a",
+        "originalText": "shoottranquilizingbolt",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 78,
+        "description": "n/a",
+        "originalText": "Shoots this bolt from a crossbow dealing {0}% bolt damage and attempts to incapacitate the target for up to {1} turns.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 79,
+        "description": "n/a",
+        "originalText": "shootputrefyingbolt",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 80,
+        "description": "n/a",
+        "originalText": "Shoots an experimental putrefying bolt that should slowly decompose target's muscles.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 81,
+        "description": "n/a",
+        "originalText": "shootshockbolt",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 82,
+        "description": "n/a",
+        "originalText": "Shoots this bolt striking the target for normal bolt damage plus {0} damage. Unless the target completely resists the damage, it is stunned for {1} and the electricity jumps to all adjacent targets dealing {2} damage. Works on both organic and mechanical targets.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 83,
+        "description": "n/a",
+        "originalText": "shootincendiarybolt",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 84,
+        "description": "n/a",
+        "originalText": "Shoots this bolt from a crossbow burning everything along its path to the target for {0} damage. If the target is hit it takes normal bolt damage plus {1} damage and has {2}% chance to be set on fire taking the total heat damage suffered again over the course of {3}.\r\n\r\nSetting living targets on fire will put them in state of extreme panic.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 85,
+        "description": "n/a",
+        "originalText": "shootacidbolt",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 86,
+        "description": "n/a",
+        "originalText": "Shoots this bolt from a crossbow striking the target for normal bolt damage plus {0} damage.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 87,
+        "description": "n/a",
+        "originalText": "shootcorrosiveacidbolt",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 88,
+        "description": "n/a",
+        "originalText": "Shoots this bolt from a crossbow striking the target for normal bolt damage plus {0} damage and applies Corroded debuff which reduces all damage resistances and thresholds by {1}% for {2}. Stacks {3} times.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 89,
+        "description": "n/a",
+        "originalText": "shootrustingacidbolt",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 90,
+        "description": "n/a",
+        "originalText": "Shoots this bolt from a crossbow striking the target for normal bolt damage plus {0} damage and applies Rusting debuff which reduces durability of all mechanical items in target's posession by {1} per stack each turn for {2}. Stacks {3} times. Acid damage is increased by {4}% against vehicles and machines.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 91,
+        "description": "n/a",
+        "originalText": "shootserratedbolt",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 92,
+        "description": "n/a",
+        "originalText": "Shoots this bolt from a crossbow dealing normal weapon damage. If the target is a living creature it inflicts a bleeding wound that deals {0}% of original damage over {1}. This bolt is weaker against armored targets, incurring an additional {2}% target's mechanical damage threshold.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 93,
+        "description": "n/a",
+        "originalText": "shootbroadheadbolt",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 94,
+        "description": "n/a",
+        "originalText": "Shoots this bolt from a crossbow dealing normal weapon damage. If the target is a living creature it inflicts a bleeding wound that deals {0}% of original damage over {1}. This bolt is weaker against armored targets, incurring an additional {2}% target's mechanical damage threshold.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 95,
+        "description": "n/a",
+        "originalText": "shootvoidbolt",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 96,
+        "description": "n/a",
+        "originalText": "Shoots this bolt from a crossbow striking the target for normal bolt damage plus {0} damage and applies {2} stacks of Void Rot debuff which deals {1} energy damage per stack. Stacks {2} times.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 97,
+        "description": "n/a",
+        "originalText": "execute",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 98,
+        "description": "n/a",
+        "originalText": "Special close range attack with the pistol that deals {0}% weapon damage against stunned and incapacitated targets.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 99,
+        "description": "n/a",
+        "originalText": "cutthroat",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 100,
+        "description": "n/a",
+        "originalText": "Perform a powerful knife stealth attack from behind the target that bypasses all resistances and shields, applies a bleeding wound that deals extra {0}% damage over {1} and stuns the target for the same duration.\r\n\r\nYou must either be hidden from your target through stealth or the target needs to be incapacitated. Only works on humanoids.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 101,
+        "description": "n/a",
+        "originalText": "chuckattack",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 102,
+        "description": "n/a",
+        "originalText": "You perform a powerful roundhouse kick that deals {0}% unarmed weapon damage and has a chance of breaking target's ribs (humans only), reducing their action points by {1} for {2}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 103,
+        "description": "n/a",
+        "originalText": "pummel",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 104,
+        "description": "n/a",
+        "originalText": "Perform a special attack with a sledgehammer that deals {0}% weapon damage and does not ignore damage threshold, but puts living targets off balance for {1} if it lands.\r\n\r\nOff-balanced characters have their dodge and evasion reduced to zero.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 105,
+        "description": "n/a",
+        "originalText": "dirtykick-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 106,
+        "description": "n/a",
+        "originalText": "You perform a special unarmed attack that deals normal damage and stuns living targets for {0}. If the target is human male, it's stunned for {1} instead.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 107,
+        "description": "n/a",
+        "originalText": "dirtykick",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 108,
+        "description": "n/a",
+        "originalText": "Perform a special unarmed attack that deals {0} damage and stuns living targets for {1}. If the target is humanoid male, it's stunned for {2} instead.\r\n\r\nThis attack can be performed regardless of the currently equipped weapon.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 109,
+        "description": "n/a",
+        "originalText": "shieldbash",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 110,
+        "description": "n/a",
+        "originalText": "Perform a special attack with your riot shield that deals {0} damage if it lands as well as dazes the target for {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 111,
+        "description": "n/a",
+        "originalText": "cripplingstrike",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 112,
+        "description": "n/a",
+        "originalText": "Perform an unarmed, fist weapon or knife attack that deals {0}% damage and reduces the target's strength by {1} if it penetrates armor. Lasts {2}. Stacks {3} times.\r\n\r\nOnly works on living targets.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 113,
+        "description": "n/a",
+        "originalText": "heavypunch",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 114,
+        "description": "n/a",
+        "originalText": "Perform an unconditional unarmed attack that deals {0}% damage.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 115,
+        "description": "n/a",
+        "originalText": "exposeweakness",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 116,
+        "description": "n/a",
+        "originalText": "Perform a special melee attack that deals normal damage and reduces target's mechanical resistance and threshold by {0}% if it lands for {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 117,
+        "description": "n/a",
+        "originalText": "eviscerate",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 118,
+        "description": "n/a",
+        "originalText": "Perform a special knife attack that removes all bleeding wounds from the target and deals {0}% bonus damage for each bleeding wound removed.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 119,
+        "description": "n/a",
+        "originalText": "pointshot",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 120,
+        "description": "n/a",
+        "originalText": "Perform a quick pistol, SMG or assault rifle attack that costs {0}% of the standard action point cost but has reduced precision.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 121,
+        "description": "n/a",
+        "originalText": "superslam",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 122,
+        "description": "n/a",
+        "originalText": "Perform a sledgehammer attack that does normal damage plus additional {0} mechanical damage ({1}% of your maximum health).",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 123,
+        "description": "n/a",
+        "originalText": "cookedshot",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 124,
+        "description": "n/a",
+        "originalText": "Perform a special attack with chemical blob pistols that launches a big blob at the targeted location, dealing normal weapon damage to everything in a small radius.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 125,
+        "description": "n/a",
+        "originalText": "cookedshotbonusdamage",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 126,
+        "description": "n/a",
+        "originalText": "Perform a special attack with chemical blob pistols that launches a big blob at the targeted location, dealing {0}% normal weapon damage to everything in a small radius.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 127,
+        "description": "n/a",
+        "originalText": "doubleshot",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 128,
+        "description": "n/a",
+        "originalText": "Perform an unconditional special attack that shoots both shells at the target at once.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 129,
+        "description": "n/a",
+        "originalText": "impale",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 130,
+        "description": "n/a",
+        "originalText": "Perform a special attack with a spear that automatically critically hits if it lands.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 131,
+        "description": "n/a",
+        "originalText": "flurry",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 132,
+        "description": "n/a",
+        "originalText": "Launches {0} consecutive attacks with a sword. Each attack reduces the action point cost of further Flurry activations by {1} action points (this stacks {2} times) until the end of next turn. \r\n\r\nIf any of the attacks misses or deals no damage, the flurry will stop and be put on cooldown for {3} and the cost reduction will be removed.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 133,
+        "description": "n/a",
+        "originalText": "flurry-old",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 134,
+        "description": "n/a",
+        "originalText": "Launches {0} consecutive attacks with a sword with reduced precision. Each attack reduces the action point cost of further Flurry activations by {1} action points (this stacks {2} times) until the end of next turn. \r\n\r\nIf any of the attacks misses or deals no damage, the flurry will stop and be put on cooldown for {3} and the cost reduction will be removed.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 135,
+        "description": "n/a",
+        "originalText": "decapitate",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 136,
+        "description": "n/a",
+        "originalText": "Perform a special sword attack that deals {0}% of normal weapon damage and can instantly kill a living target if it deals more than {1}% of its remaining health (providing the target has an exposed head).",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 137,
+        "description": "n/a",
+        "originalText": "decapitatecritmodincreased",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 138,
+        "description": "n/a",
+        "originalText": "Chance to critically hit with this attack increased by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 139,
+        "description": "n/a",
+        "originalText": "decapitatecritmoddecreased",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 140,
+        "description": "n/a",
+        "originalText": "Chance to critically hit with this attack reduced by {0}%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 141,
+        "description": "n/a",
+        "originalText": "riposte",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 142,
+        "description": "n/a",
+        "originalText": "Perform a special sword attack with increased chance to hit that deals normal weapon damage and costs no action points. Only becomes available after any amount damage is blocked while holding a sword.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 143,
+        "description": "n/a",
+        "originalText": "ripostewithcrit",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 144,
+        "description": "n/a",
+        "originalText": "Perform a special sword attack with increased chance to hit that deals normal weapon damage, has its critical chance to hit increased by {0}% and costs no action points. Only becomes available after any amount damage is blocked while holding a sword.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 145,
+        "description": "n/a",
+        "originalText": "soundgunamplifiedwave",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 146,
+        "description": "n/a",
+        "originalText": "Perform an unconditional special attack that deals {0}% more damage to the primary target, but only half the normal passing damage.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 147,
+        "description": "n/a",
+        "originalText": "soundgundisruptivewave",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 148,
+        "description": "n/a",
+        "originalText": "Perform an unconditional special attack that deals {0}% less damage to both the primary and pass-through targets, but dazes them for {1}.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 149,
+        "description": "n/a",
+        "originalText": "soundgunresonatingwave",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 150,
+        "description": "n/a",
+        "originalText": "Perform an unconditional special attack that deals double normal damage to the passing targets, but only half of the normal primary target damage.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 151,
+        "description": "n/a",
+        "originalText": "sweep",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 152,
+        "description": "n/a",
+        "originalText": "Perform a special spear attack that deals {0}% of normal weapon damage to all enemies adjecent to you and puts living targets off balance for {1} if they are hit.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 153,
+        "description": "n/a",
+        "originalText": "sweep_generic",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 154,
+        "description": "n/a",
+        "originalText": "Perform a special melee attack that deals {0}% of normal weapon damage to all enemies adjecent to you and puts living targets off balance for {1} if they are hit.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 155,
+        "description": "n/a",
+        "originalText": "piercingshot",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 156,
+        "description": "n/a",
+        "originalText": "Perform a special attack that also attempts to deal normal weapon damage to the targets it passes through.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 157,
+        "description": "n/a",
+        "originalText": "cleave",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 158,
+        "description": "n/a",
+        "originalText": "Perform a special melee attack that deals {0}% of normal weapon damage.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 159,
+        "description": "n/a",
+        "originalText": "quickdraw",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 160,
+        "description": "n/a",
+        "originalText": "Perform a special attack that deals normal damage. The action point cost of this attack is reduced by {0}% for each point of initiative.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 161,
+        "description": "n/a",
+        "originalText": "chainsaw",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 162,
+        "description": "n/a",
+        "originalText": "Perform a special attack with the Chainsword that inflicts {0}% of weapon damage up to {1} times, each time consuming {2} energy and {3} action points. Ignores {4}% of target's mechanical resistance and threshold.",
+        "translatedText": ""
+    }
+]

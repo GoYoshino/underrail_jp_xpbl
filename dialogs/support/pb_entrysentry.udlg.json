@@ -1,0 +1,226 @@
+[
+    {
+        "className": "DM",
+        "objectId": 3,
+        "description": "n/a",
+        "originalText": "pb_entrySentry",
+        "translatedText": ""
+    },
+    {
+        "className": "DM",
+        "objectId": 4,
+        "description": "n/a",
+        "originalText": "",
+        "translatedText": ""
+    },
+    {
+        "className": "J",
+        "objectId": 30,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "className": "A4",
+        "objectId": 31,
+        "description": "n/a",
+        "originalText": "guard",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 36,
+        "description": "n/a",
+        "originalText": "::Salutes you.:: Corporal.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 56,
+        "description": "n/a",
+        "originalText": "::True to his words, the guard returns quickly.:: You are allowed entry, $(#sir/ma'am). I must ask you to holster all visible weapons, grenades and otherwise potentially dangerous equipment before you enter the consulate. Failure to do so will be interpreted as a sign of hostility and will be dealt with accordingly - and swiftly. Keep that in mind.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 64,
+        "description": "n/a",
+        "originalText": "::The guard gestures you to stop.::\r\n\r\nHold it right there, citizen. You are about to enter Underrail Protectorate territory. Admittance is not allowed without proper clearance. Therefore, I must ask of you to state your business here.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 70,
+        "description": "n/a",
+        "originalText": "Citizen?",
+        "translatedText": ""
+    },
+    {
+        "className": "BC",
+        "objectId": 73,
+        "description": "n/a",
+        "originalText": "context.faction_protectorate_joined",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 81,
+        "description": "n/a",
+        "originalText": "To get to the consulate, you need to head straight forward, then left into the main hall. Take the northern set of stairs, and afterward take the second door to the right to get to the consul's office. Do not deviate from my directions; you are not allowed entry into any other section of the base.\r\n\r\nI hope I made everything clear. You may proceed.",
+        "translatedText": ""
+    },
+    {
+        "className": "SBFV",
+        "objectId": 85,
+        "description": "n/a",
+        "originalText": "context.npc_pb_entrySentry_waitingFadeIn",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 106,
+        "description": "n/a",
+        "originalText": "My name is $(context.player.Name) and I was sent here by Ambassador Athanas in order to speak to Consul Oliver.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 110,
+        "description": "n/a",
+        "originalText": "What is this place?",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 115,
+        "description": "n/a",
+        "originalText": "Death to Protectorate scum! For the Free Drones! ::Attack!::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 118,
+        "description": "n/a",
+        "originalText": "Sorry, I took a wrong turn. Goodbye.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 122,
+        "description": "n/a",
+        "originalText": "::The guard visually inspects you before replying.:: I would need to confirm that. $(context.player.Name) - is that what you said?",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 129,
+        "description": "n/a",
+        "originalText": "This is Fort Apogee, citizen, the headquarters of all Underrail Protectorate operations in South Underrail, as well as the location of the United Stations consulate.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 142,
+        "description": "n/a",
+        "originalText": "Correct.",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 146,
+        "description": "n/a",
+        "originalText": "No, I said $(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 150,
+        "description": "n/a",
+        "originalText": "Can I join the Underrail Protectorate?",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 154,
+        "description": "n/a",
+        "originalText": "What's the purpose of the consulate?",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 158,
+        "description": "n/a",
+        "originalText": "Let me ask you something else.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 162,
+        "description": "n/a",
+        "originalText": "Very well, please wait here. I will be with you shortly, citizen.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 168,
+        "description": "n/a",
+        "originalText": "That's what I said. $(context.player.Name). Please wait here. I will be with you shortly.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 174,
+        "description": "n/a",
+        "originalText": "We have just received a new group of recruits and do not need more recruits at the moment, citizen. Check with one of the two available recruitment centers in South Underrail at some later time - Core City or Junkyard.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 182,
+        "description": "n/a",
+        "originalText": "Are you in need of Underrail Protectorate's protection? The consulate offers protection to all citizens of United Stations members. You would have to show me your papers, though.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 190,
+        "description": "n/a",
+        "originalText": "Yes, citizen?",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 197,
+        "description": "n/a",
+        "originalText": "::Wait.::",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 201,
+        "description": "n/a",
+        "originalText": "I don't have those...",
+        "translatedText": ""
+    },
+    {
+        "className": "A3",
+        "objectId": 205,
+        "description": "n/a",
+        "originalText": "Is South Gate Station a member of the United Stations?",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 212,
+        "description": "n/a",
+        "originalText": "Then I can't help you.",
+        "translatedText": ""
+    },
+    {
+        "className": "Q",
+        "objectId": 218,
+        "description": "n/a",
+        "originalText": "I'm afraid not.",
+        "translatedText": ""
+    }
+]

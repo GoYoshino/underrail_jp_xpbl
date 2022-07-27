@@ -1,0 +1,296 @@
+[
+    {
+        "className": "KI",
+        "objectId": 3,
+        "description": "n/a",
+        "originalText": "durability",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 4,
+        "description": "n/a",
+        "originalText": "Shows current and maximum durability points of the vehicle. When the current durability points reach zero, the vehicle is destroyed and the driver dies. Many vehicle parts, items in the trunk and the driver itself are likely to be completely destroyed when this happens.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 5,
+        "description": "n/a",
+        "originalText": "energy",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 6,
+        "description": "n/a",
+        "originalText": "Shows current stored energy and the maximum battery capacity. When the vehicle runs out of energy it will engage the auxiliary power and move extremely slowly.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 7,
+        "description": "n/a",
+        "originalText": "enginepower",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 8,
+        "description": "n/a",
+        "originalText": "Engine power determines how fast the vehicle will move under certain weight. The number represents the maximum total weight (including the vehicle parts, items in the trunk and the driver) the vehicle can take on and move at the nominal speed for the vehicle type.\r\n\r\nHaving excess or deficit of power will modify the vehicle speed accordingly.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 9,
+        "description": "n/a",
+        "originalText": "consumption",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 10,
+        "description": "n/a",
+        "originalText": "Some engines are more efficient than others. The number represents the effective engine power when it comes to determining the energy consumption.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 11,
+        "description": "n/a",
+        "originalText": "energypertile",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 12,
+        "description": "n/a",
+        "originalText": "The amount of energy the vehicle consumes when it moves the distance of one kilometer. Some engines are more efficient than others.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 13,
+        "description": "n/a",
+        "originalText": "weight",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 14,
+        "description": "n/a",
+        "originalText": "Vehicle weight is the total weight of the vehicle chasis plus the vehicle parts installed. Total weight is vehicle weight plus the weight of items stored in the trunk, plus the weight of the driver if they are currently mounting the vehicle.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 15,
+        "description": "n/a",
+        "originalText": "basespeed",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 16,
+        "description": "n/a",
+        "originalText": "This is the base speed for the vehicle type (e.g. standing jetski). This speed is further modified by engine power, loaded weight and the chassis aero/hydo-dynamicity.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 17,
+        "description": "n/a",
+        "originalText": "speedmodifier",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 18,
+        "description": "n/a",
+        "originalText": "This is the speed modifier of the current vehicle chassis. Some models are more aero/hydro-dynamic than others.\r\n\r\nPositive speed modifiers are only applied if the vehicle is not out of energy and is not carrying more weight than it can normaly support with its engine.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 19,
+        "description": "n/a",
+        "originalText": "unmannedspeed",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 20,
+        "description": "n/a",
+        "originalText": "This is the current theoretical unmanned vehicle speed and evasion modifier (which is dependent of the vehicle's speed and maneuverability).",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 21,
+        "description": "n/a",
+        "originalText": "mannedspeed",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 22,
+        "description": "n/a",
+        "originalText": "This is the current actual vehicle speed and evasion modifier (which is dependent of the vehicle's speed and maneuverability).",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 23,
+        "description": "n/a",
+        "originalText": "stability",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 24,
+        "description": "n/a",
+        "originalText": "Stability indicates how stable and easy to do combat from the vehicle is, influencing both ranged and melee (though to a lesser degree), as well as throwing, precision. Precision of melee attacks is further modified by the vehicle's maneuverability, and precision of short range melee weapons (knives and fist weapons), as well as unarmed attacks, is further reduces by additional 10%.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 25,
+        "description": "n/a",
+        "originalText": "meleedamagebonus",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 26,
+        "description": "n/a",
+        "originalText": "Bonus to melee damage when attacking from this vehicle due to vehicle speed.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 27,
+        "description": "n/a",
+        "originalText": "cover",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 28,
+        "description": "n/a",
+        "originalText": "The chance that the incoming attack will hit the vehicle instead of the driver.\r\n\r\nIn case of an area of effect attack it represents the amount of damage that the vehicle will bear in driver's stead.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 29,
+        "description": "n/a",
+        "originalText": "resistancedescription",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 30,
+        "description": "n/a",
+        "originalText": "The armor either absorbs the amount indicated by the percentage OR the flat number, whichever will result in more damage being absorbed. The unabsorbed amount reduces the vehicles durability.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 31,
+        "description": "n/a",
+        "originalText": "resistancemechanical",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 32,
+        "description": "n/a",
+        "originalText": "The amount of mechanical damage the vehicle's armor can absorb.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 33,
+        "description": "n/a",
+        "originalText": "resistanceheat",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 34,
+        "description": "n/a",
+        "originalText": "The amount of heat damage the vehicle's armor can absorb.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 35,
+        "description": "n/a",
+        "originalText": "resistancecold",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 36,
+        "description": "n/a",
+        "originalText": "The amount of cold damage the vehicle's armor can absorb.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 37,
+        "description": "n/a",
+        "originalText": "resistanceelectricity",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 38,
+        "description": "n/a",
+        "originalText": "The amount of electrical damage the vehicle's armor can absorb.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 39,
+        "description": "n/a",
+        "originalText": "resistanceacid",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 40,
+        "description": "n/a",
+        "originalText": "The amount of acid damage the vehicle's armor can absorb.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 41,
+        "description": "n/a",
+        "originalText": "resistanceenergy",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 42,
+        "description": "n/a",
+        "originalText": "The amount of energy damage the vehicle's armor can absorb.",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 43,
+        "description": "n/a",
+        "originalText": "resistancebio",
+        "translatedText": ""
+    },
+    {
+        "className": "KI",
+        "objectId": 44,
+        "description": "n/a",
+        "originalText": "The amount of bio damage the vehicle's armor can absorb.",
+        "translatedText": ""
+    }
+]
