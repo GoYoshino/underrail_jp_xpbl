@@ -1,0 +1,810 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 53,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 54,
+        "description": "n/a",
+        "originalText": "west",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 55,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 61,
+        "description": "n/a",
+        "originalText": "::You see a thin man soldering some components onto a copper-colored circuit board. He doesn't immediately notice you, which gives you a few moments to observe him: His dark hair is streaked with aluminum-gray strands, his wrinkles form ravines in his face and his hands are only steady when the soldering iron meets the board. Yet, some strange and subtle signs give you a feeling that this man is somehow younger than he appears, but you are unable to pinpoint exactly why.\r\n\r\nYour thoughts are interrupted when he notices you.::\r\n\r\nOh, welcome to my electronics store, friend. Name's George West. You ought to say something 'cause I... ::He coughs.:: I can't help you if I don't know you're here. ::He smiles.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 67,
+        "description": "n/a",
+        "originalText": "Welcome back, friend.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 70,
+        "description": "n/a",
+        "originalText": "context.npc_fo_west_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 87,
+        "description": "n/a",
+        "originalText": "context.npc_fo_west_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 91,
+        "description": "n/a",
+        "originalText": "What've you got? ::Barter.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 97,
+        "description": "n/a",
+        "originalText": "I need help fixing an electric arc furnace.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 102,
+        "description": "n/a",
+        "originalText": "About that furnace...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 107,
+        "description": "n/a",
+        "originalText": "About that workbench...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 112,
+        "description": "n/a",
+        "originalText": "I'm interested in buying that electronic workbench with all the integrated equipment.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 116,
+        "description": "n/a",
+        "originalText": "What can you tell me about this place?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 122,
+        "description": "n/a",
+        "originalText": "Do you remember anyone coming to you with any strange items? I cannot describe the item, but it's something you would definitely remember.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 127,
+        "description": "n/a",
+        "originalText": "What do you know about the mine creatures?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 132,
+        "description": "n/a",
+        "originalText": "How do you feel now that the mine has been reopened?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 136,
+        "description": "n/a",
+        "originalText": "Goodbye.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 144,
+        "description": "n/a",
+        "originalText": "If it's an electrical problem then yes, I can help you. Where do you need me, exactly? ::He coughs.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 149,
+        "description": "n/a",
+        "originalText": "context.npc_fo_west_askRepairFurnace",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 157,
+        "description": "n/a",
+        "originalText": "Five hundred charons to get the furnace fixed. I can go there right away. ::He coughs.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 164,
+        "description": "n/a",
+        "originalText": "Yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 174,
+        "description": "n/a",
+        "originalText": "This one? I'm using that... ::He coughs.:: I need it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 182,
+        "description": "n/a",
+        "originalText": "::It takes him a few moments to produce an answer.:: I don't know. Foundry is a large station with a rich mine. We're pretty well known as the station with the best defenses in South Underrail. The Foundry Guard makes sure of it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 197,
+        "description": "n/a",
+        "originalText": "Mmm, someone did come here with a... distinctive item. A group of people, to be exact. You're not really a stranger to us anymore, so I suppose I can tell you what happened.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 202,
+        "description": "n/a",
+        "originalText": "Mmm, someone did come here with a... distinctive item. A group of people, to be exact, and... Wait... why would I tell you anything? What's going on here?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 212,
+        "description": "n/a",
+        "originalText": "Nothing, it doesn't concern me. Every problem we've had so far in Foundry was quickly handled by the Foundry Guard. I dislike this place for many reasons... ::He coughs.:: - this pollution being one of them - but I can't deny that security here is top notch. Everyone's blabbering about these \"monsters\" and how they are sneaking into residential and killing people.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 219,
+        "description": "n/a",
+        "originalText": "Pretty much the same as before. I knew all this was just a minor setback and that the Foundry Guard would deal with it eventually. People around here make a fuss out of everything.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 224,
+        "description": "n/a",
+        "originalText": "Goodbye, friend.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 227,
+        "description": "n/a",
+        "originalText": "context.quest_FoundryRepairGloriaStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 228,
+        "description": "n/a",
+        "originalText": "context.quest_FoundryRepairGloriaCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 229,
+        "description": "n/a",
+        "originalText": "context.npc_fo_west_fixFurnace",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 230,
+        "description": "n/a",
+        "originalText": "context.npc_fo_west_askRepairFurnace",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 234,
+        "description": "n/a",
+        "originalText": "It's a large furnace near the mine entrance. One a man named Bernard seems very fond of.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 235,
+        "description": "n/a",
+        "originalText": "context.npc_fo_west_askRepairFurnace",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 236,
+        "description": "n/a",
+        "originalText": "context.quest_FoundryRepairGloriaStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 237,
+        "description": "n/a",
+        "originalText": "context.quest_FoundryRepairGloriaCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 238,
+        "description": "n/a",
+        "originalText": "context.npc_fo_west_fixFurnace",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 247,
+        "description": "n/a",
+        "originalText": "context.npc_fo_west_pricedElectronicBench",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 248,
+        "description": "n/a",
+        "originalText": "context.npc_fo_west_soldElectronicBench",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 254,
+        "description": "n/a",
+        "originalText": "I'll buy it for one thousand two hundred. ::Give him 1200 stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 260,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: That workbench seems like it has seen some heavy use in the past. I'll give you eight hundred for it. Deal?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 264,
+        "description": "n/a",
+        "originalText": "Nothing. I had other questions.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 265,
+        "description": "n/a",
+        "originalText": "context.loc_coreCity_playerReceivedHouseKeys",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 266,
+        "description": "n/a",
+        "originalText": "context.npc_fo_west_pricedElectronicBench",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 271,
+        "description": "n/a",
+        "originalText": "Everything can be bought, you just have to name the price.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 275,
+        "description": "n/a",
+        "originalText": "Do you know where I can find one like that?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 279,
+        "description": "n/a",
+        "originalText": "Never mind then. I'll look for another one.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 283,
+        "description": "n/a",
+        "originalText": "Okay. Now give me the other side of the truth.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 287,
+        "description": "n/a",
+        "originalText": "Good enough for me. I'd like to ask you something else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 288,
+        "description": "n/a",
+        "originalText": "context.npc_fo_west_askFacelessBox",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 289,
+        "description": "n/a",
+        "originalText": "context.npc_fofaceless_toldAboutInvestigation",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 290,
+        "description": "n/a",
+        "originalText": "context.quest_fo_facelessRecon_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 291,
+        "description": "n/a",
+        "originalText": "context.loc_cc_facelessRetreated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 292,
+        "description": "n/a",
+        "originalText": "context.quest_fo_facelessRecon_itemLocated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 293,
+        "description": "n/a",
+        "originalText": "context.loc_fo_mineReopened",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 296,
+        "description": "n/a",
+        "originalText": "::He coughs.:: Anyway, those people came here and one of them, looked like their leader, produced a sturdy metal box. He was holding it tighter than a miner who had found a lump of gold. Despite not liking having them in my store, I was interested in what was inside the box. And, when he opened it, I saw something I'd never seen before.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 301,
+        "description": "n/a",
+        "originalText": "context.npc_fo_west_askFacelessBox",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 306,
+        "description": "n/a",
+        "originalText": "::[Persuade]:: Those men are very dangerous, and if you care about people's lives, you will tell me everything you know about the people that came into your store. It's an extremely important matter.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 310,
+        "description": "n/a",
+        "originalText": "I just need to know. Could you please tell me?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 311,
+        "description": "n/a",
+        "originalText": "context.loc_fo_monstersKnow",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 312,
+        "description": "n/a",
+        "originalText": "context.loc_fo_mineReopened",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 316,
+        "description": "n/a",
+        "originalText": "As long as there isn't one in my store, I don't care. But that's just my opinion, friend.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 319,
+        "description": "n/a",
+        "originalText": "context.loc_fo_mineReopened",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 323,
+        "description": "n/a",
+        "originalText": "I just don't care. I'm more concerned with the foul air than mine \"monsters.\" ::He coughs.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 328,
+        "description": "n/a",
+        "originalText": "Hmm.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 338,
+        "description": "n/a",
+        "originalText": "It's a deal. Here's five hundred. ::Give him 500 stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 344,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: I can only give you four hundred charons. I know you said you won't go for less but... that's all I've got.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 348,
+        "description": "n/a",
+        "originalText": "I need to think about it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 349,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 354,
+        "description": "n/a",
+        "originalText": "::He coughs.:: Good. I'd help you carry it out of the store, but my back's a bit friable. Old age, what can I say.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 359,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 364,
+        "description": "n/a",
+        "originalText": "::He pauses, but soon replies.:: Deal, friend. Eight hundred.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 370,
+        "description": "n/a",
+        "originalText": "::He shakes his head.:: No.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 378,
+        "description": "n/a",
+        "originalText": "::He nods.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 384,
+        "description": "n/a",
+        "originalText": "::His stare becomes glued to the workbench as he considers your words. With each passing second, you become more and more sure that he is indeed going to name a price.::\r\n\r\nThere are a lot of expensive tools in that thing. ::He coughs.:: If I were to sell it, it would have to be for... no less than one thousand two hundred charons. Yes, that's what I'm asking for it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 388,
+        "description": "n/a",
+        "originalText": "context.npc_fo_west_pricedElectronicBench",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 391,
+        "description": "n/a",
+        "originalText": "I don't. I know I'm not helpful but... ::He shrugs.:: I can't help you there, friend.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 399,
+        "description": "n/a",
+        "originalText": "Good luck with that, friend.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 405,
+        "description": "n/a",
+        "originalText": "::He lets out his breath in a long sigh.:: The air pollution... it is really bad, friend. ::He coughs.:: See what I mean? My nose, throat and lungs are slowly being eroded by the foulness of the air, just like nearly everyone else's. I pity those working *in* the mine, or those sweating in the metalworks, and I'm thankful I'm not in their boots.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 411,
+        "description": "n/a",
+        "originalText": "What was in the box?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 417,
+        "description": "n/a",
+        "originalText": "I... Fine, I'll talk. You are right, though - they really made me uncomfortable. They had this hungry look in their eyes, like starving rathounds eyeing their prey.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 422,
+        "description": "n/a",
+        "originalText": "I don't think so. Odd things have been happening in Foundry lately and... I'll speak only to the Foundry Guard on this matter.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 429,
+        "description": "n/a",
+        "originalText": "Sorry, I don't think I should. Odd things have been happening in Foundry lately and... I'll speak only to the Foundry Guard on this matter.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 435,
+        "description": "n/a",
+        "originalText": "Hmm?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 439,
+        "description": "n/a",
+        "originalText": "Is there a problem?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 440,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 444,
+        "description": "n/a",
+        "originalText": "Good. I'll be heading there as soon as I finish soldering this thing. I just hope Bernard doesn't talk my friable ears off.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 449,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 450,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 455,
+        "description": "n/a",
+        "originalText": "::His facial muscles begin dancing, mirroring his thought process by forming appropriate expressions. The one which finally settles is not the one of deprecation.::\r\n\r\nI must've gone derailed to accept this, but I'm going to say okay, four hundred charons is fine. It's better than nothing. We have a deal.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 462,
+        "description": "n/a",
+        "originalText": "I'm sorry, but that's your problem. As I said: No one sane would do it for less than four hundred.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 468,
+        "description": "n/a",
+        "originalText": "I'm not going anywhere, friend. ::He coughs.:: Unless this coughing... uh... bah... ::He begins coughing again.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 472,
+        "description": "n/a",
+        "originalText": "context.npc_fo_west_soldElectronicBench",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 474,
+        "description": "n/a",
+        "originalText": "boughtElectroBench",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 478,
+        "description": "n/a",
+        "originalText": "I'm not carrying it either. I'll see to it that Core City Housing Corporation guys deliver it to my house.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 479,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 485,
+        "description": "n/a",
+        "originalText": "Here you go. ::Give him 800 stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 489,
+        "description": "n/a",
+        "originalText": "But, I get to have my own store without anyone racketeering me, which used to be the case before I moved here. So, this... this is my life now. Whether I made the right choice or not, I suppose the future will tell me that.\r\n\r\nAny more questions, friend?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 495,
+        "description": "n/a",
+        "originalText": "It's difficult to describe. ::He coughs.:: I don't know, imagine a twenty-sided polyhedron engraved with some alien-looking markings. It appeared to be some kind of an electronic device, with strange slots - sockets in it. But as a whole, it resembled nothing I'd ever seen. I don't know what it does, and I think those people knew even less. Still, the man wanted to sell it to me for lots of charons.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 500,
+        "description": "n/a",
+        "originalText": "context.npc_fo_west_askFacelessBox",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 503,
+        "description": "n/a",
+        "originalText": "Well, he's not exactly the sanest man around here. But as long as I'm being paid, I don't have a problem with it. And I've already worked with that same furnace. Unless it's something very drastic, I can handle it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 508,
+        "description": "n/a",
+        "originalText": "context.npc_fo_west_fixFurnace",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 511,
+        "description": "n/a",
+        "originalText": "Right, catch you later.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 514,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 518,
+        "description": "n/a",
+        "originalText": "::Give him 400 stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 520,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 523,
+        "description": "n/a",
+        "originalText": "First of all, I didn't have the money he wanted, and second, I didn't know what I was buying. ::He coughs.:: It's just bad business.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 530,
+        "description": "n/a",
+        "originalText": "Bernard mentioned he thinks the problem lies with the electrode power regulation system.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 534,
+        "description": "n/a",
+        "originalText": "Do you know who they were and where they are now?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 537,
+        "description": "n/a",
+        "originalText": "Mmmm... that is not going to be a simple fix, but if that is the issue, then yes, I can take care of it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 545,
+        "description": "n/a",
+        "originalText": "No idea. The guy with the box was the only one who talked to me, the others just stood there silent. After I told them I didn't want to buy it, they just left. I thought about calling the guards at one point, but decided not to. What do I know, as long as they don't make a mess, it doesn't concern me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 551,
+        "description": "n/a",
+        "originalText": "How much are you charging?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 555,
+        "description": "n/a",
+        "originalText": "Money is not the issue, as long as you get the job done.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 559,
+        "description": "n/a",
+        "originalText": "Well, I'm asking for five hundred charons. I don't think anyone sane would do it for less.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 565,
+        "description": "n/a",
+        "originalText": "That's good to hear. I'm asking for five hundred charons. I don't think anyone sane would do it for less.",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

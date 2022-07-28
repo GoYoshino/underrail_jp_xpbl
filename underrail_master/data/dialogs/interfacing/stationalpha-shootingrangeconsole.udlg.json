@@ -1,0 +1,243 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 20,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 27,
+        "description": "n/a",
+        "originalText": "::Session in progress.::\r\n\r\n::Total shots: $(context.ShootingRangeConsoleData.TotalShots)::\r\n::Hits: $(context.ShootingRangeConsoleData.Hits) ($(context.ShootingRangeConsoleData.HitsPercentage)%)::\r\n::Misses: $(context.ShootingRangeConsoleData.Misses) ($(context.ShootingRangeConsoleData.MissesPercentage)%)::\r\n::Average damage: $(context.ShootingRangeConsoleData.AverageDamage)::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 37,
+        "description": "n/a",
+        "originalText": "::End session::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 40,
+        "description": "n/a",
+        "originalText": "::Continue session::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 45,
+        "description": "n/a",
+        "originalText": "::Session ended. Final statistics: ::\r\n\r\n::Total shots: $(context.ShootingRangeConsoleData.TotalShots)::\r\n::Hits: $(context.ShootingRangeConsoleData.Hits) ($(context.ShootingRangeConsoleData.HitsPercentage)%)::\r\n::Misses: $(context.ShootingRangeConsoleData.Misses) ($(context.ShootingRangeConsoleData.MissesPercentage)%)::\r\n::Average damage: $(context.ShootingRangeConsoleData.AverageDamage)::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 50,
+        "description": "n/a",
+        "originalText": "Session started.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 64,
+        "description": "n/a",
+        "originalText": "::Leave it as it is::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 65,
+        "description": "n/a",
+        "originalText": "interface",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 66,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 69,
+        "description": "n/a",
+        "originalText": "::Welcome to the Shooting Range. \r\n\r\nWhat do you wish to do?::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.C:N",
+        "objectId": 75,
+        "description": "n/a",
+        "originalText": "SessionStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 76,
+        "description": "n/a",
+        "originalText": "context.ShootingRangeConsoleData.SessionActive",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".IMA.BA:N",
+        "objectId": 77,
+        "description": "n/a",
+        "originalText": "End session",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".IMA.IMA:TOP",
+        "objectId": 78,
+        "description": "n/a",
+        "originalText": "context.ShootingRangeConsoleData",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".IMA.IMA:MN",
+        "objectId": 79,
+        "description": "n/a",
+        "originalText": "EndSession",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".EJA.BA:N",
+        "objectId": 80,
+        "description": "n/a",
+        "originalText": "Set shooting range target state to inactive",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.BA:N",
+        "objectId": 84,
+        "description": "n/a",
+        "originalText": "Progress Target Practice quest",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 85,
+        "description": "n/a",
+        "originalText": "context.quest_targetPractice_state",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 89,
+        "description": "n/a",
+        "originalText": "::Configure target distance::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 95,
+        "description": "n/a",
+        "originalText": "::Start new session::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 98,
+        "description": "n/a",
+        "originalText": "::Leave::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSRTSJ.J1:N",
+        "objectId": 99,
+        "description": "n/a",
+        "originalText": "Set shooting range target state to inactive",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.C:N",
+        "objectId": 100,
+        "description": "n/a",
+        "originalText": "Target practice quest is at the required stage",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 101,
+        "description": "n/a",
+        "originalText": "context.quest_targetPractice_state",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.C:N",
+        "objectId": 103,
+        "description": "n/a",
+        "originalText": "Enough hits landed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 104,
+        "description": "n/a",
+        "originalText": "context.ShootingRangeConsoleData.Hits",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 108,
+        "description": "n/a",
+        "originalText": "::Choose target distance.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".IMA.IMA:TOP",
+        "objectId": 114,
+        "description": "n/a",
+        "originalText": "context.ShootingRangeConsoleData",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".IMA.IMA:MN",
+        "objectId": 115,
+        "description": "n/a",
+        "originalText": "StartSession",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".EJA.BA:N",
+        "objectId": 116,
+        "description": "n/a",
+        "originalText": "Set shooting target state to active",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 122,
+        "description": "n/a",
+        "originalText": "::5 yards::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 127,
+        "description": "n/a",
+        "originalText": "::8 yards::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 132,
+        "description": "n/a",
+        "originalText": "::10 yards::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSRTSJ.J1:N",
+        "objectId": 133,
+        "description": "n/a",
+        "originalText": "Set shooting target state to active",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

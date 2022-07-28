@@ -1,0 +1,1104 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 55,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 56,
+        "description": "n/a",
+        "originalText": "athanas",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 57,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 63,
+        "description": "n/a",
+        "originalText": "::You enter the office to see a short, thin man already standing behind his desk to greet you. Neatly dressed, neatly shaved, smooth-faced - and scar-free - and in possession of straight white teeth - this man is a Northerner. He greets you with a polite voice.::\r\n\r\nWelcome to the United Stations embassy, $(#Mister/Miss) $(context.player.Name). We've been expecting you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 79,
+        "description": "n/a",
+        "originalText": "How can I help you, Corporal?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 85,
+        "description": "n/a",
+        "originalText": "How can I help you this time, $(#Mister/Miss) $(context.player.Name)?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 88,
+        "description": "n/a",
+        "originalText": "context.npc_jyeathanas_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 108,
+        "description": "n/a",
+        "originalText": "context.npc_jyeathanas_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 115,
+        "description": "n/a",
+        "originalText": "Corporal, I've received a complaint from my deputy regarding your \"inappropriate\" behavior. Your rank does not give you the right to mistreat the embassy staff, and if I hear one more complaint I will contact Fort Apogee immediately. That kind of behavior will not be tolerated. Mark my words.\r\n\r\nWhy did you come to me?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 121,
+        "description": "n/a",
+        "originalText": "$(#Mister/Miss) $(context.player.Name), I've received a complaint from my deputy regarding your \"inappropriate\" behavior. You are in the United Stations embassy, remember that, and if you mistreat the embassy staff one more time, the consequences will be severe. Mark my words.\r\n\r\nWhy did you come to me?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 125,
+        "description": "n/a",
+        "originalText": "context.npc_jye_athanas_talkPissedDeputy",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 126,
+        "description": "n/a",
+        "originalText": "context.faction_protectorate_joined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 133,
+        "description": "n/a",
+        "originalText": "Major Clifton told me you wanted to talk to me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 138,
+        "description": "n/a",
+        "originalText": "What is Fort Apogee and how do I get there?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 144,
+        "description": "n/a",
+        "originalText": "Black Eels are preparing to move against the Scrappers and they are asking for your support.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 150,
+        "description": "n/a",
+        "originalText": "I need to talk to someone about a train that was supposed to arrive to Rail Crossing?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 155,
+        "description": "n/a",
+        "originalText": "What can you tell me about the Free Drones?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 161,
+        "description": "n/a",
+        "originalText": "Silas has agreed to your terms.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 172,
+        "description": "n/a",
+        "originalText": "Vera sent you these trading documents. ::Give him the documents.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 178,
+        "description": "n/a",
+        "originalText": "Who do you suspect has hacked the Junkyard network?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 184,
+        "description": "n/a",
+        "originalText": "South Railroad Outpost?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 188,
+        "description": "n/a",
+        "originalText": "Can you tell me a bit about the United Stations?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 193,
+        "description": "n/a",
+        "originalText": "I want to report a security threat to the embassy.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 199,
+        "description": "n/a",
+        "originalText": "What are your thoughts on the Faceless invasion?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 204,
+        "description": "n/a",
+        "originalText": "I have to go now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 205,
+        "description": "n/a",
+        "originalText": "context.npc_jye_deputy_pissed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 206,
+        "description": "n/a",
+        "originalText": "context.npc_jye_athanas_talkPissedDeputy",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 207,
+        "description": "n/a",
+        "originalText": "context.faction_protectorate_joined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 213,
+        "description": "n/a",
+        "originalText": "Ah, yes, the Major told me that you were an integral part in the recovery of the missing train. We were aware of the Free Drones threat in the South, but so far the've never been... this bold. Not in South Underrail, that is.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 219,
+        "description": "n/a",
+        "originalText": "context.loc_pb_sentToSeeConsul",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 221,
+        "description": "n/a",
+        "originalText": "pr_speakWithAthanas",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 222,
+        "description": "n/a",
+        "originalText": "context.loc_pb_sentToSeeConsul",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 227,
+        "description": "n/a",
+        "originalText": "Fort Apogee is the core of all Protectorate operations in the South. It was constructed - let me think - about five... four-five years ago in Upper Underrail, as a forward operations base in South Underrail. Sadly, the turbulent nature of Core City's leaders proved... troubling, to put it mildly, since going through the city itself is basically the only viable way to move between Upper and Lower Underrail.\r\n\r\nI guess no one anticipated such problems with the Oligarchy. Nevertheless, we manage somehow.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 238,
+        "description": "n/a",
+        "originalText": "::The ambassador seems somewhat alarmed.:: We expected this to happen eventually, but not this soon. The tension between these two... factions has been steadily growing.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 242,
+        "description": "n/a",
+        "originalText": "context.npc_jyeathanas_askedForEelSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 252,
+        "description": "n/a",
+        "originalText": "You'll have to talk to Major Clifton, the commanding officer of South Railroad Outpost about that. SRO is right above us.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 256,
+        "description": "n/a",
+        "originalText": "context.npc_jye_athanas_askTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 262,
+        "description": "n/a",
+        "originalText": "They're nothing but a group of violent anarchists. Sure, they cause some trouble to the Protectorate, but so do the Ironheads, Lunatics or other unwanted groups. They claim we're the bad guys, and they openly rebel against all of us, both the Protectorate and the United Stations. Us, who help stations survive these harsh conditions and protect their citizens against raiders and bandits!?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 271,
+        "description": "n/a",
+        "originalText": "::He nods.:: We will send an agent to coordinate battle plans.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 275,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_gotUSSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 283,
+        "description": "n/a",
+        "originalText": "Very good, very good. Usually I would allow this sort of information to be wired, but we have reason to believe that the network going through Junkyard might have been compromised. You never know who might be listening and what they can do even with harmless trading agreement info.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".T13.T13:IC",
+        "objectId": 287,
+        "description": "n/a",
+        "originalText": "plot.tradeDocs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 290,
+        "description": "n/a",
+        "originalText": "context.quest_deliverTradingDocs_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 292,
+        "description": "n/a",
+        "originalText": "deliverTradingDocs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 298,
+        "description": "n/a",
+        "originalText": "context.loc_SouthRailroadOutpost_FreePass",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 304,
+        "description": "n/a",
+        "originalText": "We're not sure yet, but there's an ongoing investigation. Until further notice, I asked that any sensitive information coming from SGS and our other trading partners in the South be delivered physically.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 308,
+        "description": "n/a",
+        "originalText": "context.npc_jye_athanas_askAboutHacking",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 314,
+        "description": "n/a",
+        "originalText": "That's the metro base right above us. We use an elevator here in the embassy to quickly access it. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 318,
+        "description": "n/a",
+        "originalText": "context.npc_jy_athanas_toldSRO",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 322,
+        "description": "n/a",
+        "originalText": "Of course. We are an ever growing confederacy of stations. Our goal is to unite the remnants of humanity in order to ensure our survival and prosperity. United Stations are ruled by the Council of Five and guarded by the Protectorate.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 330,
+        "description": "n/a",
+        "originalText": "Sounds serious. You best talk to second lieutenant Garren. He's in command of the Protectorate security forces here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 340,
+        "description": "n/a",
+        "originalText": "The Protectorate is investigating the matter as we speak, but until I get some word from them I cannot provide an official statement.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 344,
+        "description": "n/a",
+        "originalText": "tempcontext.askedAboutFacelessInvasion",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 348,
+        "description": "n/a",
+        "originalText": "Take care, Corporal. Feel free to come back anytime if there is something you wish to discuss.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 353,
+        "description": "n/a",
+        "originalText": "Take care, $(#Mister/Miss) $(context.player.Name). Feel free to come back anytime if there is something you wish to discuss.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 356,
+        "description": "n/a",
+        "originalText": "context.npc_lu_clifton_sentToAmbassador",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 357,
+        "description": "n/a",
+        "originalText": "context.loc_pb_sentToSeeConsul",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 359,
+        "description": "n/a",
+        "originalText": "context.faction_knowFreeDrones",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 364,
+        "description": "n/a",
+        "originalText": "Those anarchist bastards have stepped over the line.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 368,
+        "description": "n/a",
+        "originalText": "Free Drones? But I thought they were just ordinary bandits.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 372,
+        "description": "n/a",
+        "originalText": "The United Stations consulate lies within the base perimeter, and is open to all our citizens should they need some sort of protection. All in all, to reach Fort Apogee you would need to enter Upper Underrail through Core City. You could take the train from Core City's Upper Underrail station or, if for some reason you can't use the train, you could get to it on foot by following the green metro line.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 376,
+        "description": "n/a",
+        "originalText": "context.loc_cc_knowOligarchy",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 377,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 378,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_gotSgsSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 379,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_gotUSSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 380,
+        "description": "n/a",
+        "originalText": "context.npc_jyeathanas_askedForEelSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 384,
+        "description": "n/a",
+        "originalText": "We would like to aid them, but I'm afraid that until the replacement for Second Lieutenant Garren arrives, I am not allowed to authorize such an operation.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 390,
+        "description": "n/a",
+        "originalText": "We will aid them, but in turn they will have to allow us to have some military presence on both the docks and the Old Junkyard gate. Let me know if these terms are acceptable.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 393,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 394,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 395,
+        "description": "n/a",
+        "originalText": "context.npc_jye_athanas_askTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 396,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b31_clifton_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 401,
+        "description": "n/a",
+        "originalText": "You can use the elevator to get up there.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 411,
+        "description": "n/a",
+        "originalText": "Since it's official business, I'll allow you access to the elevator that will get you up there. Just take the corridor next the embassy entrance and you'll find it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 415,
+        "description": "n/a",
+        "originalText": "context.npc_jye_athanas_knowSRO",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 416,
+        "description": "n/a",
+        "originalText": "context.faction_knowFreeDrones",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 421,
+        "description": "n/a",
+        "originalText": "Sad, misguided people... but they are becoming a threat, and I'm afraid diplomacy can't help much there. Protectorate will have to apply harsher measures.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 426,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_USOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 427,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_gotUSSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 428,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_gotSgsSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 429,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_agreedToUSOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 430,
+        "description": "n/a",
+        "originalText": "context.quest_deliverTradingDocs_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 431,
+        "description": "n/a",
+        "originalText": "context.quest_deliverTradingDocs_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 432,
+        "description": "n/a",
+        "originalText": "plot.tradeDocs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 437,
+        "description": "n/a",
+        "originalText": "Have a nice day.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 446,
+        "description": "n/a",
+        "originalText": "Just so you know, as a representative of South Gate Station, you are free to move around most of the embassy premises, and can also use our elevator to South Railroad Outpost.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 449,
+        "description": "n/a",
+        "originalText": "jye3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 451,
+        "description": "n/a",
+        "originalText": "lu-b31",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 453,
+        "description": "n/a",
+        "originalText": "context.quest_deliverTradingDocs_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 454,
+        "description": "n/a",
+        "originalText": "context.npc_jye_athanas_askAboutHacking",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 457,
+        "description": "n/a",
+        "originalText": "I'm sure we'll get to the bottom of this soon so that the communication can continue as before.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 463,
+        "description": "n/a",
+        "originalText": "context.npc_jy_athanas_toldSRO",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 469,
+        "description": "n/a",
+        "originalText": "In fact, that's how we got to Junkyard in the first place - via railroad. Only later did we establish a waterways route after acquiring Port Zenith in Core City as well as reaching a mutually acceptable agreement with the Black Eels.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 475,
+        "description": "n/a",
+        "originalText": "We bring peace, order and law to the stations that we integrate in this union, but also allow for a degree of independence. The stations are still free to choose their own local governing body.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 478,
+        "description": "n/a",
+        "originalText": "context.npc_jyeathanas_toldAboutAbram",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 479,
+        "description": "n/a",
+        "originalText": "context.npc_abram_saidHeWantsEmbassyInfo",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 481,
+        "description": "n/a",
+        "originalText": "context.npc_jyeathanas_toldAboutAbram",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 484,
+        "description": "n/a",
+        "originalText": "I'll go see him then.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 485,
+        "description": "n/a",
+        "originalText": "context.facelessInvaded",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 486,
+        "description": "n/a",
+        "originalText": "tempcontext.askedAboutFacelessInvasion",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 487,
+        "description": "n/a",
+        "originalText": "context.loc_cc_facelessRetreated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 488,
+        "description": "n/a",
+        "originalText": "context.faction_protectorate_joined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 489,
+        "description": "n/a",
+        "originalText": "context.learnOfFreeDrones",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 492,
+        "description": "n/a",
+        "originalText": "They sure have. But they couldn't fool you, $(context.player.Name). That's why I have a simple proposal for you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 500,
+        "description": "n/a",
+        "originalText": "Bandits they are, indeed... but, not ordinary bandits, no. The train was actually hijacked by the Free Drones. They are a menace that followed us from North Underrail, trying to prevent us from unifying all the unprotected stations.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 503,
+        "description": "n/a",
+        "originalText": "context.npc_jygarren_dead",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 505,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_USOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 508,
+        "description": "n/a",
+        "originalText": "context.npc_jye_athanas_ElevatorUnlock",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 510,
+        "description": "n/a",
+        "originalText": "context.loc_SouthRailroadOutpost_FreePass",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 515,
+        "description": "n/a",
+        "originalText": "context.npc_jye_athanas_DiscussFreeDronesHacking",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 516,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 521,
+        "description": "n/a",
+        "originalText": "Do you think they're behind the hacking of the Junkyard network?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 525,
+        "description": "n/a",
+        "originalText": "I had other questions for you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 526,
+        "description": "n/a",
+        "originalText": "context.npc_jye_athanas_ElevatorUnlock",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 531,
+        "description": "n/a",
+        "originalText": "It's out of order at the moment because of the earthquake, but we're working on fixing it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 538,
+        "description": "n/a",
+        "originalText": "It was damaged recently by the earthquake, but it's fixed now and safe to use.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 542,
+        "description": "n/a",
+        "originalText": "context.npc_jye_athanas_knowSRO",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 544,
+        "description": "n/a",
+        "originalText": "context.npc_jye_athanas_ElevatorUnlock",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 549,
+        "description": "n/a",
+        "originalText": "I've heard of the name \"Free Drones.\" Do you think these people could be behind the hacking of the Junkyard network?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 554,
+        "description": "n/a",
+        "originalText": "Do you think the Free Drones are behind the hacking of the Junkyard network?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 555,
+        "description": "n/a",
+        "originalText": "context.quest_deliverTradingDocs_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 556,
+        "description": "n/a",
+        "originalText": "context.npc_jye_athanas_knowSRO",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 560,
+        "description": "n/a",
+        "originalText": "Our member stations are the safest and most prosperous in the Underrail.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 566,
+        "description": "n/a",
+        "originalText": "You want to offer me a job?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 570,
+        "description": "n/a",
+        "originalText": "I'm all ears, Ambassador.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 574,
+        "description": "n/a",
+        "originalText": "Just take a look at the missing train scenario, the one you experienced. The Free Drones intercepted supplies headed to Rail Crossing, which was, at the time, attacked by the Faceless, and is constantly threatened by bandit raids. Tell me, $(context.player.Name), do these people, the *Free* Drones, seem like they want to help the people of this region?\r\n\r\nNo, they see *us* as the bad guys, yet their actions show how inconsiderate and selfish they truly are.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 577,
+        "description": "n/a",
+        "originalText": "context.npc_jye_athanas_ElevatorUnlock",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 578,
+        "description": "n/a",
+        "originalText": "lu-b31",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 580,
+        "description": "n/a",
+        "originalText": "jye3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 582,
+        "description": "n/a",
+        "originalText": "context.quest_deliverTradingDocs_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 594,
+        "description": "n/a",
+        "originalText": "Yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 597,
+        "description": "n/a",
+        "originalText": "context.sgs_rocksCleared",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 598,
+        "description": "n/a",
+        "originalText": "context.sgs_rocksCleared",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 606,
+        "description": "n/a",
+        "originalText": "We haven't integrated any stations here in the South Underrail, but we're hoping that will change soon.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 612,
+        "description": "n/a",
+        "originalText": "Offer might not be the right word; it's better to say, refer to you to someone who can. You see, it is my belief that you can be a powerful ally to the Underrail Protectorate and the United Stations. From how I understood Miss Hale, you've proven yourself quite, quite resourceful to SGS. And while I had no reason to doubt her, only after the recent events have I realized exactly how correct she was.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 618,
+        "description": "n/a",
+        "originalText": "$(context.player.Name), you have great potential. You see, it is my belief that you can be a powerful ally to the Underrail Protectorate and the United Stations. From how I understood Miss Hale, you've proven yourself quite, quite resourceful to SGS. And while I had no reason to doubt her, only after the recent events have I realized exactly how correct she was.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 623,
+        "description": "n/a",
+        "originalText": "I'm glad you chose the right side, $(context.player.Name), and that is why I have a proposal for you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 632,
+        "description": "n/a",
+        "originalText": "Most likely, Corporal. But I am reluctant to blame everything on the Free Drones, because if we allow ourselves that, then we might unintentionally become less attentive of our other enemies' actions; Free Drones are not the only ones, you know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 638,
+        "description": "n/a",
+        "originalText": "I don't know. Perhaps. Perhaps not. I'd rather not comment on it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 642,
+        "description": "n/a",
+        "originalText": "context.npc_jye_athanas_DiscussFreeDronesHacking",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 643,
+        "description": "n/a",
+        "originalText": "context.faction_knowFreeDrones",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 644,
+        "description": "n/a",
+        "originalText": "context.sgs_rocksCleared",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 645,
+        "description": "n/a",
+        "originalText": "context.faction_knowFreeDrones",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 646,
+        "description": "n/a",
+        "originalText": "context.sgs_rocksCleared",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 649,
+        "description": "n/a",
+        "originalText": "I've talked to some people and we have agreed that it would be beneficial for us all, United Stations, as well as you and South Gate Station, if you were to join the Protectorate ranks. Not as a common footsoldier, no. You are more valuable than that. Rather, as someone who will perform more important tasks.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 653,
+        "description": "n/a",
+        "originalText": "context.faction_protectorate_joined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 657,
+        "description": "n/a",
+        "originalText": "We'll wait for the official investigation to complete, then we'll know for sure.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 663,
+        "description": "n/a",
+        "originalText": "What sort of tasks we talking about, exactly?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 666,
+        "description": "n/a",
+        "originalText": "Your primary role will mostly be a military-oriented one, meaning you will be a part of Underrail Protectorate operations. Let's say... another train goes missing! Aren't you the right person for the job? ::He laughs.:: But, joking aside, there is more to it: You will also act as a representative of South Gate Station. Our cooperation has been very limited so far, sadly, despite Ms. Hale's commendable dedication; your involvement could elevate it to the next level.\r\n\r\nBut, more on that later; I best leave something for the consul. ::He smiles.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 674,
+        "description": "n/a",
+        "originalText": "What do I get out of all this?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 678,
+        "description": "n/a",
+        "originalText": "Is the pay good?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 682,
+        "description": "n/a",
+        "originalText": "I think that is obvious. The Protectorate is the most powerful entity in the Underrail. You will be compensated financially, and will be ensured safety and protection. That alone is worth it in this world.\r\n\r\nBut, on a grand scale, you will be helping us protect our citizens and take part in building a better future. That is priceless, $(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 688,
+        "description": "n/a",
+        "originalText": "You will be compensated generously, have no fear. But try to look at the bigger picture. You will be assisting us protect our citizens and take part in building a finer future for everyone. That is priceless, $(context.player.Name), I sincerely hope you agree.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 694,
+        "description": "n/a",
+        "originalText": "The choice is yours. If you are interested in becoming a part of the Protectorate, reach out to Consul Oliver in Fort Apogee, Upper Underrail. I had already contacted the consul and explained to him the whole situation, so he is expecting your arrival, $(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 699,
+        "description": "n/a",
+        "originalText": "pr_speakWithOliver",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 703,
+        "description": "n/a",
+        "originalText": "I'll think about it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 707,
+        "description": "n/a",
+        "originalText": "I understand perfectly well it's not an easy choice for you to make. Nevertheless, I think it would be the correct one.",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

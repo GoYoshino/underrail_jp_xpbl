@@ -1,0 +1,3708 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 81,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 82,
+        "description": "n/a",
+        "originalText": "tanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 83,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 90,
+        "description": "n/a",
+        "originalText": "::As he turns to you, Tanner gets straight to the point::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 102,
+        "description": "n/a",
+        "originalText": "::The man behind the desk is Hadrian Tanner, the councilor who admitted you into South Gate Station. Even during your first encounter with him, he struck you as an unusual-looking individual: Setting aside his impressive stature, one finds it difficult not to notice how his thick, bushy hair and beard envelop most of his head; that, in addition to his opaque glasses covering his eyes - which you've never noticed him without - means that you can see very little of his face and its expression. His somewhat dirty scavenger outfit, which he wore earlier as well, clashes with the clean finely furnished office, suggesting that Tanner probably does most of his work in the field.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 112,
+        "description": "n/a",
+        "originalText": "::, his calm and distant voice not carrying the gravity of his words.:: We've decided to assist the Black Eels. Roman is heading over there right now to discuss battle plans with Silas, after, of course, they accept our terms. He also expects you to be a part of this attack when it takes place.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 121,
+        "description": "n/a",
+        "originalText": "::.:: We've decided against helping the Black Eels. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 125,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_decidedOnGangSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 126,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 127,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 134,
+        "description": "n/a",
+        "originalText": "$(context.player.Name). I'd like to hear your explanation as to what happened at the bar.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 140,
+        "description": "n/a",
+        "originalText": "::He nods.:: $(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 146,
+        "description": "n/a",
+        "originalText": "::As soon as he finishes typing, he raises his head and reaches out to shake your hand. His big hand, tucked into dark-brown gloves, makes yours seem like that of a child in comparison, and you especially feel his large fingers to be twice as thick as yours. \r\n\r\nHis deep voice feels distant and calming when he addresses you.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 150,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 152,
+        "description": "n/a",
+        "originalText": "DutyCalls",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 153,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_endedTalkingAboutGangSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 154,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_decidedOnGangSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 157,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_gotSgsSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 159,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_decidedOnGangSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 163,
+        "description": "n/a",
+        "originalText": "What do we get out of this?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 166,
+        "description": "n/a",
+        "originalText": "Alright, I'll head over there now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 173,
+        "description": "n/a",
+        "originalText": "We're already stretched thin with all the earthquake reparations going on. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 179,
+        "description": "n/a",
+        "originalText": "With what is going on at Core City right now, we feel it would be unwise to stretch ourselves thin. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 196,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_arlene_EthansCase",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 198,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_tanner_talkedEthan",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 235,
+        "description": "n/a",
+        "originalText": "Congratulations once again, $(context.player.Name), and welcome to our small community. You scored very well on our tests; no small feat that. I'm sure you'll turn out to be a valuable and respected citizen. But more importantly, I hope you'll find peace and kinship here, which are so hard to come by in the chaos surrounding us.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 241,
+        "description": "n/a",
+        "originalText": "context.event_jygangdisc_convincedThemToSideWithGangsters",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 245,
+        "description": "n/a",
+        "originalText": "A couple of things. Most notably we get to establish an embassy there which will allow us to cooperate more closely in matters of trade and defense.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 248,
+        "description": "n/a",
+        "originalText": "context.sgs_rocksCleared",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 252,
+        "description": "n/a",
+        "originalText": "Perhaps if circumstances were different... ::He strokes his beard, appearing to be deep in thought.:: ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 256,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_SgsDeclined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 258,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_decidedOnGangSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 259,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_tanner_talkedEthan",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 266,
+        "description": "n/a",
+        "originalText": "I killed Ethan.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 270,
+        "description": "n/a",
+        "originalText": "Things got out of hand.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 275,
+        "description": "n/a",
+        "originalText": "That man was a deceiver.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 280,
+        "description": "n/a",
+        "originalText": "That man is a deceiver.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 284,
+        "description": "n/a",
+        "originalText": "I did nothing wrong.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 290,
+        "description": "n/a",
+        "originalText": "::Remain silent.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 295,
+        "description": "n/a",
+        "originalText": "Have you ever heard of the Acorn, a.k.a ACoNR?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 300,
+        "description": "n/a",
+        "originalText": "I have the Acorn. ::Show him the Acorn.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 307,
+        "description": "n/a",
+        "originalText": "There's a showdown of gangs about to happen in the Junkyard and the Black Eels want our help. ::Explain the situation.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 313,
+        "description": "n/a",
+        "originalText": "I wanted to ask you a couple of questions about Patrick Pierce.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 321,
+        "description": "n/a",
+        "originalText": "I found that Armadillo drill whatsitcalled. ::Give him the circuit board.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 326,
+        "description": "n/a",
+        "originalText": "I've reactivated the power generator, but I didn't get to any of the stations.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 332,
+        "description": "n/a",
+        "originalText": "I've reactivated the power generator, as well as some of the stations.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 339,
+        "description": "n/a",
+        "originalText": "I've reactivated the power generator, and all the stations I could find.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 346,
+        "description": "n/a",
+        "originalText": "I'm done with Bret's quest. Now what?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 354,
+        "description": "n/a",
+        "originalText": "I'm done with Gorsky's task. What's next?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 359,
+        "description": "n/a",
+        "originalText": "About that drill thingamagingy...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 365,
+        "description": "n/a",
+        "originalText": "Gorsky died in Core City.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 372,
+        "description": "n/a",
+        "originalText": "I've dealt with Rail Crossing's problem. ::Explain how Faceless invaded them.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 377,
+        "description": "n/a",
+        "originalText": "I've encountered some Faceless near Foundry. It seems they are looking for some item they lost.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 382,
+        "description": "n/a",
+        "originalText": "I found out what the Faceless are looking for. It's some sort of an electronic device that's currently in the hands of Cornell and the Acid Hunters. ::Tell him what you learned.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 389,
+        "description": "n/a",
+        "originalText": "I've found Cornell and the Acid Hunters.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 395,
+        "description": "n/a",
+        "originalText": "I've tracked the Cube thing to a Coretech research facility in Core City, but Tchortists snatched it before I could get to it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 400,
+        "description": "n/a",
+        "originalText": "About the Acorn...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 404,
+        "description": "n/a",
+        "originalText": "What can you tell me about those outposts near Crossroad Caves?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 409,
+        "description": "n/a",
+        "originalText": "Who are the Omega?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 413,
+        "description": "n/a",
+        "originalText": "What can you tell me about the Protectorate?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 417,
+        "description": "n/a",
+        "originalText": "Tell me about United Stations.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 422,
+        "description": "n/a",
+        "originalText": "What is your \"policy of neutrality\" exactly?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 427,
+        "description": "n/a",
+        "originalText": "What can you tell me about Core City?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 432,
+        "description": "n/a",
+        "originalText": "Do you have any suggestion how I should go about finding Cornell?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 437,
+        "description": "n/a",
+        "originalText": "How do you suggest I infiltrate the Institute?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 442,
+        "description": "n/a",
+        "originalText": "What do you think that Faceless artifact actually is?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 445,
+        "description": "n/a",
+        "originalText": "I'll see you later.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 450,
+        "description": "n/a",
+        "originalText": "DEBUG: Play Faceless Invasion cutscene",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 455,
+        "description": "n/a",
+        "originalText": "I'll try my best not to disappoint.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 459,
+        "description": "n/a",
+        "originalText": "I have yet to get to know other Southgaters, but I have a good feeling I'll fit in with the rest of the crowd pretty well.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 463,
+        "description": "n/a",
+        "originalText": "Is there going to be a welcoming party or something?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 467,
+        "description": "n/a",
+        "originalText": "We are granted some military presence at the docks and the Old Junkyard gate, which we can use to deter any potential Protectorate action there. But at the same time, this might bring us closer to a military conflict with them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 472,
+        "description": "n/a",
+        "originalText": "No, there's little we can accomplish at this point. You should forget about this and carry on with your other tasks.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 475,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_ethan_died_sgs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 478,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_ethan_died_sgs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 482,
+        "description": "n/a",
+        "originalText": "Tell me exactly what happened. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 485,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_ethan_died_sgs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 486,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_ethan_died_sgs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 487,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_tanner_talkedEthan_remainSilent",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 491,
+        "description": "n/a",
+        "originalText": "::He leans on his desk.:: I'm waiting.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 495,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_tanner_talkedEthan_remainSilent",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 502,
+        "description": "n/a",
+        "originalText": "ACoNR? Why do you ask me this?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 510,
+        "description": "n/a",
+        "originalText": "::His answer is immediate and spoken with obvious satisfaction.:: This is it. ACoNR. \r\n\r\nHas it been opened?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 524,
+        "description": "n/a",
+        "originalText": "::Tanner listens to you calmly. After you're finished he runs his hand once over his beard before responding.:: I wasn't aware that the tensions have escalated that far. This is quite a serious matter.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 528,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_startedTalkingAboutGangSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 530,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_askedToSupportEels",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 536,
+        "description": "n/a",
+        "originalText": "::He stares at you for a moment before responding.:: Lenox is back again, I reckon?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 542,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_tanner_askPatPierce",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 549,
+        "description": "n/a",
+        "originalText": "That's excellent news. I'll get this to Harold so he can start repairing the drill immediately. This will aid us in clearing the tunnels significantly.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 553,
+        "description": "n/a",
+        "originalText": "plot.armadilloRotor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 555,
+        "description": "n/a",
+        "originalText": "context.quest_findRotor_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 557,
+        "description": "n/a",
+        "originalText": "findRotor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 562,
+        "description": "n/a",
+        "originalText": "This won't do. We need at least some of the stations activated before we can redeploy there.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 574,
+        "description": "n/a",
+        "originalText": "Good work, $(context.player.Name). We can now start the restoration process.\r\n\r\nHere are your credits.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MNLA.MNLA:NN",
+        "objectId": 584,
+        "description": "n/a",
+        "originalText": "tanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 598,
+        "description": "n/a",
+        "originalText": "Excellent, I have another task for you. Gorsky has led an expedition into the nearby GMS compound and he requested that you specifically join them there. Go to station platform exit and talk to Essie. She can instruct you on how to reach GMS compound.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 602,
+        "description": "n/a",
+        "originalText": "context.HopperRoundUpQuestReported",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 604,
+        "description": "n/a",
+        "originalText": "bretQuestForTanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 613,
+        "description": "n/a",
+        "originalText": "Harold informed me that the minibot you requested is ready, and that you should see him when you have the chance. But other than that, ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 619,
+        "description": "n/a",
+        "originalText": "Actually, ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 623,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_prologTaskListCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 625,
+        "description": "n/a",
+        "originalText": "gorskyQuestForTanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 631,
+        "description": "n/a",
+        "originalText": "Armadillo class drill rotor circuit board? ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 638,
+        "description": "n/a",
+        "originalText": "::Tanner stares at you silently.:: Tell me what happened?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 643,
+        "description": "n/a",
+        "originalText": "context.loc_sgs_toldGorskyDied",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 649,
+        "description": "n/a",
+        "originalText": "::Tanner listens to you calmly. After you're finished he runs his hand once over his beard before responding.:: Hmm... interesting. Did you manage to find out why the Faceless invaded?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 657,
+        "description": "n/a",
+        "originalText": "context.quest_assistRailCrossing_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 659,
+        "description": "n/a",
+        "originalText": "assistRailCrossing",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 664,
+        "description": "n/a",
+        "originalText": "Hmm... This is very interesting. Did you manage to find out what this item is?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 675,
+        "description": "n/a",
+        "originalText": "::He nods slowly.:: We must find this item and discover what it is.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 685,
+        "description": "n/a",
+        "originalText": "::Tanner leans in curiously.:: Excellent. And what of the device? Did you get a hold of it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 692,
+        "description": "n/a",
+        "originalText": "context.quest_findCornell_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 694,
+        "description": "n/a",
+        "originalText": "findCornell",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 701,
+        "description": "n/a",
+        "originalText": "::Tanner strokes his beard and responds calmly.:: That is unfortunate. This makes your mission all the more important since we cannot afford to leave a powerful artifact in the hands of religious zealots.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 705,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_toldAboutTchortistsSnatchingCube",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 710,
+        "description": "n/a",
+        "originalText": "You wanted to ask me something?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 717,
+        "description": "n/a",
+        "originalText": "They were used by the Omega as a part of the defensive perimeter against our station. We managed to break the perimeter, though and they've lain in ruin ever since.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 720,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_mentionedOmega",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 724,
+        "description": "n/a",
+        "originalText": "They were a neighboring station, but unfortunately some hotheads - primarily on their side - decided that coexistence was not possible. A minor incident escalated into a series of skirmishes and then, finally, into a war.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 730,
+        "description": "n/a",
+        "originalText": "I could tell you a lot, but the important thing for you to know is that it's primarily a military organization led by General Melek. Their goal is to unite all of the Underrail under their control. For what reason exactly - that is debatable.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 736,
+        "description": "n/a",
+        "originalText": "United Stations organization is a diplomatic off-shot of the Protectorate. It seeks to unify the stations through \"peaceful\" means where possible through politics and economy.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 739,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_policyOfNeutrality",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 743,
+        "description": "n/a",
+        "originalText": "It is the position we've taken in regards to the Protectorate and the United Stations in regards to their effort to unite the whole of Underrail under their control.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 746,
+        "description": "n/a",
+        "originalText": "context.facelessInvaded",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 751,
+        "description": "n/a",
+        "originalText": "It's a city spanning both Lower and Upper that used to be one of the main Old Biocorp communities. Now it's run by three Oligarchs. Each with his own organization.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 759,
+        "description": "n/a",
+        "originalText": "If they are indeed holed up in Core City, perhaps one of the organizations run by the Oligarchs could be of assistance there, though you would have to gain their favor somehow.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 767,
+        "description": "n/a",
+        "originalText": "I'm not sure. You could always try going to their gates in Upper Underrail and asking how one would go about joining them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 770,
+        "description": "n/a",
+        "originalText": "context.quest_findOutWhatFacelessWant_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 774,
+        "description": "n/a",
+        "originalText": "A weapon... or a part of it. What else could have goaded the Faceless to raise up such force against Core City?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 777,
+        "description": "n/a",
+        "originalText": "context.debug",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 780,
+        "description": "n/a",
+        "originalText": "I don't have anything more for you to do right now, $(context.player.Name). Go and take some rest. You've more than deserved it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 787,
+        "description": "n/a",
+        "originalText": "That is good to hear.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MNLA.MNLA:NN",
+        "objectId": 791,
+        "description": "n/a",
+        "originalText": "tanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 795,
+        "description": "n/a",
+        "originalText": "::He nods.:: I believe so, too. People from many different backgrounds reside in this station. Whatever your interests may be, I'm sure you'll find someone who shares them here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 801,
+        "description": "n/a",
+        "originalText": "That's usually the case, but sadly not this time. The current situation does not allow for one at the moment. Perhaps when things calm down a bit.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 806,
+        "description": "n/a",
+        "originalText": "Interesting times lie ahead for SGS.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 810,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_ethan_old",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 811,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_ethan_angered_sgs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 821,
+        "description": "n/a",
+        "originalText": "plot.xpbl_acorn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 822,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_tanner_mentionAcorn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 823,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_acorn_gaveTo",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 835,
+        "description": "n/a",
+        "originalText": "plot.xpbl_acorn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 836,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_tanner_mentionAcorn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 837,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_acorn_gaveTo",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 842,
+        "description": "n/a",
+        "originalText": "I know it needs the coded signal, but I don't have it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 847,
+        "description": "n/a",
+        "originalText": "No. I don't know how.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 852,
+        "description": "n/a",
+        "originalText": "I haven't found a way to open it yet. I thought someone else would know more.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 853,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 854,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 855,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_gotSgsSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 856,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_gotUSSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 857,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_startedTalkingAboutGangSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 860,
+        "description": "n/a",
+        "originalText": "We'll need to assemble the council for this. Follow me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 864,
+        "description": "n/a",
+        "originalText": "context.quest_watch_SGSMurderStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 865,
+        "description": "n/a",
+        "originalText": "context.quest_watch_SGSMurderCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 866,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_tanner_askPatPierce",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 870,
+        "description": "n/a",
+        "originalText": "Why won't you help him, he just wants to find out what happened to his brother?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 874,
+        "description": "n/a",
+        "originalText": "I just want to help the man out. He's down at the bar right now, not too far off from drowning in alcohol.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 875,
+        "description": "n/a",
+        "originalText": "context.quest_findRotor_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 876,
+        "description": "n/a",
+        "originalText": "context.quest_findRotor_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 877,
+        "description": "n/a",
+        "originalText": "plot.armadilloRotor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 878,
+        "description": "n/a",
+        "originalText": "context.quest_retakingOldOutposts_state",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 880,
+        "description": "n/a",
+        "originalText": "context.quest_retakingOldOutposts_ActivatedOutposts",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 885,
+        "description": "n/a",
+        "originalText": "I'll get right on it, but I have some questions first.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 888,
+        "description": "n/a",
+        "originalText": "I understand. I'll be back later.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 889,
+        "description": "n/a",
+        "originalText": "context.quest_retakingOldOutposts_state",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 891,
+        "description": "n/a",
+        "originalText": "context.quest_retakingOldOutposts_ActivatedOutposts",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 893,
+        "description": "n/a",
+        "originalText": "context.quest_retakingOldOutposts_ActivatedOutposts",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 896,
+        "description": "n/a",
+        "originalText": "context.quest_retakingOldOutposts_state",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 898,
+        "description": "n/a",
+        "originalText": "RetakingOldOutposts",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 903,
+        "description": "n/a",
+        "originalText": "Excellent. So what's next on the agenda?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 907,
+        "description": "n/a",
+        "originalText": "So. I'll be going now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 911,
+        "description": "n/a",
+        "originalText": "context.quest_retakingOldOutposts_state",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 913,
+        "description": "n/a",
+        "originalText": "context.quest_retakingOldOutposts_ActivatedOutposts",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 918,
+        "description": "n/a",
+        "originalText": "context.findNewtonCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 919,
+        "description": "n/a",
+        "originalText": "context.HopperRoundUpQuestComplete",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 920,
+        "description": "n/a",
+        "originalText": "context.HopperRoundUpQuestReported",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 923,
+        "description": "n/a",
+        "originalText": "After you've completed this task come and see me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 929,
+        "description": "n/a",
+        "originalText": "talkToGorskyAtGms",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 931,
+        "description": "n/a",
+        "originalText": "gorskyQuestForTanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 933,
+        "description": "n/a",
+        "originalText": "context.quest_allInTheDaysWork_state",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 935,
+        "description": "n/a",
+        "originalText": "context.loc_gms_heard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 936,
+        "description": "n/a",
+        "originalText": "context.gorsky_GMS_Completed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 937,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_prologTaskListCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 947,
+        "description": "n/a",
+        "originalText": "there's not much to do around the station at the moment. Not until the tunnel is clear.\r\n\r\nHowever, there's a way you could speed that up, besides helping with the actual digging yourself.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 953,
+        "description": "n/a",
+        "originalText": "context.loc_dun_lup-a_explorer_haroldShouldMessage",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 954,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_playerConsidersRotorQuest",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 955,
+        "description": "n/a",
+        "originalText": "context.quest_findRotor_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 959,
+        "description": "n/a",
+        "originalText": "I'll give you two hundred fifty charons. If you bring me back that circuit board and it's in working condition, you can keep all the money. I won't ask how you got it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 962,
+        "description": "n/a",
+        "originalText": "context.loc_sgs_toldGorskyDied",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 963,
+        "description": "n/a",
+        "originalText": "context.npc_gorsky_died",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 967,
+        "description": "n/a",
+        "originalText": "We were trying to take a position north of Core City. The place there used to belong Gorsky's former gang, but it was later overtaken by another gang. We secured the location, but Gorsky didn't make it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 968,
+        "description": "n/a",
+        "originalText": "context.quest_assistRailCrossing_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 969,
+        "description": "n/a",
+        "originalText": "context.quest_assistRailCrossing_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 970,
+        "description": "n/a",
+        "originalText": "context.loc_rc_facelessProblemResolved",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 975,
+        "description": "n/a",
+        "originalText": "They are looking for some important item, but I don't know what it is.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 980,
+        "description": "n/a",
+        "originalText": "They are looking for some important item. I don't know what it is, but it seems they've sent out more than just one search party.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 985,
+        "description": "n/a",
+        "originalText": "I have a reason to believe it's some sort of an electronic device that's currently in the hands of Cornell and the Acid Hunters gang from Core City.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 989,
+        "description": "n/a",
+        "originalText": "No.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 990,
+        "description": "n/a",
+        "originalText": "context.npc_fofaceless_mentionedMissingObject",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 991,
+        "description": "n/a",
+        "originalText": "context.quest_findOutWhatFacelessWant_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 996,
+        "description": "n/a",
+        "originalText": "It's some sort of an electronic device that is currently in the possession of some guy named Cornell, leader of the Acid Hunters gang from Core City.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1000,
+        "description": "n/a",
+        "originalText": "Not yet, I'm afraid.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1001,
+        "description": "n/a",
+        "originalText": "context.quest_findOutWhatFacelessWant_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1002,
+        "description": "n/a",
+        "originalText": "context.quest_findOutWhatFacelessWant_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1003,
+        "description": "n/a",
+        "originalText": "context.global_heardAboutAcidHunters",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1013,
+        "description": "n/a",
+        "originalText": "::His voice deepens slightly and becomes a bit more commanding.:: You must go to Core City and look for this \"Acid Hunters\" band and their leader Cornell. Retrieve the device from him if he still has it, or at least try to find out what it is and how he got it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1016,
+        "description": "n/a",
+        "originalText": "context.quest_findCornell_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1017,
+        "description": "n/a",
+        "originalText": "context.quest_findCornell_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1021,
+        "description": "n/a",
+        "originalText": "context.quest_getCube_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1023,
+        "description": "n/a",
+        "originalText": "getCube",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1028,
+        "description": "n/a",
+        "originalText": "No, but I know it's in the hands of Coretech organization.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1033,
+        "description": "n/a",
+        "originalText": "No, they didn't have it on them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1034,
+        "description": "n/a",
+        "originalText": "context.global_sawTchoristsSnatchCube",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1035,
+        "description": "n/a",
+        "originalText": "context.quest_getCube_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1036,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_toldAboutTchortistsSnatchingCube",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1040,
+        "description": "n/a",
+        "originalText": "There's an \"Institute of Tchort\" located in the Upper Underrail; the Tchortists must have taken the Cube there. You know what must be done, $(context.player.Name). Find a way to infiltrate it and retrieve the Cube.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 1043,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_acorn_gaveTo",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 1044,
+        "description": "n/a",
+        "originalText": "tanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1059,
+        "description": "n/a",
+        "originalText": "One of the entrances to the Omega base lies to the north of them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1063,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_mentionedOmega",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1067,
+        "description": "n/a",
+        "originalText": "Unfortunately for them, we were stronger and it was we who ended the war. They no longer have a station or a community, but we paid a high price as well.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1073,
+        "description": "n/a",
+        "originalText": "Ignore the opinionated voices telling you the Protectorate is your friend or your enemy - it is neither. The existence of such an organization at this point is unavoidable considering the political climate. While its manifestation could have been better, know that it could have been worse as well. Much worse.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1079,
+        "description": "n/a",
+        "originalText": "Make no mistake, though, United Stations are under Protectorate control and are effectively one organization. However, the United Station administration is not as monolithic as that of the Protectorate.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1085,
+        "description": "n/a",
+        "originalText": "We are not necessarily against the idea of unification, but at this point it would not be beneficial for us to be merged into this large centralized organization, since we stand to lose more than we might gain.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1093,
+        "description": "n/a",
+        "originalText": "It hosts the Arena and the Gauntlet, the most profitable tourist attractions in the South. Blood sports always were very appealing to humans.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1097,
+        "description": "n/a",
+        "originalText": "context.loc_cc_knowOligarchy",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1098,
+        "description": "n/a",
+        "originalText": "context.quest_findCornell_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1099,
+        "description": "n/a",
+        "originalText": "context.quest_findCornell_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1103,
+        "description": "n/a",
+        "originalText": "Many prominent members of those organizations frequent the Arena, so that might be a good place to acquire contacts.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1106,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_toldAboutTchortistsSnatchingCube",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1107,
+        "description": "n/a",
+        "originalText": "context.faction_tchortists_joined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1111,
+        "description": "n/a",
+        "originalText": "But from what I hear, they are not accepting new members easily. I advise you to tread carefully there. They are probably looking for certain characteristics in their candidates. You just have to find out what those are.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1117,
+        "description": "n/a",
+        "originalText": "I admit that I don't know as much about the Faceless as I would like, though, so I might be wrong.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1134,
+        "description": "n/a",
+        "originalText": "::Retire for the day.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1138,
+        "description": "n/a",
+        "originalText": "I hope the earthquake didn't disturb you much and you were able to rest a bit from all the testing, for you have much work to do today. Events have transpired that require your attention. Are you ready for some field work?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1148,
+        "description": "n/a",
+        "originalText": "I see. I'll head over there now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1153,
+        "description": "n/a",
+        "originalText": "I discovered he's been using psionics to make himself appear young and confronted him about it. He got mad and attacked me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1158,
+        "description": "n/a",
+        "originalText": "I discovered he's been using psionics to make himself appear young and confronted him about it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1163,
+        "description": "n/a",
+        "originalText": "I discovered he's been using psionics to make himself appear young and wanted to expose him.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1168,
+        "description": "n/a",
+        "originalText": "I suppose I accidentally managed to reveal him to be a fraud, as he was using psionics to make himself appear young.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1173,
+        "description": "n/a",
+        "originalText": "I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could benefit the station greatly.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1178,
+        "description": "n/a",
+        "originalText": "All I know is that it's somehow connected to certain high-tech machines capable of traversing great distances, even reaching the Surface. It could benefit the station greatly.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1183,
+        "description": "n/a",
+        "originalText": "It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could benefit the station greatly.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1188,
+        "description": "n/a",
+        "originalText": "It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could benefit the station greatly.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1193,
+        "description": "n/a",
+        "originalText": "It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could benefit the station greatly.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1197,
+        "description": "n/a",
+        "originalText": "Never mind. There was something else I wanted to ask you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 1198,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_knowACoNR_level",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1203,
+        "description": "n/a",
+        "originalText": "That's a problem. The quantum near-field locks ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 1206,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_knowACoNR_level",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1211,
+        "description": "n/a",
+        "originalText": "ACoNR has what's called a quantum near-field lock. The lock ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 1214,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_knowACoNR_level",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1219,
+        "description": "n/a",
+        "originalText": "::Follow him.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1223,
+        "description": "n/a",
+        "originalText": "It is not a matter of us not wanting to help him. We've done all we could. Patrick died in his sleep, Pasquale examined him after death and again after that, on Lenox' insistence. No visible traces of injury, external or internal. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1229,
+        "description": "n/a",
+        "originalText": "As do I, but we've done all we could. Patrick died in his sleep, Pasquale examined him after death and again after that, on Lenox' insisting. No visible traces of injury, external or internal. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1235,
+        "description": "n/a",
+        "originalText": "Yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1241,
+        "description": "n/a",
+        "originalText": "There are a few more jobs waiting for you actually. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MNLA.MNLA:NN",
+        "objectId": 1245,
+        "description": "n/a",
+        "originalText": "tanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1249,
+        "description": "n/a",
+        "originalText": "Not so fast. There are a few more jobs waiting for you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".D2.D2:C",
+        "objectId": 1254,
+        "description": "n/a",
+        "originalText": "messages\\tanner/prologSecondaryTasks",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".D2.D2:N",
+        "objectId": 1255,
+        "description": "n/a",
+        "originalText": "Tasks",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".D2.D2:P",
+        "objectId": 1256,
+        "description": "n/a",
+        "originalText": "tanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".D2.D2:A",
+        "objectId": 1257,
+        "description": "n/a",
+        "originalText": "Tanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1258,
+        "description": "n/a",
+        "originalText": "context.loc_dun_lup-a_explorer_requested",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1259,
+        "description": "n/a",
+        "originalText": "context.quest_sgs_dun_investigateUnderPassages_completed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1260,
+        "description": "n/a",
+        "originalText": "context.quest_sgs_dun_investigateUnderPassages_toldExplorerSentToHarland",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1261,
+        "description": "n/a",
+        "originalText": "context.quest_sgs_dun_investigateUnderPassages_harlandTalkedPoweringExplorer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1262,
+        "description": "n/a",
+        "originalText": "context.loc_dun_lup-a_explorer_died",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1263,
+        "description": "n/a",
+        "originalText": "context.loc_dun_lup-a_explorer_activated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1267,
+        "description": "n/a",
+        "originalText": "The station has an old Armadillo mobile drill. It used to serve us well for many years but it's out of commission now. There's something wrong with its rotor circuit board.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1272,
+        "description": "n/a",
+        "originalText": "But if you can't find it, I want the money back.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1280,
+        "description": "n/a",
+        "originalText": "That is a very unfortunate outcome of that event. It saddens me to hear what you've told me, as we've known each other for many years and have made this station what it is now, but the negative effect this will have on our station far outweighs my personal feelings. I will speak to the council on this matter.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1283,
+        "description": "n/a",
+        "originalText": "context.npc_rcmindreader_lookingForAnItem",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1289,
+        "description": "n/a",
+        "originalText": "My thoughts as well. If you manage to find out what it is they are looking for exactly, let me know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1292,
+        "description": "n/a",
+        "originalText": "context.npc_rcmindreader_manySearchParties",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1300,
+        "description": "n/a",
+        "originalText": "It seems to me they are looking for something. If you manage to find out what, do let me know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1310,
+        "description": "n/a",
+        "originalText": "It seems to me they are looking for something. If you manage to find out what, do let me know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1316,
+        "description": "n/a",
+        "originalText": "But be careful: It goes without saying that getting between the Faceless and their quarry is dangerous, but, if this item is so important, chances are other powerful factions will be looking for it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1320,
+        "description": "n/a",
+        "originalText": "context.quest_findCornell_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1322,
+        "description": "n/a",
+        "originalText": "findCornell",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1324,
+        "description": "n/a",
+        "originalText": "context.quest_findOutWhatFacelessWant_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1326,
+        "description": "n/a",
+        "originalText": "context.quest_findOutWhatFacelessWant_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1328,
+        "description": "n/a",
+        "originalText": "findOutWhatFacelessWant",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 1330,
+        "description": "n/a",
+        "originalText": "findOutWhatFacelessWant",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1331,
+        "description": "n/a",
+        "originalText": "context.npc_cc_cornell_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1332,
+        "description": "n/a",
+        "originalText": "context.loc_cc-s_beenToCornell",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1338,
+        "description": "n/a",
+        "originalText": "You need to find a way to take it from them. Coretech can be a reckless organization. They inherited some of Old Biocorp's technology, but none of the wisdom. They should not be allowed to tinker with Faceless artifacts.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1341,
+        "description": "n/a",
+        "originalText": "context.global_sawTchoristsSnatchCube",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1345,
+        "description": "n/a",
+        "originalText": "Keep looking for it then. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1353,
+        "description": "n/a",
+        "originalText": "What does the Acorn do exactly?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1359,
+        "description": "n/a",
+        "originalText": "Can you describe how it works?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1364,
+        "description": "n/a",
+        "originalText": "Did NFT make them? They seem far too advanced when compared to the rest of the technology they have.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1369,
+        "description": "n/a",
+        "originalText": "Where could the other ones be?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1374,
+        "description": "n/a",
+        "originalText": "What's going to happen with the Acorn now?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1378,
+        "description": "n/a",
+        "originalText": "Let's talk about something else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1382,
+        "description": "n/a",
+        "originalText": "All of that could have been avoided, but what's done is done.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1389,
+        "description": "n/a",
+        "originalText": "As far as SGS is concerned, we're pursuing a clear policy of neutrality.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1395,
+        "description": "n/a",
+        "originalText": "This will - I predict - at some point, when a certain strong figure is no longer in place, bring about interesting events.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1401,
+        "description": "n/a",
+        "originalText": "Also, many of our members came from different organizations that were, at various points, in one conflict or another with the Protectorate. Allowing Protectorate laws, and more importantly troops, jurisdiction over our territory may bring harm to our citizens. We cannot have that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1407,
+        "description": "n/a",
+        "originalText": "Be careful when you visit. Though the city proper is policed by the Oligarchs, the fringes run rampant with gangs and other undesirables.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1411,
+        "description": "n/a",
+        "originalText": "context.loc_cc_knowArena",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1413,
+        "description": "n/a",
+        "originalText": "context.loc_cc_knowGauntlet",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1417,
+        "description": "n/a",
+        "originalText": "They will most certainly expect you to believe or be accepting of whatever silly doctrine they hold dear.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1421,
+        "description": "n/a",
+        "originalText": "context.facelessInvaded",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1423,
+        "description": "n/a",
+        "originalText": "context.sgs_rocksCleared",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1431,
+        "description": "n/a",
+        "originalText": "context.hidePlayer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 1437,
+        "description": "n/a",
+        "originalText": "FacelessInvadeCoreCity",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1445,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1449,
+        "description": "n/a",
+        "originalText": "Heck yeah! Do I get to shoot stuff?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1453,
+        "description": "n/a",
+        "originalText": "Ready and able. So what's up?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1457,
+        "description": "n/a",
+        "originalText": "As ready as I'll ever be. What's the plan?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1461,
+        "description": "n/a",
+        "originalText": "How much damage did the earthquake cause?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1466,
+        "description": "n/a",
+        "originalText": "Work? Already?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1467,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_ethan_died_sgs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1472,
+        "description": "n/a",
+        "originalText": "Everyone in the cafeteria saw what happened, and your version of the event matches theirs. Considering you acted in self-defense, you will not be punished. However, you did provoke Lanford, and the end result is obvious.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1475,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_ethan_died_sgs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1479,
+        "description": "n/a",
+        "originalText": "You haven't done anything wrong. On the contrary, you've exposed a fraud, and I haven't brought you here to punish you. The event did, however, cause unrest among the people. The next time you have any suspicions regarding any person or event in the station, bring it either to Gorsky, me, or to whomever is available.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1482,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_ethan_died_sgs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 1483,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_knowACoNR_level",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1488,
+        "description": "n/a",
+        "originalText": "It certainly would. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1496,
+        "description": "n/a",
+        "originalText": "Surface? Interesting. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 1499,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_knowACoNR_level",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1504,
+        "description": "n/a",
+        "originalText": "::He nods.:: The information I have suggests the same. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 1507,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_knowACoNR_level",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 1509,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_knowACoNR_level",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1514,
+        "description": "n/a",
+        "originalText": "Wait, $(context.player.Name). I know about ACoNR. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1519,
+        "description": "n/a",
+        "originalText": "can only be opened with an appropriate coded signal. They've never been beaten as far as I'm aware.\r\n\r\nBut, even as is, ACoNR is still of immense value to this station. ::He reaches for the Acorn.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 1525,
+        "description": "n/a",
+        "originalText": "Sgs_JunkyardConfictDisscusion",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1529,
+        "description": "n/a",
+        "originalText": "The body is still being kept on ice, even after a month or so as he refuses to bury him. These things happen, he might have gotten in contact with something toxic and, unfortunately, he passed on. I'm afraid Lenox is just looking for someone to blame for his loss so he could relieve his pain in a certain way.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1538,
+        "description": "n/a",
+        "originalText": "Bret needs someone to do a hopper round up. He'll instruct you on what exactly you need to do and how to do it. Go speak to him on the agronomy level.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1552,
+        "description": "n/a",
+        "originalText": "Harold tried to fix it a couple of times, but it was no use. He reckons that the only solution is to replace it. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1564,
+        "description": "n/a",
+        "originalText": "Deal. I'll be back with the circuit board or with your money.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1569,
+        "description": "n/a",
+        "originalText": "Hmm, I'll have to think about it. I'm not sure if I want to invest my time for uncertain pay.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1573,
+        "description": "n/a",
+        "originalText": "Thank you for bringing me this information, $(context.player.Name); you have done well once again.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1579,
+        "description": "n/a",
+        "originalText": "Anyway, it was a job well done. Here's your payment. ::He hands you 500 SGS credits.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1584,
+        "description": "n/a",
+        "originalText": "context.quest_findOutWhatFacelessWant_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1586,
+        "description": "n/a",
+        "originalText": "findOutWhatFacelessWant",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1587,
+        "description": "n/a",
+        "originalText": "context.npc_rcbuzzer_guess",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1588,
+        "description": "n/a",
+        "originalText": "context.global_heardAboutAcidHunters",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1590,
+        "description": "n/a",
+        "originalText": "context.quest_findOutWhatFacelessWant_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1592,
+        "description": "n/a",
+        "originalText": "findOutWhatFacelessWant",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1593,
+        "description": "n/a",
+        "originalText": "context.npc_rcbuzzer_guess",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1594,
+        "description": "n/a",
+        "originalText": "context.global_heardAboutAcidHunters",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1596,
+        "description": "n/a",
+        "originalText": "context.quest_findOutWhatFacelessWant_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1598,
+        "description": "n/a",
+        "originalText": "findOutWhatFacelessWant",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1601,
+        "description": "n/a",
+        "originalText": "Make this task your priority and keep me informed on the progress.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1605,
+        "description": "n/a",
+        "originalText": "context.npc_cc_cornell_toldHowEdmundDied",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1606,
+        "description": "n/a",
+        "originalText": "context.global_sawTchoristsSnatchCube",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1611,
+        "description": "n/a",
+        "originalText": "It would be the best if you'd bring the device to me before any more bad things happen. Then we can decide what to do with it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1619,
+        "description": "n/a",
+        "originalText": "In the simplest of terms, ACoNR is a completely autonomous device capable of constructing highly complex objects and machinery. You will understand better once I elaborate further.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1623,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_tanner_toldAcornCreation",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1630,
+        "description": "n/a",
+        "originalText": "Each ACoNR unit contains a spherical supercomputer built into it - and powering its AI - with billions of nanobots under its control and the ability to produce more if needed. It also has a high-capacity power supply, but over the course of the unit's operation, that supply will run out; I will explain it further on.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1634,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_tanner_toldAcornFunctions",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1635,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_tanner_toldAcornFunctions",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1639,
+        "description": "n/a",
+        "originalText": "Everything I know about them suggests that they manufactured ACoNR units. That doesn't exclude the fact that they may have obtained the technology from some other supercorporation, even if I have no information that can support it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1642,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_tanner_toldAcornFunctions",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1646,
+        "description": "n/a",
+        "originalText": "It is likely that other supercorporations had them, at least according to various sources. New Frontier Technologies produced ACoNR units not only for themselves, but were apparently commissioned by others to do so.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1649,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_tanner_toldAcornFunctions",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1652,
+        "description": "n/a",
+        "originalText": "We can't activate it without the coded signal, so the next step would be to attempt to find the corresponding one. In the meantime, we can study it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1659,
+        "description": "n/a",
+        "originalText": "Go ahead.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1663,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_policyOfNeutrality",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1667,
+        "description": "n/a",
+        "originalText": "Perhaps at a different point, after the Protectorate and the United Stations are adequately reformed and a broad amnesty agreement is put in place regarding previous conflict... Perhaps then the time of unification will come.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 1670,
+        "description": "n/a",
+        "originalText": "LU-SouthGateStation-N",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 1672,
+        "description": "n/a",
+        "originalText": "LU-SouthGateStation",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ALMJ.ALMJ:A",
+        "objectId": 1674,
+        "description": "n/a",
+        "originalText": "Tanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ALMJ.ALMJ:P",
+        "objectId": 1675,
+        "description": "n/a",
+        "originalText": "tanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ALMJ.ALMJ:C",
+        "objectId": 1676,
+        "description": "n/a",
+        "originalText": "messages\\tanner/afterInvasion",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ALMJ.ALMJ:N",
+        "objectId": 1677,
+        "description": "n/a",
+        "originalText": "Urgent",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ALMJ.ALMJ:A",
+        "objectId": 1678,
+        "description": "n/a",
+        "originalText": "Big Bret",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ALMJ.ALMJ:P",
+        "objectId": 1679,
+        "description": "n/a",
+        "originalText": "bigBret",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ALMJ.ALMJ:C",
+        "objectId": 1680,
+        "description": "n/a",
+        "originalText": "messages\\BigBret/campHathor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ALMJ.ALMJ:N",
+        "objectId": 1681,
+        "description": "n/a",
+        "originalText": "Camp Hathor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ALMJ.ALMJ:A",
+        "objectId": 1682,
+        "description": "n/a",
+        "originalText": "Harold",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ALMJ.ALMJ:P",
+        "objectId": 1683,
+        "description": "n/a",
+        "originalText": "harold",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ALMJ.ALMJ:C",
+        "objectId": 1684,
+        "description": "n/a",
+        "originalText": "messages\\harold/batteries",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ALMJ.ALMJ:N",
+        "objectId": 1685,
+        "description": "n/a",
+        "originalText": "Semi-urgent",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 1686,
+        "description": "n/a",
+        "originalText": "jye3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 1688,
+        "description": "n/a",
+        "originalText": "GammaCompound3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ALMJ.ALMJ:A",
+        "objectId": 1690,
+        "description": "n/a",
+        "originalText": "Public Feed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ALMJ.ALMJ:C",
+        "objectId": 1691,
+        "description": "n/a",
+        "originalText": "messages\\SUSF/Faceless",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ALMJ.ALMJ:N",
+        "objectId": 1692,
+        "description": "n/a",
+        "originalText": "Faceless",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1695,
+        "description": "n/a",
+        "originalText": "Probably, yes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1703,
+        "description": "n/a",
+        "originalText": "There are multiple events I need you to take part in, but one thing at a time.\r\n",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1708,
+        "description": "n/a",
+        "originalText": "First, you can have your weapon back. Lucas at the armory should have it. And while you're there, you might want to drop by the shooting range; since you'll be doing some field work today it might not be a bad idea to warm up in case things get ugly. Speak to Gorsky if he's there, he'll help you set up for some practice sessions. However, that is entirely up to you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1717,
+        "description": "n/a",
+        "originalText": "Not much damage to the station itself; there were no casualties, fortunately. Regardless, the railroad tunnel has caved in so we're cut-off until the rubble has been cleared up. It is nothing that you should be concerning yourself with at this point in time. Now, back to the business at hand...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1723,
+        "description": "n/a",
+        "originalText": "I'm afraid so. Under normal circumstances, I would give you some time to get acclimated to the station, but, as I said, multiple unexpected events took place and we need all able hands at the deck. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MNLA.MNLA:NN",
+        "objectId": 1727,
+        "description": "n/a",
+        "originalText": "tanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1728,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_ethan_died_sgs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1731,
+        "description": "n/a",
+        "originalText": "We don't want trouble in this station, and safety of all our residents and visitors is one of the major reasons why we are a respectable station. If you jeopardize that, you will find yourself no longer to be a part of this community.\r\n\r\nI hope I am well understood.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1741,
+        "description": "n/a",
+        "originalText": "I've had the opportunity to study this technology at one time. I was fortunate enough to obtain information, but the hardware itself has proven impossible to find. \r\n\r\nBut how do you know about the ACoNR?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 1748,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_knowACoNR_level",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1750,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_knowHorizon",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1754,
+        "description": "n/a",
+        "originalText": "Here. ::Give it to him.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1758,
+        "description": "n/a",
+        "originalText": "It took a lot of effort for me to get this. I'd prefer if I got paid first.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1761,
+        "description": "n/a",
+        "originalText": "After you've completed this task come and see me again.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1767,
+        "description": "n/a",
+        "originalText": "talkToBretForRoundup",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1769,
+        "description": "n/a",
+        "originalText": "context.talkToBretForRoundupStart",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1771,
+        "description": "n/a",
+        "originalText": "bretQuestForTanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>NEI#-.LIDP:P",
+        "objectId": 1772,
+        "description": "n/a",
+        "originalText": "currency\\sgscredits",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>NEI#-.LIDP:P",
+        "objectId": 1773,
+        "description": "n/a",
+        "originalText": "currency\\sgscredits",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1777,
+        "description": "n/a",
+        "originalText": "So I guess you want me to find the replacement circuit board?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1781,
+        "description": "n/a",
+        "originalText": "::He nods and hands you the money.:: Good luck.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1785,
+        "description": "n/a",
+        "originalText": "findRotor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1787,
+        "description": "n/a",
+        "originalText": "context.quest_findRotor_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1791,
+        "description": "n/a",
+        "originalText": "context.npc_vera_learnedAboutTradeDocShipment",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1793,
+        "description": "n/a",
+        "originalText": "talkToVeraAboutDocs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1796,
+        "description": "n/a",
+        "originalText": "Alright, fair enough. Let me know if you decide to have a go at it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1800,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_playerConsidersRotorQuest",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1805,
+        "description": "n/a",
+        "originalText": "Thanks.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1808,
+        "description": "n/a",
+        "originalText": "Alright.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1810,
+        "description": "n/a",
+        "originalText": "context.quest_getCube_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 1811,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_knowACoNR_level",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1813,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_tanner_toldAcornCreation",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1814,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_tanner_toldAcornCreation",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 1815,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_knowACoNR_level",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1836,
+        "description": "n/a",
+        "originalText": "But the origin of the technology is the least important thing. The technology itself is.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1842,
+        "description": "n/a",
+        "originalText": "As you've experienced yourself, the units are extremely difficult to acquire, let alone their corresponding coded signals, which we still do not have. Several sources suggest that Biocorp had at least one unit, but nothing useful beyond that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1848,
+        "description": "n/a",
+        "originalText": "What would happen if you tried forcing it open?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1852,
+        "description": "n/a",
+        "originalText": "Right on.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1856,
+        "description": "n/a",
+        "originalText": "Actually, I was just kidding...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1860,
+        "description": "n/a",
+        "originalText": "Understood. And what is this field work you mentioned?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1864,
+        "description": "n/a",
+        "originalText": "It could come in handy. Now, field work?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1868,
+        "description": "n/a",
+        "originalText": "I don't need to practice.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1872,
+        "description": "n/a",
+        "originalText": "Perfectly.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1876,
+        "description": "n/a",
+        "originalText": "Yes. I apologize if my actions have caused distress to my fellow Southgaters.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1880,
+        "description": "n/a",
+        "originalText": "::Nod.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1884,
+        "description": "n/a",
+        "originalText": "::Say nothing.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1886,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_tanner_mentionAcorn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1890,
+        "description": "n/a",
+        "originalText": "Let's say I've done some digging around.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1894,
+        "description": "n/a",
+        "originalText": "I learned about it during a trip to the Black Sea.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1899,
+        "description": "n/a",
+        "originalText": "I learned about it during an expedition to the Black Sea.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1903,
+        "description": "n/a",
+        "originalText": "Underrail holds many secrets, but nothing's too secret for me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1908,
+        "description": "n/a",
+        "originalText": "Here is something for your efforts. The earthquake repairs have left us on a restricted budget. I'll make sure you're compensated for your contribution in other ways. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1914,
+        "description": "n/a",
+        "originalText": "::He retracts his hands.:: Understandable. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1920,
+        "description": "n/a",
+        "originalText": "I had a couple of questions, actually.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1923,
+        "description": "n/a",
+        "originalText": "Understood.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1927,
+        "description": "n/a",
+        "originalText": "Or a merchant that would sell one, yes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1932,
+        "description": "n/a",
+        "originalText": "Also, before you head out you should go to the administration floor and talk to Vera. I think she has some trade documents that she needs delivered to the United Station embassy in Junkyard.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1941,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_tanner_acorn_multipleAcorns",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1943,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_tanner_acorn_multipleAcorns",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1948,
+        "description": "n/a",
+        "originalText": "::[Intelligence]:: The fact that you called the Acorn \"a unit\" made me suspicious, but you've confirmed that there is more than one Acorn.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1952,
+        "description": "n/a",
+        "originalText": "Hold up, hold up: Each Acorn?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1956,
+        "description": "n/a",
+        "originalText": "This is not the only one?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1960,
+        "description": "n/a",
+        "originalText": "While they are all designed identically, each one has a different goal: An ACoNR unit is intended to be deployed somewhere, anywhere, so that they may construct a so-called *megaproject* - a project of great scale and complexity. That could be a machine, a construction, a city - it depends, but it's never simple, for it would be profligate. One might not be able to tell what the ACoNR is constructing even at later stages, let alone before it's been activated, like in the case of the one you've brought me. \r\n\r\nBut what is certain is that each unit comes with a blueprint which it follows in order to finish the megaproject.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1966,
+        "description": "n/a",
+        "originalText": "ACoNRs are designed in such a way as to destroy themselves in the event that any physical attempts at opening them are taken.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1984,
+        "description": "n/a",
+        "originalText": "If you say so. Now, regarding your first mission...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1990,
+        "description": "n/a",
+        "originalText": "Good. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1996,
+        "description": "n/a",
+        "originalText": "Unless there was something else you needed, you are free to go.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2001,
+        "description": "n/a",
+        "originalText": "Mhm. Do you have it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2007,
+        "description": "n/a",
+        "originalText": "context.global_beginExpedition",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2014,
+        "description": "n/a",
+        "originalText": "::After counting and handing you a hefty sum of SGS credits, he takes the Acorn. His large hands diminish its perceived size, yet his scrutiny increases its importance.:: \r\n\r\nI will send this to Engineering. We'll begin studying it as soon as possible.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2019,
+        "description": "n/a",
+        "originalText": "tanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2020,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2035,
+        "description": "n/a",
+        "originalText": "Yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2041,
+        "description": "n/a",
+        "originalText": "Since the train is out and a lot of tunnels have collapsed, there are not many places you can look for it at the moment. Our best bet would be Junkyard. Ever been there?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2052,
+        "description": "n/a",
+        "originalText": "That is correct. There are more than one. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2058,
+        "description": "n/a",
+        "originalText": "There are more. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2064,
+        "description": "n/a",
+        "originalText": "No. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2070,
+        "description": "n/a",
+        "originalText": "Therefore, when activated, and with the blueprint loaded, the AI begins scanning the environment it is in. Its proficient nanobots are capable of exploiting whatever the AI requires, gathering the resources and establishing power sources, as the megaprojects take a long time to complete, and the unit's internal power supply will rarely be able to endure. \r\n\r\nSetting up defenses is crucial as well.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2076,
+        "description": "n/a",
+        "originalText": "So all we can do now is observe it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2084,
+        "description": "n/a",
+        "originalText": "Down in the tunnels below our station, just to the north of Crossroad Caves lies a series of abandoned outposts. These outposts were built by another station a long while ago for the purpose of scouting and defense. In time they fell to decay.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2091,
+        "description": "n/a",
+        "originalText": "Yes. Right here. ::Show him the Acorn.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2095,
+        "description": "n/a",
+        "originalText": "Not yet, but I'm working on obtaining it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2099,
+        "description": "n/a",
+        "originalText": "No. I just heard about it and wondered if you knew something that could help me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2102,
+        "description": "n/a",
+        "originalText": "::He shakes your much smaller hand.:: You've done a great service to this station, $(context.player.Name). \r\n\r\nBelieve me when I say that this event is going to be remembered.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 2108,
+        "description": "n/a",
+        "originalText": "xpbl_foundAcorn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 2110,
+        "description": "n/a",
+        "originalText": "plot.xpbl_acorn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 2112,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_acorn_gaveTo",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 2113,
+        "description": "n/a",
+        "originalText": "tanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2121,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: Eighteen thousand credits.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2126,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: Fifteen thousand credits.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2131,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: Twelve thousand credits.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2136,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: Nine thousand credits.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2141,
+        "description": "n/a",
+        "originalText": "Six thousand credits.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2145,
+        "description": "n/a",
+        "originalText": "You know what? Take it. ::Give him the Acorn.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2147,
+        "description": "n/a",
+        "originalText": "context.loc_jy_heardAbout",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2151,
+        "description": "n/a",
+        "originalText": "No. What's \"Junkyard\"?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2155,
+        "description": "n/a",
+        "originalText": "Yeah, I've been there.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2167,
+        "description": "n/a",
+        "originalText": "But the nanobots are fundamentally of limited capability and need to make way for larger and more advanced machinery when the time for it comes. They are there to establish further production - either de novo or by taking over machines and facilities already in existence - and to act as the unit's means of interacting with the world around itself, a role they fulfill till the very end.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2173,
+        "description": "n/a",
+        "originalText": "I want you to retake them so that they might once again serve the same purpose. However, in order to do so, you will need to activate the main power generator that's located inside one of them. Harold from the engineering sector thinks he knows how to get the generator operational, so he should be your first stop after we are done here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.BA:N",
+        "objectId": 2176,
+        "description": "n/a",
+        "originalText": "StartQuest",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 2177,
+        "description": "n/a",
+        "originalText": "GetFluxController",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2179,
+        "description": "n/a",
+        "originalText": "context.quest_retakingOldOutposts_state",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 2180,
+        "description": "n/a",
+        "originalText": "plot.xpbl_acorn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2184,
+        "description": "n/a",
+        "originalText": "I've never seen one in person, but I know a single unit consists of a medium-sized container with ACoNR printed on it. If you find it, I want you to bring it to me, to South Gate Station. Once I have it in my hands, I will share everything I know about it with you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2190,
+        "description": "n/a",
+        "originalText": "As I said, I've studied it. But with regards to finding the hardware, I can offer some help: ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2196,
+        "description": "n/a",
+        "originalText": "I'd like to know more about the Acorn.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2200,
+        "description": "n/a",
+        "originalText": "I wanted to talk to you about something else now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2213,
+        "description": "n/a",
+        "originalText": "It is too much. The earthquake repairs have left us on a restricted budget. You will have to settle for less now, but I'll make sure you're compensated for your contribution in other ways.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2244,
+        "description": "n/a",
+        "originalText": "It's a town just across the Chancer's Bay, built around, and from, an old junkyard. It's a dangerous place run by two rivaling gangs, the Scrappers and the Black Eels. \r\n\r\nBut most importantly, Junkyard is the main trading hub for the southern region. There is plenty to be found there: weapons, equipment, materials, spare parts... and hopefully the circuit board we need.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2251,
+        "description": "n/a",
+        "originalText": "Good. Here, I'll give you two hundred fifty charons. If you bring me back that circuit board and it's in working condition, you can keep all the money. I won't ask how you got it. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 2254,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 2255,
+        "description": "n/a",
+        "originalText": "currency\\sgscredits",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2259,
+        "description": "n/a",
+        "originalText": "Every unit has a prime directive - to finish the megaproject. How it achieves that is up to the AI, and the AI may, if it chooses so based on the availability of materials, restrictions of the environment and many other factors, modify the blueprint and construct something that fulfills the purpose but wasn't necessarily specified by the original blueprint.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2265,
+        "description": "n/a",
+        "originalText": "As far as I am aware, there are a total of five outposts plus the one with the generator. I don't know if it's possible to activate all of them, but try to activate at least three.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2271,
+        "description": "n/a",
+        "originalText": "This is important, $(context.player.Name). The technology of the ACoNR has been completely lost. If South Gate Station were to have it, and could use it, it would easily have a technological advantage over everyone in South Underrail.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2277,
+        "description": "n/a",
+        "originalText": "Of course, $(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2288,
+        "description": "n/a",
+        "originalText": "tanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2289,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2292,
+        "description": "n/a",
+        "originalText": "tanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2293,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2296,
+        "description": "n/a",
+        "originalText": "tanner",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2297,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2304,
+        "description": "n/a",
+        "originalText": "How do I get there?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2308,
+        "description": "n/a",
+        "originalText": "And within all of these things lies the value of the technology of the ACoNR: It adapts and grows in any environment like a living organism. It then fulfils its purpose - and self-terminates.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2314,
+        "description": "n/a",
+        "originalText": "You may also want to talk to Jonas at the Crossroad Watch Post; it's down in the tunnels just outside the station; you'll be passing through there anyway. He's one of our most experienced scavengers and he's probably seen more of South Underrail than any of us here. He'll surely have some useful advice for you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 2317,
+        "description": "n/a",
+        "originalText": "currency\\sgscredits",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2334,
+        "description": "n/a",
+        "originalText": "Essie or Jonas can give you instructions on how to get there. Alternatively, you can take a ferry there but that will cost you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2358,
+        "description": "n/a",
+        "originalText": "How well is this task credited?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2362,
+        "description": "n/a",
+        "originalText": "Why are we retaking these outposts?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2366,
+        "description": "n/a",
+        "originalText": "Alright. I'll be off then.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 2383,
+        "description": "n/a",
+        "originalText": "currency\\sgscredits",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2384,
+        "description": "n/a",
+        "originalText": "tempcontext.askedAboutCredits",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2388,
+        "description": "n/a",
+        "originalText": "It's three hundred credits. Additional hundred fifty credits if you activate *all* the stations.\r\n\r\nFurthermore, you get to keep anything you find there.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2392,
+        "description": "n/a",
+        "originalText": "tempcontext.askedAboutCredits",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2395,
+        "description": "n/a",
+        "originalText": "It is an important strategic position should certain factions attempt to encroach further into our zone of control. Besides, cleaning them out will also push some of the unwanted wildlife further away from SGS, so it is also beneficial in that regard.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2404,
+        "description": "n/a",
+        "originalText": "Oh, and one more thing before you go: Pasquale, our station's chief physician, wanted to see you, so you should probably pop down to his office in the medical sector when you have the time.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 2408,
+        "description": "n/a",
+        "originalText": "currency\\sgscredits",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 2409,
+        "description": "n/a",
+        "originalText": "currency\\sgscredits",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 2410,
+        "description": "n/a",
+        "originalText": "currency\\sgscredits",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 2411,
+        "description": "n/a",
+        "originalText": "currency\\sgscredits",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2415,
+        "description": "n/a",
+        "originalText": "Wildlife?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2419,
+        "description": "n/a",
+        "originalText": "What factions are you talking about?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 2421,
+        "description": "n/a",
+        "originalText": "drPasquale",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2424,
+        "description": "n/a",
+        "originalText": "Got it. See you later.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2427,
+        "description": "n/a",
+        "originalText": "I understand that a few packs of rathounds moved into the area, but you best talk to Jonas regarding that - he'll have more details. He knows that area inside-out.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2435,
+        "description": "n/a",
+        "originalText": "Protectorate is my main concern. Though I do not expect any military action from them, they are always looking for ways to pressure us into reconsidering our official policy of neutrality.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2440,
+        "description": "n/a",
+        "originalText": "Also farther to the north and to the west of our station there are organized bandit groups. We are not able to track their movements well, so we should not discard the possibility that they might start operating through the tunnels.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2445,
+        "description": "n/a",
+        "originalText": "context.npc_tanner_policyOfNeutrality",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

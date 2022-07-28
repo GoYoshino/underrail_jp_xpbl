@@ -1,0 +1,4338 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 132,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 133,
+        "description": "n/a",
+        "originalText": "grim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 134,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 135,
+        "description": "n/a",
+        "originalText": "cruzer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 136,
+        "description": "n/a",
+        "originalText": "razor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 137,
+        "description": "n/a",
+        "originalText": "darkness",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 142,
+        "description": "n/a",
+        "originalText": "::The captain speaks to you in a voice that is somewhat higher in pitch but darker in quality, smooth and clear but for a slight and barely noticeable lisp.::\r\n\r\n",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 151,
+        "description": "n/a",
+        "originalText": "::Wearing a blindfold is indisputably one disorienting and unsettling experience. Still, having your vision suspended results in your other, unimprisoned senses becoming more reactive to the world around you as to provide you with sufficient information...::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 160,
+        "description": "n/a",
+        "originalText": "I'm Captain Cadmus Grim. Welcome to my ship. \r\n\r\nThe two men are my lieutenants: Razor you've already met, and the gentleman to your left is Cruzer.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 192,
+        "description": "n/a",
+        "originalText": "::The first thing you hear after being blindfolded is the sound of jet skis cutting mercilessly through the waves of the Black Sea. Then you hear what sounds like a massive gate opening in the distance; as you approach the source of that sound, you hear various voices dancing around you, close and far, becoming more pronounced as the machines that brought you to them have at last embraced silence.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 196,
+        "description": "n/a",
+        "originalText": "context.event_xpbl_pir_meetingCaptain_firstPart",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 198,
+        "description": "n/a",
+        "originalText": "context.loc_g2_innerShip_canEnterCabin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 199,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_pir_grim_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 204,
+        "description": "n/a",
+        "originalText": "::A deep voice disturbs the bandana as it passes through it.::\r\n\r\nYe try any funny stuff 'fore d' Cap'n an' I'll give ye d' same smile I got on me banda: Wide - an' fleshless.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 208,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_pir_grim_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 210,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_pir_grim_guardedAudience",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 211,
+        "description": "n/a",
+        "originalText": "context.event_xpbl_pir_meetingCaptain_startNegotiations",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 218,
+        "description": "n/a",
+        "originalText": "::[Intelligence]:: You haven't asked me why the expedition is here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 224,
+        "description": "n/a",
+        "originalText": "How much money would be enough for you to release the professor?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 229,
+        "description": "n/a",
+        "originalText": "I doubt you would disregard a sum of, say, one hundred... *thousand* charons.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 235,
+        "description": "n/a",
+        "originalText": "You have a nice cabin here. I see you've managed to collect quite a few intriguing items.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 240,
+        "description": "n/a",
+        "originalText": "Can I see the professor?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 245,
+        "description": "n/a",
+        "originalText": "Tell me about the savages and your relations.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 250,
+        "description": "n/a",
+        "originalText": "We came to this expedition well prepared. Maybe there are things in our camp we could offer you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 256,
+        "description": "n/a",
+        "originalText": "I'd like to ask you a couple of questions about your pirate community here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 261,
+        "description": "n/a",
+        "originalText": "About the ruins...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 266,
+        "description": "n/a",
+        "originalText": "About the savages...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 271,
+        "description": "n/a",
+        "originalText": "I presume you take issue with our presence near the entrance, or in your case exit from the Black Sea.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 277,
+        "description": "n/a",
+        "originalText": "Your guys killed two of our sec-troopers. There were three. What happened to the third one?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 283,
+        "description": "n/a",
+        "originalText": "Where's my jet ski?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 289,
+        "description": "n/a",
+        "originalText": "How about I offer you my own services?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 295,
+        "description": "n/a",
+        "originalText": "There is not much I can offer you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 301,
+        "description": "n/a",
+        "originalText": "How do you like my offer?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 305,
+        "description": "n/a",
+        "originalText": "::Assess your odds of starting a fight.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 306,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_pir_razor_leadToJoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 307,
+        "description": "n/a",
+        "originalText": "context.event_xpbl_pir_meetingCaptain_firstPart",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 308,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_pir_razor_leadToJoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 312,
+        "description": "n/a",
+        "originalText": "::After stepping onto solid ground, made of grated metal judging by its feel and sound, you smell food: crab, fish, spices and some less appetizing dishes. You also smell gunpowder, sweat, dirty socks, dog excrement, gasoline, electrolyte and a myriad of other odors, all mixed together. You smell a human settlement, and you are walking - or being tugged, more accurately - right through it.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 318,
+        "description": "n/a",
+        "originalText": "What's your name?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 327,
+        "description": "n/a",
+        "originalText": "Now, Cruzer, this person is no dryfoot thug. $(#He/She) came here as a negotiator.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 334,
+        "description": "n/a",
+        "originalText": "Well observed.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 340,
+        "description": "n/a",
+        "originalText": "context.npc_pir_grim_mentionExpedition",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 342,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 343,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_mentionedMoney",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 348,
+        "description": "n/a",
+        "originalText": "If money was all I wanted you would have received a ransom note. Simple and to the point.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 352,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_mentionedMoney",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 358,
+        "description": "n/a",
+        "originalText": "That is... a large sum of money, indeed, but as you start dividin' it among a large group of people the zeroes quickly begin fallin' off. Are you sure you wanna pledge that amount of money as part of your offer?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 363,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_talkedCabin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 366,
+        "description": "n/a",
+        "originalText": "Thank you, I appreciate the compliment. Do you happen to recognize anythin'?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 376,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_talkedCabin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 377,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_talkedProfessor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 381,
+        "description": "n/a",
+        "originalText": "Not yet.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 384,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_askSavageRelations",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 387,
+        "description": "n/a",
+        "originalText": "We are not allies. We have our separate communities, and we stay out of each other's way. Most of the Hell's Gut is theirs, but these southeastern waters, the whole bay, in fact, is our bay - The Pirate Bay. That is good enough for us. They never contested it after we came; they don't even come near our base.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 395,
+        "description": "n/a",
+        "originalText": "Listen... you seem to be missin' one important thing here, somethin' that has sparked my interest since the moment Aegis came here - the purpose of your expedition. We've been livin' among these ruins for years yet know very little about what rests inside. Now you're here, tryin' to open them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 403,
+        "description": "n/a",
+        "originalText": "I'm listenin'.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 406,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_talkedCommunity",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 410,
+        "description": "n/a",
+        "originalText": "Do you honestly think I would answer them? Especially now when I have all the reasons to suspect that you might be byin' time for... somethin'? ::He observes you suspiciously.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 414,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_talkedCommunity",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 420,
+        "description": "n/a",
+        "originalText": "I am all ears.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 429,
+        "description": "n/a",
+        "originalText": "Yes...?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 437,
+        "description": "n/a",
+        "originalText": "Great issue at first. But patience is one of the virtues, especially when it comes to people like us. Impatience brings failure; patience brings reward. I would be tellin' a lie, though, if I said your arrival hasn't thrown a massive wrench into our plans. But as long as we - you and I - make a good deal, we can afford to be patient even further.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 446,
+        "description": "n/a",
+        "originalText": "We killed *three* troopers. The third one followed us into the tunnel even though he was bleedin' heavily.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 450,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_thirdSecTrooper",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 451,
+        "description": "n/a",
+        "originalText": "context.event_xpbl_pir_meetingCaptain_whereIsMyJetSki",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 455,
+        "description": "n/a",
+        "originalText": "It's in the port. Safe.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 459,
+        "description": "n/a",
+        "originalText": "context.event_xpbl_pir_meetingCaptain_whereIsMyJetSki",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 460,
+        "description": "n/a",
+        "originalText": "context.event_xpbl_pir_meetingCaptain_join_failedPersuade",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 464,
+        "description": "n/a",
+        "originalText": "::The three men look at each other.::\r\n\r\n",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 469,
+        "description": "n/a",
+        "originalText": "In what sense, exactly?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 479,
+        "description": "n/a",
+        "originalText": "Oh, I think there is. You just have to think.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 483,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_notMuchICanOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 487,
+        "description": "n/a",
+        "originalText": "So you're offerin' $(context.event_pir_meeting_offerLine) in exchange for Professor Oldfield's freedom.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 495,
+        "description": "n/a",
+        "originalText": "You haven't made one.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 502,
+        "description": "n/a",
+        "originalText": "::The two lieutenants are keeping a close eye on you: Razor is equipped with a shotgun and at least one knife, whereas Cruzer is holding an assault rifle and has a sledgehammer on his back. These two are standing so close that unless you make yourself some breathing space you will not even be able to move a finger without getting pounded into dust. Even if you do manage to handle Razor and Cruzer, you still have to worry about Captain Grim himself.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 517,
+        "description": "n/a",
+        "originalText": "::The voices follow you, but only up until you climb a flight of stairs and step into an unstable, echoing place; a hand lowers your head so that you don't hit something while entering this building.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 520,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_pir_razor_leadToJoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 524,
+        "description": "n/a",
+        "originalText": "$(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 529,
+        "description": "n/a",
+        "originalText": "::His eyes shift to you.::\r\n\r\nEven though $(#he/she) has Grim Jetter blood on $(#his/her) hands.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 535,
+        "description": "n/a",
+        "originalText": "::His eyes shift to you.::\r\n\r\nBut I'd heed his advice if I were you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 538,
+        "description": "n/a",
+        "originalText": "context.npc_pir_grim_mentionExpedition",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 543,
+        "description": "n/a",
+        "originalText": "It would be insulting to suggest that you don't know we are here because of these ruins.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 547,
+        "description": "n/a",
+        "originalText": "I'm aware you know we're here to study the natives.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 551,
+        "description": "n/a",
+        "originalText": "I am more interested in other things now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 554,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 555,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_offeredMoney",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 556,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_mentionedMoney",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 561,
+        "description": "n/a",
+        "originalText": "Yes. And it's yours as soon as we shake hands.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 565,
+        "description": "n/a",
+        "originalText": "Um, forget I said anything.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 570,
+        "description": "n/a",
+        "originalText": "::[Biology]:: The first thing I noticed was the vampire bat you have in that cage over there. It's a beautiful specimen indeed, but I don't seem to be able to identify what species it is.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 575,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: That painting looks like one of the Classical dystopian pieces. These things can be worth tens of thousands of charons, if not hundreds depending on the artist and the work. If they are originals of course.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 580,
+        "description": "n/a",
+        "originalText": "::[Intelligence]:: The chess board. I saw it as soon as my blindfold had been removed. Any man who owns one and keeps it so close to his pillow instantly earns my respect.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 585,
+        "description": "n/a",
+        "originalText": "::[Electronics]:: The laptop. It's an old BCAF-7LT-W made specifically for the Biocorp military. It's twenty years old at least, and it's waterproof if I'm not mistaken.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 590,
+        "description": "n/a",
+        "originalText": "::[Perception]:: The map on the desk, it's the map of the Black Sea, right?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 594,
+        "description": "n/a",
+        "originalText": "Well... hmmm...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 608,
+        "description": "n/a",
+        "originalText": "How come? They were violent toward us since the beginning.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 609,
+        "description": "n/a",
+        "originalText": "context.npc_pir_grim_mentionExpedition",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 611,
+        "description": "n/a",
+        "originalText": "context.npc_pir_grim_mentionExpedition",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 615,
+        "description": "n/a",
+        "originalText": "We are not here because of the ruins.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 619,
+        "description": "n/a",
+        "originalText": "But you've entered the Fort through an evacuation tunnel.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 634,
+        "description": "n/a",
+        "originalText": "Move on.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 637,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_lemuriaAgreement",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 638,
+        "description": "n/a",
+        "originalText": "context.npc_pir_grim_mentionExpedition",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 646,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_savageAgreement",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 647,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_askSavageRelations",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 648,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_savageAgreement_failed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 657,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_blockadeAgreement",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 658,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_blockadeIntimidation",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 662,
+        "description": "n/a",
+        "originalText": "Moreover, even if you do agree to removin' your patrols from the Jaws there is the issue of whether they will stay away. And the fact that your camp is so close to the Jaws is another thing that bothers me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 665,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_thirdSecTrooper",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 666,
+        "description": "n/a",
+        "originalText": "context.quests_xpbl_expedition_saveTheProfessor_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 671,
+        "description": "n/a",
+        "originalText": "In fact, he was the one who shot our insider ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 677,
+        "description": "n/a",
+        "originalText": "He shot one of my men ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 684,
+        "description": "n/a",
+        "originalText": "Let's not digress...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 690,
+        "description": "n/a",
+        "originalText": "I want to join you. I want to become a pirate.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 694,
+        "description": "n/a",
+        "originalText": "Forget I said anything.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 695,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_notMuchICanOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 696,
+        "description": "n/a",
+        "originalText": "context.npc_pir_grim_mentionExpedition",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 697,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_offerMade",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 701,
+        "description": "n/a",
+        "originalText": "Yes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 705,
+        "description": "n/a",
+        "originalText": "Actually, I need to reconsider.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 709,
+        "description": "n/a",
+        "originalText": "::Don't fight.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 714,
+        "description": "n/a",
+        "originalText": "::[Strength] Push Razor and Cruzer away from you and get ready to fight.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 719,
+        "description": "n/a",
+        "originalText": "::[Melee] Punch the two lieutenants in quick succession and give yourself some space to fight.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 724,
+        "description": "n/a",
+        "originalText": "::[Dodge] They will most likely try to grab you as soon as you move. Dodge them and immediately counterattack.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 730,
+        "description": "n/a",
+        "originalText": "::[Temporal Manipulation] Slow down your enemies' passage of time so that they'd be unable to react to your attack fast enough.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 736,
+        "description": "n/a",
+        "originalText": "::[Thought Control] Introduce confusion in your enemies' minds and exploit that to attack.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 742,
+        "description": "n/a",
+        "originalText": "::[Yell] Unleashing high-volume acoustic terror upon your enemies should give you a moment to attack freely. Yell!::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 747,
+        "description": "n/a",
+        "originalText": "::Just attack!::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 752,
+        "description": "n/a",
+        "originalText": "::Scream into the navcom.:: Commence the attack!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 756,
+        "description": "n/a",
+        "originalText": "::Your nose has been treated with rather insalubrious smells since you arrived to this community, so it comes as a bit of a surprise when you come into a room filled with some kind of herbal fragrance, one you can't exactly identify; the occasional alcoholic notes that linger in the air you are able to recognize easily, though, as well as the smell of a live bat.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 761,
+        "description": "n/a",
+        "originalText": "And you wish to become... a pirate?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 765,
+        "description": "n/a",
+        "originalText": "context.faction_xpbl_pir_thereWasHostility",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 783,
+        "description": "n/a",
+        "originalText": "::He is silent.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 789,
+        "description": "n/a",
+        "originalText": "::He is silent.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 797,
+        "description": "n/a",
+        "originalText": "I like the sound of that. We're makin' progress.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 801,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_offeredMoney",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 805,
+        "description": "n/a",
+        "originalText": "::He says nothing.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 813,
+        "description": "n/a",
+        "originalText": "That is a growlin' vampire bat. They were named such by some of my predecessors due to their unrestrained vocal habits, and they only seem to live here, above the Black Sea. They strike out of the darkness, silently and suddenly, so that they may gorge on their victim's lifeblood to their heart's content... before disappearin' whence they came.\r\n\r\nThey've grown to become my favorite animals, I have to admit.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 821,
+        "description": "n/a",
+        "originalText": "If it were an original, it would have been exchanged for cold but heart-warmin' coins. Or maybe it is, but I simply like it too much to give it away.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 828,
+        "description": "n/a",
+        "originalText": "::He half-smiles.:: Yes, I see what you mean. Sadly, some pieces are missin' from the original set, so the substitute ones I am usin' just... make the experience inferior. Even though chess is an abstract game where each of the pieces is merely a physical representation of a unit which can move in a specific way, there is somethin' captivatin' about seein' them in all of their well-crafted glory, even though you could technically use anythin' in their place.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 836,
+        "description": "n/a",
+        "originalText": "It is a machine I have had with me for... many years. It is a trustworthy tool that is more difficult to replace than one would initially assume.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 843,
+        "description": "n/a",
+        "originalText": "Yes, yes it is. It is incomplete, of course, as there are limits to how far we can explore, but even that might change soon, don't you think so?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 849,
+        "description": "n/a",
+        "originalText": "I think it's best that we stick to the matters at hand.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 857,
+        "description": "n/a",
+        "originalText": "::[Persuade]:: Can I at least talk to him? To make sure he is alive. It helps the negotiations go smoother if one knows that the person $(#he/she) is bargaining for is still among the living.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 865,
+        "description": "n/a",
+        "originalText": "::[Intimidate]:: I think it would be wise of you to convince me that the professor is alive. Otherwise we have a different problem, and that requires different negotiation methods.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 869,
+        "description": "n/a",
+        "originalText": "When will I be able to see him?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 874,
+        "description": "n/a",
+        "originalText": "I don't trust you very much. I'd rather see him.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 878,
+        "description": "n/a",
+        "originalText": "I'd like to change the subject for a moment.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 883,
+        "description": "n/a",
+        "originalText": "I've told you: We stay out of each other's way. You invaded their territory, disturbed them - maybe you've been slayin' their beloved serpents, who knows - and now you're in jettin' trouble. But we might be in trouble as well. They came awfully close to our border when they were surroundin' you island, somethin' that never happened before. They are dangerous, and now they are furious. Anythin' could happen.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 889,
+        "description": "n/a",
+        "originalText": "Do not try to deceive me. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 895,
+        "description": "n/a",
+        "originalText": "Yes. But only one entrance to the tunnel was accessible before you arrived.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 902,
+        "description": "n/a",
+        "originalText": "We have weapons, ammo and explosives. I'm sure you could put it to good use.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 907,
+        "description": "n/a",
+        "originalText": "We have high-tech personal equipment: night vision goggles, personal energy shields and other high-tech components.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 912,
+        "description": "n/a",
+        "originalText": "We have our own jet skis and spare components.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 918,
+        "description": "n/a",
+        "originalText": "We could give you sec-trooper uniforms. You could use them to impersonate our personnel.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 923,
+        "description": "n/a",
+        "originalText": "We have medication, some of it being very difficult to obtain in South Underrail.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 927,
+        "description": "n/a",
+        "originalText": "My role in this whole expedition is rather limited, so perhaps I cannot give you what you really want. Still, I can offer you information on everything we've uncovered so far. How we got inside, what we found, our conclusions - all of that I will share with you once Professor Oldfield has been released.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 932,
+        "description": "n/a",
+        "originalText": "::[Persuade]:: The savages are throwing themselves at us like flies. Corpse after corpse, we just pile them up. As the pile gets higher you will have better chances at expanding your territory. There's a lot of things up for grabs in the Hell's Gut, why not take the opportunity? You just have to let us do our job.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 939,
+        "description": "n/a",
+        "originalText": "::[Intimidate]:: If you keep standing in our way, these savages are going to overwhelm us. And then it's *your* turn. You yourself said that they are now like a swarm that will devour everyone and everything. It's time to end this once and for all. Let us decimate them, and you get to live.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 948,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_toldKnowTraitor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 952,
+        "description": "n/a",
+        "originalText": "before he himself received a terminal dose of lead. His body was left in the tunnel; he is now fish chomp.\r\n\r\nI have to give it to him, though, he was a brave man.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 958,
+        "description": "n/a",
+        "originalText": "::Laughter breaks out.::\r\n\r\nA pirate, eh? Are you mockin' us?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 964,
+        "description": "n/a",
+        "originalText": "Will do.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 974,
+        "description": "n/a",
+        "originalText": "In that case...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 980,
+        "description": "n/a",
+        "originalText": "Of course.I am in no rush. Can't say the same for the professor.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 989,
+        "description": "n/a",
+        "originalText": "::You choose not to fight.:: ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1002,
+        "description": "n/a",
+        "originalText": "::Perhaps your body language revealed your intentions, or in an unlikely case your thoughts have been read, but ::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1022,
+        "description": "n/a",
+        "originalText": "::You manage to pull it off, giving yourself enough room to consider your next move.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHF.PHF:F",
+        "objectId": 1028,
+        "description": "n/a",
+        "originalText": "Yell",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1039,
+        "description": "n/a",
+        "originalText": "::Cruzer's sledgehammerous fist blasts the air out of your lungs before you even had the chance to realize what happened. Breathless, you drop to your knees only to get hit again, this time in the back of your head.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1049,
+        "description": "n/a",
+        "originalText": "::You open your mouth, but nothing but a grunt comes out: ::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1055,
+        "description": "n/a",
+        "originalText": "::You hear the door closing behind you. You step on a soft carpet. The person which led you here stops to the right of you, yet you feel another close presence to your left as well. And then, after a moment of silence, you hear the third participant just in front of you.::\r\n\r\nRemove $(#his/her) blindfold.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1062,
+        "description": "n/a",
+        "originalText": "Yes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1068,
+        "description": "n/a",
+        "originalText": "I am $(context.player.Name), Aegis Incorporated sec-trooper.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1073,
+        "description": "n/a",
+        "originalText": "$(context.player.Name), from South Gate Station.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1079,
+        "description": "n/a",
+        "originalText": "I am $(context.player.Name) of the Institute of Tchort.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1085,
+        "description": "n/a",
+        "originalText": "I am Corporal $(context.player.Name), Underrail Protectorate.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1091,
+        "description": "n/a",
+        "originalText": "$(context.player.Name) of the Free Drones.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1095,
+        "description": "n/a",
+        "originalText": "Where is Professor Oldfield? What have you done with him?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1099,
+        "description": "n/a",
+        "originalText": "Where are they?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1104,
+        "description": "n/a",
+        "originalText": "::Say nothing.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1108,
+        "description": "n/a",
+        "originalText": "After all, you found the professor studying one of them. And you kidnapped him by going through the evacuation tunnel, which means you have some access to these ruins. But the Keep had far too many valuable items inside for a pirate to resist, which suggests that you haven't found a way to actually get inside.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1112,
+        "description": "n/a",
+        "originalText": "Sadly we have antagonized them, kicked the hive as you've said, and now everything's gone to hell. Instead of studying the population we now threaten to exterminate a large part of it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1116,
+        "description": "n/a",
+        "originalText": "They are hostile, but as long as we get our data who cares what happens to those stupid enough to attack us, right?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1121,
+        "description": "n/a",
+        "originalText": "You have a very good eye. But what I am hopin' you'll be able to see here and now is somethin' of a different nature. Let us return to our primary topic.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1125,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_pir_grim_askBat",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1127,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_pir_grim_askPainting",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1129,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_pir_grim_askLaptop",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1141,
+        "description": "n/a",
+        "originalText": "It sure would. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1145,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_talkedProfessor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1158,
+        "description": "n/a",
+        "originalText": "::He slams his fist against the table.::\r\n\r\nI warned you! Now you will pay for your insolence. Seize $(#him/her)!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1173,
+        "description": "n/a",
+        "originalText": "I'm doin' my best. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 1177,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_intimidationAttempts",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1179,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_talkedProfessor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1183,
+        "description": "n/a",
+        "originalText": "When we strike a deal.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1189,
+        "description": "n/a",
+        "originalText": "Not... yet.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 1193,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1197,
+        "description": "n/a",
+        "originalText": "Of course.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1201,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_askSavageRelations",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1205,
+        "description": "n/a",
+        "originalText": "What you're doin' here was never in question - you're diggin' through these abandoned, dilapidated facilities scattered across the Hell's Gut. But an expedition like this is an extreme risk. It devours lives and money like a voracious sea serpent. That kind of effort could only come from someone who *knows*, not thinks, *knows* he's gonna get somethin' really freakin' good out of it. You ain't scavengin' for random pieces of tech and museum material - you're after somethin' specific, and I wanna know what it is.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 1208,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_weaponsOfferLevel",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1213,
+        "description": "n/a",
+        "originalText": "That is true. How much are you offerin' me, exactly?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 1216,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_techOfferLevel",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1221,
+        "description": "n/a",
+        "originalText": "Enticin'. How much are you offerin' me, exactly?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 1224,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_jetsOfferLevel",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1229,
+        "description": "n/a",
+        "originalText": "I've noticed. And they appear to be quite powerful machines. State your offer.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1232,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_tryPersuadeUniforms",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1237,
+        "description": "n/a",
+        "originalText": "Would be of little use without appropriate transportation.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1242,
+        "description": "n/a",
+        "originalText": "Hm. That is not how we do our business. Furthermore, you have no reason not to reveal there are pirates dressed as security troopers as soon as you return to Core City.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 1247,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_medicineOfferLevel",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1252,
+        "description": "n/a",
+        "originalText": "High quality medical supplies are often difficult to acquire. How much are you offerin' me, exactly?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1260,
+        "description": "n/a",
+        "originalText": "I like the sound of that. I am primarily interested in how you actually managed to enter the facilities. But more on that later. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1274,
+        "description": "n/a",
+        "originalText": "You do your job. That's really none of our business.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1290,
+        "description": "n/a",
+        "originalText": "While I cannot ignore them as a threat, Aegis Incorporated is not the only one that has a say in whether we live or die. You worry about your survival, and we'll worry about ours.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 1294,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_intimidationAttempts",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1299,
+        "description": "n/a",
+        "originalText": "::[Persuade]:: That is not something you should worry about. We will send all our patrols to different routes and you will have free passage through the Jaws. It works even better for us, as we can now focus on the savages instead of worrying about you. That is, if you promise to leave us alone.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1306,
+        "description": "n/a",
+        "originalText": "::[Intimidate]:: Impossible. Not only is the Jaws our only way of retreat in case the savages overwhelm us, but to let you sneak behind our backs and continue your raids? It's immoral and illegal, Captain, and our conscience might suddenly and violently awaken. You will have to stay put, Captain, for your own good. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1309,
+        "description": "n/a",
+        "originalText": "'E gotta be.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1322,
+        "description": "n/a",
+        "originalText": "I accept.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1329,
+        "description": "n/a",
+        "originalText": "You're almost there... ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1336,
+        "description": "n/a",
+        "originalText": "We're gettin' somewhere, but you can do better.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1343,
+        "description": "n/a",
+        "originalText": "You can do much better than this. ::He smirks.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1349,
+        "description": "n/a",
+        "originalText": "Don't insult me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1368,
+        "description": "n/a",
+        "originalText": "Well? Answer me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1380,
+        "description": "n/a",
+        "originalText": "::Scream into the navcom.:: Commence the attack!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1384,
+        "description": "n/a",
+        "originalText": "::Fight!::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1385,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_intimitationFailed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1388,
+        "description": "n/a",
+        "originalText": "::The whole room begins to spin. You look at the captain but his figure is splitting into three before converging into one in sync with the painful pulses rippling through your brain.::\r\n\r\nYou thought you could be faster than my men? ::These words reverberate inside your skull, drowning out most of what followed.:: ...plan all along?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1397,
+        "description": "n/a",
+        "originalText": "context.quests_xpbl_expedition_saveTheProfessor_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 1398,
+        "description": "n/a",
+        "originalText": "plot.xpbl_navcom",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1399,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_expeditionDestroyed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1400,
+        "description": "n/a",
+        "originalText": "context.quests_xpbl_expedition_saveTheProfessor_canCallInAttack",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1403,
+        "description": "n/a",
+        "originalText": "::The voice is male, somewhat higher in pitch but darker in quality, smooth and clear but for a slight lisp that you might not have even noticed in a more normal sensory state. Without delay, the person on the left touches you...::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1411,
+        "description": "n/a",
+        "originalText": "You wanna give up your former life and dedicate your new one to Grim Jetters? ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1417,
+        "description": "n/a",
+        "originalText": "You wanna betray the people you worked for and become a Grim Jetter? ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1420,
+        "description": "n/a",
+        "originalText": "context.global_beginExpedition",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1424,
+        "description": "n/a",
+        "originalText": "$(context.player.Name). Sec-trooper. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 1428,
+        "description": "n/a",
+        "originalText": "context.npc_pir_grim_introduced",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 1429,
+        "description": "n/a",
+        "originalText": "aegis",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1433,
+        "description": "n/a",
+        "originalText": "A Southgater? Interestin'. Then I feel we will understand each other better, bein' that you're one of the locals.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 1437,
+        "description": "n/a",
+        "originalText": "context.npc_pir_grim_introduced",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 1438,
+        "description": "n/a",
+        "originalText": "sgs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1439,
+        "description": "n/a",
+        "originalText": "context.faction_tchortists_joined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1443,
+        "description": "n/a",
+        "originalText": "Tchortist? How interestin': A Tchortist workin' for a security contractor from North Underrail. I wonder - I honestly do - how *that* came to be.  I've heard there is a lot of you in Core City now. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 1447,
+        "description": "n/a",
+        "originalText": "context.npc_pir_grim_introduced",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 1448,
+        "description": "n/a",
+        "originalText": "tchort",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1449,
+        "description": "n/a",
+        "originalText": "context.faction_protectorate_joined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1453,
+        "description": "n/a",
+        "originalText": "Well, well - Protectorate. Cruzer is gonna like you even more now. One of your comrades gave him one jettin' scar many years ago.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 1457,
+        "description": "n/a",
+        "originalText": "context.npc_pir_grim_introduced",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 1458,
+        "description": "n/a",
+        "originalText": "protectorate",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1459,
+        "description": "n/a",
+        "originalText": "context.faction_FreeDrones_joined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1463,
+        "description": "n/a",
+        "originalText": "Free Drones? How interestin': An anarchist workin' for a security contractor from North Underrail. I wonder - I honestly do - how *that* came to be. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 1467,
+        "description": "n/a",
+        "originalText": "context.npc_pir_grim_introduced",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 1468,
+        "description": "n/a",
+        "originalText": "drone",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1472,
+        "description": "n/a",
+        "originalText": "He is safe. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1478,
+        "description": "n/a",
+        "originalText": "You mean Professor Oldfield and the other men? ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1492,
+        "description": "n/a",
+        "originalText": "Well?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1497,
+        "description": "n/a",
+        "originalText": "Go on.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1503,
+        "description": "n/a",
+        "originalText": "I'm gonna stop you there. I know you ain't here because of the natives, so don't try to deceive me. Now continue.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 1510,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1515,
+        "description": "n/a",
+        "originalText": "Hmmm... You have a point.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 1519,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1523,
+        "description": "n/a",
+        "originalText": "But since we trust each other equally, I'd rather do things my way.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 1528,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 1529,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_intimidationAttempts",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1532,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_intimitationFailed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1537,
+        "description": "n/a",
+        "originalText": "::Do not resist.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 1539,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1542,
+        "description": "n/a",
+        "originalText": "Professor was rather unresponsive, as expected, but in all honesty we didn't even try *persuadin'* him to speak. You, on the other hand, you seem a bit more talkative.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 1575,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_jetsOfferLevel",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1580,
+        "description": "n/a",
+        "originalText": "Perhaps we should discuss that first.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1587,
+        "description": "n/a",
+        "originalText": "::[Persuade]:: *When* we return to Core City. You'll have plenty of time to use them while we're here. The locals know that Aegis Incorporated is here and won't suspect a thing.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1591,
+        "description": "n/a",
+        "originalText": "Then allow me to offer you something else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1613,
+        "description": "n/a",
+        "originalText": "Good. We're makin' progress.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1617,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_lemuriaAgreement",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1623,
+        "description": "n/a",
+        "originalText": "Do not underestimate the Scalers; that is a mistake one can easily make. Yet if you can reduce their numbers sufficiently, maybe they'll withdraw to their tents and lick their wounds for a while. \r\n\r\nOr they'll fight till eradication no matter what happens.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 1627,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 1630,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 1632,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1634,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_savageAgreement_failed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1641,
+        "description": "n/a",
+        "originalText": "We have a deal.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1647,
+        "description": "n/a",
+        "originalText": "Interestin', but I find all this... rather unconvincin'. Perhaps this is not somethin' we can agree on. We should move on to somethin' else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1656,
+        "description": "n/a",
+        "originalText": "Then it's best that we leave things as they are... for now. We should move on to subjects where we can make an agreement acceptable to both parties.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1663,
+        "description": "n/a",
+        "originalText": "If you wanna see the professor alive again, you better tell your conscience to keep bloody quiet. Forget about the blockade. We should move on to somethin' else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 1667,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_intimidationAttempts",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1672,
+        "description": "n/a",
+        "originalText": "::[Intelligence]:: Mocking you whilst being in a position as vulnerable as this would be detrimental to my health.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1676,
+        "description": "n/a",
+        "originalText": "::[Persuade]:: I'm serious. The expedition is a sinking ship, and I'd rather be switching to this one.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1680,
+        "description": "n/a",
+        "originalText": "I just wanted to introduce a bit of humor into these negotiations. No harm in that, eh?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1681,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_offerPassed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1687,
+        "description": "n/a",
+        "originalText": "I might not have learned all I wanted, but after a deal like this I am willin' to wait. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1692,
+        "description": "n/a",
+        "originalText": "But first things first - the information you promised.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1697,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_offerConfirmed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 1700,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_offerHowCloseToPassed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 1701,
+        "description": "n/a",
+        "originalText": "very close",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 1702,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_offerHowCloseToPassed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 1703,
+        "description": "n/a",
+        "originalText": "close",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 1704,
+        "description": "n/a",
+        "originalText": "grim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 1705,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 1706,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_offerHowCloseToPassed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 1707,
+        "description": "n/a",
+        "originalText": "far",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 1708,
+        "description": "n/a",
+        "originalText": "grim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 1709,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1710,
+        "description": "n/a",
+        "originalText": "context.event_xpbl_pir_meetingCaptain_firstIntro",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1716,
+        "description": "n/a",
+        "originalText": "::[Intelligence]:: You speak of civility, yet you abducted a helpless man while spilling the brains of men who defended him. And even as I come here, the first words coming from your lieutenant's mouth form a sadistic threat. If this is what you call civility, Captain Grim, then the bar is far too low for me to reach, and you need not worry.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1720,
+        "description": "n/a",
+        "originalText": "Blood is not in our interest, even though a lot of it has been shed so far.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1724,
+        "description": "n/a",
+        "originalText": "We'd never risk the professor's life.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1729,
+        "description": "n/a",
+        "originalText": "What do you want?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1733,
+        "description": "n/a",
+        "originalText": "If anything happens to the professor you will not *ask* but beg us to be civil.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1737,
+        "description": "n/a",
+        "originalText": "We'll see about that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1738,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_pir_razor_leadToJoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1742,
+        "description": "n/a",
+        "originalText": "Yes, I want to be a pirate.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1751,
+        "description": "n/a",
+        "originalText": "::You hear no response but the echoing gunfire and savage shouting ::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1758,
+        "description": "n/a",
+        "originalText": "::You hear a faint confirmation ::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1765,
+        "description": "n/a",
+        "originalText": "Bastards... You're dead. All of you. You don't know... who you're dealing with...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1769,
+        "description": "n/a",
+        "originalText": "You'll pay for this...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1773,
+        "description": "n/a",
+        "originalText": "::Try to get up.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1777,
+        "description": "n/a",
+        "originalText": "Wait! Wait... you got this all wrong...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1781,
+        "description": "n/a",
+        "originalText": "I yield! No... more...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1785,
+        "description": "n/a",
+        "originalText": "::Remain silent.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1789,
+        "description": "n/a",
+        "originalText": "::Wait.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1790,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_pir_razor_leadToJoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1793,
+        "description": "n/a",
+        "originalText": "To have every single livin' soul outside the Black Sea hate your guts and would happily send you under on sight?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1802,
+        "description": "n/a",
+        "originalText": "The professor is safe. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1808,
+        "description": "n/a",
+        "originalText": "But... ::He shakes his head.:: I suppose now is not the time to discuss that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1813,
+        "description": "n/a",
+        "originalText": "::He pulls down his bandana to show you a massive hole in the left side of his lower jaw. His teeth are present for the most part, but their geometry and placement have been altered severely; the way his bandana clings to his jaw after putting it back on outlines this arrangement much like x-ray imaging.::\r\n\r\nI had to spend two months in bed 'cus a dis. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1824,
+        "description": "n/a",
+        "originalText": "The other two - the sec-trooper and the fat one - have succumbed to the wounds they received durin' the fight. We had to abandon them in the tunnel which is now, well, an expansion to the underwater habitat.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 1830,
+        "description": "n/a",
+        "originalText": "context.event_xpbl_pir_silent",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1833,
+        "description": "n/a",
+        "originalText": "context.npc_pir_grim_didNotTellName",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1844,
+        "description": "n/a",
+        "originalText": "Which could also apply to the rest of the facilities, some - if not all. Inside are the things we *want*, but the things you could *take*, to reference your previous statement.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1848,
+        "description": "n/a",
+        "originalText": "Tell me why you think we're here then.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1852,
+        "description": "n/a",
+        "originalText": "Then you know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1856,
+        "description": "n/a",
+        "originalText": "Did I say \"study the savages\"? I meant their habitat. And by habitat I mean these ruins.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1861,
+        "description": "n/a",
+        "originalText": "::He produces a radio. ::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1867,
+        "description": "n/a",
+        "originalText": "::You stand still while the two man grab you by your arms.::\r\n\r\n",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1871,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_surrendered",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1875,
+        "description": "n/a",
+        "originalText": "Maybe there is something I can do to help.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1879,
+        "description": "n/a",
+        "originalText": "I'll see what I can do.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1883,
+        "description": "n/a",
+        "originalText": "I know nothing about that. I just ride jet skis and kill stuff.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1887,
+        "description": "n/a",
+        "originalText": "I can offer you three quarters of our total supply. That is all we could possibly spare.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1892,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: I can offer you half of our total supply. I think that is fair, and should be enough to satisfy your current needs.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1897,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: I can offer you one quarter of our total supply. It doesn't sound like much, but once we start unloading you'll be wondering where you are going to store all that stuff.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1901,
+        "description": "n/a",
+        "originalText": "Actually, there is something else I'd like to offer.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1905,
+        "description": "n/a",
+        "originalText": "I can offer you three quarters of our total supply. That is all we could possibly spare.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1910,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: I can offer you half of our total supply. I think that is fair, and should be enough to satisfy your current needs.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1915,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: I can offer you one quarter of our total supply. It doesn't sound like much, but once we start unloading you'll be wondering where you are going to store all that stuff.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1919,
+        "description": "n/a",
+        "originalText": "I can offer you three quarters of our jet skis. That is all we could possibly spare.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1924,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: I can offer you half of our jet skis. I think that is fair, and should be enough to satisfy your current needs.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1929,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: I can offer you one quarter of our jet skis. It doesn't sound like much, but once we start unloading you'll be wondering where you are going to store all that stuff.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1932,
+        "description": "n/a",
+        "originalText": "Hmh. You can always warn them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1937,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_tryPersuadeUniforms",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1941,
+        "description": "n/a",
+        "originalText": "Of course.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1948,
+        "description": "n/a",
+        "originalText": "I can offer you three quarters of our total supply. That is all we could possibly spare.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1953,
+        "description": "n/a",
+        "originalText": "I can offer you half of our total supply. That is all we could possibly spare, as we've already supplied the mutie community with some supplies.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1959,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: I can offer you half of our total supply. I think that is fair, and should be enough to satisfy your current needs.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1964,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: I can offer you one quarter of our total supply. It doesn't sound like much, but once we start unloading you'll be wondering where you are going to store all that stuff.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1969,
+        "description": "n/a",
+        "originalText": "::[Persuade]:: If these negotiations go well, perhaps we can even help each other. Some of these facilities lie in your territory. Perhaps we can help you unlock some of them - if you were to grant us free passage, ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1976,
+        "description": "n/a",
+        "originalText": "::[Intimidate]:: I do have to warn you to be really careful what you do with this information while the expedition is still here. We wouldn't want to run into each other at some inopportune moment and recreate a problem you and I are trying to solve now, would we?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1980,
+        "description": "n/a",
+        "originalText": "I think you'll be satisfied.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1984,
+        "description": "n/a",
+        "originalText": "Whatever the case, it is in our interest that you keep them busy.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1988,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_savageAgreement",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 1991,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1993,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_blockadeAgreement",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 1996,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1998,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_blockadeIntimidation",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 2000,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2004,
+        "description": "n/a",
+        "originalText": "Indeed it would.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2010,
+        "description": "n/a",
+        "originalText": "Let me get this straight: You came here to negotiate the release of your dear professor, but now you suddenly realize that you wanna become a pirate?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2017,
+        "description": "n/a",
+        "originalText": "Not at all.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2020,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_lemuriaAgreement",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2026,
+        "description": "n/a",
+        "originalText": "Now, concernin' that free passage through our territory...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2033,
+        "description": "n/a",
+        "originalText": "What remains now is that you contact your camp ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2039,
+        "description": "n/a",
+        "originalText": "::Tell him what you know about the expedition.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2044,
+        "description": "n/a",
+        "originalText": "::He smiles slightly.:: I have to admit that your observations are... sound to a degree. ::But then the smile vanishes.:: However, I stongly disagree with your conclusion. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 2048,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2052,
+        "description": "n/a",
+        "originalText": "Which is entirely your fault. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2058,
+        "description": "n/a",
+        "originalText": "But you already have. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2064,
+        "description": "n/a",
+        "originalText": "This expedition of yours, it has brought a lot of trouble. Not only to us, but *them* as well. You invade someone else's territory, armed and dangerous, flauntin' your disregard for anyone's interests but your own. What did you expect in return? Hospitality? Tolerance? Not only have your patrols confined us here, but the tribesmen, the Scalers - which you had agitated - are all over the Black Sea now, more keen on drinkin' human blood than their mother's milk. You people have kicked the hive, so to speak, with all your might and awakened a swarm that threatens to devour anything that gets in its way.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2068,
+        "description": "n/a",
+        "originalText": "context.npc_pir_grim_askWhatDoesHeWant",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2072,
+        "description": "n/a",
+        "originalText": "I did not mention civility out of pretentiousness. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2078,
+        "description": "n/a",
+        "originalText": "We will. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2081,
+        "description": "n/a",
+        "originalText": "context.quests_xpbl_expedition_saveTheProfessor_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 2082,
+        "description": "n/a",
+        "originalText": "plot.xpbl_navcom",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2083,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_expeditionDestroyed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2084,
+        "description": "n/a",
+        "originalText": "context.quests_xpbl_expedition_saveTheProfessor_canCallInAttack",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2085,
+        "description": "n/a",
+        "originalText": "context.loc_xpbl_camp_underAttack",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2088,
+        "description": "n/a",
+        "originalText": "::before turning your attention to your enemies.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2098,
+        "description": "n/a",
+        "originalText": "::The captain calmly walks up to you and buries his foot in your face so hard it nails your body to the floor. You vision turns black for an instant, before colors begin swirling back to you and the three faces brooding over you gain form. The two lieutenants then grab you by the arms and plant you into your previous position so that you may accept another kick from the captain. Blood starts pouring out of your nose and mouth, and with it you spit out a few teeth.::\r\n\r\nIs this why you came here? To get your face smashed in",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2104,
+        "description": "n/a",
+        "originalText": "::The captain takes a few steps forward, calmly. You expect another strike, but it never comes.::\r\n\r\n",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 2108,
+        "description": "n/a",
+        "originalText": "Xpbl_Pir_MeetingTheCaptain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2112,
+        "description": "n/a",
+        "originalText": "Hell yeah!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2116,
+        "description": "n/a",
+        "originalText": "Yes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2120,
+        "description": "n/a",
+        "originalText": "::Nod.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2124,
+        "description": "n/a",
+        "originalText": "Sorry to hear you had to go through that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2129,
+        "description": "n/a",
+        "originalText": "Cool scar, bro. I bet it gets you a lot of women.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2134,
+        "description": "n/a",
+        "originalText": "How can you be sure it wasn't me? I've shot at a lot of ass-faced bastards during my career.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2138,
+        "description": "n/a",
+        "originalText": "That has nothing to do with me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2142,
+        "description": "n/a",
+        "originalText": "::Say nothing.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2144,
+        "description": "n/a",
+        "originalText": "context.event_xpbl_pir_meetingCaptain_firstIntro",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2150,
+        "description": "n/a",
+        "originalText": "I know Larry was one of your guys.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2154,
+        "description": "n/a",
+        "originalText": "Bastards!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2158,
+        "description": "n/a",
+        "originalText": "::Let him continue.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2160,
+        "description": "n/a",
+        "originalText": "context.event_xpbl_pir_silent",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2164,
+        "description": "n/a",
+        "originalText": "::The captain briefly exchanges looks with his two lieutenants, both of which have followed your speech with interest. ::\r\n\r\nGood. I'm speakin' to someone with a good noggin' on his shoulders. I am glad to hear we understand each other. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2171,
+        "description": "n/a",
+        "originalText": "::His stare alone exerts pressure on you, and then he continues speaking in an assertive manner.:: ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2178,
+        "description": "n/a",
+        "originalText": "::It is a floatie-talkie, exactly the same model as the one the technician at the camp had. ::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2184,
+        "description": "n/a",
+        "originalText": "\r\n\r\nFlinger, do you read. Put the professor on.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2190,
+        "description": "n/a",
+        "originalText": "We're wastin' time here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2196,
+        "description": "n/a",
+        "originalText": "Yes. You think about what I said real good.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2217,
+        "description": "n/a",
+        "originalText": "Hmmm... I think you can do better than that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2231,
+        "description": "n/a",
+        "originalText": "Of course.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2252,
+        "description": "n/a",
+        "originalText": "Hmmm... I think you can do better than that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2280,
+        "description": "n/a",
+        "originalText": "Hmmm... I think you can do better than that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2294,
+        "description": "n/a",
+        "originalText": "We won't. Not if we make an agreement here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 2295,
+        "description": "n/a",
+        "originalText": "context.faction_xpbl_expedition_medicineSupply",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 2304,
+        "description": "n/a",
+        "originalText": "context.faction_xpbl_expedition_medicineSupply",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 2306,
+        "description": "n/a",
+        "originalText": "context.faction_xpbl_expedition_medicineSupply",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2319,
+        "description": "n/a",
+        "originalText": "Hmmm... I think you can do better than that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2334,
+        "description": "n/a",
+        "originalText": "Well... I do have some, how should I say, *issues* with allowin' armed security troopers to roam our waters freely.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2341,
+        "description": "n/a",
+        "originalText": "Allowin' armed security troopers to roam our waters freely? You have got to be jokin'.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2349,
+        "description": "n/a",
+        "originalText": "I'll be keepin' that in mind.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2356,
+        "description": "n/a",
+        "originalText": "And you shouldn't be creatin' a new problem while we're tryin' to solve this one.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 2360,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_intimidationAttempts",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2364,
+        "description": "n/a",
+        "originalText": "Now, don't you think one who's been given this perfect opportunity to assess who the winner of this factional tug-of-war is going to be might not - in the end - decide to work toward negotiating Professor Oldfield's release but instead toward his own acceptance into this crew.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2369,
+        "description": "n/a",
+        "originalText": "Not suddenly, I knew it for a long time. But I thought this would be the right moment. You and me, Captain, face to face, that's what I was waiting for.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2370,
+        "description": "n/a",
+        "originalText": "context.faction_xpbl_pirates_discussMovingTerritory",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2373,
+        "description": "n/a",
+        "originalText": "Your suggestion sounds acceptable: You - and only you - will have unrestriced passage through our territory. Consider that a bonus for successful negotations.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2378,
+        "description": "n/a",
+        "originalText": "context.faction_xpbl_pirates_allowedMovingThroughTerritory",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2383,
+        "description": "n/a",
+        "originalText": "and deliver to us everythin' you promised. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2389,
+        "description": "n/a",
+        "originalText": "and arrange for everything you promised. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2395,
+        "description": "n/a",
+        "originalText": "::After listening carefully to what you have to say, occasionally smiling and rubbing his beard with delight, he leans back into his chair and stares at the ceiling.::\r\n\r\nInterestin'. Real... interestin'.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2401,
+        "description": "n/a",
+        "originalText": "Simply put, you've raised hell - you've raised the Hell's Gut. We had to intervene.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".XPBLPIRSAAJ.XPBLPIRSAAJ:O",
+        "objectId": 2404,
+        "description": "n/a",
+        "originalText": "spawnstay",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2409,
+        "description": "n/a",
+        "originalText": " and risk Professor's life further?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2415,
+        "description": "n/a",
+        "originalText": "?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2428,
+        "description": "n/a",
+        "originalText": "Two months. Cost me a lotta coins, it did, 'cus I couldn't loot. But it cost 'im 'is life. ::He grins.:: Coins can be stolen at any time, life is one.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2435,
+        "description": "n/a",
+        "originalText": "::He sneers.:: Why ye askin'? Interested in offerin' yer pretty little ass, eh?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2441,
+        "description": "n/a",
+        "originalText": "I don' need no scars. I can get any ass I wan' 'round 'ere. I jus' snap me fingers an' dem floozies line up. Ye wanna bend over too, eh?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2448,
+        "description": "n/a",
+        "originalText": "Was a man. An' 'e's dead now. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2454,
+        "description": "n/a",
+        "originalText": "'E's dead. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2460,
+        "description": "n/a",
+        "originalText": "Yer d' Cap'n's guest now, but out dere yer kind's free game. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2466,
+        "description": "n/a",
+        "originalText": "Well... ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2469,
+        "description": "n/a",
+        "originalText": "context.quests_xpbl_expedition_saveTheProfessor_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2473,
+        "description": "n/a",
+        "originalText": "I had no doubts about it. But I did not lie to you: He had been shot by a trooper, right in the neck; he bled out in less than a minute.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2477,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_toldKnowTraitor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2481,
+        "description": "n/a",
+        "originalText": "::He responds to your comment with a smirk.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2487,
+        "description": "n/a",
+        "originalText": "The professor, however, is just a little shaken up. Shaken up - but unharmed. All of that could change at any moment, of course, dependin' on your actions. As long as you and your comrades keep things civil, no further blood will be shed.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 2491,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2496,
+        "description": "n/a",
+        "originalText": "::After a moment of silence, you hear the professor's voice coming from the device.::\r\n\r\nThis is Professor Oldfield.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2506,
+        "description": "n/a",
+        "originalText": "Take $(#him/her) away. I know you've made a promise, Cruzer, but refrain from rearrangin' $(#his/her) appearance for now. Both of you, keep your eyes open: The sea is hot.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2512,
+        "description": "n/a",
+        "originalText": "I like the sound of that. We're makin' progress.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2516,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_weaponsOfferLevel",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2519,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_weaponsOfferLevel",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2520,
+        "description": "n/a",
+        "originalText": "grim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2521,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2524,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_weaponsOfferLevel",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2525,
+        "description": "n/a",
+        "originalText": "grim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2526,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2528,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_techOfferLevel",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2529,
+        "description": "n/a",
+        "originalText": "grim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2530,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2533,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_techOfferLevel",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2534,
+        "description": "n/a",
+        "originalText": "grim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2535,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2536,
+        "description": "n/a",
+        "originalText": "grim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2537,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2540,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_techOfferLevel",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2541,
+        "description": "n/a",
+        "originalText": "grim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2542,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2544,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_jetsOfferLevel",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2545,
+        "description": "n/a",
+        "originalText": "grim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2546,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2548,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_jetsOfferLevel",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2549,
+        "description": "n/a",
+        "originalText": "grim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2550,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2552,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_jetsOfferLevel",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2553,
+        "description": "n/a",
+        "originalText": "grim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2554,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2561,
+        "description": "n/a",
+        "originalText": "::He pauses:: I'll take them. They could be of use at some point.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2567,
+        "description": "n/a",
+        "originalText": "I am not convinced. Seems like high risk for little potential gain. Yes. Too risky.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2571,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_medicineOfferLevel",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2572,
+        "description": "n/a",
+        "originalText": "grim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2573,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2576,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_medicineOfferLevel",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2577,
+        "description": "n/a",
+        "originalText": "grim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2578,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2581,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_medicineOfferLevel",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2582,
+        "description": "n/a",
+        "originalText": "grim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2583,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 2586,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2590,
+        "description": "n/a",
+        "originalText": "Then how about just one sec-trooper? You let me pass, perhaps a few unarmed laborers if needed, and that's all we need, really.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 2593,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 2595,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2599,
+        "description": "n/a",
+        "originalText": "::A quick smile escapes him.:: I see what you mean. \r\n\r\nSo...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2614,
+        "description": "n/a",
+        "originalText": "I ain't buyin' a word. Now stop wastin' my time.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2620,
+        "description": "n/a",
+        "originalText": "And the laborers? I might need a few extra hands over there.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2621,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_gaveSuppliesToPirates",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2624,
+        "description": "n/a",
+        "originalText": "After that the professor will be yours.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2634,
+        "description": "n/a",
+        "originalText": "::His eyes shift from the ceiling to you.::\r\n\r\n",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2646,
+        "description": "n/a",
+        "originalText": "context.quests_xpbl_expedition_professorKidnapped",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2665,
+        "description": "n/a",
+        "originalText": "Good. Then welcome to the Grim Jetters, $(context.player.Name).\r\n\r\nPerhaps you'll prove to be a good addition to our ranks after all.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2672,
+        "description": "n/a",
+        "originalText": "Corporal, ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2679,
+        "description": "n/a",
+        "originalText": "Cruzer.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2686,
+        "description": "n/a",
+        "originalText": "Who knows, maybe I get to pop ye as well.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2689,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_le_technician_sawGear",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 2690,
+        "description": "n/a",
+        "originalText": "devices.xpbl_pirateComm",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2694,
+        "description": "n/a",
+        "originalText": "Don't worry, Professor, we're gonna get you out!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2698,
+        "description": "n/a",
+        "originalText": "It's me, $(context.player.Name). Can you hear me?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2702,
+        "description": "n/a",
+        "originalText": "I've heard enough.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2706,
+        "description": "n/a",
+        "originalText": "::He nods.::\r\n\r\nMove yer bones!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2712,
+        "description": "n/a",
+        "originalText": "::He nods and grabs you.::\r\n\r\nOn yer feet!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2720,
+        "description": "n/a",
+        "originalText": "Good. We're makin' progress.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2724,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_offeredUniforms",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 2726,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2731,
+        "description": "n/a",
+        "originalText": "::He ponders for a moment.::\r\n\r\nYes. It is possible, it is... But we'll get to it later.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2743,
+        "description": "n/a",
+        "originalText": "context.event_xpbl_pir_meetingCaptain_join_failedPersuade",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 2745,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2748,
+        "description": "n/a",
+        "originalText": "No extra hands.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2757,
+        "description": "n/a",
+        "originalText": "::Contact Chief Briggs and wait for them to deliver the supplies.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2762,
+        "description": "n/a",
+        "originalText": "::Contact Chief Briggs.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2766,
+        "description": "n/a",
+        "originalText": "I... um, don't have my comm on me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2779,
+        "description": "n/a",
+        "originalText": "But you only know so much. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2786,
+        "description": "n/a",
+        "originalText": "You still haven't told me what you want.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2794,
+        "description": "n/a",
+        "originalText": "::[Persuade]:: While I can't say I condone the way in which you interfered, I understand what led you to act like that. Know that I will do my best in trying to reach an agreement with you that will satisfy both sides.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2803,
+        "description": "n/a",
+        "originalText": "::[Intimidate]:: I don't think you, as the pirates who are intercepting local vessels, are in a position to judge someone else's respect for territorial integrity. Besides, we haven't actively and purposefully disturbed your raiding even though we could and should have as representatives of North Underrail, Underrail Protectorate - of law and order. So maybe it is you who shouldn't be kicking any hives.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2807,
+        "description": "n/a",
+        "originalText": "Tell me, why exactly did you kidnap the professor? Do you simply want us to leave... or is it something else you want?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2811,
+        "description": "n/a",
+        "originalText": "::Spit blood in his face.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2812,
+        "description": "n/a",
+        "originalText": "context.global_beginExpedition",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2815,
+        "description": "n/a",
+        "originalText": "Good. However, you as a $(#man/woman) of such shiftin' loyalty...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2829,
+        "description": "n/a",
+        "originalText": "I think so too, Cap'n.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2833,
+        "description": "n/a",
+        "originalText": "::He nods and relaxes.::\r\n\r\nYes, Cap'n.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2838,
+        "description": "n/a",
+        "originalText": "::His voice comes out of the radio once again.::\r\n\r\n$(context.npc_xpbl_oldfield_playerName)! Am I glad to hear a familiar voice.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2847,
+        "description": "n/a",
+        "originalText": "That would be all, Professor.\r\n\r\n::He then puts the radio away.::\r\n\r\nAs you can hear, the professor is indeed alive. Let us return to our negotiations now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2850,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_surrendered",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2857,
+        "description": "n/a",
+        "originalText": "::End Dialog::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2859,
+        "description": "n/a",
+        "originalText": "context.faction_xpbl_pirates_discussMovingTerritory",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2861,
+        "description": "n/a",
+        "originalText": "context.events_pir_meetCaptain_wantToJoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2866,
+        "description": "n/a",
+        "originalText": "What if we pay the toll each time I bring someone? Would that be acceptable?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2870,
+        "description": "n/a",
+        "originalText": "No extra hands then.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 2874,
+        "description": "n/a",
+        "originalText": "Xpbl_Pir_Meeting_NegotiationsSucceeded",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 2878,
+        "description": "n/a",
+        "originalText": "Xpbl_Pir_Meeting_NegotiationsSucceeded",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2881,
+        "description": "n/a",
+        "originalText": "Feel free to use mine. ::He hands you a radio, a waterproof floatie-talkie.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2892,
+        "description": "n/a",
+        "originalText": "And you have this... workin' microchip implant?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2899,
+        "description": "n/a",
+        "originalText": "Welcome to the Grim Jetters, $(context.player.Name).\r\n\r\nPerhaps you'll prove to be a good addition to our ranks after all.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2903,
+        "description": "n/a",
+        "originalText": "context.npc_pir_grim_askWhatDoesHeWant",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2908,
+        "description": "n/a",
+        "originalText": "We are pirates, my friend: We don't *want* things - we *take* them. But sometimes things are outside of our reach, no matter how close they might appear. Thus it is not the question of what we want from you, but rather of what you can offer us in exchange for your beloved professor, of course. You understand me?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2917,
+        "description": "n/a",
+        "originalText": "I didn't get that impression so far.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2926,
+        "description": "n/a",
+        "originalText": "That is good to hear.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2932,
+        "description": "n/a",
+        "originalText": "We'll see.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2936,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_tryRaisedHellPersuade",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2945,
+        "description": "n/a",
+        "originalText": "We... most certainly do not wish for our relations to escalate any further.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2952,
+        "description": "n/a",
+        "originalText": "Actively or not, you have and you still are. And I think you will find that we have been dealin' both with local authorities and the Protectorate rather successfuly . We will not be so easily intimidated.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 2956,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_intimidationAttempts",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2958,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_tryRaisedHellIntimidate",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2962,
+        "description": "n/a",
+        "originalText": "::However, all you manage to hit is his chest, and even spitting that far took considerable effort.::\r\n\r\nHm. Defiant till the last moment, I see. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2968,
+        "description": "n/a",
+        "originalText": "Whatever you want me to do to.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2972,
+        "description": "n/a",
+        "originalText": "What do you want now?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2973,
+        "description": "n/a",
+        "originalText": "context.quests_xpbl_expedition_professorKidnapped",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2977,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_pirates_joined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2979,
+        "description": "n/a",
+        "originalText": "context.loc_xpbl_pirateBase_allowed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2981,
+        "description": "n/a",
+        "originalText": "context.faction_xpbl_pirates_allowedMovingThroughTerritory",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2983,
+        "description": "n/a",
+        "originalText": "context.loc_xpbl_portCrag_allowed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 2985,
+        "description": "n/a",
+        "originalText": "Xpbl_StartDialogWithCaptain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2989,
+        "description": "n/a",
+        "originalText": "::He turns to you.::\r\n\r\n",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2995,
+        "description": "n/a",
+        "originalText": "Did they hurt you, Professor?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2999,
+        "description": "n/a",
+        "originalText": "Stay strong, Professor. You'll be out of there in no time.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3003,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_playerThrownInJail",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3010,
+        "description": "n/a",
+        "originalText": "Hmmm. Very well. But no armed men, and I reserve the right to withdraw my hospitality at any time.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3015,
+        "description": "n/a",
+        "originalText": "context.faction_xpbl_pirates_allowedLaborers",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 3016,
+        "description": "n/a",
+        "originalText": "plot.xpbl_navcom",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3017,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_gaveSuppliesToPirates",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 3018,
+        "description": "n/a",
+        "originalText": "plot.xpbl_navcom",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3019,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_gaveSuppliesToPirates",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3024,
+        "description": "n/a",
+        "originalText": "::Contact Chief Briggs and wait for them to deliver the supplies.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3029,
+        "description": "n/a",
+        "originalText": "::Contact Chief Briggs.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3030,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_pir_razor_leadToJoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3031,
+        "description": "n/a",
+        "originalText": "context.events_pir_meetCaptain_wantToJoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3035,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_pir_grim_toldFoundImplant",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3040,
+        "description": "n/a",
+        "originalText": "Got it right here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3044,
+        "description": "n/a",
+        "originalText": "No, but I know where to get it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3046,
+        "description": "n/a",
+        "originalText": "context.event_xpbl_pir_meetingCaptain_startNegotiations",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3047,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_tryRaisedHellPersuade",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3048,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_tryRaisedHellPassAnyCheck",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 3049,
+        "description": "n/a",
+        "originalText": "context.npc_pir_grim_introduced",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 3050,
+        "description": "n/a",
+        "originalText": "none",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 3053,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3055,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_tryRaisedHellPassAnyCheck",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3056,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_tryRaisedHellIntimidate",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3057,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_tryRaisedHellPassAnyCheck",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 3060,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3062,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_tryRaisedHellPassAnyCheck",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 3064,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_extraPointsOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3068,
+        "description": "n/a",
+        "originalText": "You could start by givin' me... information. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3074,
+        "description": "n/a",
+        "originalText": "Watch your tongue. Information. I want information. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGJ3.SGJ3:G",
+        "objectId": 3077,
+        "description": "n/a",
+        "originalText": "cp_expedition_joinedPirates",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3080,
+        "description": "n/a",
+        "originalText": "::The professor continues.::\r\n\r\nI'm alright. I have not been hurt.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3088,
+        "description": "n/a",
+        "originalText": "::The professor continues.::\r\n\r\nI hope so, $(context.npc_xpbl_oldfield_playerName). I'll mark your words.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:LI",
+        "objectId": 3091,
+        "description": "n/a",
+        "originalText": "xpbl_e3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:EI",
+        "objectId": 3092,
+        "description": "n/a",
+        "originalText": "player_jail",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 3093,
+        "description": "n/a",
+        "originalText": "xpbl_e3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q1.Q1:L",
+        "objectId": 3095,
+        "description": "n/a",
+        "originalText": "xpbl_e3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3100,
+        "description": "n/a",
+        "originalText": "Deal.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3101,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_gaveSuppliesToPirates",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 3103,
+        "description": "n/a",
+        "originalText": "Xpbl_Pir_Meeting_NegotiationsSucceeded",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3104,
+        "description": "n/a",
+        "originalText": "context.event_pir_meeting_gaveSuppliesToPirates",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 3106,
+        "description": "n/a",
+        "originalText": "Xpbl_Pir_Meeting_NegotiationsSucceeded",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3107,
+        "description": "n/a",
+        "originalText": "context.loc_xpbl_md_foundPhilsBody",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3108,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_seeger_gaveInfoForTheProfessor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3113,
+        "description": "n/a",
+        "originalText": "::He smiles.:: Then welcome to the Grim Jetters, $(context.player.Name). Welcome.\r\n\r\nI think you'll prove to be a good addition to our ranks after all.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3120,
+        "description": "n/a",
+        "originalText": "About everythin' that has been goin' on here. Why this expedition is here, what you've discovered up until now... *Everythin'*.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 3124,
+        "description": "n/a",
+        "originalText": "plot.xpbl_philsArm",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3125,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_implantedChip_PhilBridges",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3134,
+        "description": "n/a",
+        "originalText": "I think so too, Cap'n.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3135,
+        "description": "n/a",
+        "originalText": "context.quests_xpbl_expedition_professorKidnapped",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3137,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_pirates_joined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3139,
+        "description": "n/a",
+        "originalText": "context.loc_xpbl_pirateBase_allowed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3141,
+        "description": "n/a",
+        "originalText": "context.faction_xpbl_pirates_allowedMovingThroughTerritory",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3143,
+        "description": "n/a",
+        "originalText": "context.loc_xpbl_portCrag_allowed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 3145,
+        "description": "n/a",
+        "originalText": "Xpbl_StartDialogWithCaptain",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

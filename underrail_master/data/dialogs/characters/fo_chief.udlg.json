@@ -1,0 +1,2392 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 103,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 104,
+        "description": "n/a",
+        "originalText": "chief",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 105,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 109,
+        "description": "n/a",
+        "originalText": "::The man pays no attention to you since he seems to be engaged in a conversation with the other man.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 118,
+        "description": "n/a",
+        "originalText": "You're back. Upon conducting an investigation, we discovered that the rifle you gave me was indeed used to kill Bolivar Daud, based on the caliber, angle of shot, etc. We have no evidence that could prove that Todor fired the gun, as there were no fingerprints on the rifle, nor any other clues. We also have no way to link the gun to Micas either.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 150,
+        "description": "n/a",
+        "originalText": "$(context.player.Name), so far you've proven to me you are a $(#man/woman) I can trust, and because of that I have a small job for you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 156,
+        "description": "n/a",
+        "originalText": "Yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 159,
+        "description": "n/a",
+        "originalText": "context.npc_fo_mayor_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 165,
+        "description": "n/a",
+        "originalText": "Still, due to the lack of evidence, as well as your involvement in the case, Todor Sallywatch is now a free man.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 169,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_signTodorRelease",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 171,
+        "description": "n/a",
+        "originalText": "context.npc_fo_todor_released",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 177,
+        "description": "n/a",
+        "originalText": "What you've just told me is rather interesting, but by no means impossible. I'll order my men to bring both of them so that we can get to the bottom of this. Also, in the future, do not try to play a hitman. As soon as you encounter anything suspicious, come report to us. That is why we are here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 186,
+        "description": "n/a",
+        "originalText": "Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. You are lucky to have managed to save your hide there. My men arrested her just moments ago and will interrogate her as soon as possible, while some are still on the scene.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 193,
+        "description": "n/a",
+        "originalText": "Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. You are lucky to have managed to save your hide there. My men have found her corpse and are still on the scene of the crime. You are free to go; you acted in self-defense.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 200,
+        "description": "n/a",
+        "originalText": "Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. My men are still on the scene, and you, I thank you for notifying us of all this. Who knows how many more men could have been murdered. I dare not to think about it. Here's a small reward for your troubles. ::He gives you 250 stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 204,
+        "description": "n/a",
+        "originalText": "context.npc_evelyn_evelynStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 206,
+        "description": "n/a",
+        "originalText": "context.npc_evelyn_evelynCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 210,
+        "description": "n/a",
+        "originalText": "fo_EvelynChase",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 212,
+        "description": "n/a",
+        "originalText": "fo_EvelynEvidence",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 221,
+        "description": "n/a",
+        "originalText": "The Foundry Guard patrolmen have spotted a group of Faceless just west of Foundry. I would like you to go on a reconnaissance mission for us.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 225,
+        "description": "n/a",
+        "originalText": "context.loc_fo_toldYouInvestigateFaceless",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 227,
+        "description": "n/a",
+        "originalText": "context.quest_FoundryChiefFacelessStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 229,
+        "description": "n/a",
+        "originalText": "fo_chiefInvestigateFaceless",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 250,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_completeTodorInvestigation",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 251,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_signTodorRelease",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 255,
+        "description": "n/a",
+        "originalText": "We will attempt to locate Micas. Hopefully, that will lead us to the real murderer. Consider your friend a free man.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 258,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_reportMurderBlack",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 259,
+        "description": "n/a",
+        "originalText": "context.npc_fo_reportingMurderBlackComplete",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 269,
+        "description": "n/a",
+        "originalText": "In any case, thank you for the help. Keeping Foundry as safe as possible is our primary concern. Now, if you'd excuse me, I need to deal with the situation at hand.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 272,
+        "description": "n/a",
+        "originalText": "context.npc_evelyn_evelynCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 276,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_evelynDieYeskey",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 281,
+        "description": "n/a",
+        "originalText": "Also, they found this key on her, I guess you'll need it to get your belongings back. You saved lives by exposing her, and for that, here's a small reward. ::He gives you 250 stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 284,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_evelynDieNokey",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 288,
+        "description": "n/a",
+        "originalText": "You saved lives by exposing her, and for that, here's a small reward. ::He gives you 250 stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 291,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_evelynGaveEvidence",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 295,
+        "description": "n/a",
+        "originalText": "You are free to go.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 298,
+        "description": "n/a",
+        "originalText": "fo-bunker",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 303,
+        "description": "n/a",
+        "originalText": "context.loc_fo_toldYouInvestigateFaceless",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 309,
+        "description": "n/a",
+        "originalText": "context.loc_cc_facelessRetreated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 312,
+        "description": "n/a",
+        "originalText": "We've been observing them for some time now, but their intentions are not yet clear to us. I just want you to try and find out what they're up to. Nothing else. Your reward will be one hundred charons if you can accomplish the job.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 325,
+        "description": "n/a",
+        "originalText": "I talked to the Faceless.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 331,
+        "description": "n/a",
+        "originalText": "I killed the Faceless near Foundry.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 337,
+        "description": "n/a",
+        "originalText": "The Faceless left before I had the chance to discover their intentions.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 343,
+        "description": "n/a",
+        "originalText": "I need to talk to you about a prisoner called Todor Sallywatch.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 348,
+        "description": "n/a",
+        "originalText": "Are there any jobs available around here?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 353,
+        "description": "n/a",
+        "originalText": "About Balor...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 358,
+        "description": "n/a",
+        "originalText": "I would like to report a planning of a murder.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 364,
+        "description": "n/a",
+        "originalText": "One of your residents is being held captive by some bandits. They're in a camp near Foundry.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 369,
+        "description": "n/a",
+        "originalText": "I recently found out that the Institute of Tchort commisions Foundry to make metal figurines for them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 375,
+        "description": "n/a",
+        "originalText": "What do you know about the mine creatures?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 381,
+        "description": "n/a",
+        "originalText": "I noticed that one of your investigators has a strange speech disorder.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 386,
+        "description": "n/a",
+        "originalText": "I'd like to talk about Evelyn Ingram.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 391,
+        "description": "n/a",
+        "originalText": "Can you tell me something about Foundry?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 397,
+        "description": "n/a",
+        "originalText": "How do you feel now that the mine has been reopened?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 400,
+        "description": "n/a",
+        "originalText": "I need to go. See you later.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 402,
+        "description": "n/a",
+        "originalText": "context.npc_fo_nicolas_KillOliviaCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 404,
+        "description": "n/a",
+        "originalText": "context.npc_fo_olivia_KillNicolasCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C34.C34:QN",
+        "objectId": 406,
+        "description": "n/a",
+        "originalText": "fo_tillDeathDoUsPartNicolas",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C34.C34:QN",
+        "objectId": 408,
+        "description": "n/a",
+        "originalText": "fo_tillDeathDoUsPartOlivia",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 410,
+        "description": "n/a",
+        "originalText": "context.npc_fo_reportingMurderBlackComplete",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 412,
+        "description": "n/a",
+        "originalText": "fo_reportMurderBlack",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 414,
+        "description": "n/a",
+        "originalText": "fo_reportMurderBlack",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 415,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_evelynDieNokey",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 416,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_evelynDieYeskey",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 417,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_evelynGaveEvidence",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 421,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_killBalorCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 422,
+        "description": "n/a",
+        "originalText": "context.quest_FoundryMainPartTwoCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 423,
+        "description": "n/a",
+        "originalText": "context.npc_evelyn_evelynCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 424,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_reportMurderBlack",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 425,
+        "description": "n/a",
+        "originalText": "context.npc_fo_todor_released",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 431,
+        "description": "n/a",
+        "originalText": "Actually, I already talked to them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 437,
+        "description": "n/a",
+        "originalText": "I took care of them. They are all dead.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 441,
+        "description": "n/a",
+        "originalText": "I wanted to talk to you about something first.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 444,
+        "description": "n/a",
+        "originalText": "Understood. I'm on my way.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 452,
+        "description": "n/a",
+        "originalText": "It doesn't matter anymore, as the Faceless have already retreated from every location they were spotted in. In any case, since you still risked your life, the reward is yours. ::He hands you 100 stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 457,
+        "description": "n/a",
+        "originalText": "You talked to them? What did you find out?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 465,
+        "description": "n/a",
+        "originalText": "context.quest_FoundryChiefFacelessCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 471,
+        "description": "n/a",
+        "originalText": "Alone? Did they attack you?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 477,
+        "description": "n/a",
+        "originalText": "context.quest_FoundryChiefFacelessCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 484,
+        "description": "n/a",
+        "originalText": "It doesn't matter anymore, as the Faceless have already retreated from every location they were spotted in.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 490,
+        "description": "n/a",
+        "originalText": "context.quest_FoundryChiefFacelessCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 503,
+        "description": "n/a",
+        "originalText": "Todor... Todor Sallywatch... Isn't that the man who killed Bolivar Daud? Accused of killing. Due to Judge Taylor's passing, I will be dealing with all criminal cases. So, what was it you wanted to talk about?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 509,
+        "description": "n/a",
+        "originalText": "Yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 515,
+        "description": "n/a",
+        "originalText": "Hm. As a matter of fact, I believe I might have something for you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 525,
+        "description": "n/a",
+        "originalText": "Yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 538,
+        "description": "n/a",
+        "originalText": "I'm listening.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 553,
+        "description": "n/a",
+        "originalText": "I'm terribly sorry, but there's nothing I can do about that at the moment. The mayor had issued strict orders that the Foundry Guard should not interfere with these types of situations *outside* of Foundry, even if it the situation revolves around one of our residents. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 559,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_askSaveHugo",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 560,
+        "description": "n/a",
+        "originalText": "context.npc_tch_denzil_toldFoundryFigurine",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 564,
+        "description": "n/a",
+        "originalText": "Tchort? I think you made a mistake. As far as I am aware, there is only the Institute, the one in Upper Underrail.The term Tchort, that I only heard uttered by the mouth of that madman in the streets.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 574,
+        "description": "n/a",
+        "originalText": "I cannot discuss that with you. I'm sorry. That is classified information.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 578,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_askMonsters",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 584,
+        "description": "n/a",
+        "originalText": "Yes, Doctor Stevenson told him it's called... hmmm... receptive aphasia. I've never heard of the term myself before, to tell you the truth, but rest assured, he is one of our finest investigators, even with his disability.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 588,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_askInvestigatorAphasia",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 593,
+        "description": "n/a",
+        "originalText": "::He pauses for a moment.:: Yes? What about her?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 602,
+        "description": "n/a",
+        "originalText": "I suppose I can. Foundry is a proud mining community that, thanks to a mine rich in different metals - predominantly iron - has a strong strategic position in Lower Underrail. It might seem like I'm boasting, but the Foundry Guard is above any station force you'll see. We have trained and well-equipped men, ready to swiftly deal with any and all threats. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 606,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_askFoundry",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 614,
+        "description": "n/a",
+        "originalText": "I never broke my pick; I knew we were going to overcome this problem one way or the other. With the mine operational and Foundry safe once again, we will maintain our position as the dominant force in the region.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 618,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_askMineReopen",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 629,
+        "description": "n/a",
+        "originalText": "context.quest_FoundryChiefFacelessCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 632,
+        "description": "n/a",
+        "originalText": "context.quest_FoundryChiefFacelessCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 636,
+        "description": "n/a",
+        "originalText": "Go ahead.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 639,
+        "description": "n/a",
+        "originalText": "context.npc_fofaceless_toldAboutInvestigation",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 640,
+        "description": "n/a",
+        "originalText": "context.loc_fo_toldYouInvestigateFaceless",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 641,
+        "description": "n/a",
+        "originalText": "context.quest_FoundryChiefFacelessCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 642,
+        "description": "n/a",
+        "originalText": "context.loc_cc_facelessRetreated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 654,
+        "description": "n/a",
+        "originalText": "They are looking for some kind of item - something that means a lot to them. They never explained its appearance, just said that it looks very distinct.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 659,
+        "description": "n/a",
+        "originalText": "They are looking for some kind of item - something that means a lot to them, but it turned out that this item wasn't in Foundry. After talking to them about it, they got into their tunneler and left.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 663,
+        "description": "n/a",
+        "originalText": "They were on a patrol and their tunneler broke down. They'll leave as soon as they fix it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 668,
+        "description": "n/a",
+        "originalText": "They are planning a massive invasion on Foundry. This group is on a reconnaissance mission to test Foundry's defenses!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 669,
+        "description": "n/a",
+        "originalText": "context.loc_fo_toldYouInvestigateFaceless",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 670,
+        "description": "n/a",
+        "originalText": "context.loc_lu-b22x_facelessKilled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 672,
+        "description": "n/a",
+        "originalText": "context.quest_FoundryChiefFacelessCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 676,
+        "description": "n/a",
+        "originalText": "Yes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 680,
+        "description": "n/a",
+        "originalText": "No, I just attacked them on sight. They didn't look like the friendliest bunch.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 681,
+        "description": "n/a",
+        "originalText": "context.loc_cc_facelessRetreated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 682,
+        "description": "n/a",
+        "originalText": "context.loc_fo_toldYouInvestigateFaceless",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 683,
+        "description": "n/a",
+        "originalText": "context.quest_FoundryChiefFacelessCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C34.C34:QN",
+        "objectId": 685,
+        "description": "n/a",
+        "originalText": "fo_chiefInvestigateFaceless",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 689,
+        "description": "n/a",
+        "originalText": "And... about my reward?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 693,
+        "description": "n/a",
+        "originalText": "The most important things is that they didn't attack Foundry.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 694,
+        "description": "n/a",
+        "originalText": "context.quest_watch_FoundryTrialStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 695,
+        "description": "n/a",
+        "originalText": "context.quest_watch_FoundryTrialCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 696,
+        "description": "n/a",
+        "originalText": "context.npc_fo_todor_released",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 697,
+        "description": "n/a",
+        "originalText": "context.npc_fo_todor_dead",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 698,
+        "description": "n/a",
+        "originalText": "context.npc_fo_todor_escaped",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 699,
+        "description": "n/a",
+        "originalText": "context.npc_fo_todor_poisoned",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 700,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_checkBeforeReleaseTodor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 701,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_firstTalkTodor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 712,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_firstTalkTodor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 713,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_toldBalor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 717,
+        "description": "n/a",
+        "originalText": "Let's hear it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 721,
+        "description": "n/a",
+        "originalText": "I changed my mind. Let's talk about something else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 722,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_toldBalor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 723,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_killBalorCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 735,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_reportMurderBlack",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 736,
+        "description": "n/a",
+        "originalText": "context.npc_fo_nicolas_KillOliviaCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 737,
+        "description": "n/a",
+        "originalText": "context.npc_fo_olivia_KillNicolasCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 738,
+        "description": "n/a",
+        "originalText": "context.npc_fo_olivia_KillNicolasCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 739,
+        "description": "n/a",
+        "originalText": "context.npc_fo_nicolas_KillOliviaCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 740,
+        "description": "n/a",
+        "originalText": "context.npc_fo_nicolas_dies",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 741,
+        "description": "n/a",
+        "originalText": "context.npc_fo_olivia_dies",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 751,
+        "description": "n/a",
+        "originalText": "::Explain how Nicolas wanted you to kill Olivia.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 758,
+        "description": "n/a",
+        "originalText": "::Explain how Olivia wanted you to kill Nicolas.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 766,
+        "description": "n/a",
+        "originalText": "::Explain how both Olivia and Nicolas wanted you to kill the other.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 770,
+        "description": "n/a",
+        "originalText": "Sorry, I've made a mistake. Let's talk about something else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 771,
+        "description": "n/a",
+        "originalText": "context.npc_fo_hugo_payOffDebt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 772,
+        "description": "n/a",
+        "originalText": "context.npc_fo_hugo_died",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 773,
+        "description": "n/a",
+        "originalText": "context.npc_fo_hugo_saved",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 774,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_askSaveHugo",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 775,
+        "description": "n/a",
+        "originalText": "context.loc_lu_b26x_killedBandits",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 781,
+        "description": "n/a",
+        "originalText": "Would it do any good if I talked to him?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 785,
+        "description": "n/a",
+        "originalText": "Well, thanks a lot!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 788,
+        "description": "n/a",
+        "originalText": "In any case, it shouldn't come as a surprise that we manufactured these figurines for them, as whole South Underrail turns to us when it cames to any kind of metalworks.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 793,
+        "description": "n/a",
+        "originalText": "context.loc_fo_monstersKnow",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 794,
+        "description": "n/a",
+        "originalText": "context.loc_fo_mineReopened",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 795,
+        "description": "n/a",
+        "originalText": "context.quest_FoundryMainPartOneStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 796,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_askMonsters",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 800,
+        "description": "n/a",
+        "originalText": "Anything else?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 803,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_askInvestigatorAphasia",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 804,
+        "description": "n/a",
+        "originalText": "context.loc_fo_investigatorAphasia",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 808,
+        "description": "n/a",
+        "originalText": "Not that we have that many crime investigations in Foundry - as this is a safe station - but still, when situations like this one happen to arise, I can dispatch him and be perfectly confident in his abilities.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 811,
+        "description": "n/a",
+        "originalText": "context.npc_evelyn_evelynCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 812,
+        "description": "n/a",
+        "originalText": "context.npc_evelyn_evelynStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 819,
+        "description": "n/a",
+        "originalText": "I've found evidence that she's a murderer. Take a look at this. ::Give him the flash drive with data from her computer.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 824,
+        "description": "n/a",
+        "originalText": "That derailed witch drugged me and tried to kill me!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 828,
+        "description": "n/a",
+        "originalText": "On a second thought, I'd like to talk about something else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 832,
+        "description": "n/a",
+        "originalText": "Unfortunately, the only thing the Foundry Guard cannot combat is the foul air, but that is an issue we are working on mitigating.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 835,
+        "description": "n/a",
+        "originalText": "context.loc_fo_mineReopened",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 836,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_askMineReopen",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 841,
+        "description": "n/a",
+        "originalText": "If the Faceless dare attack, they'll find themselves in a world of hurt.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 848,
+        "description": "n/a",
+        "originalText": "Now that the Faceless have retreated from Core City, Underrail is safe once again, and we have even less to worry about.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 854,
+        "description": "n/a",
+        "originalText": "We cannot be touched.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 858,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 859,
+        "description": "n/a",
+        "originalText": "context.npc_fofaceless_toldAboutInvestigation",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 860,
+        "description": "n/a",
+        "originalText": "context.loc_lu-b22x_facelessKilled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 863,
+        "description": "n/a",
+        "originalText": "fo_chiefInvestigateFaceless",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 869,
+        "description": "n/a",
+        "originalText": "We will still need to stay alert, as it could be some kind of ruse. As for the item, if it even exists, I will order my men to investigate if any strange objects have been seen in Foundry. You did well. Here's your reward. ::He hands you 100 stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 872,
+        "description": "n/a",
+        "originalText": "context.quest_fo_facelessRecon_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 876,
+        "description": "n/a",
+        "originalText": "Interesting. We will still need to stay alert, as it could be some kind of ruse, but the fact that they weren't hostile to you is not a bad indicator by all means. You did well. Here's your reward. ::He hands you 100 stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 882,
+        "description": "n/a",
+        "originalText": "Broke down? I hope you didn't believe that, $(context.player.Name). This worries me to a degree, but then again, they weren't hostile to you. I'll instruct my men to be on their guard in any case. You did your work well. Here's your reward. ::He hands you 100 stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 888,
+        "description": "n/a",
+        "originalText": "Muck! I'll mobilize everything we have available this instant. Foundry will not fall. You did this station a great favor by telling me this. ::He hands you 100 stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 892,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_tellFacelessInvade",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 903,
+        "description": "n/a",
+        "originalText": "For what? You failed to provide me the information at the time, so you will not receive a reward.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 909,
+        "description": "n/a",
+        "originalText": "That is truly the case, $(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 916,
+        "description": "n/a",
+        "originalText": "I have the weapon that was used to kill Bolivar Daud.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 923,
+        "description": "n/a",
+        "originalText": "I believe he is innocent and should be released.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 928,
+        "description": "n/a",
+        "originalText": "I think I've proven to you that I can be trusted. I want to help with the Daud murder case.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 932,
+        "description": "n/a",
+        "originalText": "Actually, let's talk about something else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 937,
+        "description": "n/a",
+        "originalText": "Very good. You are, I presume, familiar with the Ironheads, one of the largest gangs in Lower Underrail. Well, one of their clans is causing a lot of trouble to Foundry and the whole region. These scum - and that is what they are - are being led by a man who calls himself Balor, a man known for two things: his immense physical strength and a sinister red cybernetic eye. And unfortunately for us, I suppose his successful leadership can be added to that list.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 943,
+        "description": "n/a",
+        "originalText": "Like what?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 950,
+        "description": "n/a",
+        "originalText": "I'll find and kill Balor.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 955,
+        "description": "n/a",
+        "originalText": "I have his eye right here. ::Give him the eye.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 960,
+        "description": "n/a",
+        "originalText": "What else can you tell me about this Balor guy and where I can find him?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 965,
+        "description": "n/a",
+        "originalText": "How do I get to this Warehouse Block Beta?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 969,
+        "description": "n/a",
+        "originalText": "What can you tell me about these Ironheads?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 973,
+        "description": "n/a",
+        "originalText": "Let's talk about something else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 974,
+        "description": "n/a",
+        "originalText": "context.npc_fo_nicolas_KillOliviaStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 975,
+        "description": "n/a",
+        "originalText": "context.npc_fo_olivia_KillNicolasStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 976,
+        "description": "n/a",
+        "originalText": "context.npc_fo_nicolas_refuseToKill",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 980,
+        "description": "n/a",
+        "originalText": "context.npc_fo_nicolas_arrested",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 982,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_reportMurderBlack",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 984,
+        "description": "n/a",
+        "originalText": "Fo_ChiefEvelyn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 985,
+        "description": "n/a",
+        "originalText": "context.npc_fo_olivia_KillNicolasStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 987,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_reportMurderBlack",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 989,
+        "description": "n/a",
+        "originalText": "Fo_ChiefArrestOlivia",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 991,
+        "description": "n/a",
+        "originalText": "context.npc_fo_olivia_arrested",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 995,
+        "description": "n/a",
+        "originalText": "context.npc_fo_nicolas_arrested",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 997,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_reportMurderBlack",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 999,
+        "description": "n/a",
+        "originalText": "Fo_ChiefArrestOlivia",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1001,
+        "description": "n/a",
+        "originalText": "context.npc_fo_olivia_arrested",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1005,
+        "description": "n/a",
+        "originalText": "These things are serious, $(context.player.Name). Making mistakes could have serious consequences.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1008,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b26x_jacek_goGetMoneh",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1012,
+        "description": "n/a",
+        "originalText": "You can try, but I am certain that will not acomplish anything.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1018,
+        "description": "n/a",
+        "originalText": "::He stares at you, and responds after a few seconds.:: That is the current situation. We're not discussing this any further.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1024,
+        "description": "n/a",
+        "originalText": "What do you know about this Institute?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1029,
+        "description": "n/a",
+        "originalText": "::Chief carefully examines the files from the drive. You wait for him while he does so, but it doesn't take long for him to return to you.:: \r\n\r\nThis is serious. We've had some people gone missing lately but most of these disappearances were attributed to creatures from the mine. I'll send a few men to her home at once. Is there anything else I need to know?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 1037,
+        "description": "n/a",
+        "originalText": "plot.evelynEvidence",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1039,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_evelynGaveEvidence",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1043,
+        "description": "n/a",
+        "originalText": "You do know we're talking about Evelyn Ingram, wife of the previous chief of the Foundry Guard? These are serious accusations you're making.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1051,
+        "description": "n/a",
+        "originalText": "I'm listening.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1056,
+        "description": "n/a",
+        "originalText": "context.loc_cc_facelessRetreated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1071,
+        "description": "n/a",
+        "originalText": "::He pauses to think.:: We are still in the dark regarding their motives, and killing their troops will surely provoke a hostile response. I'll mobilize everything we have available this instant. ::He hands you 100 stygian coins.:: This is for risking your neck. Now, I have to attend to the troops.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1078,
+        "description": "n/a",
+        "originalText": "::Chief takes a careful look at the rifle.:: What've you got?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1084,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_tellTodorInnocent",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1089,
+        "description": "n/a",
+        "originalText": "$(context.player.Name), you've already proven trustworthy, and I thank you for all the help so far. But I haven't even gotten to this case yet, with all the work I have at the moment, and most of our investigators are busy with other cases.\r\n\r\nThe reason I haven't begun is that we are still missing the murder weapon. If you manage to find it alongside any other clues, we can quickly process the case and release him.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1095,
+        "description": "n/a",
+        "originalText": "I haven't even gotten to this case yet, with all the work I have at the moment, and most of our investigators are busy with something else.\r\n\r\nDespite this, you are a stranger to us, and I have no reason to trust you. I can't have just about anyone be an investigator.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1100,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_tellTodorInnocent",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1107,
+        "description": "n/a",
+        "originalText": "That is correct, $(context.player.Name). I see you are interested in this case and I will not say no to a helping hand. I still have to get to this case, the reason for this being is that we are still missing the murder weapon. If you manage to find it alongside any other clues, we can quickly process the case and release him.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1115,
+        "description": "n/a",
+        "originalText": "Let's.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1121,
+        "description": "n/a",
+        "originalText": "We - Foundry - have placed a bounty on his head for *one* *thousand* charons. If you can bring me his eye as proof, the money's all yours.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1125,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_toldBalor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1130,
+        "description": "n/a",
+        "originalText": "Very good. Best of luck. And remember - bring me his eye as proof.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1137,
+        "description": "n/a",
+        "originalText": "::He smiles briefly.:: Pure gold. I am more than glad to see you have managed to accomplish such a difficult task. Now that he is dead, we need only wait and see what happens with the Ironheads. I am expecting a favorable outcome, favorable for us. ::He hands you 1000 stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1143,
+        "description": "n/a",
+        "originalText": "Not much is known about Balor. Some say that he is over two meters tall, some that he can snap a rathound's spine in two with *one* hand, and some even reported him flinging broken-off stalagmites at his enemies. A boss, to use a colloquial expression. Of course, some of these claims are outrageous, but one seems consistent: He is more often than not described as wielding a sledgehammer so heavy only he is able to lift it. As one story goes, he even offered one disarmed train guard the chance to use the hammer against him, but the fellow might as well have been trying to raise a boulder.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1147,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_askWhereBalorIs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1148,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_askWhereBalorIs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1152,
+        "description": "n/a",
+        "originalText": "It is south of here, but to actually reach it you'll either have to go west and then south, or east then south from Foundry entrance.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1158,
+        "description": "n/a",
+        "originalText": "They are the best organized gang in Lower Underrail. While technically composed of multiple different clans, their cooperation and common interests clearly make them a part of a bigger whole. They have been increasingly more difficult to repel in the recent years: Previously, they were but a nuisance, not much different than other lowlifes roaming the metro. But steadily, they have grown in size and power. They are intercepting travelers and merchants near stations, attacking heavily-protected convoys and have, in general, grown more bold and - dare I say - more cunning.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1161,
+        "description": "n/a",
+        "originalText": "context.npc_fo_nicolas_KillOliviaStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1162,
+        "description": "n/a",
+        "originalText": "context.npc_fo_nicolas_refuseToKill",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1163,
+        "description": "n/a",
+        "originalText": "context.npc_fo_olivia_KillNicolasStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1169,
+        "description": "n/a",
+        "originalText": "::He thinks for a second, then replies.:: I really couldn't tell you anything meaningful. I've only heard of the name and that is all I know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 1172,
+        "description": "n/a",
+        "originalText": "plot.evelynEvidence",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1174,
+        "description": "n/a",
+        "originalText": "context.loc_fo_monstersKnow",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1180,
+        "description": "n/a",
+        "originalText": "She's dead. I had to kill her in self defence.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1186,
+        "description": "n/a",
+        "originalText": "Stupid woman attacked me, I had to kill her!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1193,
+        "description": "n/a",
+        "originalText": "No, just go and arrest that derailed woman. She also took all my stuff, and I'm gonna need that back.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1199,
+        "description": "n/a",
+        "originalText": "That is all I know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1200,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_chasing",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1206,
+        "description": "n/a",
+        "originalText": "I'm serious. I had to kill her in self defence!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1213,
+        "description": "n/a",
+        "originalText": "I'm serious, I barely escaped! She's still searching for me. And what's even worse, she took all my stuff!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1214,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_tellFacelessInvade",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1215,
+        "description": "n/a",
+        "originalText": "context.loc_cc_facelessRetreated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>KI2#-.LIDP:P",
+        "objectId": 1216,
+        "description": "n/a",
+        "originalText": "plot\\evelynskey",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 1218,
+        "description": "n/a",
+        "originalText": "lu-b24",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1223,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_tellFacelessInvade",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 1224,
+        "description": "n/a",
+        "originalText": "plot.foundryMurderWeapon",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1225,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_wantsEvidence",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1230,
+        "description": "n/a",
+        "originalText": "I found this rifle on the roof of the building overlooking the alley Bolivar Daud was shot in. I found out that Bolivar was supposed to meet an arms merchant named Oliver Micas. They had an argument, and Micas later had him shot.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1236,
+        "description": "n/a",
+        "originalText": "Some, like, dude or chick who ain't Todor shot Bolivar with this rifle. In the head. Yeah.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1239,
+        "description": "n/a",
+        "originalText": "I need to do some more investigating.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1245,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_wantsEvidence",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1248,
+        "description": "n/a",
+        "originalText": "It's a deal. I'll be back with some evidence.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1251,
+        "description": "n/a",
+        "originalText": "I see. I'll be back.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1252,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_tellTodorInnocent",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1253,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_wantsEvidence",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1259,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_wantsEvidence",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1264,
+        "description": "n/a",
+        "originalText": "I already have what I believe is the murder weapon.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1276,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_killBalorStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 1284,
+        "description": "n/a",
+        "originalText": "plot.balorsEye",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1293,
+        "description": "n/a",
+        "originalText": "You earned this. Well done.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1299,
+        "description": "n/a",
+        "originalText": "As for where to find him, his clan is situated in Warehouse Block Beta, south of Foundry. The Ironhead activity in that area is quite heavy, and all of the recent attacks came from that direction. If Balor is really there, he has some of the best security in South Underrail.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1305,
+        "description": "n/a",
+        "originalText": "Both ways lead to the warehouse block, and both should be well defended.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1311,
+        "description": "n/a",
+        "originalText": "We have more than enough firepower for them to even think about attacking the station itself, but the areas near Foundry, those are difficult to protect effectively.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1314,
+        "description": "n/a",
+        "originalText": "context.npc_fo_nicolas_refuseToKill",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1315,
+        "description": "n/a",
+        "originalText": "context.npc_fo_nicolas_KillOliviaStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1316,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_dies",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1319,
+        "description": "n/a",
+        "originalText": "I'll send some men to see what's going on. You wait here with me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1324,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_evelynDieNokey",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1325,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_dies",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1327,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_evelynDieNokey",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1332,
+        "description": "n/a",
+        "originalText": "I'll send a few men now. You wait here with me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1337,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_evelynDieYeskey",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1339,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_arrested",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1344,
+        "description": "n/a",
+        "originalText": "Good. I'll send a few men now. You wait here with me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1349,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_arrested",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1353,
+        "description": "n/a",
+        "originalText": "I see. I'll send a few men to her home at once. You wait here with me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1358,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_evelynDieNokey",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1362,
+        "description": "n/a",
+        "originalText": "Very well. I'll send a few men to her home at once. You wait here with me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1367,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_evelynDieYeskey",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1369,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_arrested",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 1374,
+        "description": "n/a",
+        "originalText": "lu-b24",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1376,
+        "description": "n/a",
+        "originalText": "context.npc_fo_todor_explainWhatHappened",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1379,
+        "description": "n/a",
+        "originalText": "Micas... Micas... I remember that name mentioned. But all that you told me still doesn't prove that he killed Daud. I might need more than that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1384,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_toldSomeDudeShot",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1387,
+        "description": "n/a",
+        "originalText": "::The chief stares at you, evidently irritated by your response.:: I would like you to be serious now. Give me a proper explanation or stop bothering me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1393,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_toldSomeDudeShot",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1394,
+        "description": "n/a",
+        "originalText": "context.quest_FoundryMainPartTwoCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1395,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_killBalorCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1396,
+        "description": "n/a",
+        "originalText": "context.npc_evelyn_evelynCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1397,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_reportMurderBlack",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1398,
+        "description": "n/a",
+        "originalText": "context.quest_FoundryMainPartTwoCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1399,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_killBalorCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1400,
+        "description": "n/a",
+        "originalText": "context.npc_evelyn_evelynCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1401,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_reportMurderBlack",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 1402,
+        "description": "n/a",
+        "originalText": "plot.foundryMurderWeapon",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1407,
+        "description": "n/a",
+        "originalText": "I'll do it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1412,
+        "description": "n/a",
+        "originalText": "::Give him the cybernetic eye without saying anything.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1416,
+        "description": "n/a",
+        "originalText": "Let me think about it. Meanwhile, let's talk about something else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1418,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_killBalorStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1420,
+        "description": "n/a",
+        "originalText": "fo_killBalor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1422,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_killBalorCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1424,
+        "description": "n/a",
+        "originalText": "fo_killBalor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 1426,
+        "description": "n/a",
+        "originalText": "fo_killBalor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 1430,
+        "description": "n/a",
+        "originalText": "plot.balorsEye",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1434,
+        "description": "n/a",
+        "originalText": "Other than that, I can't tell you much more. We learn about them only through their misdeeds, and since the name Balor grew more and more associated with those, I can safely say that his leadership is what made the local Ironheads a dangerous enemy.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1440,
+        "description": "n/a",
+        "originalText": "::Wait.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1441,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_dies",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1442,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_chasing",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1443,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_dies",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1444,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_chasing",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1445,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_dies",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1446,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_dies",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 1447,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1451,
+        "description": "n/a",
+        "originalText": "Well, you have no evidence on Sallywatch either.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1455,
+        "description": "n/a",
+        "originalText": "Well, what proves Sallywatch killed Daud? You're keeping him in prison based on... nothing.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1463,
+        "description": "n/a",
+        "originalText": "::He smiles briefly.:: Pure gold. I see you ran into him already, and I am more than glad to see you have managed to accomplish such a difficult task. Now that he is dead, we need only wait and see what happens with the Ironheads. I am expecting a favorable outcome, favorable for everyone but them. ::He hands you 1000 stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 1470,
+        "description": "n/a",
+        "originalText": "Fo_ChiefEvelyn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1473,
+        "description": "n/a",
+        "originalText": "I see. You've already proven you are a good investigator, so I'll trust you on this one. I'll take the rifle and see what information we have on Micas. I'll have my men right on it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1477,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_killBalorStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 1478,
+        "description": "n/a",
+        "originalText": "plot.balorsEye",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1480,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_killBalorStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1482,
+        "description": "n/a",
+        "originalText": "fo_killBalor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1488,
+        "description": "n/a",
+        "originalText": "::Give him the sniper rifle.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1497,
+        "description": "n/a",
+        "originalText": "That is good. I'll pass this on and see if this was indeed the weapon Daud was killed with. I'll also see if we can learn anything more from the weapon. Come see me later, and I'll have an answer.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 1502,
+        "description": "n/a",
+        "originalText": "plot.foundryMurderWeapon",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 1503,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1505,
+        "description": "n/a",
+        "originalText": "context.npc_fo_chief_checkBeforeReleaseTodor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1510,
+        "description": "n/a",
+        "originalText": "Got it. See you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 1511,
+        "description": "n/a",
+        "originalText": "fo2",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

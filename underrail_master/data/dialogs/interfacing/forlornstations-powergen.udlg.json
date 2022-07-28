@@ -1,0 +1,208 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 15,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 16,
+        "description": "n/a",
+        "originalText": "interface",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 17,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 25,
+        "description": "n/a",
+        "originalText": "::Status: On::\r\n",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 31,
+        "description": "n/a",
+        "originalText": "::Status: Off::\r\n",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.C:N",
+        "objectId": 34,
+        "description": "n/a",
+        "originalText": "Is turned on",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 35,
+        "description": "n/a",
+        "originalText": "context.local_isTurnedOn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 43,
+        "description": "n/a",
+        "originalText": "::Flux controller: Biocorp-Seddar FC-11z::\r\n",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 49,
+        "description": "n/a",
+        "originalText": "::Flux controller: Missing::\r\n",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.C:N",
+        "objectId": 52,
+        "description": "n/a",
+        "originalText": "has flux controller",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 53,
+        "description": "n/a",
+        "originalText": "context.local_hasFluxController",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 66,
+        "description": "n/a",
+        "originalText": "::Insert flux controller.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 71,
+        "description": "n/a",
+        "originalText": "::Turn on.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 74,
+        "description": "n/a",
+        "originalText": "::Leave.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 84,
+        "description": "n/a",
+        "originalText": "::Flux controller inserted successfully.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 96,
+        "description": "n/a",
+        "originalText": "::Power generator is operational.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.C:N",
+        "objectId": 99,
+        "description": "n/a",
+        "originalText": "Got FC",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 100,
+        "description": "n/a",
+        "originalText": "fluxController",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 101,
+        "description": "n/a",
+        "originalText": "context.local_hasFluxController",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 103,
+        "description": "n/a",
+        "originalText": "context.local_hasFluxController",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 109,
+        "description": "n/a",
+        "originalText": "fluxController",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 110,
+        "description": "n/a",
+        "originalText": "context.local_hasFluxController",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 111,
+        "description": "n/a",
+        "originalText": "context.local_isTurnedOn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 113,
+        "description": "n/a",
+        "originalText": "context.local_isTurnedOn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 117,
+        "description": "n/a",
+        "originalText": "context.quest_retakingOldOutposts_state",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PLSJ.LSJ:CI",
+        "objectId": 121,
+        "description": "n/a",
+        "originalText": "console",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PLSJ.LSJ:SI",
+        "objectId": 122,
+        "description": "n/a",
+        "originalText": "DigiAdvance",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PLSJ.LSJ:CI",
+        "objectId": 126,
+        "description": "n/a",
+        "originalText": "interface",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PLSJ.LSJ:SI",
+        "objectId": 127,
+        "description": "n/a",
+        "originalText": "PowerGenTurnOn",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

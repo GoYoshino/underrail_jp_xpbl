@@ -1,0 +1,754 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 46,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 47,
+        "description": "n/a",
+        "originalText": "garry",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 48,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 54,
+        "description": "n/a",
+        "originalText": "::Garry greets you with a smile.:: Well, well, $(context.playerArenaTitle), I guess no one is able to stop you. You have just one more opponent standing between you and the title. Invictus! Must feel good, I presume.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 64,
+        "description": "n/a",
+        "originalText": "::A robed figure steps up and talks to you.:: $(context.player.Name). I want to congratulate you on your victory. That last match of yours - perfection!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 73,
+        "description": "n/a",
+        "originalText": "$(context.player.Name). Fierce as always.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 80,
+        "description": "n/a",
+        "originalText": "context.npc_cc_garry_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 82,
+        "description": "n/a",
+        "originalText": "context.npc_cc_garry_getReady",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 86,
+        "description": "n/a",
+        "originalText": "It does. It does feel *really* good.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 90,
+        "description": "n/a",
+        "originalText": "I'm ready to fight this Dread Lord. Nothing can stand in my way!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 94,
+        "description": "n/a",
+        "originalText": "Can you tell me something about my opponent?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 95,
+        "description": "n/a",
+        "originalText": "context.npc_cc_garry_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 97,
+        "description": "n/a",
+        "originalText": "context.npc_cc_garry_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 101,
+        "description": "n/a",
+        "originalText": "Thank you, I try my best.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 105,
+        "description": "n/a",
+        "originalText": "It was an easy match, I'd say.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 109,
+        "description": "n/a",
+        "originalText": "Yeah... Who are you?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 122,
+        "description": "n/a",
+        "originalText": "context.npc_cc_garry_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 123,
+        "description": "n/a",
+        "originalText": "context.loc_cc_arena_exorcistDefeated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 124,
+        "description": "n/a",
+        "originalText": "context.npc_cc_garry_getReady",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 127,
+        "description": "n/a",
+        "originalText": "Great. You're going up against one difficult opponent. Not everyone can become the Invictus, you know. I just wanted to wish you luck. I have no advice to offer to you when it comes to Dread Lord, but I don't think you need any.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 134,
+        "description": "n/a",
+        "originalText": "Yes, Dread Lord. You're going up against one difficult opponent. Not everyone can become the Invictus, you know. I just wanted to wish you luck. I have no advice to offer to you when it comes to Dread Lord, but I don't think you need any.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 141,
+        "description": "n/a",
+        "originalText": "Well, I can't say much, other that you're up against a difficult opponent. Not everyone can become the Invictus, you know. I just wanted to wish you luck. I have no advice to offer to you when it comes to Dread Lord, but I don't think you need any.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 149,
+        "description": "n/a",
+        "originalText": "I can see that. My name's Garry. I'm an enthusiast - a bloodthirsty maniac if you will. ::He smiles.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 155,
+        "description": "n/a",
+        "originalText": "Some challengers die during their first match. You've already survived how many? Five matches? That's quite an achievement. Listen here, my name's Garry. I'm an enthusiast - a bloodthirsty maniac if you will. ::He smiles.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 161,
+        "description": "n/a",
+        "originalText": "I'm Garry and I'm an enthusiast - a bloodthirsty maniac if you will. ::He smiles.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 173,
+        "description": "n/a",
+        "originalText": "What can you tell me about my next opponent?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 177,
+        "description": "n/a",
+        "originalText": "How did you become such an enthusiast?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 182,
+        "description": "n/a",
+        "originalText": "Do you also watch the Gauntlet?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 187,
+        "description": "n/a",
+        "originalText": "So, who is your favourite gladiator?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 192,
+        "description": "n/a",
+        "originalText": "How can you possibly know who's going to be my next opponent?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 197,
+        "description": "n/a",
+        "originalText": "Did you ever try becoming a gladiator?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 200,
+        "description": "n/a",
+        "originalText": "I'll be seeing you later. Goodbye.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 204,
+        "description": "n/a",
+        "originalText": "Thank you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 208,
+        "description": "n/a",
+        "originalText": "I don't need luck. I'll be sending Dread Lord to sleep from which he is never going to wake up.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 212,
+        "description": "n/a",
+        "originalText": "I hope I'm not bothering you too much, but, wow, you are making remarkable progress. You caught the eye of the crowd extremely fast, I can tell you that. That's pretty amazing. And pretty rare. Are you by any chance, how do I put this, backed up by any of the families?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 218,
+        "description": "n/a",
+        "originalText": "I hope I'm not bothering you, but I need to ask you something. Like I said, you've shown some incredible progress. A couple of matches and you've already battled and killed a very difficult opponent. That is admirable. Are you by any chance, how do I put this, backed up by any of the families?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 221,
+        "description": "n/a",
+        "originalText": "context.loc_cc_arena_exorcistDefeated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 226,
+        "description": "n/a",
+        "originalText": "You will be fighting Bull's Eye. He's mean, he's fast, and he's damn accurate with his crossbow. One of the most dominating marksmen currently. The important thing to note here is that his success does not only come from his ability to send a bolt through a fly's wing without killing the thing, but also from the fact that he dips his bolts into various poisons. If you're not careful, your blood will quickly be filled with lethal concoctions. Make sure you're ready for it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 233,
+        "description": "n/a",
+        "originalText": "Your next opponent is going to be Master Exploder, a mute grenadier. Little is known about him... well, other than the fact that he revels in blowing his opponents to bits. He himself wears an explosion-proof suit, naturally, so keep that in mind.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 240,
+        "description": "n/a",
+        "originalText": "Chemical Agent. Name says it all. I don't know where that guy came from, but he is one repulsive creature. Not much of a challenge on his own, but he got this far thanks to a pair of mutated dogs. Those critters ripped numerous challengers and gladiators apart like nothing.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 247,
+        "description": "n/a",
+        "originalText": "The guy's name is Surgeon. A savage, likes to end his opponents by cutting their jugular and drinking their blood as it sprays from their neck. The crowd loves it, yet many - especially less experienced - gladiators despise him, and it is not for his brutal showmanship...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 254,
+        "description": "n/a",
+        "originalText": "You'll be facing Zap. Now, this guy is one of the most entertaining gladiators in the Arena history, if I may say so. A tech savvy zoner who uses energy weapons and bots to make sure his opponents do not get to fight another match.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 261,
+        "description": "n/a",
+        "originalText": "I'm afraid I can't give you much advice on your next opponent. You'll be up against Stygian Exorcist. He recently became a gladiator, and just annihilated his way through to where he is now. So fast even, by the time I realized he was even a gladiator, he became one of the best. He is a psi master that uses bilocation to make short work of his opponents.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 267,
+        "description": "n/a",
+        "originalText": "It's been a passion of mine for years. I enjoy the fighting, the brutal deaths, the skill involved, the theatrics - everything. I rarely miss a match, and I've sunk enough charons into it to restore South Underrail's entire railroad. ::He laughs.:: It's pipes and barrels to me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 275,
+        "description": "n/a",
+        "originalText": "Yes, but, to be honest, I'm not nearly as delighted by it like I'm with the Arena. It's fun, it's violent - it's death. But... watching gladiators face each other with only one thing in mind and *executing* it in the most violently entertaining way possible is much more appealing to me than pulling a lever at the end.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 278,
+        "description": "n/a",
+        "originalText": "context.loc_cc_arena_chemicalAgentDefeated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 282,
+        "description": "n/a",
+        "originalText": "Let me think...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 285,
+        "description": "n/a",
+        "originalText": "context.loc_cc_arena_surgeonDefeated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 288,
+        "description": "n/a",
+        "originalText": "I'm an enthusiast.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 293,
+        "description": "n/a",
+        "originalText": "context.loc.cc_arena_zapDefeated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 297,
+        "description": "n/a",
+        "originalText": "I wanted to, actually. But, sadly, I have a rare disease that... prevents me from ever becoming a gladiator.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 303,
+        "description": "n/a",
+        "originalText": "You're welcome.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 309,
+        "description": "n/a",
+        "originalText": "Perhaps you don't, but it never hurts to have luck on your side, does it? ::He laughs.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 319,
+        "description": "n/a",
+        "originalText": "context.loc_cc_arena_bullseyeDefeated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 323,
+        "description": "n/a",
+        "originalText": "On the other hand, he is lightly armored. Hit him fast and hit him hard, and he'll be no match for you. \r\n\r\nGood luck.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 326,
+        "description": "n/a",
+        "originalText": "context.loc_cc_arena_masterExploderDefeated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 330,
+        "description": "n/a",
+        "originalText": "Use cover and take him out fast, or else you're going to end up splattered all over the arena. \r\n\r\nGood luck.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 333,
+        "description": "n/a",
+        "originalText": "context.loc_cc_arena_chemicalAgentDefeated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 337,
+        "description": "n/a",
+        "originalText": "So, get your self some anti-corrosive protection. That's the best advice I can give you. And watch out for his pets. \r\n\r\nGood luck.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 340,
+        "description": "n/a",
+        "originalText": "context.loc_cc_arena_surgeonDefeated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 344,
+        "description": "n/a",
+        "originalText": "Of course, he didn't get this far thanks to that gimmick, so be aware that you are facing a hardcore opponent. His range is short, as his weapon of choice is a knife, so try to stay out of his range, or at least make sure your neck is protected. \r\n\r\nGood luck.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 347,
+        "description": "n/a",
+        "originalText": "context.loc_cc_arena_zapDefeated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 351,
+        "description": "n/a",
+        "originalText": "He relies on energy shields, so have something in handy to neutralize it and simply unleash the fury. \r\n\r\nGood luck.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 354,
+        "description": "n/a",
+        "originalText": "context.loc_cc_arena_exorcistDefeated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 358,
+        "description": "n/a",
+        "originalText": "I have nothing else to say to you but good luck.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 364,
+        "description": "n/a",
+        "originalText": "The Arena is pipes and barrels to me. I never get tired of it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 367,
+        "description": "n/a",
+        "originalText": "context.loc_cc_knowGauntlet",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 368,
+        "description": "n/a",
+        "originalText": "context.loc_cc_arena_masterExploderDefeated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 372,
+        "description": "n/a",
+        "originalText": "The Gauntlet also lacks the live crowd, which to me detracts from the experience. After all, hearing so many mouths screaming \"KILL, KILL\" is something I can never get tired of. In the end, I suppose it is an entertaining gimmick to most, but it will never, ever match the Arena.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 378,
+        "description": "n/a",
+        "originalText": "Disembowelina is simply fantastic: The looks, the skill, the brutality - she's got it all. But I'll put her in second place. My top gladiator is, unsurprisingly, Dread Lord. He is the current Invictus. Yet I somehow have a feeling he won't be one for much longer...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 384,
+        "description": "n/a",
+        "originalText": "Still, you know a bit too much. Got someone on the inside?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 388,
+        "description": "n/a",
+        "originalText": "I see. I had other questions.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 391,
+        "description": "n/a",
+        "originalText": "There is nothing I can do about it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 398,
+        "description": "n/a",
+        "originalText": "Listen here, my dear friend: Being the enthusiast I am, I'm going to make sure I get as close as I can to the bloodbath. I wouldn't want to miss this match, even if it kills me. ::He laughs.::\r\n\r\nSee you later, $(context.playerArenaTitle).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 405,
+        "description": "n/a",
+        "originalText": "What do you mean?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 410,
+        "description": "n/a",
+        "originalText": "You mean, like one of the Oligarchs?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 414,
+        "description": "n/a",
+        "originalText": "::He laughs.:: I wish i did. But no. I just...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 420,
+        "description": "n/a",
+        "originalText": "Sure. That's why I'm here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 426,
+        "description": "n/a",
+        "originalText": "What sort of disease?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 430,
+        "description": "n/a",
+        "originalText": "See you later, Garry.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 434,
+        "description": "n/a",
+        "originalText": "::He chuckles.:: I'm talking about the Oligarchs, of course. You know, Knight family? Simmons? Edstrom, perhaps?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 441,
+        "description": "n/a",
+        "originalText": "context.loc_cc_knowOligarchy",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 444,
+        "description": "n/a",
+        "originalText": "Bingo. So...? Are you?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 454,
+        "description": "n/a",
+        "originalText": "I just know how things work. Experience, trust me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 460,
+        "description": "n/a",
+        "originalText": "It is a rare genetic disease. Osteogenesis imperfecta, as it's called. My bones are brittle and wouldn't last much in a fight of any kind. My case is a bit milder. I lead a relatively normal life, but I have to be careful. A simple fall would result in a broken bone most likely.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 464,
+        "description": "n/a",
+        "originalText": "Cc_GarryLeaves",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 466,
+        "description": "n/a",
+        "originalText": "context.loc_cc_knowOligarchy",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 471,
+        "description": "n/a",
+        "originalText": "I work for Coretech, if that's what you mean.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 476,
+        "description": "n/a",
+        "originalText": "I work for JKK, if that's what you mean.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 481,
+        "description": "n/a",
+        "originalText": "I work for Praetorian Security, if that's what you mean.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 485,
+        "description": "n/a",
+        "originalText": "Nope, I've got nothing to do with any of them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 489,
+        "description": "n/a",
+        "originalText": "Thankfully, living in Core City, as hardcore of a city as it may be, still means I have options to avoid lifestyles which would increase my chance of getting hurt. My job is safe, my life is safe.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 492,
+        "description": "n/a",
+        "originalText": "context.faction_Coretech_joined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 495,
+        "description": "n/a",
+        "originalText": "::He nods.:: Yes. Makes sense.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 500,
+        "description": "n/a",
+        "originalText": "context.faction_JKK_joined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 501,
+        "description": "n/a",
+        "originalText": "context.faction_Preatorian_joined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 504,
+        "description": "n/a",
+        "originalText": "No? Then you most definitely should. It will help you a lot with your career. Trust me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 512,
+        "description": "n/a",
+        "originalText": "What exactly do you want from me?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 516,
+        "description": "n/a",
+        "originalText": "You seem to know a lot about the Arena.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 519,
+        "description": "n/a",
+        "originalText": "From you? I'm just an enthusiast. Been one for years. And you are new to the Arena and have great potential. I know a lot about the gladiators you'll be battling, and judging by your skills, you'll battle many more. I simply want to be helpful.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 527,
+        "description": "n/a",
+        "originalText": "I'm just an enthusiast. Been one for years. And you are new to the Arena and have great potential. I know a lot about the gladiators you'll be battling, and judging by your skills, you'll battle many more. I simply want to be helpful.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 536,
+        "description": "n/a",
+        "originalText": "All help is welcome.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 540,
+        "description": "n/a",
+        "originalText": "What do you get out of this? Do you want me to pay you for this information?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 544,
+        "description": "n/a",
+        "originalText": "I don't think I need anyone's help.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 548,
+        "description": "n/a",
+        "originalText": "Good. ::He smiles.:: I happen to know who your next opponent is, and I can offer a bit of advice. You know, just based on watching him battle other gladiators.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 554,
+        "description": "n/a",
+        "originalText": "No, no. I'm an enthusiast, as I said already. I simply enjoy everything Arena-related and... things have become a bit stale lately. And I feel you can stir things up, and that is why I don't want you to die too soon, to be honest. I happen to know who your next opponent is, and I can offer a bit of advice on fighting him. I've seen many of his battles, so I've picked up a few things.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 560,
+        "description": "n/a",
+        "originalText": "That is up to you. Still, I happen to know who your next opponent is, and I can offer a bit of advice on fighting him. I've seen many of his battles, so I've picked up a few things.",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

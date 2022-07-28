@@ -1,0 +1,908 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 32,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 33,
+        "description": "n/a",
+        "originalText": "fixer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 34,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 40,
+        "description": "n/a",
+        "originalText": "::This doctor's suit is covered with dried blood and other foul stains, its smell matching its appearance. As you come near, he slowly turns to you, inspecting your body for wounds with wild eyes which seem as if they're about to pop out of their sockets. Contrary to his stare, his voice is slow and steady.::\r\n\r\nFeelin' pain? I can fix you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 46,
+        "description": "n/a",
+        "originalText": "Show me where it leaks. Ha...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 49,
+        "description": "n/a",
+        "originalText": "context.npc_fixer_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 70,
+        "description": "n/a",
+        "originalText": "context.npc_fixer_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 74,
+        "description": "n/a",
+        "originalText": "I just wanted to purchase some medical supplies. ::Barter.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 79,
+        "description": "n/a",
+        "originalText": "I'd like to buy the workbench.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 85,
+        "description": "n/a",
+        "originalText": "I'm really curious about that workbench you got there.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 91,
+        "description": "n/a",
+        "originalText": "What's behind the fence?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 97,
+        "description": "n/a",
+        "originalText": "What's the deal with all the people outside the embassy?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 103,
+        "description": "n/a",
+        "originalText": "I'm hurting. Can you stitch me back up, doc?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 109,
+        "description": "n/a",
+        "originalText": "I'm looking for a man called Blaine. You got any idea where he might be?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 115,
+        "description": "n/a",
+        "originalText": "Aren't people afraid of being, ehem, fixed by you?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 119,
+        "description": "n/a",
+        "originalText": "Can I ask you a few questions about Junkyard?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 124,
+        "description": "n/a",
+        "originalText": "Who's Eddy?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 129,
+        "description": "n/a",
+        "originalText": "Why did Eddy want Blaine dead?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 134,
+        "description": "n/a",
+        "originalText": "Merchants here only accept stygian coins? How do I get some of those?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 139,
+        "description": "n/a",
+        "originalText": "I heard you used to work in Core City's Arena.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 143,
+        "description": "n/a",
+        "originalText": "I feel better already. ::Back away slowly.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 150,
+        "description": "n/a",
+        "originalText": "One and a half grand.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 158,
+        "description": "n/a",
+        "originalText": "United Stations supplied that one. It has all the tools a doc would need. Ha... medication too. It also includes quality chemistry and biology sets, and... stuff. Woulda known better had I used it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 162,
+        "description": "n/a",
+        "originalText": "context.npc_jy_fixer_askWorkBench",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 168,
+        "description": "n/a",
+        "originalText": "United Stations embassy.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 172,
+        "description": "n/a",
+        "originalText": "context.npc_jy_fixer_askEmbassy",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 179,
+        "description": "n/a",
+        "originalText": "The United Stations were helpin' the Junkyarders before the Free Drone attack. They were giving out food and clothes. Food...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 185,
+        "description": "n/a",
+        "originalText": "The United Stations are helpin' the Junkyarders in need. They're giving out food and clothes. Food...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 190,
+        "description": "n/a",
+        "originalText": "Three charons. Or five if you want the anesthetic.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 203,
+        "description": "n/a",
+        "originalText": "Dead. Probably. Haven't seen him around ever since Eddy sicced his goons on him.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 207,
+        "description": "n/a",
+        "originalText": "context.npc_fixer_askedAboutBlaine",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 212,
+        "description": "n/a",
+        "originalText": "Why would they?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 219,
+        "description": "n/a",
+        "originalText": "context.npc_jy_fixer_askAfraid",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 222,
+        "description": "n/a",
+        "originalText": "Ha... No.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 231,
+        "description": "n/a",
+        "originalText": "Eddy... Eddy... The Scrapper boss. You know, them guys guardin' the Old Junkyard gate.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 238,
+        "description": "n/a",
+        "originalText": "Don't know exactly. There was some dispute about an item Blaine found on a scavengin' run. It must've been somethin' important.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 241,
+        "description": "n/a",
+        "originalText": "context.jy_learnedHowToBuyCharons",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 246,
+        "description": "n/a",
+        "originalText": "Coins... If you have other types of money you can exchange them for charons at the docks. Look for an Eel by the name of Colton.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 253,
+        "description": "n/a",
+        "originalText": "Ha... Ha... HA... Those were the times. Taking care of dead bodies, not much doctorin' to do around there. I was doin' my job for a short time, then some folks started yellin' at me and kicked me out of that place.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 258,
+        "description": "n/a",
+        "originalText": "Come back soon.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 261,
+        "description": "n/a",
+        "originalText": "context.npc_jy_fixer_askWorkBench",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 262,
+        "description": "n/a",
+        "originalText": "context.npc_jy_fixer_soldWorkBench",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 273,
+        "description": "n/a",
+        "originalText": "context.loc_coreCity_playerReceivedHouseKeys",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 274,
+        "description": "n/a",
+        "originalText": "context.npc_jy_fixer_askWorkBench",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 277,
+        "description": "n/a",
+        "originalText": "::He gives the bench a long, steady look.:: I don't need any of that. I like my own tools. ::His wild eye shifts toward a bent needle laying on the ground.:: Ha... Ha...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 281,
+        "description": "n/a",
+        "originalText": "context.area_jyembassy_visited",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 282,
+        "description": "n/a",
+        "originalText": "context.npc_jy_fixer_askEmbassy",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 286,
+        "description": "n/a",
+        "originalText": "Hence all these folks in front of it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 289,
+        "description": "n/a",
+        "originalText": "context.npc_jy_fixer_askEmbassy",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 290,
+        "description": "n/a",
+        "originalText": "context.area_jyembassy_visited",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 291,
+        "description": "n/a",
+        "originalText": "context.quest_fd_AttackSROCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 294,
+        "description": "n/a",
+        "originalText": "That certainly bought their affection. Quite cheap, though, but them folks got next to nothin', so it makes sense.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 300,
+        "description": "n/a",
+        "originalText": "That certainly bought their affection. Quite cheap, though, but them folks got next to nothin', so it makes sense.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 309,
+        "description": "n/a",
+        "originalText": "Anesthetics are for the weak. Bring on the pain, doc. ::Pay three stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 315,
+        "description": "n/a",
+        "originalText": "Here you go doc - and don't skimp on the drugs. ::Pay five stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 320,
+        "description": "n/a",
+        "originalText": "Actually, I'll pass. It's just a flesh wound anyway.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".DIMAEJ.DIMAEJ:C",
+        "objectId": 321,
+        "description": "n/a",
+        "originalText": "barter_fixer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 322,
+        "description": "n/a",
+        "originalText": "context.npc_fixer_askedAboutBlaine",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 323,
+        "description": "n/a",
+        "originalText": "context.npc_jysilas_startedTalkAboutTakeover",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 327,
+        "description": "n/a",
+        "originalText": "Maybe he got thrown in a scrap compactor... maybe he got impaled on a stalagmite. Both options are equally gory. Ha...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 330,
+        "description": "n/a",
+        "originalText": "context.npc_jy_fixer_fixedYa",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 331,
+        "description": "n/a",
+        "originalText": "context.npc_jy_fixer_askAfraid",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 335,
+        "description": "n/a",
+        "originalText": "Isn't it obvious?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 339,
+        "description": "n/a",
+        "originalText": "No offense, but you seem a bit odd.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 343,
+        "description": "n/a",
+        "originalText": "You're derailed.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 347,
+        "description": "n/a",
+        "originalText": "Why not?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 351,
+        "description": "n/a",
+        "originalText": "Okay. I'll ask something else then.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 352,
+        "description": "n/a",
+        "originalText": "context.npc_fixer_askedAboutBlaine",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 356,
+        "description": "n/a",
+        "originalText": "Eddy...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 359,
+        "description": "n/a",
+        "originalText": "context.npc_fixer_askedAboutBlaine",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 363,
+        "description": "n/a",
+        "originalText": "The details rarely leave the gang circles. What I've told you is based only on... speculation.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 369,
+        "description": "n/a",
+        "originalText": "Colton...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 373,
+        "description": "n/a",
+        "originalText": "context.jy_learnedHowToBuyCharons",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 374,
+        "description": "n/a",
+        "originalText": "context.npc_cc_lanista_talkFixer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 379,
+        "description": "n/a",
+        "originalText": "::His wild eyes turn away from you.:: It all happened a couple of years ago. To this day I have no idea what it was all about. Derailed folks them Core City people. Ha...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 387,
+        "description": "n/a",
+        "originalText": "Here you go. ::Give him 1500 stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 393,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: I'll give you one grand.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 398,
+        "description": "n/a",
+        "originalText": "How about a discount for the Invictus, eh? You used to work at the Arena, so you definitely know what I'm talking about.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 402,
+        "description": "n/a",
+        "originalText": "Isn't one and a half thousand a bit too expensive?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 406,
+        "description": "n/a",
+        "originalText": "I still need to think about it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 410,
+        "description": "n/a",
+        "originalText": "Would you sell it to me, then?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 414,
+        "description": "n/a",
+        "originalText": "You don't like the United Stations?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 418,
+        "description": "n/a",
+        "originalText": "You don't like the United Stations?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 419,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 422,
+        "description": "n/a",
+        "originalText": "Ha... ha... HA-HA! That's the spirit! Here, bite on this!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 427,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 428,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 431,
+        "description": "n/a",
+        "originalText": "Lie still for the injection, you big baby.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 436,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 441,
+        "description": "n/a",
+        "originalText": "We got a quaker here. Just don't bleed on my boots; I just washed them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 447,
+        "description": "n/a",
+        "originalText": "Just rub some dirt on it. Yea...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 453,
+        "description": "n/a",
+        "originalText": "I'm the only doc around here. Everyone comes to me, like it or not. Some seem scared, true. Some say the procedures were too painful, even with anesthetics, but they never complain while I'm fixin' them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 459,
+        "description": "n/a",
+        "originalText": "I know where it's headed...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 465,
+        "description": "n/a",
+        "originalText": "Yes...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 469,
+        "description": "n/a",
+        "originalText": "context.npc_jy_fixer_talkedArena",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 470,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 475,
+        "description": "n/a",
+        "originalText": "::First his eyes take the money, then his hands.:: Don't wave it around so much. Poor folks' eyes see everythin'. Applies to food too, and everything precious.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 480,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 481,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 485,
+        "description": "n/a",
+        "originalText": "Acceptable.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 492,
+        "description": "n/a",
+        "originalText": "No.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 500,
+        "description": "n/a",
+        "originalText": "Invictus? ::He pauses.:: Yes... Thought you'd be taller. I've seen you battle Carnifex. It ain't as good watching on a small screen and with all the interference, but it was... gory.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 507,
+        "description": "n/a",
+        "originalText": "Look at it. Doesn't it look expensive?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 513,
+        "description": "n/a",
+        "originalText": "If you're havin' trouble thinkin', I can fix that too.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 518,
+        "description": "n/a",
+        "originalText": "Yes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 525,
+        "description": "n/a",
+        "originalText": "Never said that. I also benefited from their \"generosity.\" But what I said is true, them guys ain't stupid. They ain't. Well, not until this happened...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 531,
+        "description": "n/a",
+        "originalText": "Never said that. I also benefit from their \"generosity.\" But what I said is true, them guys ain't stupid. They ain't. Ha...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 538,
+        "description": "n/a",
+        "originalText": "::Keep still for the agony.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 543,
+        "description": "n/a",
+        "originalText": "::You look away as he administers the injection. His wild eyes stare at you as he waits for the anesthetic to deaden your limbs. Then, he begins fixing you.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 547,
+        "description": "n/a",
+        "originalText": "Although, I am really focused when I'm fixin'. Maybe I just don't notice it. Ha... Ha...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 551,
+        "description": "n/a",
+        "originalText": "context.npc_jy_fixer_soldWorkBench",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 553,
+        "description": "n/a",
+        "originalText": "boughtChemBench",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 557,
+        "description": "n/a",
+        "originalText": "I'll see to it that some men from Core City Housing Corporation come and get the bench for me, okay?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 563,
+        "description": "n/a",
+        "originalText": "Here you go. ::Give him 1000 stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 564,
+        "description": "n/a",
+        "originalText": "context.loc_cc_arenaFinished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 565,
+        "description": "n/a",
+        "originalText": "context.npc_jy_fixer_talkedArena",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 566,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 570,
+        "description": "n/a",
+        "originalText": "You did? Great. So, how about we lower that price to, say, one thousand two hundred?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 574,
+        "description": "n/a",
+        "originalText": "How much do you want?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 576,
+        "description": "n/a",
+        "originalText": "Jy_DoctorHealsWounds",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 578,
+        "description": "n/a",
+        "originalText": "context.npc_jy_fixer_fixedYa",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 580,
+        "description": "n/a",
+        "originalText": "Jy_DoctorHealsWounds2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 582,
+        "description": "n/a",
+        "originalText": "context.npc_jy_fixer_fixedYa",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 586,
+        "description": "n/a",
+        "originalText": "::His wild eyes nod for him.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 590,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 593,
+        "description": "n/a",
+        "originalText": "Whoever can kill Carnifex is... hardcore. Ha... Ha... I'll part with the bench for one grand.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 600,
+        "description": "n/a",
+        "originalText": "It looks expensive. One grand... No. One and a half grand. Coins... charons.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 606,
+        "description": "n/a",
+        "originalText": "I won't complain.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 609,
+        "description": "n/a",
+        "originalText": "Gory... Do you have the coins?",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

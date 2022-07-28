@@ -1,0 +1,551 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 32,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 33,
+        "description": "n/a",
+        "originalText": "jacek",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 34,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 38,
+        "description": "n/a",
+        "originalText": "Get lost!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 45,
+        "description": "n/a",
+        "originalText": "Do you have the money?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 53,
+        "description": "n/a",
+        "originalText": "::A man whose jaw looks strong enough for him to chew through metal bars as if they were candy turns toward you with a stern look on his face. Somewhat surprised by your presence, he grasps his weapon tightly, while looking in the direction of the man who let you through to him. After that, his eyes fall on you, inspecting you for a split second before he decides to speak with an impatient, heavy voice, revealing almost all of his upper teeth to be made of some silver-colored metal, drawing your thoughts back to the first impression you got when you met him.::\r\n\r\nWho the *hell* are you and what are you doing here?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 56,
+        "description": "n/a",
+        "originalText": "context.npc_fo_hugo_payOffDebt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 81,
+        "description": "n/a",
+        "originalText": "context.npc_lu_b26x_jacek_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 82,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b26x_jacek_goGetMoneh",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 88,
+        "description": "n/a",
+        "originalText": "I have one thousand charons. Will you let him go if I give them to you? ::Give him 1000 stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 93,
+        "description": "n/a",
+        "originalText": "I don't have that much money on me, but I can get it for you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 99,
+        "description": "n/a",
+        "originalText": "How about I give you half of what Hugo owes you? Deal?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 105,
+        "description": "n/a",
+        "originalText": "Where did you get so much money to loan to Hugo?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 111,
+        "description": "n/a",
+        "originalText": "I'm looking for an unusual item and was wondering if you perhaps had it at some point? I cannot describe it, but it is something really striking, unlikely for anyone to forget.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 116,
+        "description": "n/a",
+        "originalText": "Not yet, but I'll get it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 120,
+        "description": "n/a",
+        "originalText": "I'm getting really tired of you, prepare to die! ::Attack!::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 121,
+        "description": "n/a",
+        "originalText": "context.npc_lu_b26x_jacek_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 125,
+        "description": "n/a",
+        "originalText": "I'm $(context.player.Name) and I'd like to talk with Hugo.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 129,
+        "description": "n/a",
+        "originalText": "None of your business, pal. Just let me talk with Hugo.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 133,
+        "description": "n/a",
+        "originalText": "You know what? I better leave you to your business. Bye.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 137,
+        "description": "n/a",
+        "originalText": "I'm not even going to bother talking. ::Attack!::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 138,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 142,
+        "description": "n/a",
+        "originalText": "::He takes the money with a metallic grin on his face.:: Oh, we are golden! Oh, yeah. This is the real deal. I must say, hell, my friends aren't nearly as charitable as Hugo's. ::He laughs.:: But, I can't complain. I can't complain.\r\n\r\nNow get lost, both of you. Come on, you heard me - move it!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".T13.T13:IC",
+        "objectId": 147,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 149,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b26x_jacek_goGetMoneh",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 153,
+        "description": "n/a",
+        "originalText": "::The man strokes his beard, thinking about what you've said. He soon responds.:: Deal. But be quick or Hugo get's it. And don't attempt any funky business, you got that? Now move it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 159,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b26x_jacek_askHalf",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 163,
+        "description": "n/a",
+        "originalText": "Let me explain how things work in the real world, contrary to your \"How about I give you half of that?\" fantasy land. This man owes me one thousand charons. I'm not letting him go until I have what? One. Thousand. Charons. You got that?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 167,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b26x_jacek_askHalf",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 168,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b26x_jacek_askWhereHeGotMoney",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 172,
+        "description": "n/a",
+        "originalText": "That's none of your business.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 176,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b26x_jacek_askWhereHeGotMoney",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 182,
+        "description": "n/a",
+        "originalText": "What kind of a question is that? Even if I had something of the kind, I wouldn't tell *you* about it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 186,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b26x_jacek_askStrangeItem",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 187,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b26x_jacek_goGetMoneh",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 190,
+        "description": "n/a",
+        "originalText": "You better.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 198,
+        "description": "n/a",
+        "originalText": "No can do. Hugo and I have some important things to... \"discuss.\"",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 203,
+        "description": "n/a",
+        "originalText": "You think you can come here and give me orders like I'm a nipper or something!? Are you freaking'stupid? Tell me who you are and why you're here?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 211,
+        "description": "n/a",
+        "originalText": "Just who do you think you are? You can't just stroll around my camp like it belongs to you. Tell me who you are and why you're here? Spill it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 219,
+        "description": "n/a",
+        "originalText": "context.npc_fo_hugo_payOffDebt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 225,
+        "description": "n/a",
+        "originalText": "::Leave camp.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 227,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b26x_jacek_goGetMoneh",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 230,
+        "description": "n/a",
+        "originalText": "You'll get your money.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 233,
+        "description": "n/a",
+        "originalText": "I'm gone.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 236,
+        "description": "n/a",
+        "originalText": "::Leave.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 240,
+        "description": "n/a",
+        "originalText": "Do you dig what I'm saying? I hope you do.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 246,
+        "description": "n/a",
+        "originalText": "Look, I don't think you realize what you've gotten yourself into, so stop asking stupid questions and pay attention. I have a short fuse and you and your friend are lighting it right now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 249,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b26x_jacek_askStrangeItem",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 250,
+        "description": "n/a",
+        "originalText": "context.loc_cc_facelessRetreated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 254,
+        "description": "n/a",
+        "originalText": "\"It's something really striking,\" $(#he/she) says. Unbelievable.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 270,
+        "description": "n/a",
+        "originalText": "Lu_BanditsThrowYouAndHugoOut",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 279,
+        "description": "n/a",
+        "originalText": "I am aware that Hugo is in debt.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 285,
+        "description": "n/a",
+        "originalText": "::[Persuade]:: How about you simply let him go and be on your way?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 290,
+        "description": "n/a",
+        "originalText": "Why do you keep him here?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 296,
+        "description": "n/a",
+        "originalText": "I'm looking for an unusual item and was wondering if you perhaps possessed it at some point? I cannot describe it, but it is something really striking, unlikely for anyone to forget.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 300,
+        "description": "n/a",
+        "originalText": "I'm going to leave.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 301,
+        "description": "n/a",
+        "originalText": "lu-b26x",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 303,
+        "description": "n/a",
+        "originalText": "fo3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 309,
+        "description": "n/a",
+        "originalText": "Oh, you are? That's interesting. And do you know how much this worm owes me?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 316,
+        "description": "n/a",
+        "originalText": "Let me think about it real careful...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 320,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b26x_jacek_persuade",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 326,
+        "description": "n/a",
+        "originalText": "Your friend here owes me a lot of money. I've waited for him to return it, and I've waited, and waited, and WAITED! Hugo let me wait for too long, and now the worm's gonna have to cough up the money somehow, right here, right now!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 334,
+        "description": "n/a",
+        "originalText": "What kind of a question is that? Even if I had something of the kind, I wouldn't tell *you* about it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 338,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b26x_jacek_askStrangeItem",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 341,
+        "description": "n/a",
+        "originalText": "The *hell* you are! You're my prisoner now until I figure out what exactly is going on here. Attempt to leave and you'll get yourself shot.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 346,
+        "description": "n/a",
+        "originalText": "context.npc_fo_hugo_knowDebt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 350,
+        "description": "n/a",
+        "originalText": "One freakin' thousand freakin' charons!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 353,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b26x_jacek_persuade",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 357,
+        "description": "n/a",
+        "originalText": "No.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 360,
+        "description": "n/a",
+        "originalText": "context.npc_fo_hugo_knowDebt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 364,
+        "description": "n/a",
+        "originalText": "He's gonna have real trouble coughing up one thousand charons, that's for sure, but I don't freakin' care. I. Want. My. Money!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 368,
+        "description": "n/a",
+        "originalText": "context.npc_fo_hugo_knowDebt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 369,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b26x_jacek_askStrangeItem",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 370,
+        "description": "n/a",
+        "originalText": "context.global_sawTchoristsSnatchCube",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 374,
+        "description": "n/a",
+        "originalText": "\"It's something really striking,\" $(#he/she) says. Unbelievable.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 380,
+        "description": "n/a",
+        "originalText": "Fine, let's talk.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 384,
+        "description": "n/a",
+        "originalText": "::Walk away.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 388,
+        "description": "n/a",
+        "originalText": "::Jacek grins.::",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

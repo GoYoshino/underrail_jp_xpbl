@@ -1,0 +1,439 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 34,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 35,
+        "description": "n/a",
+        "originalText": "receptionist",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 36,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 40,
+        "description": "n/a",
+        "originalText": "Excuse me,  $(#sir/ma'am), but I'm going to have to ask you to leave.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 49,
+        "description": "n/a",
+        "originalText": "::The young woman meets your approach with a chalk-white smile and a polite greeting.::\r\n\r\nGreetings, $(#sir/ma'am), and welcome to Coretech. How may I help you?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 55,
+        "description": "n/a",
+        "originalText": "Welcome back, $(#sir/ma'am). How may I help you?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 58,
+        "description": "n/a",
+        "originalText": "context.npc_cc_ct_receptionist_offend",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 69,
+        "description": "n/a",
+        "originalText": "context.npc_cc_ct_receptionist_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 71,
+        "description": "n/a",
+        "originalText": "context.loc_cc_knowCoretech",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 72,
+        "description": "n/a",
+        "originalText": "context.npc_cc_ct_receptionist_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 77,
+        "description": "n/a",
+        "originalText": "I'm looking for work. Do you have anything available?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 81,
+        "description": "n/a",
+        "originalText": "What can you tell me about Coretech?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 84,
+        "description": "n/a",
+        "originalText": "I'll be going now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 89,
+        "description": "n/a",
+        "originalText": "Most certainly, $(#sir/ma'am). Coretech is the top technology research and application company in Underrail. We have several open positions in the fields of geophysics, chemistry and ballistics. Could you please specify your quallifications so that we may procede.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 105,
+        "description": "n/a",
+        "originalText": "Coretech is the primary technology research, manufacturing and application company in Core City. Being a successor to the great Biocorp, Coretech employs some of the brightest minds in solving difficult problems of today.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 108,
+        "description": "n/a",
+        "originalText": "context.npc_cc_ct_receptionist_pass",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 109,
+        "description": "n/a",
+        "originalText": "context.npc_cc_ct_receptionist_rejected",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 113,
+        "description": "n/a",
+        "originalText": "I see... Don't you have anything else available?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 118,
+        "description": "n/a",
+        "originalText": "::[Electronics]:: How about a different branch of physics? I'm good with electronics. Will that do?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 123,
+        "description": "n/a",
+        "originalText": "::[Chemistry]:: I have some knowledge in chemistry.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 128,
+        "description": "n/a",
+        "originalText": "::[Guns]:: If by \"ballistics\" you want someone that can shoot a gun, then I'm your $(#man/woman)!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 133,
+        "description": "n/a",
+        "originalText": "::[Crossbows]:: As a proficient crossbow user, I think I know a thing or two about ballistics.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 138,
+        "description": "n/a",
+        "originalText": "::[Tailoring]:: How about a tailor? I can design and make you wonderful lab coats or security uniforms. Imagine: $(context.player.Name)'s Coreware - clothing of the future, today.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 143,
+        "description": "n/a",
+        "originalText": "::[Mechanics]:: I suppose you aren't looking for a mechanical engineer or anything similar?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 148,
+        "description": "n/a",
+        "originalText": "::[Biology]:: You don't work with living creatures much, do you?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 153,
+        "description": "n/a",
+        "originalText": "::[Hacking]:: Need someone who's good with computers?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 157,
+        "description": "n/a",
+        "originalText": "I don't think I have the right qualifications. I have some other questions for you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 161,
+        "description": "n/a",
+        "originalText": "Coretech's desire to create a better future for everyone through technological advancement remains unmatched.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 166,
+        "description": "n/a",
+        "originalText": "Well, we might have something available. Could you please tell me your full name?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MPMSC.MPMSC:SN",
+        "objectId": 171,
+        "description": "n/a",
+        "originalText": "Electronics",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 174,
+        "description": "n/a",
+        "originalText": "I'm afraid not. As I said, we are in need of someone who is an expert in geophysics, not electronics. But, we might have something different available. Could you please tell me your full name?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MPMSC.MPMSC:SN",
+        "objectId": 179,
+        "description": "n/a",
+        "originalText": "Chemistry",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 182,
+        "description": "n/a",
+        "originalText": "Well, I'm afraid not. We are in need of someone who is an *expert* in organic chemistry. But, we might have something different available. Could you please tell me your full name?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MPMSC.MPMSC:SN",
+        "objectId": 187,
+        "description": "n/a",
+        "originalText": "Guns",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 190,
+        "description": "n/a",
+        "originalText": "Well, I'm afraid not. We are in need of a ballistics *expert*. But, we might have something different available. Could you please tell me your full name?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MPMSC.MPMSC:SN",
+        "objectId": 195,
+        "description": "n/a",
+        "originalText": "Crossbows",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MPMSC.MPMSC:SN",
+        "objectId": 196,
+        "description": "n/a",
+        "originalText": "Tailoring",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 199,
+        "description": "n/a",
+        "originalText": "::Her response comes with a slight delay.:: Ehm... We don't have an open position for that. But, we might have something different available. $(context.player.Name), that is your full name, right?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MPMSC.MPMSC:SN",
+        "objectId": 204,
+        "description": "n/a",
+        "originalText": "Mechanics",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 207,
+        "description": "n/a",
+        "originalText": "I'm afraid not. Not at the moment, at least. But, we might have something different available. Could you please tell me your full name?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MPMSC.MPMSC:SN",
+        "objectId": 212,
+        "description": "n/a",
+        "originalText": "Biology",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 215,
+        "description": "n/a",
+        "originalText": "If by that you mean, do we have an open position for a biologist, then the answer is no, I'm afraid. But, we might have something different available. Could you please tell me your full name?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MPMSC.MPMSC:SN",
+        "objectId": 220,
+        "description": "n/a",
+        "originalText": "Hacking",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 224,
+        "description": "n/a",
+        "originalText": "Feel free to ask anything.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 230,
+        "description": "n/a",
+        "originalText": "$(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 234,
+        "description": "n/a",
+        "originalText": "I'm sorry, but this isn't for me. Can we discuss something else?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 238,
+        "description": "n/a",
+        "originalText": "Yes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 244,
+        "description": "n/a",
+        "originalText": "Allow me to do a quick check on you. ::She starts typing something on the keyboard.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 250,
+        "description": "n/a",
+        "originalText": "::Soon, she shakes her head and continues.:: It seems that you have already been hired by a different employer. I'm afraid we cannot offer you a job due to our company policy. Still, thank you for applying.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 260,
+        "description": "n/a",
+        "originalText": "Hmm, I see. You seem to be in luck, $(#sir/ma'am). We do have a position available. Please, if you'd like, talk to Mister Joseph Harlan. He's in the office right next to this one, down the hallway, first door to the left. \r\n\r\nOh, and before you go: I also need to inform you that the upper floor is off limits to all nonemployees. Thank you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 266,
+        "description": "n/a",
+        "originalText": "context.npc_cc_ct_receptionist_rejected",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 271,
+        "description": "n/a",
+        "originalText": "Thank you for your time.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 275,
+        "description": "n/a",
+        "originalText": "Yeah, well, who cares about your stupid company anyway. Goodbye!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 277,
+        "description": "n/a",
+        "originalText": "context.npc_cc_ct_receptionist_pass",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 279,
+        "description": "n/a",
+        "originalText": "context.faction_Coretech_allowedEntry",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 284,
+        "description": "n/a",
+        "originalText": "Thank you, I'll go see him.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 288,
+        "description": "n/a",
+        "originalText": "I had some other questions.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 289,
+        "description": "n/a",
+        "originalText": "context.faction_JKK_joined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 290,
+        "description": "n/a",
+        "originalText": "context.faction_Preatorian_joined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 292,
+        "description": "n/a",
+        "originalText": "context.npc_cc_ct_receptionist_offend",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".UOP.UOP:A",
+        "objectId": 295,
+        "description": "n/a",
+        "originalText": "cc18",
+        "translatedText": ""
+    },
+    {
+        "classInfo": "",
+        "objectId": 307,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

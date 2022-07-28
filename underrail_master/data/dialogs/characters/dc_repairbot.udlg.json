@@ -1,0 +1,754 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 29,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 30,
+        "description": "n/a",
+        "originalText": "bot",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 31,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 38,
+        "description": "n/a",
+        "originalText": "::This small wheeled bot appears to be used for performing repairs, as its extensions imply, and was most likely placed here to service the large machinery next to it. A small panel on its side is open and is labeled with \"AI Core.\" The socket itself seems to be empty, but after a brief inspection you come to a conclusion that the process of installing a new core is an uncomplicated one: It is done by simply placing a core inside the socket and then locking it in with the load plate.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 45,
+        "description": "n/a",
+        "originalText": "Greeting; imbecile:\r\n\r\nGreetings, imbecile. How may I be of service?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 51,
+        "description": "n/a",
+        "originalText": "::This repair bot doesn't currently have an AI core installed.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 54,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 65,
+        "description": "n/a",
+        "originalText": "dc_repairBot",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 67,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 87,
+        "description": "n/a",
+        "originalText": "::Insert blue AI core.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 93,
+        "description": "n/a",
+        "originalText": "::Insert green AI core.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 101,
+        "description": "n/a",
+        "originalText": "::Insert red AI core.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 104,
+        "description": "n/a",
+        "originalText": "::Leave.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 105,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_installedCore",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 106,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_disable",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 111,
+        "description": "n/a",
+        "originalText": "Can you help me repair this machine?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 116,
+        "description": "n/a",
+        "originalText": "Why must you be so difficult?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 121,
+        "description": "n/a",
+        "originalText": "Now that the gate mechanism is working, I actually don't have any use for you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 128,
+        "description": "n/a",
+        "originalText": "Couldn't you have picked a nicer name for me?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 132,
+        "description": "n/a",
+        "originalText": "Nothing for now. Goodbye, Repair Unit 7.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 136,
+        "description": "n/a",
+        "originalText": "I don't need anything from you, you hunk of junk!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 142,
+        "description": "n/a",
+        "originalText": "::As you predicted, the installation of the core was indeed simple. However, as soon as you lock it in, you hear a low-pitched voice coming from the bot.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 146,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_insertedBlueCore",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 148,
+        "description": "n/a",
+        "originalText": "plot.dc_blueAICore",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 154,
+        "description": "n/a",
+        "originalText": "::As you predicted, the installation of the core was indeed simple. The bot turns on and, after hearing a popping sound coming from its speaker, it begins playing a dramatic piece of music.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 158,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_insertedGreenCore",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 159,
+        "description": "n/a",
+        "originalText": "plot.dc_redAICore",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 163,
+        "description": "n/a",
+        "originalText": "::As you predicted, the installation of the core was indeed simple. The bot turns on and, after a popping sound comes from its speaker, it speaks its first words.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 167,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_installedCore",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 169,
+        "description": "n/a",
+        "originalText": "plot.dc_redAICore",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 171,
+        "description": "n/a",
+        "originalText": "dc_repairBot",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 175,
+        "description": "n/a",
+        "originalText": "Answer; imbecile:\r\n\r\nYes. This platform is equipped with all the essential tools needed to repair this type of machinery. Do note, imbecile, that I will need to be supplied with all the necessary components before I can initiate the repairs. Replacement components - if any - should be placed close to the machine you want repaired to make the process simpler and faster.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 182,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_canAskDifficult",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 185,
+        "description": "n/a",
+        "originalText": "Answer; imbecile:\r\n\r\nI was programmed to do so and I feel enjoyment from witnessing the reactions from the targets of my rudeness. Imbecile.\r\n",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 191,
+        "description": "n/a",
+        "originalText": "context.quest_dc_repairGateCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 194,
+        "description": "n/a",
+        "originalText": "Statement; imbecile:\r\n\r\nIs that supposed to be a roundabout way of saying that you are going to disable me, imbecile?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 200,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_askNicer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 203,
+        "description": "n/a",
+        "originalText": "Clarification; imbecile:\r\n\r\nWarning! Word \"nicer\" unknown. Closest approximation - \"niche\" fails to fit the context.\r\n\r\nAll names had been generated to match this AI core's programmed personality, imbecile.\r\n\r\nRandom examples extracted from the list: manure, clod, null, organichead, troglodyte.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 210,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_askNicer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 212,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_canAskDifficult",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 215,
+        "description": "n/a",
+        "originalText": "Farewell; imbecile:\r\n\r\nFarewell to you too, imbecile.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 220,
+        "description": "n/a",
+        "originalText": "Farewell; imbecile:\r\n\r\nAt least I am not an imbecile. Farewell, imbecile.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 223,
+        "description": "n/a",
+        "originalText": "plot.dc_blueAICore",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 224,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_insertedBlueCore",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 228,
+        "description": "n/a",
+        "originalText": "Taunt; target:\r\n\r\nI WILL DESTROY YOU!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 231,
+        "description": "n/a",
+        "originalText": "plot.dc_greenAICore",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 232,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_insertedGreenCore",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 236,
+        "description": "n/a",
+        "originalText": "Playing(LargoAlFactotum); audience:\r\n\r\nLargo al factotum della citta - largo!\r\nTralala-lalala-lalala-LA!\r\nPresto a bottega che l'alba e gia - presto!\r\nTralala-lalala-lalala-LA!\r\nAh, che bel vivere, che bel piacere - che bel piacere...\r\nper un barbiere - di qualita! Di qualita!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 245,
+        "description": "n/a",
+        "originalText": "context.quest_dc_repairGateCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 250,
+        "description": "n/a",
+        "originalText": "I've got all the necessary components. You can start the repairs.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 256,
+        "description": "n/a",
+        "originalText": "Can you help me figure out what's wrong with the machine, then? If you can repair it, then you must be capable of figuring out the problem.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 263,
+        "description": "n/a",
+        "originalText": "Where can I find all these components?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 267,
+        "description": "n/a",
+        "originalText": "Okay. I'll be back once I have everything ready.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 271,
+        "description": "n/a",
+        "originalText": "What if I were to tell you that I would destroy you if you call me an imbecile one more time? Would you still do it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 275,
+        "description": "n/a",
+        "originalText": "Define \"enjoy\"? How does a machine feel enjoyment?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 279,
+        "description": "n/a",
+        "originalText": "I see. Let's talk about something else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 283,
+        "description": "n/a",
+        "originalText": "Well, if you call me an imbecile one more time then yes, I will turn you into a smoldering pile of scrap.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 287,
+        "description": "n/a",
+        "originalText": "Yeah. Time to remove that defective core of yours.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 291,
+        "description": "n/a",
+        "originalText": "Not yet.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 295,
+        "description": "n/a",
+        "originalText": "Come to think of it, it could've been worse.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 299,
+        "description": "n/a",
+        "originalText": "That's just rude!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 303,
+        "description": "n/a",
+        "originalText": "::You manage to pull out the core before the bot got the chance to transfer his words into action. The bot powers off and reverts to its former, lifeless state. You then discard the core, finding that it will be of no use to you.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 309,
+        "description": "n/a",
+        "originalText": "::While you find it pleasant to hear this unusual piece of music, you are aware that now is not the time for relaxation. You remove the core during one of the high notes, making it abruptly plummet into a low-pitched rumble as the bot shuts down. Still, you keep this core, seeing that it might come useful at some other time.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 315,
+        "description": "n/a",
+        "originalText": "Name reassignment; Unknown:\r\n\r\nOverride initiated. Your name will be randomly selected from a list of names that was pre-generated by IRIS. Please wait...\r\n\r\nYour new name is: imbecile.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 325,
+        "description": "n/a",
+        "originalText": "Statement; imbecile:\r\n\r\nERROR! Path to waypoint blocked by [imbecile]!\r\n\r\nImbecile, please step aside!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 334,
+        "description": "n/a",
+        "originalText": "Answer; imbecile:\r\n\r\nThe long inactive time combined with the lack of maintenance of this platform have resulted in the deterioration of more than one diagnostic tool. Due to this reason it is recommended for imbecile to perform the diagnosis $(#himself/herself) to reduce the chances of errors during problem diagnosis. However, since you are an imbecile after all, I would highly recommend obtaining official documentation before making any such attempts.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 341,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_askDiagnosis",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 342,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_askComponents",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 345,
+        "description": "n/a",
+        "originalText": "Answer; imbecile:\r\n\r\nI cannot offer any useful information regarding that question and I don't feel sorry about it, imbecile.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 351,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_canAskDifficult",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 353,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_askComponents",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 357,
+        "description": "n/a",
+        "originalText": "Answer; imbecile:\r\n\r\nTake your time, imbecile.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 362,
+        "description": "n/a",
+        "originalText": "Answer; imbecile:\r\n\r\nOf course, imbecile. The threat of ending my existence has no effect on my actions.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 370,
+        "description": "n/a",
+        "originalText": "Answer; imbecile:\r\n\r\nThe feeling of enjoyment and all other emotions and sensations are qualia - subjective, nonphysical properties of experiences. Since they are personal experiences - by definition - that means that all interpersonal comparisons are impossible.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 376,
+        "description": "n/a",
+        "originalText": "Statement; imbecile:\r\n\r\nLike what, imbecile?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 381,
+        "description": "n/a",
+        "originalText": "Taunt; imbecile:\r\n\r\nimbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 388,
+        "description": "n/a",
+        "originalText": "Farewell; imbecile:\r\n\r\nAt least I won't have to endure your awful presence anymore. \r\n\r\nGoodbye, imbecile.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 395,
+        "description": "n/a",
+        "originalText": "Statement; imbecile:\r\n\r\nHow nice of you. You are the nicest imbecile I've ever met, imbecile.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 401,
+        "description": "n/a",
+        "originalText": "Statement; imbecile:\r\n\r\nAs long as you are unhappy, imbecile.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 407,
+        "description": "n/a",
+        "originalText": "Statement; imbecile:\r\n\r\nThat is the point, imbecile.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 410,
+        "description": "n/a",
+        "originalText": "context.quest_dc_repairGate_gotValve",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 411,
+        "description": "n/a",
+        "originalText": "context.quest_dc_repairGate_gotDriveShaft",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 412,
+        "description": "n/a",
+        "originalText": "context.quest_dc_repairGate_gotAccumulator",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 413,
+        "description": "n/a",
+        "originalText": "context.quest_dc_repairGate_canistersAcquired",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 416,
+        "description": "n/a",
+        "originalText": "context.quest_dc_repairGate_repairWithBot",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 420,
+        "description": "n/a",
+        "originalText": "::Step aside.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 424,
+        "description": "n/a",
+        "originalText": "I'll get you for this, you garbage can. Just you wait. ::Step aside.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 425,
+        "description": "n/a",
+        "originalText": "context.quest_dc_repairGateStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 426,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_askDiagnosis",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 430,
+        "description": "n/a",
+        "originalText": "I'll see what I can do.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 434,
+        "description": "n/a",
+        "originalText": "I have a feeling you are winding me up.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 438,
+        "description": "n/a",
+        "originalText": "You're doing this on purpose, aren't you, you mouthy garbage can?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 442,
+        "description": "n/a",
+        "originalText": "Thanks for nothing. I'll look for them on my own.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 446,
+        "description": "n/a",
+        "originalText": "We might put that to a test some time in the future. But not now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 450,
+        "description": "n/a",
+        "originalText": "Answer; imbecile:\r\n\r\nHowever, imbecile, know that the emotion I perceive from this specific way of interacting with you is a positive one, and that I feel the constant urge to experience it again and again. \r\n\r\nImbecile. Just like that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 456,
+        "description": "n/a",
+        "originalText": "I expected nothing else from you. Farewell. ::Attack!::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 460,
+        "description": "n/a",
+        "originalText": "Bah. I'm not even going to waste my time on you. Goodbye.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 464,
+        "description": "n/a",
+        "originalText": "::Remove its AI core.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 466,
+        "description": "n/a",
+        "originalText": "Dc_RepairGateMechanism",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 468,
+        "description": "n/a",
+        "originalText": "Dc_RepairGateMechanism",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 472,
+        "description": "n/a",
+        "originalText": "Statement; imbecile:\r\n\r\nThen your \"feeling\" sensor too must have deteriorated, probably due to you being an imbecile and failing to properly maintain it. I would recommend obtaining official documentation which you can use to help you diagnose and repair your faulty sensor. Good luck, imbecile.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 478,
+        "description": "n/a",
+        "originalText": "Statement; imbecile:\r\n\r\nMy programming does not allow for it, imbecile. I think you have work to do.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 484,
+        "description": "n/a",
+        "originalText": "Statement; imbecile:\r\n\r\nYou are such an imbecile, imbecile.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 490,
+        "description": "n/a",
+        "originalText": "Statement; imbecile:\r\n\r\nImbecile.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 497,
+        "description": "n/a",
+        "originalText": "Farewell; imbecile:\r\n\r\nYou really are a $(#man/woman) of your word, imbecile. Goodbye, imbecile.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 504,
+        "description": "n/a",
+        "originalText": "::As you pull out the core, one last \"imbecile\" is heard coming from the speaker, slowly lowering in frequency and stretching out into one bassy, dissonant sound before finally expiring. You then discard the AI core with a smile.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 510,
+        "description": "n/a",
+        "originalText": "context.npc_dc_repairBot_disable",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

@@ -1,0 +1,2602 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 97,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 98,
+        "description": "n/a",
+        "originalText": "georgis",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 99,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 103,
+        "description": "n/a",
+        "originalText": "Save yourself, $(#brother/sister)!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 109,
+        "description": "n/a",
+        "originalText": "Can't talk right now, $(#brother/sister) - something important is happening!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 119,
+        "description": "n/a",
+        "originalText": "::He yawns.:: Um, Tchort is evolution, $(context.player.Name)...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 127,
+        "description": "n/a",
+        "originalText": "::As time flies by and your bloodstream becames less blood and more alcohol, you start losing your senses of taste and smell... and sight... and balance. Even the, the familiar voice inside your head becomes, like, a bit more, um, difficult to... follow. Yesssss...::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 134,
+        "description": "n/a",
+        "originalText": "Yes, right... doors closed... table... bottles... All here! Now, I brought out a few samples...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 144,
+        "description": "n/a",
+        "originalText": "::As soon as he notices you, the man in a white lab-coat closes a folder he was straining to read and greets you with a firm handshake. His blood-shot eyes are drowning in fatigue, something which rubbing his eyes, which he performs from time to time, simply cannot remove, but can only relieve for a bit. Still, he appears alert and focused enough, and above all friendly during your conversation.::\r\n\r\nOh, oh, oh. Hello, $(#brother/sister). Tchort is evolution, Tchort is evolution. I am Principal Investigator Georgis, and I run the Department of Chemistry... a part of the Investigation, in case you didn't know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 155,
+        "description": "n/a",
+        "originalText": "Eidein pardon me, but these *bloody* tremors are getting on my nerves...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 161,
+        "description": "n/a",
+        "originalText": "Oh, oh, oh! It's you, $(#brother/sister).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 164,
+        "description": "n/a",
+        "originalText": "context.loc_tch_invasionStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 165,
+        "description": "n/a",
+        "originalText": "context.quest_tch_investigateFacelessCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 171,
+        "description": "n/a",
+        "originalText": "::You yawn in unison with him.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 175,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_tasteAlcoholCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 177,
+        "description": "n/a",
+        "originalText": "tch_ch_alcoholTesting",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 179,
+        "description": "n/a",
+        "originalText": "context.loc_tch_completedEnoughInvestigationQuests",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 184,
+        "description": "n/a",
+        "originalText": "::Georgis downs his shot and looks at you. Approximately.:: Tchort magnificent! That one was goOoOoOoOod! Oh, oh, oh! What do you say?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 189,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_soberUp",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 193,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_gotWasted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 197,
+        "description": "n/a",
+        "originalText": "A few? There's like ten bottles here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 198,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 200,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 202,
+        "description": "n/a",
+        "originalText": "context.loc_tch_knowGeorgis",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 204,
+        "description": "n/a",
+        "originalText": "tch_joinInvestigation",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 208,
+        "description": "n/a",
+        "originalText": "Evolution is Tchort. I am $(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 212,
+        "description": "n/a",
+        "originalText": "Pleasure to meet you, Investigator. Call me $(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 216,
+        "description": "n/a",
+        "originalText": "Oh, oh, oh, hello to you too, brother! $(context.player.Name)'s the name.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 220,
+        "description": "n/a",
+        "originalText": "'Ey. I'm $(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 221,
+        "description": "n/a",
+        "originalText": "context.loc_tch_tremorsStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 245,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_soberUp",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 246,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_tasteAlcoholCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 249,
+        "description": "n/a",
+        "originalText": "How are you feeling?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 256,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_gotWasted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 257,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_soberUp",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 261,
+        "description": "n/a",
+        "originalText": "::Smell the drink.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 262,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_startDrinking",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 263,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_gotWasted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 267,
+        "description": "n/a",
+        "originalText": "I have been making them for quite some time, $(context.player.Name); there is even more that I haven't brought out! Now, this batch... ::He picks up one of the bottles.:: was made in... erm, year ninety-eight! Let us start with that one.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 273,
+        "description": "n/a",
+        "originalText": "Ah, yes, yes... You helped Efreitor Denzil get the Reaching Man from Lunatics. Yes, right. Eidein was very pleased to have the figurine finally in his hands.\r\n\r\nTell me, how may I help you?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 280,
+        "description": "n/a",
+        "originalText": "I volunteer to drink!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 287,
+        "description": "n/a",
+        "originalText": "I am sorry, but I don't drink alcohol. Therefore I would be very bad at helping you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 293,
+        "description": "n/a",
+        "originalText": "I am looking for some work.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 300,
+        "description": "n/a",
+        "originalText": "Do you have any more work for me?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 305,
+        "description": "n/a",
+        "originalText": "There was a problem with XAL-011 - a major problem.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 310,
+        "description": "n/a",
+        "originalText": "I managed to find some data on protein design in Hecate Research Outpost. Here. ::Give him the data.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 317,
+        "description": "n/a",
+        "originalText": "I will test XAL-001 for you. May I have it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 323,
+        "description": "n/a",
+        "originalText": "Excuse me, I need something analyzed. ::Show him the broken-off spike.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 329,
+        "description": "n/a",
+        "originalText": "Tell me more about that experimental chemical pistol.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 335,
+        "description": "n/a",
+        "originalText": "Tell me more about that research data you need.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 340,
+        "description": "n/a",
+        "originalText": "What can you tell me about Hecate Research Outpost?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 345,
+        "description": "n/a",
+        "originalText": "You mentioned protein design. What is that?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 349,
+        "description": "n/a",
+        "originalText": "Why did you join the Institute of Tchort?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 354,
+        "description": "n/a",
+        "originalText": "What do you think of these tremors?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 360,
+        "description": "n/a",
+        "originalText": "Is there a way for me to get a hold of some chemicals around here?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 366,
+        "description": "n/a",
+        "originalText": "What does a cell about to undergo mitosis say to an interested investigator? \"I hope I have your divided attention!\"",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 370,
+        "description": "n/a",
+        "originalText": "Tchort guide you, Georgis.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 374,
+        "description": "n/a",
+        "originalText": "I have to go now. Goodbye.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 378,
+        "description": "n/a",
+        "originalText": "As apex as siphoner in a pig pen.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 382,
+        "description": "n/a",
+        "originalText": "I think I'm okay... I'll survive.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 386,
+        "description": "n/a",
+        "originalText": "I still feel like miniature people are hammering my brain.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 390,
+        "description": "n/a",
+        "originalText": "What the hell happened?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 393,
+        "description": "n/a",
+        "originalText": "::You feel absolutely nothing.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 402,
+        "description": "n/a",
+        "originalText": "::He pours the liquid into a pair of shot glasses with great care, not spilling a single drop, and pouring exactly the same amount into both glasses. Then, he carefully closes the bottle, puts it aside and then gives you one of the glasses while keeping the other for himself.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 410,
+        "description": "n/a",
+        "originalText": "$(#Brother/Sister), we are doing important scientific work - we are *not* doing this out of pure fun. Now please wait for me while I inform Investigator Octavia that we are not to be disturbed.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 420,
+        "description": "n/a",
+        "originalText": "Ah, that *is* unfortunate news. I guess I got a bit different impression of you...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 424,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_tasteAlcohol_declined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C34.C34:QN",
+        "objectId": 426,
+        "description": "n/a",
+        "originalText": "tch_ch_alcoholTesting",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 431,
+        "description": "n/a",
+        "originalText": "Oh, interested in becoming an investigator? That is apex! Excellent! Institute of Tchort welcomes young and prosperous $(#men/women) such as yourself. You know... an old quote by Illustrious Eidein just sprang to my mind: \"Tchortists are like nucleotides from which DNA is composed - small building blocks that together form something truly great.\" Actions of each individual lead to the creation of something better. Everyone piece of the puzzle is important.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 435,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_toldWork",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 441,
+        "description": "n/a",
+        "originalText": "Well... huh... yes, why not! I do have something for you, $(context.player.Name). I need a-- ::He yawns.:: a test subject.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 450,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_tasteAlcoholStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 452,
+        "description": "n/a",
+        "originalText": "tch_ch_alcoholTesting",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 457,
+        "description": "n/a",
+        "originalText": "Wh-- Magnificent Tchort! ::He rubs his eyes.:: Tell me what happened, $(#brother/sister)?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 467,
+        "description": "n/a",
+        "originalText": "You did? Oh, that is apex, $(#brother/sister)! I'll send this right through to my assistants! ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 476,
+        "description": "n/a",
+        "originalText": "Ah, apex! Here it is in all its glory. ::He hands you the chemical pistol.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 480,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_testChemicalWeaponStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 482,
+        "description": "n/a",
+        "originalText": "tch_ch_testChemWeapon",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 489,
+        "description": "n/a",
+        "originalText": "Take it to Octavia, $(#brother/sister). She'll perform the analysis for you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 493,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_askedPyriteStevePiece",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 499,
+        "description": "n/a",
+        "originalText": "Yes, right - the chemical pistol! Somewhere around year ninety-seven were we approached by Preservation about us helping them design a more advanced chemical weapon than what was available at the time; something truly apex! ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 503,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_toldChemWeapon",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 509,
+        "description": "n/a",
+        "originalText": "Yes, right. Let me tell you of an old Biocorp facility by the name of Hecate Research Outpost which exists somewhere in Lower Underrail. It is a small facility which usually wouldn't be worthy of our time. Usually...\r\n\r\nWe, Institute of Tchort, have recently acquired a document which suggests that some interesting data on protein design can be found there. Apparently, they did some projects there and, well, if they were able to identify any novel sequences it could be of great use.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 513,
+        "description": "n/a",
+        "originalText": "tch_ch_findResearchData",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 520,
+        "description": "n/a",
+        "originalText": "Well, all we know about it comes from a document which recently came into our possession. Apparently, Hecate used to be a relatively small research facility located somewhere in Lower Underrail and used to be owned by, you guessed it, Biocorp! Magnificent Tchort, now that I remember, nearly everything was Biocorp back then. Hecate was small and not too important and so it became forgotten when Biocorp was overtaken by Underrail Protectorate.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 527,
+        "description": "n/a",
+        "originalText": "Eidein pardon me, I suppose I missed explaining that. Protein design is, by definition, a creation of new protein molecules that will fold, or assume a certain shape, to a certain protein structure. And the whole reason why we would seek to do that, $(#brother/sister), is so that we can create proteins with completely new or slightly varied functions.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 533,
+        "description": "n/a",
+        "originalText": "That happened a long time ago; some fifteen years ago. I used to work as a chemist in Core City. I was young and ambitious, but those ambitions were - at least temporarily - shattered when news that Biocorp was overtaken by the Protectorate came from North Underrail. By the Tchort, I still remember when the rioters broke into my home and started thrashing and pillaging. Inbred primitives.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 536,
+        "description": "n/a",
+        "originalText": "context.loc_tch_tremorsStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 540,
+        "description": "n/a",
+        "originalText": "Magnificent Tchort! I think they are annoying. I get constant complaints from my investigators who have to work with sensitive and sometimes volatile chemicals which do not fare well when everything around us shakes so much.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 543,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_gavePermissionMerchant",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 546,
+        "description": "n/a",
+        "originalText": "Hmmm, it is rare for someone to come with that request. But I don't see why not. Go talk to Investigator Octavia, she can sell you some of the chemicals we have in excess. Just tell her I gave you permission.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 552,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_gavePermissionMerchant",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 557,
+        "description": "n/a",
+        "originalText": "::Baffled, he replies.::\r\n\r\nWhat?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 562,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_toldJoke",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 565,
+        "description": "n/a",
+        "originalText": "::He nods.:: Tchort guide you too, $(context.player.Name). ::Yawns.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 570,
+        "description": "n/a",
+        "originalText": "Tchort guide you, $(#brother/sister). Tchort guide you. ::He yawns.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 576,
+        "description": "n/a",
+        "originalText": "Yes, right - that sounds apex. Excellent!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 582,
+        "description": "n/a",
+        "originalText": "Apex. You will survive, don't worry.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 588,
+        "description": "n/a",
+        "originalText": "Oh, that will pass, don't worry.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 594,
+        "description": "n/a",
+        "originalText": "Science happened, $(context.player.Name). Science...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 600,
+        "description": "n/a",
+        "originalText": "GOOD!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 604,
+        "description": "n/a",
+        "originalText": "I DON'T FEEL ANYTHING!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 608,
+        "description": "n/a",
+        "originalText": "UGH!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 611,
+        "description": "n/a",
+        "originalText": "There. Smell it first and tell me what you think.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 615,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_tasteAlcoholStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 616,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_tasteAlcoholCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 617,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_tasteAlcohol_declined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 622,
+        "description": "n/a",
+        "originalText": "::Get ready.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 623,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_tasteAlcoholStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 624,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_tasteAlcohol_declined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 625,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_tasteAlcoholCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 629,
+        "description": "n/a",
+        "originalText": "Well, don't worry, $(context.player.Name), I will find someone else to assist me. Don't worry about it in the slightest.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 632,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_toldWork",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 635,
+        "description": "n/a",
+        "originalText": "If you are willing to become a piece just like the rest of us then together we *will* complete the puzzle. Yes... \r\n\r\nIn any case, I have some work just for you!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 642,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_findResearchDataCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 643,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_testChemicalWeaponCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 644,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_tasteAlcoholStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 648,
+        "description": "n/a",
+        "originalText": "What are you going to inject me with?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 652,
+        "description": "n/a",
+        "originalText": "Will it cause me to mutate into a hideous creature with superhuman strength?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 656,
+        "description": "n/a",
+        "originalText": "What exactly do you have in mind?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 660,
+        "description": "n/a",
+        "originalText": "I don't think I like the sound of that...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 664,
+        "description": "n/a",
+        "originalText": "No way! I'm not going to be a test subject!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 665,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_testChemicalWeapon_malfunction",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 666,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_testChemicalWeaponCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 670,
+        "description": "n/a",
+        "originalText": "At first it worked fine but after some time it started leaking acid and spraying it in all directions - even back at me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 671,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_findResearchDataStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 672,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_findResearchDataCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 673,
+        "description": "n/a",
+        "originalText": "plot.tch_chemData",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 678,
+        "description": "n/a",
+        "originalText": "And this is for you, $(#brother/sister). ::He gives you three hundred stygian coins.:: I will mention this to Episkopos Lydia at the next symposium, have no fear. Listen, if you keep this up, you might have a good future in Investigation. Honestly.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 681,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_toldChemWeapon",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 682,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_testChemicalWeaponStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 687,
+        "description": "n/a",
+        "originalText": "::The moment you are receive the chemical pistol you start inspecting it in great detail. You do so out of curiosity; you have substantial knowledge of mechanics and chemistry and are interested in the way weapons like this work. It doesn't take long, however, to spot a potential problem.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 693,
+        "description": "n/a",
+        "originalText": "There. And some ammo, almost forgot. I would like you to abuse the weapon; that is the goal of this test. Also, if anyone bothers you at the main entrance, just tell them you are performing weapon tests for Principal Investigator Georgis.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 697,
+        "description": "n/a",
+        "originalText": "plot.xpbl_pyriteStevePiece",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 698,
+        "description": "n/a",
+        "originalText": "context.item_pyriteStevePieceAnalyzed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 699,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_askedPyriteStevePiece",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 703,
+        "description": "n/a",
+        "originalText": " ::He yawns.:: Now...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 706,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_toldWork",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 707,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_toldChemWeapon",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 710,
+        "description": "n/a",
+        "originalText": "You see, Harmost Stavros desired all rassophore expeditions in the Deep Caverns to be equipped with several chemical weapons per combat unit during their time down there. The reasons for that were of logistical nature - a combat unit could use naturally occurring caustic chemicals... ehm, *acids* - which are abundant in Deep Caverns and can be obtained from living or environmental sources - and be self-sufficient ammunition-wise, therefore maintaining constant combat capability.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 715,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_findResearchDataStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 716,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_toldWork",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 720,
+        "description": "n/a",
+        "originalText": "Therefore, I would like you to visit this place and snoop around and see what you can find, if something *can* be found. The facility is located somewhere to the east of Core City; we don't have an exact location but shouldn't be too far away from it. \r\n\r\nSo what do you say, $(#brother/sister), are you interested in making a contribution to the Institute?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 723,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_findResearchDataStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 724,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_findResearchDataCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 728,
+        "description": "n/a",
+        "originalText": "And now it's time to unearth it again and uncover its secrets. Interested?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 736,
+        "description": "n/a",
+        "originalText": "And now it's time to unearth it again and uncover its secrets.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 739,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_findResearchDataStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 743,
+        "description": "n/a",
+        "originalText": "Since proteins are one of the most important biomolecules with numerous functions, you can see why designing new sequences is such an important task. Yes, right... that should be the gist of it. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 749,
+        "description": "n/a",
+        "originalText": "So I left Core City and sought the, at the time extremely unfamiliar, Institute of Tchort. I've heard of it from some friends of mine, and I came upon those same entrance gates. Yes... I remember it still. The moment I stepped through the gate I felt something. From a bleak outlook on life I suddenly felt my ambitions waking up again.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 755,
+        "description": "n/a",
+        "originalText": "And no one has any answers on why this is happening. It just will not stop, $(#brother/sister).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 761,
+        "description": "n/a",
+        "originalText": "Where can I find her?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 765,
+        "description": "n/a",
+        "originalText": "Thank you. I had other questions.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 766,
+        "description": "n/a",
+        "originalText": "context.loc_tch_learnMitosisJoke",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 767,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_toldJoke",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 771,
+        "description": "n/a",
+        "originalText": "Get it? Divided, mitosis... You know?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 775,
+        "description": "n/a",
+        "originalText": "Unfortunately - or fortunately - no one in the department or otherwise was there to see how dedicated we were to science, I... think, that is...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 780,
+        "description": "n/a",
+        "originalText": "Yes, right... Dr-ink it... ::He hicks.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 787,
+        "description": "n/a",
+        "originalText": "By the way, you never told me what you call this drink.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 789,
+        "description": "n/a",
+        "originalText": "Tch_DrinkingWithGeorgis",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 791,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_startDrinking",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 795,
+        "description": "n/a",
+        "originalText": "I'm as ready as I'll ever be.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 799,
+        "description": "n/a",
+        "originalText": "Tchort guide your words, brother.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 803,
+        "description": "n/a",
+        "originalText": "I want to do some sciency stuff!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 807,
+        "description": "n/a",
+        "originalText": "As long as you're not sticking needles in me...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 811,
+        "description": "n/a",
+        "originalText": "I am not going to inject you with anything... although if you *really* wish me to, I had some other things I've been wanting to... No, no, that's a whole different story...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 817,
+        "description": "n/a",
+        "originalText": "No! It shouldn't... NO! Magnificent Tchort! It's nothing of the sort...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 823,
+        "description": "n/a",
+        "originalText": "Listen, during the years I've had some time to pursue a more... personal project. Not many of my colleagues are aware of what I'm doing, $(#brother/sister), so I ask of you to keep this between you and me. Now, uh, as an organic chemist... No, as an expert in the field of organic chemistry... Ah, I'll just be straight with you - I've been wishing to make the perfect alcoholic beverage!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 829,
+        "description": "n/a",
+        "originalText": "Wait! Wait, hold it, $(#brother/sister), I might have expressed myself badly. Pardon me. Allow me to explain what I meant...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 835,
+        "description": "n/a",
+        "originalText": "I... I am speechless... We performed numerous tests but... I guess we overlooked something... ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 850,
+        "description": "n/a",
+        "originalText": "context.loc_tch_knowLydia",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 855,
+        "description": "n/a",
+        "originalText": "::Namely, you are able to notice that the design of the sprayer, most importantly its small diameter, is unfit for the weapon with an increased rate of fire such as this, as described by Georgis. While it might work without problems in a safe environment, combat use would most certainly cause a jam after a short period of time due to dirt and other small particle accumulation. The consequence of this would be the build-up of pressure inside the weapon with potentially disastrous results.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 865,
+        "description": "n/a",
+        "originalText": "For how long do I need to use the weapon?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 869,
+        "description": "n/a",
+        "originalText": "Go on...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 873,
+        "description": "n/a",
+        "originalText": "Can we get to the part where you tell me what I need to do?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 882,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_findResearchDataStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 888,
+        "description": "n/a",
+        "originalText": "I am. As a matter of fact - I have already been there and have the data here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 893,
+        "description": "n/a",
+        "originalText": "I'll see what I can do about it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 897,
+        "description": "n/a",
+        "originalText": "And I guess I managed to realize those ambitions: Investigation was a natural choice for me, and therefore I started as an assistant chemist. Few years later and after a lot of hard work I became a proper investigator and led some of my own projects; Then finally in year ninety-two I became a Principal Investigator. Next stop: Episkopos Georgis. ::He laughs.::\r\n\r\nI am joking of course, but who knows...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 903,
+        "description": "n/a",
+        "originalText": "She is right outside my office. You walked past her on your way here. I mean, unless you somehow... ::He pauses; trying to find the right words to say.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 909,
+        "description": "n/a",
+        "originalText": "Well go ahead.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 915,
+        "description": "n/a",
+        "originalText": "Oh. Oh. Oh! ::He laughs, yawning soon after.:: Magnificent Tchort, I'm sorry. Tiredness can truly make a man's mind so numb that he can't even understand such a simple joke. A principal investigator, above all.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 922,
+        "description": "n/a",
+        "originalText": "I got some good results which I will analyze them later, once my head is well again. As for you, $(context.player.Name), your input was incredibly valuable and, therefore, I give you this. ::He hands you three hundred stygian coins.:: Thank you for your time and dedication. It is... appreciated.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 928,
+        "description": "n/a",
+        "originalText": "::Take the shot.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 931,
+        "description": "n/a",
+        "originalText": "Alcosynth. I thought of different names before but... this one is simple and precise. Now smell it and tell me what you think.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 939,
+        "description": "n/a",
+        "originalText": "Yes, right. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 945,
+        "description": "n/a",
+        "originalText": "All in due time, $(context.player.Name), all in due time. First, I had use for some of your, uh... other skills.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 951,
+        "description": "n/a",
+        "originalText": "No, of course not. No, no, what I had in mind is nothing of the sort. Nothing that would require you to be so passive. In any case...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 956,
+        "description": "n/a",
+        "originalText": "Yes, that's right: I am making strong liquor - approximately fifty percent alcohol content. Now, that's decent; at least for me. That is, of course, not the most important thing - what is important is the taste, smell, consistency and all the other qualities. You know, you would like the drink itself to be enjoyable first and foremost, right?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 964,
+        "description": "n/a",
+        "originalText": "Magnificent Tchort... His Excellency will not be happy. Luckily he is not here at the moment and... hmmm. Listen, may I have XAL-001 back so that we can investigate what caused the issue?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 970,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_findResearchDataCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 972,
+        "description": "n/a",
+        "originalText": "tch_ch_findResearchData",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 974,
+        "description": "n/a",
+        "originalText": "plot.tch_chemData",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 978,
+        "description": "n/a",
+        "originalText": "context.loc_tch_completedEnoughInvestigationQuests",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 984,
+        "description": "n/a",
+        "originalText": "::Do not say anything.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 988,
+        "description": "n/a",
+        "originalText": "There is a problem with this weapon.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 994,
+        "description": "n/a",
+        "originalText": "The longer the better, really. Remember - the weapon was designed for use in extreme conditions, so abuse it appropriately. ::He laughs.:: Once you think the weapon is up to par with the task let me know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1002,
+        "description": "n/a",
+        "originalText": "Which brings us to - ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1008,
+        "description": "n/a",
+        "originalText": "Yes, right... sorry...\r\n\r\nIf we skip all that, we get right to - ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1014,
+        "description": "n/a",
+        "originalText": "What else can you tell me about Hecate Research Outpost?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 1015,
+        "description": "n/a",
+        "originalText": "plot.tch_chemData",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1019,
+        "description": "n/a",
+        "originalText": "You what...? Oh, that is apex, $(#brother/sister)! I'll send this right through to my assistants. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1023,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_findResearchDataStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1027,
+        "description": "n/a",
+        "originalText": "Apex! What else can I say but Tchort guide you, $(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1031,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_findResearchDataStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1035,
+        "description": "n/a",
+        "originalText": "Never mind. Forget I wanted to say anything. ::He yawns.:: I should get some sleep.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1041,
+        "description": "n/a",
+        "originalText": "::He points his fingers at you, smiling.:: It's a good joke. It is. I'm going to retell that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1047,
+        "description": "n/a",
+        "originalText": "::He yawns.:: Do you need anything else?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1054,
+        "description": "n/a",
+        "originalText": "::You are unable to taste anything.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1063,
+        "description": "n/a",
+        "originalText": "::Smell the drink.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1067,
+        "description": "n/a",
+        "originalText": "How about I just chug it down and skip the smelling part?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1071,
+        "description": "n/a",
+        "originalText": "I currently need you to help me with two things: First is related to a experimental chemical weapon, a pistol to be precise, that needs some combat testing. Judging from your recent history of Lunatic decimation you shouldn't have trouble with this one. ::He laughs.:: Those feral creatures...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1077,
+        "description": "n/a",
+        "originalText": "And you need a test subject because...?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1081,
+        "description": "n/a",
+        "originalText": "Oh, I see! You want me to test your booze!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1085,
+        "description": "n/a",
+        "originalText": "Is drinking even allowed in Institute of Tchort?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1091,
+        "description": "n/a",
+        "originalText": "Here you go. ::Give him XAL-001.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1095,
+        "description": "n/a",
+        "originalText": "I don't have it anymore...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1101,
+        "description": "n/a",
+        "originalText": "Problem? Magnificent Tchort; I don't think you can just find a problem.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1110,
+        "description": "n/a",
+        "originalText": "Well, I'm off to use this bad boy. See you later, investigator.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1114,
+        "description": "n/a",
+        "originalText": "Understood. I will do as you instructed. Tchort guide you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1117,
+        "description": "n/a",
+        "originalText": "XAL-001! That is short for - Experimental Acid Launcher. It offers a great improvement in terms of fire rate and ergonomics over all available models currently in use - *and* we are planning further attachments to increase capacity and to help the processing of raw chemicals in the field, yada, yada, yada... To sum it up - we believe it to be a truly apex design!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1124,
+        "description": "n/a",
+        "originalText": "Now, was there something else you needed?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1133,
+        "description": "n/a",
+        "originalText": "EXCELLENT!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1137,
+        "description": "n/a",
+        "originalText": "I have no opinion on this particular sample! I suggest we just... move on to the next one. ::Hick!::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1141,
+        "description": "n/a",
+        "originalText": "THIS TASTES LIKE RATHOUND URINE!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1144,
+        "description": "n/a",
+        "originalText": "::You cautiously smell the drink. The scent is smooth and pleasant with a slightly sweet, flowery note; at least reminiscent of those flowers *you* have had a chance to smell. In addition, it gently tickles your nose without allowing the strong spirity smell to overpower it and make it reek like cheap hooch. All in all, you find it pleasing.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1153,
+        "description": "n/a",
+        "originalText": "No - you have to smell it first. The senses of taste and smell go together; when you smell first you are preparing your brain for what you are about to taste afterwards. Listen to what I'm saying to you, $(context.player.Name), and let us do this by the rules.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1160,
+        "description": "n/a",
+        "originalText": "Anyway, the second is related to the matter of locating and retrieving research data our department would find incredibly useful. It would require you to leave the Institute building. I haven't left the building since I got here; it was around eighty-five if I remember correctly, at the time of Core City riots, so I don't know how much outside has changed, and therefore, how much will my directions be accurate.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1166,
+        "description": "n/a",
+        "originalText": "Hold on, I'm not finished. Uh, where was I.... Yes, right! Now, there aren't many natural ingredients containing adequate amounts of sugar to convert to alcohol during the distillation process - not that are available to me at least. I mean, there are *some* mushrooms which can be used, technically, but Tchort's tentacles pull me down and strangle me, those produce dreadful results. I have no idea how Underrail folk can consume that... swill. Eidein pardon me, but that thing's worse than boiled rathound urine!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 1169,
+        "description": "n/a",
+        "originalText": "XAL-001",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1172,
+        "description": "n/a",
+        "originalText": "Thank you, $(#brother/sister)... I am very disappointed with this abortive test; I thought we had it! But alas...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 1179,
+        "description": "n/a",
+        "originalText": "XAL-001",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1182,
+        "description": "n/a",
+        "originalText": "You-- Why not?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1191,
+        "description": "n/a",
+        "originalText": "::Explain your findings.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1203,
+        "description": "n/a",
+        "originalText": "Tchort guide you and-- ::He yawns.:: Sorry. Tchort guide you and good luck.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1208,
+        "description": "n/a",
+        "originalText": "Tchort guide you too, $(context.player.Name) and-- ::He yawns.:: Sorry! Tchort guide you and good luck.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1214,
+        "description": "n/a",
+        "originalText": "Again, where do I come in?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1219,
+        "description": "n/a",
+        "originalText": "I am very g-lad you like it! Apex, apex, apex! ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1225,
+        "description": "n/a",
+        "originalText": "No! You must have an op-inion! ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1231,
+        "description": "n/a",
+        "originalText": "That is a filthy lie! Don't... make me call Ju-dicator Azarias to, to lock you up for that. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1238,
+        "description": "n/a",
+        "originalText": "I like it. It possesses a very smooth and flowery scent. Very nice!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1242,
+        "description": "n/a",
+        "originalText": "The smell is too soft for me; I prefer something stronger. I'd say it is okay, but it's just not to my tastes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1246,
+        "description": "n/a",
+        "originalText": "Meh...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1251,
+        "description": "n/a",
+        "originalText": "The smell is pretty much non-existent. I expected more.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1255,
+        "description": "n/a",
+        "originalText": "So $(#brother/sister), are you still interested? If you are, I can give you the details.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1261,
+        "description": "n/a",
+        "originalText": "To get to the point, the liquor I make is synthetic - but the aim is to produce a very pleasant result, as if it was a nature's gift and not, well, laboratory meddling. Good enough even for our illustrious Eidein himself! But one needs to be an expert, for even small mistakes can cause the end result to be... *disastrous*!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1267,
+        "description": "n/a",
+        "originalText": "I'm sure you'll get it right next time.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1271,
+        "description": "n/a",
+        "originalText": "So, do I get something for my work?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1275,
+        "description": "n/a",
+        "originalText": "Abortive test? That junk you gave me nearly cost me my life!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1279,
+        "description": "n/a",
+        "originalText": "It just fell apart after it started causing troubles.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1283,
+        "description": "n/a",
+        "originalText": "I had to discard it in the heat of combat.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1291,
+        "description": "n/a",
+        "originalText": "::He carefully listens to your explanation. Sporadically he would look at the weapon himself and nod in agreement. He would occasionally yawn, but you are sure it has nothing to do with what you're saying. Once you are done, he answers.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>WI#-.LIDP:P",
+        "objectId": 1294,
+        "description": "n/a",
+        "originalText": "weapons\\xal-001",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "objectId": 1295,
+        "description": "n/a",
+        "originalText": "ammo\\vial_acid_regular",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1299,
+        "description": "n/a",
+        "originalText": "Yes, right! Listen now, $(context.player.Name)... while we are pleased so far with how the prototype turned out it still needs more field testing before it can finally enter production. That is where *you* come in, $(#brother/sister)! I need you to test the weapon - preferably on Lunatics or the Faceless; you had successfully dealt with the former in the past so I have no doubt that you will enjoy the work.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1308,
+        "description": "n/a",
+        "originalText": "I made this for the ninety-first ann-iversary of Tchortism - and it was a good ba-tch! You know how much I love Tchort and, and Eidein and all my brothers and sisters... but un-fortunately they didn't get the chance to taste it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1315,
+        "description": "n/a",
+        "originalText": "Apex! I am glad you like it, and I agree with your assessment completely. Now let us taste it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1319,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_likeSmell",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1323,
+        "description": "n/a",
+        "originalText": "Yes, yes... I know your kind. It is smooth and some people, I suppose, do not like that. Well, now let us taste it! Go ahead.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1328,
+        "description": "n/a",
+        "originalText": "Meh?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1335,
+        "description": "n/a",
+        "originalText": "Magnificent Tchort! I am sad to hear that, but that is the reason why I asked you to help with all this: I need to know other people's opinion whether I end up liking it or not. Right, now pick up your glass and let's have a taste...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1339,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_dislikeSmell",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1343,
+        "description": "n/a",
+        "originalText": "So I need a volunteer...volunteer... Yes! Now *that* sounds a lot better than \"test subject;\" I need to remember that... Anyway, $(#brother/sister): I need a volunteer to try out several samples I had prepared. I will be doing the testing with you, so do not worry - if I'm drinking it with you, you should know it's good! If you are interested, $(#brother/sister), I have everything close by and we can begin at any time.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1349,
+        "description": "n/a",
+        "originalText": "Yes, right, you have a point there. If we allow ourselves to be stopped by every obstacle we will never get anywhere.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1355,
+        "description": "n/a",
+        "originalText": "Yes, right! Thanks for reminding me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1361,
+        "description": "n/a",
+        "originalText": "Ugh, I am really sorry about that; had I known the teast would be so catastrophic I wouldn't have asked of you to perform it. I hope you forgive me, $(#brother/sister). I am sorry.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1367,
+        "description": "n/a",
+        "originalText": "It fell apart...? Magnificent Tchort, that is even worse news.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1373,
+        "description": "n/a",
+        "originalText": "You discarded it in combat...? Magnificent Tchort, that is even worse news.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 1376,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1380,
+        "description": "n/a",
+        "originalText": "Yes, right... that actually makes sense. I guess we really overlooked that, *and* it would explain why it wouldn't show in our, well, mostly lab tests. I'll take the weapon and relay what you just told me to the design team.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1386,
+        "description": "n/a",
+        "originalText": "Bottom line is: If you are interested, I can give you XAL-001 right this very moment so that you may test it - with Tchort's guidance, of course. ::He laughs.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 1389,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1393,
+        "description": "n/a",
+        "originalText": "Can I ask you a question, a question?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1404,
+        "description": "n/a",
+        "originalText": "Meh as in it's somewhere inbetween. Can't really decide.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1408,
+        "description": "n/a",
+        "originalText": "This is for you, $(#brother/sister). ::He hands you three hundred stygian coins.:: XAL, XAL... magnificent Tchort.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1413,
+        "description": "n/a",
+        "originalText": "No, no, no... How can I see what is wrong with the weapon if I don't have the wretched thing!?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1421,
+        "description": "n/a",
+        "originalText": "Here, ::He hands you three hundred stygian coins.:: take this, $(#brother/sister). You earned it within mere minutes! ::He smiles.:: Apex, just apex.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1426,
+        "description": "n/a",
+        "originalText": "Yes... ask...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1433,
+        "description": "n/a",
+        "originalText": "::Take a small sip.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1438,
+        "description": "n/a",
+        "originalText": "::Take the full shot.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1442,
+        "description": "n/a",
+        "originalText": "Yes, right... I'll keep that in mind. Now let us taste it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1458,
+        "description": "n/a",
+        "originalText": "I am very sorry, but it is what it is. There was nothing I could've done.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1462,
+        "description": "n/a",
+        "originalText": "I risked my life to test that worthless junk and all you do is complain?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1466,
+        "description": "n/a",
+        "originalText": "Why did you choose me, $(context.player.Name), me, to drink with you?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1470,
+        "description": "n/a",
+        "originalText": "::As you take the small sip you immediately feel a warm sensation flowing down your throat and ending somewhere around the chest area, lasting a short period of time before going away. The taste is robust, rich and has that smooth and mildly sweet flavor you expected after smelling it. Still, it is unmistakably a strong drink packing quite a punch and its relatively mild taste could easily fool someone into having too much of it.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1477,
+        "description": "n/a",
+        "originalText": "::As you take the shot you immediately feel a warm sensation flowing down your throat and ending somewhere around the chest area, lasting a short period of time before going away. The taste is robust, rich and has that smooth and mildly sweet flavor you expected it to have after smelling it. Still, it is unmistakably a strong drink packing quite a punch, and its appealing taste could easily fool someone into having too much of it.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1483,
+        "description": "n/a",
+        "originalText": "::In the first millisecond after downing the whole glass do you realize you have misjudged the potency of the liquor. While the initial taste can be described as robust and smooth with a mildly sweet flavor, you don't get enough time to enjoy it as you begin feeling as if someone poured molten metal down your throat. Your whole digestive tract is set ablaze and there is nothing you can do about it. Also, the tightening of the throat followed by coughing, as well as tears pouring down your cheeks just emphasize the severity of the irritation you now feel. Luckily, the sensation soon goes away and you feel alive again. Slowly, you wipe the tears from your eyes and look at Georgis.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1487,
+        "description": "n/a",
+        "originalText": "context.quests_tch_georgis_testChemicalWeaponCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 1491,
+        "description": "n/a",
+        "originalText": "context.loc_tch_completedEnoughInvestigationQuests",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 1493,
+        "description": "n/a",
+        "originalText": "tch_ch_testChemWeapon",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1497,
+        "description": "n/a",
+        "originalText": "::He calms down after a second.:: Yes, right... it is what it is. Well, based on your description on what had happened I'm sure we will know where to look for what caused the problem. Yes, yes...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1503,
+        "description": "n/a",
+        "originalText": "::He calms down after a second.:: Listen, I didn't mean in that way. I am happy that you have returned to us in one piece, $(#brother/sister), I really am. Um... in the end, even without the weapon itself I believe we will know where to look for the cause of the problem - based on what you said, of course.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1508,
+        "description": "n/a",
+        "originalText": "Ah! There is a good reason for that... ::He hicks.:: You see... I am cursed by my po-sition, you know. I am the head of this de-partment and a respected investigator. Mmm. I've asked people to try some of the liquor I make and tell me what they thought. They all said: \"It is apex, Principal Investigator! Apex!\" But I know they wouldn't tell me the tr-uth, like - how do you tell a principal investigator that what he made with love is b-a-ad, if it was in-deed bad? How!? Eh?\r\n\r\nUnderstand what I'm saying, $(context.player.Name)? ::He hicks!::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1515,
+        "description": "n/a",
+        "originalText": "::Georgis puts his hand on his chest and downs the drink in a single go.:: Oh, oh, oh! Good stuff! Very good! What did you think of it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1528,
+        "description": "n/a",
+        "originalText": "::Georgis places his hand on his heart and down the drink in a single go.:: Oh, oh, oh! Good st-- ::He sees you are red in face and full of tears.:: Are you okay? Perhaps you should try drinking in smaller gulps. Anyway, tell me what you thought of it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1541,
+        "description": "n/a",
+        "originalText": "I apologize for reacting that way; Eidein pardon me. The next version of the weapon will be better, I promise. This is for you, $(#brother/sister). ::He hands you three hundred stygian coins.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1547,
+        "description": "n/a",
+        "originalText": "Yes...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1551,
+        "description": "n/a",
+        "originalText": "No...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1556,
+        "description": "n/a",
+        "originalText": "The taste is very good despite my strong dislike for the smell. Very good!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1561,
+        "description": "n/a",
+        "originalText": "Well, judging by the exquisite smell I expected much from the taste - and I wasn't disappointed. Very good!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1566,
+        "description": "n/a",
+        "originalText": "I like it. Full, rich and as I swallow it warms my throat nicely. Very good!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1570,
+        "description": "n/a",
+        "originalText": "It is not bad taste-wise, but it can be a lot better in my opinion.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1575,
+        "description": "n/a",
+        "originalText": "Strange... despite me liking the smell of it the taste is just somewhat bland and non-existent to me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1580,
+        "description": "n/a",
+        "originalText": "Again, this does nothing for me. The taste is as bland as its smell.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1585,
+        "description": "n/a",
+        "originalText": "I don't know... it is somewhat tasteless to me. I expected more.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1589,
+        "description": "n/a",
+        "originalText": "Hrnnnnnkkkkkkk!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1593,
+        "description": "n/a",
+        "originalText": "Ughhhhhhhhrghhhhhhhhh!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1597,
+        "description": "n/a",
+        "originalText": "Brbrrrrrrrrrrrrrrrbrr!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1601,
+        "description": "n/a",
+        "originalText": "Pffffffffffffftfthhhhhhhhhfffffffff!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1606,
+        "description": "n/a",
+        "originalText": "I mean, the other two pr-incipal directors, Rista and Schteff - they are al-ways honest and help me with drrrrrrinking, um, tasting the samples, but I simply needed someone who didn't know me for so long and, um... you came along. I need-ed valid, un-biased feedback, ugh, yes...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1609,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_dislikeSmell",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1613,
+        "description": "n/a",
+        "originalText": "Apex! I am very glad you like the taste of that one. I hope you like the next sample just as well! Let us move on...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1616,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_likeSmell",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1622,
+        "description": "n/a",
+        "originalText": "Yes, yes... I understand what you mean perfectly. Let's see what you think of the next sample...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1625,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_likeSmell",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1629,
+        "description": "n/a",
+        "originalText": "Well... it is what it is, $(#brother/sister). I like this batch but... we are not all the same. But it is only one of many and I hope you will find the others a bit more pleasant than this one. Let us move one to the next sample...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1632,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_dislikeSmell",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1637,
+        "description": "n/a",
+        "originalText": "Take your time...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1650,
+        "description": "n/a",
+        "originalText": "::He yawns.:: I suddenly feel *so* tired.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1657,
+        "description": "n/a",
+        "originalText": "::He pours two more glasses from the next bottle.:: Now, $(context.player.Name), I took great pride in this batch when I first made it in year eighty-nine. By the Tchort, that was a long time ago. Nowadays I feel it is a bit-- No, saying it would influence your opinion! Try it first and then we will talk.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1660,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_dislikeSmell",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1661,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_likeSmell",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1662,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_dislikeSmell",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1663,
+        "description": "n/a",
+        "originalText": "context.npc_tch_georgis_likeSmell",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1667,
+        "description": "n/a",
+        "originalText": "Good... very good...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1671,
+        "description": "n/a",
+        "originalText": "Good taste... but a bit... too strong...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1675,
+        "description": "n/a",
+        "originalText": "Should be... stronger...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1679,
+        "description": "n/a",
+        "originalText": "Too strong... tastes... bad...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 1680,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1684,
+        "description": "n/a",
+        "originalText": "::[Drunkenness]:: I have something to tell you... Georg-ugh...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1687,
+        "description": "n/a",
+        "originalText": "So, smell it first... ::He inhales with a smile on his face.:: Oooh, good, good. ::He then places his hand on his heart and down the drink in one gulp.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1694,
+        "description": "n/a",
+        "originalText": "Apex! Just take it easy the next time; I need you alive. ::He laughs.:: Anyway, let us move on, $(#brother/sister)...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1700,
+        "description": "n/a",
+        "originalText": "Apex! Maybe it wouldn't be too strong if you took it a bit easier; take a sip next time. Anyway, let us move on, $(#brother/sister)...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1706,
+        "description": "n/a",
+        "originalText": "::He laughs.:: Right... Let us move on, $(#brother/sister), and try to take it a bit easier with the next one please; I need you alive.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1712,
+        "description": "n/a",
+        "originalText": "Hmmm, maybe if you took it a bit easier you wouldn't be dying right now. ::He laughs.:: Let us move on, we can return later to this one. Just... take it easy next time.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1717,
+        "description": "n/a",
+        "originalText": "I am listening... ::He hicks!::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1730,
+        "description": "n/a",
+        "originalText": "::Smell the drink.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1734,
+        "description": "n/a",
+        "originalText": "I saw Tchortists stealing this, eh, thingy from a research facility in Core City, and I came to the Institute just to find it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1738,
+        "description": "n/a",
+        "originalText": "I really like it here in the Institute. I think I finally found a place I can actually call home.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1742,
+        "description": "n/a",
+        "originalText": "I actually think rathounds are kinda cute. There, I said it! I know everyone hates them and wants them dead, but I think they are cute dammit!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1746,
+        "description": "n/a",
+        "originalText": "I think you are apex! I rarely get a chance to, ugh, get wasted like a pig with someone of your caliber, Georgis!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1751,
+        "description": "n/a",
+        "originalText": "I punched a wall into oblivion with my fists in Hathor mine and unleashed a torrent to drown a colony of burrowers.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1756,
+        "description": "n/a",
+        "originalText": "Do you know that joke about what a cell about to undergo mitosis told an investigator?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1761,
+        "description": "n/a",
+        "originalText": "I am the bloody Invictus! I have a feeling people just don't believe me!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1764,
+        "description": "n/a",
+        "originalText": "::It seems that the smooth and flowery smell of the previous sample tricked you into thinking that this one too will gently caress your nose, but instead you experienced an olfactory genocide. As it creeps through your nasal cavity it dazes you like a potent drug, blurring your vision for a moment and making your head feel as if two trains went through your nostrils and collided inside your skull. And you haven't even tasted the thing yet.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1773,
+        "description": "n/a",
+        "originalText": "::He almost pushes you over with a confused stare, before turning the same one to the half-empty bottle on the table.:: I don't think I'll drrrrink this batch again. Yeah... it causes people to... say funny things. Not apex! Eidein pardon me for m-aking it...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1779,
+        "description": "n/a",
+        "originalText": "Apex! I am r-eally happy for you, $(context.player.Name)... um, apex! The Institute is a place of safety, progress and something else I can't remember at the m-oment... but I to find this magnificent in-stituti-on the most apex one in existence.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1785,
+        "description": "n/a",
+        "originalText": "We all have our own little quirks and ret-t-t-tarded thoughts, $(context.player.Name), don't worry about it. It's probably the alcohol talk-ing from you anyway. Now that I think about what you said, I, um, once knew someone... ::He makes a lengthy pause.:: but I forgot. Magnificent Tch-ort, I forgot. ::He sighs.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1790,
+        "description": "n/a",
+        "originalText": "I think you are apex too, $(context.player.Name). You helped me test that ab-ortive, um, acid pistol design AND brought me that re-search data. You are apex. APEX!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1795,
+        "description": "n/a",
+        "originalText": "context.loc_ch_destroyedRocksWithFists",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1796,
+        "description": "n/a",
+        "originalText": "context.loc_tch_learnMitosisJoke",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1799,
+        "description": "n/a",
+        "originalText": "No, what?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1803,
+        "description": "n/a",
+        "originalText": "context.loc_cc_arenaFinished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1807,
+        "description": "n/a",
+        "originalText": "Yeah, apex. Everything about Ar-ena seems apex. I... I left Core City during the riots... never got the chance to see it. I mean, I went there to discuss the medication export with the, um, oli-garchs, but never had the time to see a match. I wish I could th-ough... I wish I could...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1813,
+        "description": "n/a",
+        "originalText": "I better take it easy. ::Take a sip.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1817,
+        "description": "n/a",
+        "originalText": "Well, if it doesn't kill ya... ::Take the shot.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1821,
+        "description": "n/a",
+        "originalText": "Tchort guide me! ::Take the shot.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1825,
+        "description": "n/a",
+        "originalText": "Well, time to sample the next... erm sample.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1831,
+        "description": "n/a",
+        "originalText": "Thank you...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1835,
+        "description": "n/a",
+        "originalText": "I know I am...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1839,
+        "description": "n/a",
+        "originalText": "It said, um: \"I hope I have your divided attention!\" ::Laugh.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 1841,
+        "description": "n/a",
+        "originalText": "Tch_DrinkingWithGeorgis",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 1843,
+        "description": "n/a",
+        "originalText": "Tch_DrinkingWithGeorgis",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 1845,
+        "description": "n/a",
+        "originalText": "Tch_DrinkingWithGeorgis",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1848,
+        "description": "n/a",
+        "originalText": "How about... this one!? ::He randomly selects one of the bottles.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1854,
+        "description": "n/a",
+        "originalText": "::He bursts out laughing.:: I never that one. ::He laughs.:: It's hilarious! If I re-member it later, I'm gonna tell it to everyone at the Department of Genetics! ::He laughs.:: They are going to laugh like crazy!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1861,
+        "description": "n/a",
+        "originalText": "What year is that?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1865,
+        "description": "n/a",
+        "originalText": "Yeah, you go tell it to them! ::Laugh.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1868,
+        "description": "n/a",
+        "originalText": "::Your intricate question perplexes him.:: I don't remember... It's a year, I can tell you that. It was a long time ago... maybe when Monsignor Brad-ock, the Institute's historian died... Maybe, ehm, ten years ago... I don't know. Let's drrrrrrink!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1875,
+        "description": "n/a",
+        "originalText": "::Keep on drinking.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 1877,
+        "description": "n/a",
+        "originalText": "Tch_GeorgisSoberUp",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

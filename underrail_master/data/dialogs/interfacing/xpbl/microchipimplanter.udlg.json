@@ -1,0 +1,285 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 27,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 28,
+        "description": "n/a",
+        "originalText": "interface",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 29,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 33,
+        "description": "n/a",
+        "originalText": "::LEMCO L-MCU-4 - Microchip Implantation/Extraction Unit\r\n\r\nIf performing microchip implantation, make sure that the appropriate microchip implant has been properly inserted into the slot located above the hand aperture. The unit will automatically evaluate its functionality and request replacement if necessary.\r\n\r\nIf performing microchip implant extraction, always make sure that the proper mode of extraction and disposal has been selected.\r\n\r\nMake sure to replace the sterilization mixture canister once its gauge turns red.\r\n\r\nThe implantee's hand needs to be bare. It should also remain motionless for the entire duration of the procedure in order to avoid complications. The procedure is atraumatic and does not require anesthetics in the majority of cases.\r\n\r\nThe procedure should always be performed in the presence of a qualified physician!::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 47,
+        "description": "n/a",
+        "originalText": "::Implant microchip::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 51,
+        "description": "n/a",
+        "originalText": "::Extract microchip implant::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 54,
+        "description": "n/a",
+        "originalText": "::Exit::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 57,
+        "description": "n/a",
+        "originalText": "::Microchip implant slot is empty. Please insert an appropriate implant into the slot located above the hand aperture.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 65,
+        "description": "n/a",
+        "originalText": "::Waiting for the implantee to insert his/her hand into the aperture...::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 77,
+        "description": "n/a",
+        "originalText": "::Insert Phil's microchip implant and put your hand in the aperture.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 81,
+        "description": "n/a",
+        "originalText": "::Back::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 86,
+        "description": "n/a",
+        "originalText": "::Use Todd's severed arm.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 91,
+        "description": "n/a",
+        "originalText": "::Use your hand.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 96,
+        "description": "n/a",
+        "originalText": "::Use Phil's arm.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 97,
+        "description": "n/a",
+        "originalText": "plot.xpbl_philsChip",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 106,
+        "description": "n/a",
+        "originalText": "::You insert your hand into the aperture and rest it inside a padded cuff; it slowly closes around your wrist, keeping it firmly in place. A syringe-like instrument emerges from the top of the aperture, targeting the area between the thumb and the index finger. A small nozzle parallel to the needle sterilizes your hand, and then you feel a sting - and the microchip is in. The instrument retracts and the cuff opens.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 109,
+        "description": "n/a",
+        "originalText": "plot.xpbl_toddsArm",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 113,
+        "description": "n/a",
+        "originalText": "::Unable to detect microchip implant. \r\n\r\nInitiating inductive charging...\r\n\r\nScanning...::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 116,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_implantedChip_PhilBridges",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 121,
+        "description": "n/a",
+        "originalText": "::You insert your hand into the aperture and rest it in a padded cuff; it slowly closes around your wrist, keeping it firmly in place.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 124,
+        "description": "n/a",
+        "originalText": "plot.xpbl_philsArm",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 129,
+        "description": "n/a",
+        "originalText": "::Following the on-screen instructions, you carefully remove the glove from the hand. The gloved hand has always felt somewhat fleshy when pressed, much fuller than one would expect, as if the glove has somehow preserved this very old hand from decay. The glove *has* preserved it. Too well, in fact.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 135,
+        "description": "n/a",
+        "originalText": "::Implantation successful.\r\n\r\nTesting... \r\n\r\nTest signal received. No issues with the microchip implant detected.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 139,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_implantedChip_PhilBridges",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 141,
+        "description": "n/a",
+        "originalText": "plot.xpbl_philsChip",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 143,
+        "description": "n/a",
+        "originalText": "xpbl_implantedChipInMedical",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 145,
+        "description": "n/a",
+        "originalText": "xpbl_implantedChipInMedical",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 147,
+        "description": "n/a",
+        "originalText": "xpbl_mc_implanterNote",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 151,
+        "description": "n/a",
+        "originalText": "::Error: Unrecognized implant security module version (newer than expected)\r\n\r\nUnable to connect to LIN. Please contact unit maintenance for necessary software updates or troubleshooting.\r\n\r\nThe extraction procedure will be aborted.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 159,
+        "description": "n/a",
+        "originalText": "::A sharp instrument emerges from the top of the aperture, targeting the area between the thumb and the index finger. A small nozzle parallel to its tip sterilizes your hand before you feel the whole thing driving into your flesh, but the pain is barely noticeable. A second passes - and the microchip is out, disappearing inside the unit. You hear a familiar spraying sound coming from inside the unit, and following a short delay the microchip implant drops into a small tray on the unit's right side.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 165,
+        "description": "n/a",
+        "originalText": "::Microchip implant not detected. Make sure that the hand is bare and has been properly inserted into the aperture.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 171,
+        "description": "n/a",
+        "originalText": "::You've been carrying a living creature with you all this time, if one can call this a *single* creature. What you actually see is greenish tissue in the shape of a human hand, familiarly tumorous and unmistakably perverted, writhing unhappily at what you've done to it. Or, perhaps, at what you're about to do next.\r\n\r\nYou insert the hand into the unit's aperture and observe...::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 175,
+        "description": "n/a",
+        "originalText": "context.interface_xpbl_mc_microChipImplanter_extractedChipFromPhilsHand",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 176,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_implantedChip_PhilBridges",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 181,
+        "description": "n/a",
+        "originalText": "::Extraction successful.\r\n\r\nThe microchip implant has been sterilized and deposited to the extraction tray.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 185,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_implantedChip_PhilBridges",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 189,
+        "description": "n/a",
+        "originalText": "::A sharp instrument emerges from the top of the aperture, targeting the area between the thumb and the index finger. A small nozzle parallel to its tip sterilizes the hand. The mass begins twitching and squirming, as if in pain, and the implement driving into its flesh exacerbates its condition even further. A second passes - and the microchip is out, disappearing inside the unit. You hear a familiar spraying sound coming from inside the unit, and following a short delay the microchip implant drops into a small tray on the unit's right side.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 197,
+        "description": "n/a",
+        "originalText": "::The hand is motionless and sterilized, its green coloration slowly losing vividness. \r\n\r\nYou remove it from the unit: It is now dead, if it was ever even alive.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 212,
+        "description": "n/a",
+        "originalText": "plot.xpbl_philsArm",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>NEI#-.LIDP:P",
+        "objectId": 218,
+        "description": "n/a",
+        "originalText": "plot\\xpbl\\philschip",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

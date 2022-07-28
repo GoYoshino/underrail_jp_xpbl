@@ -1,0 +1,3463 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 62,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 63,
+        "description": "n/a",
+        "originalText": "lenox",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 64,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 68,
+        "description": "n/a",
+        "originalText": "::He completely ignores you.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 74,
+        "description": "n/a",
+        "originalText": "Pat... Everyone will know what happened, brother. I swear.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 80,
+        "description": "n/a",
+        "originalText": "::The man stares at his nearly empty glass in silence, his mind clearly elsewhere.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 89,
+        "description": "n/a",
+        "originalText": "Hmm? Oh, $(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 92,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lenox_rejectQuest",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 94,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lenox_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 100,
+        "description": "n/a",
+        "originalText": "Lenox Pierce?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 103,
+        "description": "n/a",
+        "originalText": "::Leave.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 119,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lenox_canFailQuest",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 120,
+        "description": "n/a",
+        "originalText": "context.quest_watch_SGSMurderCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 123,
+        "description": "n/a",
+        "originalText": "::He snaps out, raising his head to reveal a deathly pale visage. His sluggish eyes soon focus on you, and soon begins mumbling, communicating both with his speech and his alcohol breath.:: Um... What...?\r\n\r\n::A pause ensues.:: Yes! ::He lowers his voice.:: I mean yes, I am Lenox Pierce. Are you...?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 128,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lenox_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 130,
+        "description": "n/a",
+        "originalText": "wa_talkToLenoxPierce",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 134,
+        "description": "n/a",
+        "originalText": "What can you tell me about Patrick?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 140,
+        "description": "n/a",
+        "originalText": "Did your brother ever mention anything to you about Spectres or Operation Banishment?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 146,
+        "description": "n/a",
+        "originalText": "What did Patrick do in Core City?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 152,
+        "description": "n/a",
+        "originalText": "I have reasons to believe that your brother was murdered.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 157,
+        "description": "n/a",
+        "originalText": "Tell me about your brother's past again.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 164,
+        "description": "n/a",
+        "originalText": "What do you think caused Patrick's death?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 170,
+        "description": "n/a",
+        "originalText": "I need the password for Patrick's laptop.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 175,
+        "description": "n/a",
+        "originalText": "I did my best, but I can't find out how your brother died. I am stopping the investigation.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 178,
+        "description": "n/a",
+        "originalText": "Bye.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 182,
+        "description": "n/a",
+        "originalText": "Yes, Jack sent me to talk to you. You can call me $(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 186,
+        "description": "n/a",
+        "originalText": "Pat was a good man; um, hard working, dedicated. He was the best brother a man can hope for.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 193,
+        "description": "n/a",
+        "originalText": "Um...  No, he never did. Not as far as I can remember it, no... Why?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 199,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lenox_askSpectres",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 204,
+        "description": "n/a",
+        "originalText": "Didn't I tell you about that, um, already?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 211,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lenox_askAboutPatCoreCity",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 220,
+        "description": "n/a",
+        "originalText": "::Lenox's eyes enlarge, revealing fully how bloodshot they actually are.:: Re-Really? My... I... Do you know who did it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 224,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lenox_mentionMurder",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 225,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lenox_askAboutPatCoreCity",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 229,
+        "description": "n/a",
+        "originalText": "Pat and I, we were orphans; our mother, um, died when we were young, and dad... we never, um... never met him. So, we had to take care of ourselves, um, or, um, more precisely - Pat had to take care of us both.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 232,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lenox_askHisCauseOfDeath",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 237,
+        "description": "n/a",
+        "originalText": "Well, you said he was murdered, so I think you know more about it than me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 243,
+        "description": "n/a",
+        "originalText": "Something's wrong, just wrong! A healthy man died in his sleep without a known cause? And they, um, told me there is no point in investigating any further? There is no evidence of \"foul play\" or... or whatever they said. Natural death?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 247,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lenox_askHisCauseOfDeath",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 254,
+        "description": "n/a",
+        "originalText": "Um... let me think...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 258,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lenox_askedPassword",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 259,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lenox_canFailQuest",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 265,
+        "description": "n/a",
+        "originalText": "::Lenox's face reddens with anger, yet, his eyes start watering, eventually leading to tears. He bows his head and starts weeping. Moments later, he raises his head, as if he wanted to say something, yet he decides to just wave you away.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 271,
+        "description": "n/a",
+        "originalText": "Nice to meet you, um, $(context.player.Name). How are you, um, doing?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 281,
+        "description": "n/a",
+        "originalText": "I... I just can't let this all go, you dig... I have had this terrible feeling about his death, and these jerks won't let me know the truth. I know it. I know it, damn it.\r\n\r\nWhatever happened to him, he didn't, um... he didn't deserve it. That I can swear!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 284,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_learnSpectres",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 285,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lenox_askSpectres",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 289,
+        "description": "n/a",
+        "originalText": "I asked around and found out Pat was a part of that operation while he was working for Praetorian Security.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 293,
+        "description": "n/a",
+        "originalText": "Never mind, let me ask you something else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 294,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_knowCoreCityPat",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 295,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lenox_askAboutPatCoreCity",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 299,
+        "description": "n/a",
+        "originalText": "Nope.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 303,
+        "description": "n/a",
+        "originalText": "You did, but remind me again.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 307,
+        "description": "n/a",
+        "originalText": "No, because you're a wreck and you forget to tell me important things.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 308,
+        "description": "n/a",
+        "originalText": "context.watch_quest_sgsMurder_knowQuintonWasInRoom",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 309,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_knowPatPraetorian",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 310,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_knowQuintonPoison",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 311,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_knowBretTrouble",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 312,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_knowBretVisitedDoctor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 339,
+        "description": "n/a",
+        "originalText": "After years of doing whatever earns coin - scavenging and the like, you dig - Pat and I came to Core City. It was just after Biocorp fell apart. Um, maybe some time after. Riots and chaos filled the streets. Praetorian Security, newly formed at the time, needed men to help them fight the, um, rioters and... all that bunch.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 342,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lenox_mentionMurder",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 346,
+        "description": "n/a",
+        "originalText": "Please hurry up with the frickin' investigation. You have gotten me all nervous and... look my hands are shaking! Hurry, damn it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 352,
+        "description": "n/a",
+        "originalText": "That is why *you* are here! I want... I need the truth!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 355,
+        "description": "n/a",
+        "originalText": "context.interface_patsLaptop_accessedlaptop",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 356,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lenox_askedPassword",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 357,
+        "description": "n/a",
+        "originalText": "context.interface_patsLaptop_loggedIn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 360,
+        "description": "n/a",
+        "originalText": "Try \"Sec-1456.\" Or was it, um... \"Sec-1465.\" It was his old password. If he hadn't... um, changed it. But I doubt it, he's been using that one for years.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C34.C34:QN",
+        "objectId": 366,
+        "description": "n/a",
+        "originalText": "wa_DeathInSGS",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 368,
+        "description": "n/a",
+        "originalText": "context.quest_watch_SGSMurderCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 370,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lenox_rejectQuest",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 373,
+        "description": "n/a",
+        "originalText": "::Leave.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 377,
+        "description": "n/a",
+        "originalText": "I'm doing well, thank you for asking.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 381,
+        "description": "n/a",
+        "originalText": "You wouldn't mind if we skip the friendly chat? ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 385,
+        "description": "n/a",
+        "originalText": "I got my toe bitten off by a rathound. Other than that, I'm fine.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 389,
+        "description": "n/a",
+        "originalText": "Just traveling around, nothing really important. Boring stuff. As usual.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 392,
+        "description": "n/a",
+        "originalText": "He never told me about it. I, um, I can't help you. I'm sorry.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 399,
+        "description": "n/a",
+        "originalText": "Okay...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 405,
+        "description": "n/a",
+        "originalText": "Strange... I could have sworn I mentioned it...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 411,
+        "description": "n/a",
+        "originalText": "Um, fine. Here we go again.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 416,
+        "description": "n/a",
+        "originalText": "Why is it so important? It happened a long time ago.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 424,
+        "description": "n/a",
+        "originalText": "Pasquale.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 428,
+        "description": "n/a",
+        "originalText": "Big Bret.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 432,
+        "description": "n/a",
+        "originalText": "Quinton.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 436,
+        "description": "n/a",
+        "originalText": "Arlene.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 440,
+        "description": "n/a",
+        "originalText": "Old Jonas.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 444,
+        "description": "n/a",
+        "originalText": "Mordre.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 448,
+        "description": "n/a",
+        "originalText": "Ezra.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 452,
+        "description": "n/a",
+        "originalText": "Essie.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 456,
+        "description": "n/a",
+        "originalText": "Lucas.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 460,
+        "description": "n/a",
+        "originalText": "Gorsky.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 464,
+        "description": "n/a",
+        "originalText": "Harold.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 468,
+        "description": "n/a",
+        "originalText": "Harland.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 472,
+        "description": "n/a",
+        "originalText": "Bisson.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 476,
+        "description": "n/a",
+        "originalText": "Vera.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 480,
+        "description": "n/a",
+        "originalText": "Roman.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 485,
+        "description": "n/a",
+        "originalText": "Tanner.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 489,
+        "description": "n/a",
+        "originalText": "I don't know yet, but I'll find out.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 493,
+        "description": "n/a",
+        "originalText": "The pay was good, so he, um, Pat joined. He was young and, you dig... burly, so he became an enforcer.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 499,
+        "description": "n/a",
+        "originalText": "context.loc_cc_knowPraetorian",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 503,
+        "description": "n/a",
+        "originalText": "One more thing...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 506,
+        "description": "n/a",
+        "originalText": "Thanks for the passwords. I'll go try them out.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 509,
+        "description": "n/a",
+        "originalText": "Good... um... That is good...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 517,
+        "description": "n/a",
+        "originalText": "Not at all. As you can see, I'm very bad at these things... ::He smiles.:: Plus I, um, have some things on my mind further... um, distracting me. That's why we're here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 522,
+        "description": "n/a",
+        "originalText": "Oh, I am very sorry to hear that. It must've been painful.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 530,
+        "description": "n/a",
+        "originalText": "You just answer the question and I'll decide if it's important.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 534,
+        "description": "n/a",
+        "originalText": "Just spill it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 537,
+        "description": "n/a",
+        "originalText": "Why would he do something like that?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 544,
+        "description": "n/a",
+        "originalText": "Why would he do something like that?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 551,
+        "description": "n/a",
+        "originalText": "Why would he do something like that?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 558,
+        "description": "n/a",
+        "originalText": "Why would she do something like that?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 564,
+        "description": "n/a",
+        "originalText": "Why would he do something like that?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 570,
+        "description": "n/a",
+        "originalText": "Why would he do something like that?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 575,
+        "description": "n/a",
+        "originalText": "context.global_TchortDefeated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 579,
+        "description": "n/a",
+        "originalText": "Oh, man. I'm gonna need another drink...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 583,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_knowPatPraetorian",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 587,
+        "description": "n/a",
+        "originalText": "What can you tell me about Praetorian Security?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 591,
+        "description": "n/a",
+        "originalText": "Please, continue.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 595,
+        "description": "n/a",
+        "originalText": "Hmm?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 601,
+        "description": "n/a",
+        "originalText": "Jack told me you need some help?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 605,
+        "description": "n/a",
+        "originalText": "Can we begin already?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 609,
+        "description": "n/a",
+        "originalText": "Look, $(context.player.Name), I need you to help me find out how my brother died. Pat... um, Patrick Pierce, my brother, came to South Gate Station over a year ago. He was a good man, he was good with, um, electronics. That's what he did here. My dear Pat... ::His voice begins to shake, but he composes himself.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 615,
+        "description": "n/a",
+        "originalText": "Sort of, but I've been through worse.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 619,
+        "description": "n/a",
+        "originalText": "It was. I don't want to talk about it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 623,
+        "description": "n/a",
+        "originalText": "Um, okay... no need to get all pissy.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 632,
+        "description": "n/a",
+        "originalText": "I'm not sure exactly, but I think I have some promising leads.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 636,
+        "description": "n/a",
+        "originalText": "I don't know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 643,
+        "description": "n/a",
+        "originalText": "Bret and Patrick had some conflicts over some heaters installed in the hopper pens.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 650,
+        "description": "n/a",
+        "originalText": "Quinton thought Patrick was deliberately hurting the hoppers that are used to feed the station.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 657,
+        "description": "n/a",
+        "originalText": "He had reasons for revenge.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 660,
+        "description": "n/a",
+        "originalText": "They were trying to take control over the city... and um, they eventually did. They are one of the major factions in Core City now. But they were a marble back then compared to the boulder they, um, are now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 667,
+        "description": "n/a",
+        "originalText": "Pat and I both stayed in Core City due to his work, um, and it went well for a while. Unfortunately, he was hurt during one of the riots: A brute with a sledgehammer, um, slammed him right in the spine. The bastard got him real bad, so bad he had to leave Praetorian Security, as he couldn't do his, his job anymore. He was also hurt, um, mentally: He saw things, horrible things; rarely talked about it, but I could see it. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 673,
+        "description": "n/a",
+        "originalText": "That is correct... unfortunately...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 679,
+        "description": "n/a",
+        "originalText": "Yes... yes we can. I didn't mean to, um, drag on. I'm sorry.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 684,
+        "description": "n/a",
+        "originalText": "Something like a month... um, yeah, a month and a half ago, he was found dead in his room. Lying in bed, dead. I... I came here to see what happened, and I was told he died in his sleep. Tanner, the councilor, he told me Doctor Pasquale checked his... Pat's body but doesn't know the exact cause of death. Doesn't bleeding know the cause of death!?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 692,
+        "description": "n/a",
+        "originalText": "Again, I'm, um, sorry to hear that. Um, how about we finally begin?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 698,
+        "description": "n/a",
+        "originalText": "I'm sorry. Um, how about we finally begin?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 707,
+        "description": "n/a",
+        "originalText": "Let's hear it then.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 712,
+        "description": "n/a",
+        "originalText": "tempcontext.suspect",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 713,
+        "description": "n/a",
+        "originalText": "pasquale",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 717,
+        "description": "n/a",
+        "originalText": "::He sighs.:: Well, that wasn't helpful.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 720,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_knowBretTrouble",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 724,
+        "description": "n/a",
+        "originalText": "What? Big Bret... I don't know... Um, what evidence do you have?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 729,
+        "description": "n/a",
+        "originalText": "tempcontext.suspect",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 730,
+        "description": "n/a",
+        "originalText": "bigBret",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 736,
+        "description": "n/a",
+        "originalText": "Huh... Maybe you're onto something. What clues do you have?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 741,
+        "description": "n/a",
+        "originalText": "tempcontext.suspect",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 742,
+        "description": "n/a",
+        "originalText": "quinton",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 743,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_seenSpectreList",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 747,
+        "description": "n/a",
+        "originalText": "Um, revenge? Tell me what you know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 752,
+        "description": "n/a",
+        "originalText": "tempcontext.suspect",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 753,
+        "description": "n/a",
+        "originalText": "mordre",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 756,
+        "description": "n/a",
+        "originalText": "We left Core City after that. Nothing for us there anymore. I took care of him until his back got better, um... and then we split. He went around, learned to work with electronics; he didn't want to be a scavenger his whole life. So he roamed, um, before settling here. Here, in South Gate Station. He told me he was happy here, that he finally found a place he can feel safe and... at home. ::Tears begin rolling out of his eyes to refil his glass.:: Damn it...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 764,
+        "description": "n/a",
+        "originalText": "Okay, calm down, Lenox, calm down. What can I do to help you?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 768,
+        "description": "n/a",
+        "originalText": "No more drinks for you! Control yourself, man.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 769,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_pasquale_askPatrickDeath",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 770,
+        "description": "n/a",
+        "originalText": "context.watch_quest_sgsMurder_PasqualePatDrugIssue",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 771,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_discoveredPatsCauseOfDeath",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 774,
+        "description": "n/a",
+        "originalText": "::[You need to present clues that made you suspect Pasquale was the killer.]::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 782,
+        "description": "n/a",
+        "originalText": "::[You need to present clues that made you suspect Bret was the killer.]::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 788,
+        "description": "n/a",
+        "originalText": "context.watch_quest_sgsMurder_knowQuintonWasInRoom",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 789,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_knowBretTrouble",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 792,
+        "description": "n/a",
+        "originalText": "::[You need to present clues that made you suspect Quinton was the killer.]::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 800,
+        "description": "n/a",
+        "originalText": "::[You need to tell Lenox the clues that made you suspect Mordre was the killer.]::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 809,
+        "description": "n/a",
+        "originalText": "What about you? What did you do after you split?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 813,
+        "description": "n/a",
+        "originalText": "Let's change the subject.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 817,
+        "description": "n/a",
+        "originalText": "Damn it all... Just damn it. Look, something's wrong! My brother was a healthy man; had some back issues, but that's all! I need to know the truth. What if he was killed in some accident and they are covering it up!? What if someone killed him!? It's tearing me apart. Tanner won't help me anymore, as far as he's concerned, he's done with it.\r\n\r\nBut I'm not...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 823,
+        "description": "n/a",
+        "originalText": "Shut up!  I'm not drunk - I'm devastated! Look, something's wrong! My brother was a healthy man; he had some back issues, but that's all! I need to know the truth. What if he was killed in some accident and they are covering it up!? What if someone killed him!? It's tearing me apart. Tanner won't help me anymore, as far as he's concerned, he's are done with it.\r\n\r\nBut I'm not...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 829,
+        "description": "n/a",
+        "originalText": "::General clues.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 833,
+        "description": "n/a",
+        "originalText": "::Murder weapon clues.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 840,
+        "description": "n/a",
+        "originalText": "::Finish presenting the clues.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 844,
+        "description": "n/a",
+        "originalText": "::General clues::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 848,
+        "description": "n/a",
+        "originalText": "::Murder weapon clues.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 856,
+        "description": "n/a",
+        "originalText": "::Finish presenting the clues.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 860,
+        "description": "n/a",
+        "originalText": "::General clues.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 864,
+        "description": "n/a",
+        "originalText": "::Murder weapon clues.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 871,
+        "description": "n/a",
+        "originalText": "::Finish presenting the clues.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 875,
+        "description": "n/a",
+        "originalText": "::General clues.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 879,
+        "description": "n/a",
+        "originalText": "::Murder weapon clues.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 887,
+        "description": "n/a",
+        "originalText": "::Finish presenting the clues.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 891,
+        "description": "n/a",
+        "originalText": "::He wipes his eyes.:: I had to learn to take care of myself. I, um... went to work in Foundry for a while, as a miner. But since I valued my life somewhat, I left that place. The pay was good, you dig, um, but that place is a deathtrap. Then I worked at Junkyard docks... I did all sorts of things, um... it would take time to mention them all.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 897,
+        "description": "n/a",
+        "originalText": "::He nods.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 902,
+        "description": "n/a",
+        "originalText": "Um... I'm not... Cause of death unknown. Yeah, right.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 910,
+        "description": "n/a",
+        "originalText": "I'm listening...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 916,
+        "description": "n/a",
+        "originalText": "I'm listening...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 923,
+        "description": "n/a",
+        "originalText": "Um, I don't see how things you mentioned are connected. That's just, um, too much information...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 930,
+        "description": "n/a",
+        "originalText": "Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 936,
+        "description": "n/a",
+        "originalText": "Um... I'm not convinced Pasquale did it... I don't know, I'm gonna need more evidence than that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 943,
+        "description": "n/a",
+        "originalText": "I'm listening...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 949,
+        "description": "n/a",
+        "originalText": "I'm listening...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 958,
+        "description": "n/a",
+        "originalText": "That makes perfect sense. Um, that... that bastard! Thank you... Thank you! You finally discovered who killed Pat! You can return to Jack for your payment. I... I finally know what happened to Pat.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 967,
+        "description": "n/a",
+        "originalText": "I'm not really convinced. Um, sorry, but that's not good enough.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 974,
+        "description": "n/a",
+        "originalText": "Um, I don't see how things you mentioned are connected. That's just, um, too much information...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 981,
+        "description": "n/a",
+        "originalText": "Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 988,
+        "description": "n/a",
+        "originalText": "I'm listening...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 994,
+        "description": "n/a",
+        "originalText": "I'm listening...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1001,
+        "description": "n/a",
+        "originalText": "I'm not really convinced. Um, sorry, but that's not good enough.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1008,
+        "description": "n/a",
+        "originalText": "Um, I don't see how things you mentioned are connected. That's just, um, too much information...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1015,
+        "description": "n/a",
+        "originalText": "Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1022,
+        "description": "n/a",
+        "originalText": "I'm listening...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1028,
+        "description": "n/a",
+        "originalText": "I'm listening...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1035,
+        "description": "n/a",
+        "originalText": "Um, that... that bastard! Thank you... Thank you! You finally discovered who killed Pat! You can return to Jack for your payment. I... I finally know what happened to Pat.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1042,
+        "description": "n/a",
+        "originalText": "I'm not really convinced. Um, sorry, but that's not good enough.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1049,
+        "description": "n/a",
+        "originalText": "Um, I don't see how things you mentioned are connected. That's just, um, too much information...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1056,
+        "description": "n/a",
+        "originalText": "Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1063,
+        "description": "n/a",
+        "originalText": "I'll help you. We'll find out what really happened to your brother.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1067,
+        "description": "n/a",
+        "originalText": "It's gonna be tough, I can't make any promises. But I'm on the job.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 1093,
+        "description": "n/a",
+        "originalText": "tempcontext.outcome",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 1094,
+        "description": "n/a",
+        "originalText": "evidenceOverload",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 1095,
+        "description": "n/a",
+        "originalText": "tempcontext.outcome",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 1096,
+        "description": "n/a",
+        "originalText": "evidenceConflict",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 1124,
+        "description": "n/a",
+        "originalText": "tempcontext.outcome",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 1125,
+        "description": "n/a",
+        "originalText": "guilty",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1127,
+        "description": "n/a",
+        "originalText": "context.quest_watch_SGSMurderCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 1129,
+        "description": "n/a",
+        "originalText": "wa_DeathInSGS",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1131,
+        "description": "n/a",
+        "originalText": "context.quest_watch_SGSMurder_accuseBret",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1135,
+        "description": "n/a",
+        "originalText": "What will you do now?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1139,
+        "description": "n/a",
+        "originalText": "So long, Lenox. Rest well, now that you know the truth.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 1140,
+        "description": "n/a",
+        "originalText": "tempcontext.outcome",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 1141,
+        "description": "n/a",
+        "originalText": "notConvinced",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 1142,
+        "description": "n/a",
+        "originalText": "tempcontext.outcome",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 1143,
+        "description": "n/a",
+        "originalText": "evidenceOverload",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 1144,
+        "description": "n/a",
+        "originalText": "tempcontext.outcome",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 1145,
+        "description": "n/a",
+        "originalText": "evidenceConflict",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 1176,
+        "description": "n/a",
+        "originalText": "tempcontext.outcome",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 1177,
+        "description": "n/a",
+        "originalText": "notConvinced",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 1178,
+        "description": "n/a",
+        "originalText": "tempcontext.outcome",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 1179,
+        "description": "n/a",
+        "originalText": "evidenceOverload",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 1180,
+        "description": "n/a",
+        "originalText": "tempcontext.outcome",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 1181,
+        "description": "n/a",
+        "originalText": "evidenceConflict",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 1210,
+        "description": "n/a",
+        "originalText": "tempcontext.outcome",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 1211,
+        "description": "n/a",
+        "originalText": "guilty",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 1223,
+        "description": "n/a",
+        "originalText": "tempcontext.outcome",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 1224,
+        "description": "n/a",
+        "originalText": "notConvinced",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 1225,
+        "description": "n/a",
+        "originalText": "tempcontext.outcome",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 1226,
+        "description": "n/a",
+        "originalText": "evidenceOverload",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1231,
+        "description": "n/a",
+        "originalText": "Please forgive me, I get emotional and um... This is really painful to me. He was my older brother... I have no one else. Look, I'm not sure I was understandable enough earlier. I'm, um, I'm very tired; I don't sleep well. If you need to ask me something, I'll be here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1239,
+        "description": "n/a",
+        "originalText": "Something was used to pierce Patrick's nose and damage the brain.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1245,
+        "description": "n/a",
+        "originalText": "Pasquale claims he can't determine Patrick's cause of death and was the only one to examine the body.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1251,
+        "description": "n/a",
+        "originalText": "Pasquale has extensive medical knowledge and could come up with an undetectable way to kill Patrick.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1257,
+        "description": "n/a",
+        "originalText": "He refuses to examine the body again.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1263,
+        "description": "n/a",
+        "originalText": "Patrick was blamed for many problems in SGS.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1267,
+        "description": "n/a",
+        "originalText": "::Back.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1273,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a pistol.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1278,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a bone chisel.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1284,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a bone drill.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1290,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a scalpel.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1296,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a knife.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1302,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a hammer.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1308,
+        "description": "n/a",
+        "originalText": "Patrick was suffocated with a pillow in his room.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1314,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a large surgical needle.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1318,
+        "description": "n/a",
+        "originalText": "::Back.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1324,
+        "description": "n/a",
+        "originalText": "Something was used to pierce Patrick's nose and damage the brain.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1330,
+        "description": "n/a",
+        "originalText": "Patrick and Bret had arguments over the installation of heaters in cave hopper pens.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1336,
+        "description": "n/a",
+        "originalText": "Bret came angry to Patrick's room and they had a verbal argument.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1342,
+        "description": "n/a",
+        "originalText": "Big Bret had a cut on his forehead he claims was from falling.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1348,
+        "description": "n/a",
+        "originalText": "Pasquale doesn't want to reveal that Bret was the murderer. That is why he doesn't want to perform the autopsy again.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1354,
+        "description": "n/a",
+        "originalText": "Bret smashed the thermostat Patrick installed earlier in the pens.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1360,
+        "description": "n/a",
+        "originalText": "Patrick was blamed for many problems in SGS.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1364,
+        "description": "n/a",
+        "originalText": "::Back.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1370,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a pistol.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1376,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a bone chisel.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1382,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a bone drill.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1388,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a scalpel.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1394,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a knife.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1400,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a hammer.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1406,
+        "description": "n/a",
+        "originalText": "Patrick was suffocated with a pillow in his room.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1412,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a large surgical needle.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1415,
+        "description": "n/a",
+        "originalText": "::He pauses.:: Um, I'll talk to... Tanner about this. I'll take care of, of everything.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1421,
+        "description": "n/a",
+        "originalText": "I will.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1429,
+        "description": "n/a",
+        "originalText": "Something was used to pierce Patrick's nose and damage the brain.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1435,
+        "description": "n/a",
+        "originalText": "Quinton retreived a deadly toxin from the medical storage.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1441,
+        "description": "n/a",
+        "originalText": "Patrick and Bret had arguments over the installation of heaters in cave hopper pens.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1447,
+        "description": "n/a",
+        "originalText": "Quinton supported Bret in the heater scandal.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1453,
+        "description": "n/a",
+        "originalText": "Quinton came to Patrick's room and warned him that he's endangering the station by messing up the heaters in hopper pens.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1459,
+        "description": "n/a",
+        "originalText": "Pasquale doesn't want to reveal that Quinton was the murderer. That is why he doesn't want to perform the autopsy again.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1465,
+        "description": "n/a",
+        "originalText": "Quinton has extensive medical knowledge and could come up with an undetectable way to kill Patrick.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1471,
+        "description": "n/a",
+        "originalText": "Patrick was blamed for many problems in SGS.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1475,
+        "description": "n/a",
+        "originalText": "::Back.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1481,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a pistol.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1487,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a bone chisel.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1493,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a bone drill.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1499,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a scalpel.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1505,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a knife.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1511,
+        "description": "n/a",
+        "originalText": "Patrick was injected with burrower poison and killed.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1517,
+        "description": "n/a",
+        "originalText": "Patrick was injected with dimethylmercury and killed.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1523,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a hammer.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1529,
+        "description": "n/a",
+        "originalText": "Patrick was suffocated with a pillow in his room.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1535,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a large surgical needle.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1539,
+        "description": "n/a",
+        "originalText": "::Back.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1545,
+        "description": "n/a",
+        "originalText": "Something was used to pierce Patrick's nose and damage the brain.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1551,
+        "description": "n/a",
+        "originalText": "Spectres are elite assassins who are famous for killing their targets by stabbing them through the nose, killing them and leaving a wound that is difficult to find.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1557,
+        "description": "n/a",
+        "originalText": "During his Praetorian Security days, Patrick was a part of the operation that hunted down and killed the remaining Spectres, Biocorp's elite special forces unit.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1563,
+        "description": "n/a",
+        "originalText": "Mordre's real name is Michael Mordington.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1569,
+        "description": "n/a",
+        "originalText": "Mordre had a Spectre insignia that confirms that he was one of their members.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1575,
+        "description": "n/a",
+        "originalText": "Patrick was blamed for many problems in SGS.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1581,
+        "description": "n/a",
+        "originalText": "Michael Mordington was a member of the Spectre unit.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1587,
+        "description": "n/a",
+        "originalText": "Mordre confessed the murder. He was a Spectre, an elite Biocorp special forces unit that was cleaned up by Praetorian Security. Your brother was a part of the operation, and Mordre found out.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1591,
+        "description": "n/a",
+        "originalText": "::Back.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1597,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a pistol.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1603,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a bone chisel.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1609,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a bone drill.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1615,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a scalpel.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1621,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a knife.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1627,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a hammer.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1633,
+        "description": "n/a",
+        "originalText": "Patrick was suffocated with a pillow in his room.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1639,
+        "description": "n/a",
+        "originalText": "Patrick was killed with a large surgical needle.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1643,
+        "description": "n/a",
+        "originalText": "::Back.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1645,
+        "description": "n/a",
+        "originalText": "context.quest_watch_SGSMurderCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 1647,
+        "description": "n/a",
+        "originalText": "wa_DeathInSGS",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1649,
+        "description": "n/a",
+        "originalText": "context.quest_watch_SGSMurder_mordreGuilty",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 1652,
+        "description": "n/a",
+        "originalText": "tempcontext.outcome",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 1653,
+        "description": "n/a",
+        "originalText": "evidenceConflict",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1659,
+        "description": "n/a",
+        "originalText": "Oh! Almost forgot this. ::He hands you a keycard.:: This is my brother's room keycard, in case you need to... um... need to check his room. Take it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1669,
+        "description": "n/a",
+        "originalText": "Go on...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1673,
+        "description": "n/a",
+        "originalText": "G1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1674,
+        "description": "n/a",
+        "originalText": "P1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1676,
+        "description": "n/a",
+        "originalText": "P1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1677,
+        "description": "n/a",
+        "originalText": "P2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1679,
+        "description": "n/a",
+        "originalText": "P2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1684,
+        "description": "n/a",
+        "originalText": "P3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1685,
+        "description": "n/a",
+        "originalText": "F7",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1687,
+        "description": "n/a",
+        "originalText": "F7",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1692,
+        "description": "n/a",
+        "originalText": "I see...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1696,
+        "description": "n/a",
+        "originalText": "F5",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".CAC.C:N",
+        "objectId": 1697,
+        "description": "n/a",
+        "originalText": "F1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1703,
+        "description": "n/a",
+        "originalText": "F2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1707,
+        "description": "n/a",
+        "originalText": "F3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1708,
+        "description": "n/a",
+        "originalText": "F6",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1710,
+        "description": "n/a",
+        "originalText": "F6",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1711,
+        "description": "n/a",
+        "originalText": "F10",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1713,
+        "description": "n/a",
+        "originalText": "F10",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1714,
+        "description": "n/a",
+        "originalText": "F11",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1716,
+        "description": "n/a",
+        "originalText": "F11",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1720,
+        "description": "n/a",
+        "originalText": "G2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1726,
+        "description": "n/a",
+        "originalText": "Go on...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1730,
+        "description": "n/a",
+        "originalText": "G1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1734,
+        "description": "n/a",
+        "originalText": "B1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1738,
+        "description": "n/a",
+        "originalText": "B2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1742,
+        "description": "n/a",
+        "originalText": "B3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1746,
+        "description": "n/a",
+        "originalText": "B4",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1750,
+        "description": "n/a",
+        "originalText": "B5",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1751,
+        "description": "n/a",
+        "originalText": "F7",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1753,
+        "description": "n/a",
+        "originalText": "F7",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1754,
+        "description": "n/a",
+        "originalText": "F5",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1758,
+        "description": "n/a",
+        "originalText": "I see...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1762,
+        "description": "n/a",
+        "originalText": "F5",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1766,
+        "description": "n/a",
+        "originalText": "F1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1770,
+        "description": "n/a",
+        "originalText": "F2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1774,
+        "description": "n/a",
+        "originalText": "F3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1775,
+        "description": "n/a",
+        "originalText": "F6",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1777,
+        "description": "n/a",
+        "originalText": "F6",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1778,
+        "description": "n/a",
+        "originalText": "F10",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1780,
+        "description": "n/a",
+        "originalText": "F10",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1781,
+        "description": "n/a",
+        "originalText": "F11",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1783,
+        "description": "n/a",
+        "originalText": "F11",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1787,
+        "description": "n/a",
+        "originalText": "G2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1793,
+        "description": "n/a",
+        "originalText": "Go on...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1797,
+        "description": "n/a",
+        "originalText": "G1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1801,
+        "description": "n/a",
+        "originalText": "Q1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1805,
+        "description": "n/a",
+        "originalText": "B1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1809,
+        "description": "n/a",
+        "originalText": "Q2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1813,
+        "description": "n/a",
+        "originalText": "Q3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1817,
+        "description": "n/a",
+        "originalText": "Q4",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1818,
+        "description": "n/a",
+        "originalText": "Q5",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1820,
+        "description": "n/a",
+        "originalText": "Q5",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1821,
+        "description": "n/a",
+        "originalText": "F7",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1823,
+        "description": "n/a",
+        "originalText": "F7",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1824,
+        "description": "n/a",
+        "originalText": "F5",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1828,
+        "description": "n/a",
+        "originalText": "Hmmm...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1832,
+        "description": "n/a",
+        "originalText": "F5",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1836,
+        "description": "n/a",
+        "originalText": "F1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1840,
+        "description": "n/a",
+        "originalText": "F2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1844,
+        "description": "n/a",
+        "originalText": "F3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1845,
+        "description": "n/a",
+        "originalText": "F6",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1847,
+        "description": "n/a",
+        "originalText": "F6",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1848,
+        "description": "n/a",
+        "originalText": "F8",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1850,
+        "description": "n/a",
+        "originalText": "F8",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1854,
+        "description": "n/a",
+        "originalText": "F9",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1855,
+        "description": "n/a",
+        "originalText": "F10",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1857,
+        "description": "n/a",
+        "originalText": "F10",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1858,
+        "description": "n/a",
+        "originalText": "F11",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1860,
+        "description": "n/a",
+        "originalText": "F11",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1864,
+        "description": "n/a",
+        "originalText": "G2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1870,
+        "description": "n/a",
+        "originalText": "Yeah, keep going...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1874,
+        "description": "n/a",
+        "originalText": "G1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1878,
+        "description": "n/a",
+        "originalText": "M1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1882,
+        "description": "n/a",
+        "originalText": "M2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1886,
+        "description": "n/a",
+        "originalText": "M3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1890,
+        "description": "n/a",
+        "originalText": "M4",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1891,
+        "description": "n/a",
+        "originalText": "F7",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1893,
+        "description": "n/a",
+        "originalText": "F7",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1897,
+        "description": "n/a",
+        "originalText": "M6",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1903,
+        "description": "n/a",
+        "originalText": "I... can't believe it! Um, that... that bastard! Thank you, thank you! You finally discovered who killed Pat! ::His face visibly brightens up.:: You can return to Jack for your payment. I... I finally know what happened to Pat. ::He begins laughing.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1907,
+        "description": "n/a",
+        "originalText": "M5",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1908,
+        "description": "n/a",
+        "originalText": "F5",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1912,
+        "description": "n/a",
+        "originalText": "Go on...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1916,
+        "description": "n/a",
+        "originalText": "F5",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1920,
+        "description": "n/a",
+        "originalText": "F1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1924,
+        "description": "n/a",
+        "originalText": "F2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1928,
+        "description": "n/a",
+        "originalText": "F3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1929,
+        "description": "n/a",
+        "originalText": "F6",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1931,
+        "description": "n/a",
+        "originalText": "F6",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1932,
+        "description": "n/a",
+        "originalText": "F10",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1934,
+        "description": "n/a",
+        "originalText": "F10",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1935,
+        "description": "n/a",
+        "originalText": "F11",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1937,
+        "description": "n/a",
+        "originalText": "F11",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSAEA.SGSAEA:C",
+        "objectId": 1941,
+        "description": "n/a",
+        "originalText": "G2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 1942,
+        "description": "n/a",
+        "originalText": "MushroomCoveNE",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1945,
+        "description": "n/a",
+        "originalText": "context.quest_watch_SGSMurderStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1947,
+        "description": "n/a",
+        "originalText": "wa_DeathInSGS",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1953,
+        "description": "n/a",
+        "originalText": "I'd like to talk to you first.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1956,
+        "description": "n/a",
+        "originalText": "I'll go check his room first, then we'll talk.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1957,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_discoveredPatsCauseOfDeath",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1958,
+        "description": "n/a",
+        "originalText": "G1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1959,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_pasquale_askPatrickDeath",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1960,
+        "description": "n/a",
+        "originalText": "context.npc_pasquale_didAutopsyAgain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1961,
+        "description": "n/a",
+        "originalText": "P3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1962,
+        "description": "n/a",
+        "originalText": "F5",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1963,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_noticeLargeNeedle",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1964,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_noticeLargeNeedle",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1965,
+        "description": "n/a",
+        "originalText": "F2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1966,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_noticeLargeNeedle",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1967,
+        "description": "n/a",
+        "originalText": "F3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1968,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_noticeLargeNeedle",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1969,
+        "description": "n/a",
+        "originalText": "G2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1970,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_discoveredPatsCauseOfDeath",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1971,
+        "description": "n/a",
+        "originalText": "G1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1972,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_knowBretTrouble",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1973,
+        "description": "n/a",
+        "originalText": "B1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1974,
+        "description": "n/a",
+        "originalText": "context.watch_quest_sgsMurder_knowBretWasInRoom",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1975,
+        "description": "n/a",
+        "originalText": "B2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1976,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_knowBretVisitedDoctor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1977,
+        "description": "n/a",
+        "originalText": "B3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1978,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_pasquale_askPatrickDeath",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1979,
+        "description": "n/a",
+        "originalText": "B4",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 1980,
+        "description": "n/a",
+        "originalText": "plot.sgs_thermostat",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1981,
+        "description": "n/a",
+        "originalText": "B5",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1982,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_noticeLargeNeedle",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1983,
+        "description": "n/a",
+        "originalText": "F1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1984,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_noticeLargeNeedle",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1985,
+        "description": "n/a",
+        "originalText": "F2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1986,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_noticeLargeNeedle",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1987,
+        "description": "n/a",
+        "originalText": "F3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1988,
+        "description": "n/a",
+        "originalText": "G2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1989,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_noticeLargeNeedle",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1990,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_discoveredPatsCauseOfDeath",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1991,
+        "description": "n/a",
+        "originalText": "G1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1992,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_knowQuintonPoison",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1993,
+        "description": "n/a",
+        "originalText": "Q1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1994,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_knowBretTrouble",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1995,
+        "description": "n/a",
+        "originalText": "B1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1996,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_knowBretTrouble",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1997,
+        "description": "n/a",
+        "originalText": "Q2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1998,
+        "description": "n/a",
+        "originalText": "context.watch_quest_sgsMurder_knowQuintonWasInRoom",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 1999,
+        "description": "n/a",
+        "originalText": "Q3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2000,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_pasquale_askPatrickDeath",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 2001,
+        "description": "n/a",
+        "originalText": "Q4",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 2002,
+        "description": "n/a",
+        "originalText": "F1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2003,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_noticeLargeNeedle",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2004,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_noticeLargeNeedle",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 2005,
+        "description": "n/a",
+        "originalText": "F2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2006,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_noticeLargeNeedle",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 2007,
+        "description": "n/a",
+        "originalText": "F3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2008,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_knowQuintonPoison",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 2009,
+        "description": "n/a",
+        "originalText": "F9",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2010,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_noticeLargeNeedle",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 2011,
+        "description": "n/a",
+        "originalText": "G2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2012,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_discoveredPatsCauseOfDeath",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 2013,
+        "description": "n/a",
+        "originalText": "G1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2014,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_knowHowSpectresKill",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 2015,
+        "description": "n/a",
+        "originalText": "M1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2016,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_learnSpectres",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 2017,
+        "description": "n/a",
+        "originalText": "M2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2018,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_readMordreVisitDoc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 2019,
+        "description": "n/a",
+        "originalText": "M3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2020,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_confirmedMordreInsignia",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 2021,
+        "description": "n/a",
+        "originalText": "M4",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 2022,
+        "description": "n/a",
+        "originalText": "M6",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2023,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_readMordreVisitDoc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2024,
+        "description": "n/a",
+        "originalText": "context.watch_quest_sgsMurder_MordreConfessedMurder",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 2025,
+        "description": "n/a",
+        "originalText": "M5",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2026,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_noticeLargeNeedle",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 2027,
+        "description": "n/a",
+        "originalText": "F1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2028,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_noticeLargeNeedle",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 2029,
+        "description": "n/a",
+        "originalText": "F2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2030,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_noticeLargeNeedle",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 2031,
+        "description": "n/a",
+        "originalText": "F3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2032,
+        "description": "n/a",
+        "originalText": "context.quest_watch_sgsMurder_noticeLargeNeedle",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SGSCAC.SGSCAC:C",
+        "objectId": 2033,
+        "description": "n/a",
+        "originalText": "G2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2040,
+        "description": "n/a",
+        "originalText": "Ask me anything you need.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".KI2.I:C",
+        "objectId": 2051,
+        "description": "n/a",
+        "originalText": "plot.PatsRoom",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".KI2.I:N",
+        "objectId": 2052,
+        "description": "n/a",
+        "originalText": "Patrick Pierce's Room Key (South Gate Station)",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".KI2.I:D",
+        "objectId": 2054,
+        "description": "n/a",
+        "originalText": "This keycard is used to access Patrick Pierce's room.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".KI2.I:VM",
+        "objectId": 2055,
+        "description": "n/a",
+        "originalText": "Plot.10",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

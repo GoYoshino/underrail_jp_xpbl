@@ -1,0 +1,3442 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 103,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 104,
+        "description": "n/a",
+        "originalText": "abram",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 105,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 113,
+        "description": "n/a",
+        "originalText": "What is your... ::wheeze:: final answer? Are you... ::wheeze:: still interested?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 122,
+        "description": "n/a",
+        "originalText": "You will... ::wheeze:: find Jack outside. ::Coughs violently.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 128,
+        "description": "n/a",
+        "originalText": "::You hear him wheezing through his mask, but says nothing otherwise.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 134,
+        "description": "n/a",
+        "originalText": "I thought I told... ::wheeze:: you we need to wait for Jack. ::Coughs.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 144,
+        "description": "n/a",
+        "originalText": "$(context.player.Name) of... ::wheeze:: SGS. I've been waiting for... ::wheeze:: you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 162,
+        "description": "n/a",
+        "originalText": "Are you ready to... ::wheeze:: earn some more money? If so-- ::He coughs:: I have another business proposal for you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 172,
+        "description": "n/a",
+        "originalText": "::The man wheezes heavily through the mask, his eyes drowsy. He is resting one of his arms on the counter while occasionally breaking off pieces of bread from his plate with the other and putting them in various pockets of his overcoat.:: \r\n\r\nThe air here is... ::wheeze:: ...corrupt, in more ways than one.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 179,
+        "description": "n/a",
+        "originalText": "You are... ::wheeze:: $(context.player.Name) of the... ::wheeze:: South Gate Station... ::wheeze.:: Is this correct?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 187,
+        "description": "n/a",
+        "originalText": "::He just wheezes through his mask, refusing to converse with you.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 190,
+        "description": "n/a",
+        "originalText": "wa-mf",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 196,
+        "description": "n/a",
+        "originalText": "::You find Abram leaning over what appears to be a three-dimensional map of Underrail, studying it intently. He shifts his attention to you as you approach. He starts to speak but his voice comes out too raspy. He tries to clear his throat, but that results in a coughing fit.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 202,
+        "description": "n/a",
+        "originalText": "::He wheezes through his mask.:: Yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 212,
+        "description": "n/a",
+        "originalText": "Yes I am.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 216,
+        "description": "n/a",
+        "originalText": "I think need some more time to think.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 220,
+        "description": "n/a",
+        "originalText": "I'm sorry, but I'm no longer interested in having anything to do with you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 221,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 222,
+        "description": "n/a",
+        "originalText": "context.npc_abram_talkToJackCoreCity",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 223,
+        "description": "n/a",
+        "originalText": "context.npc_abram_declineWorkingForHim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 224,
+        "description": "n/a",
+        "originalText": "context.npc_abram_toldAboutMissingJack",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 225,
+        "description": "n/a",
+        "originalText": "cc_bar",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 230,
+        "description": "n/a",
+        "originalText": "There is only... ::wheeze:: one issue: A man... ::wheeze:: called Jack Quicksilver has yet to arrive. We can't begin... ::wheeze:: without him.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 235,
+        "description": "n/a",
+        "originalText": "Let me begin by saying... ::wheeze:: I am quite satisfied with your performance so far. I had informed my... ::wheeze:: associates of your competence and... ::wheeze:: we've reached a decision... ::wheeze:: to use your abilities again. ::Coughs.::\r\n\r\nAre you still interested?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 242,
+        "description": "n/a",
+        "originalText": "context.quest_meetAbramInCoreCityCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 244,
+        "description": "n/a",
+        "originalText": "cc_meetAbram",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 258,
+        "description": "n/a",
+        "originalText": "::He coughs violently.:: You should not be here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 264,
+        "description": "n/a",
+        "originalText": "You have... ::wheeze:: a job to finish.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 271,
+        "description": "n/a",
+        "originalText": "I have another... ::wheeze:: job for you... ::wheeze:: $(context.player.Name) of SGS. This one... ::coughs:: even riskier than the last one. Do you... ::wheeze:: wish to hear it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 284,
+        "description": "n/a",
+        "originalText": "::He coughs violently.:: Excellent... ::wheeze:: my little pet has... ::wheeze:: settled nicely in its new home.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 294,
+        "description": "n/a",
+        "originalText": "Do not... ::wheeze:: bother explaining. I know that you... ::wheeze:: have failed. We have... ::wheeze:: nothing more to discuss.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 299,
+        "description": "n/a",
+        "originalText": "Until your task is complete... ::wheeze:: we have nothing more to talk about.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 308,
+        "description": "n/a",
+        "originalText": "Tell me what you had in mind.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 311,
+        "description": "n/a",
+        "originalText": "Perhaps later.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 323,
+        "description": "n/a",
+        "originalText": "context.npc_abram_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 327,
+        "description": "n/a",
+        "originalText": "context.npc_abram_startedBusinessTalks",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 331,
+        "description": "n/a",
+        "originalText": "That is correct.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 335,
+        "description": "n/a",
+        "originalText": "::[Persuade]:: You got me mixed up with someone else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 339,
+        "description": "n/a",
+        "originalText": "What's it to you?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 340,
+        "description": "n/a",
+        "originalText": "context.npc_abram_metInOculus",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 344,
+        "description": "n/a",
+        "originalText": "::Finally, he composes himself and addresses you in his usual, wheezing voice.:: I had a good... ::wheeze:: feeling about you... ::wheeze:: since the time you helped... ::wheeze:: us free Maura.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 348,
+        "description": "n/a",
+        "originalText": "context.npc_abram_metInOculus",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 363,
+        "description": "n/a",
+        "originalText": "context.npc_abram_thinkAboutJoining",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 364,
+        "description": "n/a",
+        "originalText": "context.npc_abram_talkToJackCoreCity",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 365,
+        "description": "n/a",
+        "originalText": "context.npc_abram_declineWorkingForHim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 370,
+        "description": "n/a",
+        "originalText": "Good. I'm glad you... ::wheeze:: said yes. You have displayed a certain... ::wheeze:: potential, $(context.player.Name) of SGS, a potential that few possess. I've been informed you... ::wheeze:: have already met Jack Quicksilver. Good. Him and I are a part of a certain... ::wheeze:: organization whose name will... ::wheeze:: remain unrevealed for now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 376,
+        "description": "n/a",
+        "originalText": "Good. I'm glad you... ::wheeze:: said yes. You have displayed a certain... ::wheeze:: potential, $(context.player.Name) of SGS, a potential that few possess. I do not think you've met my... ::wheeze:: associate Jack Quicksilver. It is peculiar, considering... ::wheeze:: he was visiting South Gate Station quite... ::wheeze:: quite recently. Him and I are a part of a certain... ::wheeze:: organization, whose name will... ::wheeze:: remain unrevealed for now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 381,
+        "description": "n/a",
+        "originalText": "Fine...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 387,
+        "description": "n/a",
+        "originalText": "Fine, this... ::wheeze:: means we are done here, $(context.player.Name) of SGS.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 393,
+        "description": "n/a",
+        "originalText": "context.npc_abram_toldAboutMissingJack",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 398,
+        "description": "n/a",
+        "originalText": "I'll need some more time to think about it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 399,
+        "description": "n/a",
+        "originalText": "context.npc_jyambramsmessenger2_talkedToPlayer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 400,
+        "description": "n/a",
+        "originalText": "jyt5",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 406,
+        "description": "n/a",
+        "originalText": "Our business... ::wheeze:: has concluded for now... ::wheeze::. I will be leaving... ::wheeze:: for Core City quite soon. If you... ::wheeze:: happen to be interested in doing more business, find me there. So far you... ::wheeze:: haven't disappointed. I will keep my eye on you... ::wheeze:: $(context.player.Name) of SGS.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 422,
+        "description": "n/a",
+        "originalText": "Maura has escaped... ::wheeze:: safe and sound. Here is your... ::wheeze:: well-deserved payment.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 430,
+        "description": "n/a",
+        "originalText": "Do not... ::wheeze:: test my patience.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 437,
+        "description": "n/a",
+        "originalText": "You fool... ::coughs:: by letting her die... ::wheeze:: you've cost me quite a few coins. Leave me... ::wheeze:: I will not be... ::wheeze:: requiring your services anymore.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 440,
+        "description": "n/a",
+        "originalText": "context.npc_abram_rejectedRescueMissionOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 445,
+        "description": "n/a",
+        "originalText": "context.npc_ambram_rescueMissionOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 449,
+        "description": "n/a",
+        "originalText": "Yeah, go on.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 454,
+        "description": "n/a",
+        "originalText": "I'll pass. I had enough excitement already.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 455,
+        "description": "n/a",
+        "originalText": "context.quest_jypetDelivery_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 456,
+        "description": "n/a",
+        "originalText": "context.quest_jypetDelivery_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 459,
+        "description": "n/a",
+        "originalText": "jy_petDelivery",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 461,
+        "description": "n/a",
+        "originalText": "context.quest_jypetDelivery_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 463,
+        "description": "n/a",
+        "originalText": "context.quest_jypetDelivery_paymentPending",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 467,
+        "description": "n/a",
+        "originalText": "How did you know...?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 471,
+        "description": "n/a",
+        "originalText": "::Nod.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 472,
+        "description": "n/a",
+        "originalText": "quest_jypetDelivery_busted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C34.C34:QN",
+        "objectId": 474,
+        "description": "n/a",
+        "originalText": "jy_petDelivery",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 476,
+        "description": "n/a",
+        "originalText": "context.quest_jypetDelivery_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 477,
+        "description": "n/a",
+        "originalText": "context.npc_abram_willTryRescueMission",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 478,
+        "description": "n/a",
+        "originalText": "context.npc_abram_talkedAboutTheRescueMission",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 482,
+        "description": "n/a",
+        "originalText": "I need to deliver... ::wheeze:: a present to our friends in the Union embassy. ::He coughs violently.:: But it's a surprise... ::wheeze:: so they mustn't know about it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 486,
+        "description": "n/a",
+        "originalText": "context.npc_abram_talkedAboutTheRescueMission",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 487,
+        "description": "n/a",
+        "originalText": "context.npc_abram_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 488,
+        "description": "n/a",
+        "originalText": "context.npc_abram_startedBusinessTalks",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 489,
+        "description": "n/a",
+        "originalText": "context.area_jyembassy_visited",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 492,
+        "description": "n/a",
+        "originalText": "context.npc_abram_startedBusinessTalks",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 493,
+        "description": "n/a",
+        "originalText": "context.area_jyembassy_visited",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 497,
+        "description": "n/a",
+        "originalText": "I am Abram... ::wheeze:: and I have a business... ::wheeze:: proposition for you. My sources tell me... ::wheeze:: you have recently visited the embassy of our-- ::coughs violently:: our Union friends.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 503,
+        "description": "n/a",
+        "originalText": "I do not... ::wheeze:: think so. Listen-- ::cough cough:: ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 508,
+        "description": "n/a",
+        "originalText": "It does not... ::wheeze:: surprise me that you found... ::wheeze:: your way here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 520,
+        "description": "n/a",
+        "originalText": "There's a guy named Wyatt Pear. He survived the mutagen tests in Old Junkyard and is still alive and well after all these years. The tests made him immortal or something.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 526,
+        "description": "n/a",
+        "originalText": "What the hell is this place?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 532,
+        "description": "n/a",
+        "originalText": "What can you tell me about Godmen?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 538,
+        "description": "n/a",
+        "originalText": "What can you tell me about the Mainframe?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 543,
+        "description": "n/a",
+        "originalText": "You should really do something about that cough.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 549,
+        "description": "n/a",
+        "originalText": "What's with the hologram?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 554,
+        "description": "n/a",
+        "originalText": "I need some geopolitical info.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 560,
+        "description": "n/a",
+        "originalText": "Who is that six-fingered cyborg?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 563,
+        "description": "n/a",
+        "originalText": "Catch you later.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 564,
+        "description": "n/a",
+        "originalText": "context.npc_jackQuicksilver_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 568,
+        "description": "n/a",
+        "originalText": "What I want you to... ::wheeze:: do now is to go and speak to Jack; he is waiting for you outside the bar. He... ::wheeze:: has work for you. Once you've completed everything... ::wheeze:: you will receive further instructions.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 574,
+        "description": "n/a",
+        "originalText": "context.npc_abram_declineWorkingForHim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 575,
+        "description": "n/a",
+        "originalText": "context.npc_jackQuicksilver_died",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 576,
+        "description": "n/a",
+        "originalText": "context.npc_jackQuicksilver_attacked",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 579,
+        "description": "n/a",
+        "originalText": "::Abram pauses. Nothing happens as seconds drag by. Eventually he continues as abruptly as he had stopped.::\r\n\r\nFine. Don't take... ::wheeze:: too long. I'll be here, $(context.player.Name) of ... ::wheeze:: SGS.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 583,
+        "description": "n/a",
+        "originalText": "context.npc_abram_thinkAboutJoining",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 584,
+        "description": "n/a",
+        "originalText": "context.quest_jyrescueMission_mauraEscaped",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 585,
+        "description": "n/a",
+        "originalText": "context.quest_jyrescueMission_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 586,
+        "description": "n/a",
+        "originalText": "context.quest_jyrescueMission_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 590,
+        "description": "n/a",
+        "originalText": "Where in Core City will we be meeting?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 594,
+        "description": "n/a",
+        "originalText": "How do you know so much about me?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 598,
+        "description": "n/a",
+        "originalText": "What was the purpose of that burrower spawn from earlier?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 602,
+        "description": "n/a",
+        "originalText": "Who do you work for, Abram?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 605,
+        "description": "n/a",
+        "originalText": "::Leave.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 607,
+        "description": "n/a",
+        "originalText": "jy_rescueMission",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 609,
+        "description": "n/a",
+        "originalText": "context.quest_jyrescueMission_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 613,
+        "description": "n/a",
+        "originalText": "context.quest_meetAbramInCoreCityStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 615,
+        "description": "n/a",
+        "originalText": "cc_meetAbram",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 616,
+        "description": "n/a",
+        "originalText": "context.npc_maura_dead",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 617,
+        "description": "n/a",
+        "originalText": "context.quest_jyrescueMission_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 618,
+        "description": "n/a",
+        "originalText": "context.quest_jyrescueMission_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C34.C34:QN",
+        "objectId": 620,
+        "description": "n/a",
+        "originalText": "jy_rescueMission",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 622,
+        "description": "n/a",
+        "originalText": "context.quest_jyrescueMission_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 623,
+        "description": "n/a",
+        "originalText": "context.quest_jyrescueMission_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 624,
+        "description": "n/a",
+        "originalText": "context.quest_jyrescueMission_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 625,
+        "description": "n/a",
+        "originalText": "context.npc_ambram_rescueMissionOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 630,
+        "description": "n/a",
+        "originalText": "This hole that we dug up... ::wheeze:: will lead you to the ventilation system... ::wheeze:: of the Union embassy lower level.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 635,
+        "description": "n/a",
+        "originalText": "::He nods.:: Leave then... ::wheeze:: and forget you saw this place.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 639,
+        "description": "n/a",
+        "originalText": "context.npc_abram_rejectedRescueMissionOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 640,
+        "description": "n/a",
+        "originalText": "context.quest_jypetDelivery_petDeliveredSafely",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 644,
+        "description": "n/a",
+        "originalText": "::He cuts you short.:: ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 650,
+        "description": "n/a",
+        "originalText": "You will find your... ::wheeze.:: money with Kareem again. Leave me now... ::wheeze:: I have much to do. Perhaps... ::wheeze:: I will call upon you again soon.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 655,
+        "description": "n/a",
+        "originalText": "I fear if I was... ::wheeze:: to deliver this present myself... ::wheeze:: I wouldn't be allowed to leave anytime soon.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 660,
+        "description": "n/a",
+        "originalText": "context.area_jyembassy_visited",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 661,
+        "description": "n/a",
+        "originalText": "context.npc_abram_startedBusinessTalks",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 666,
+        "description": "n/a",
+        "originalText": "I wish to purchase... ::wheeze:: information that you might have... ::wheeze:: acquired during this visit. This information does... ::wheeze:: not pertain to the purpose of your visit... ::wheeze:: so this talk will not challenge your loyalty to your own station... ::wheeze:: if you foster any.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 672,
+        "description": "n/a",
+        "originalText": "Why is that?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 676,
+        "description": "n/a",
+        "originalText": "Well, I, too, knew you guys weren't just ordinary mercenaries.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 680,
+        "description": "n/a",
+        "originalText": "You're on your own there. I, for one, didn't expect to end up in an alien pyramid.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 687,
+        "description": "n/a",
+        "originalText": "::For a while Abram just stares at you while wheezing through his mask.:: Is this... ::wheeze:: some sort of a... ::wheeze.:: joke?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 692,
+        "description": "n/a",
+        "originalText": "context.npc_abram_toldAboutWyatt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 693,
+        "description": "n/a",
+        "originalText": "tempcontext.laststrq",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 694,
+        "description": "n/a",
+        "originalText": "whatIsThisPlace",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 699,
+        "description": "n/a",
+        "originalText": "::He coughs.:: This is Oculus... ::wheeze:: The Eye.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 703,
+        "description": "n/a",
+        "originalText": "tempcontext.laststrq",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 704,
+        "description": "n/a",
+        "originalText": "whatIsThisPlace",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 709,
+        "description": "n/a",
+        "originalText": "I do not... ::wheeze:: concern myself with Godmen. ::He coughs.:: You would be better off... ::wheeze:: talking to Azif about them. ::He inhales deeply and pauses for a moment before letting out a long wheeze.:: Though I, personally, don't... ::wheeze:: put much stock in his theories.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 715,
+        "description": "n/a",
+        "originalText": "tempcontext.laststrq",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 716,
+        "description": "n/a",
+        "originalText": "aboutGodmen",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 721,
+        "description": "n/a",
+        "originalText": "Not much. I did not... ::wheeze:: interface with it. I like to deal with... ::He motions to holographic projection of Underrail as he's interrupted by a violent coughing fit.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 728,
+        "description": "n/a",
+        "originalText": "tempcontext.laststrq",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 729,
+        "description": "n/a",
+        "originalText": "aboutMainframe",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 733,
+        "description": "n/a",
+        "originalText": "There is nothing to be done... ::wheeze:: for now. Do not concern yourself... ::wheeze:: with it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 743,
+        "description": "n/a",
+        "originalText": "It is a... ::wheeze:: geopolitical map of... ::wheeze:: South Underrail. ::Coughs.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 747,
+        "description": "n/a",
+        "originalText": "context.npc_abram_aboutHologram",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 752,
+        "description": "n/a",
+        "originalText": "Which station or faction in particular... ::wheeze:: is of interest? ::He coughs.:: The places we... ::wheeze:: track are marked on... ::wheeze:: the map.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 761,
+        "description": "n/a",
+        "originalText": "I don't know... ::wheeze:: his name. We call him... ::wheeze:: Six. ::He coughs violently.:: He's working with... ::wheeze:: Azif on some... ::wheeze:: advanced project, but he's not an oculite.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 765,
+        "description": "n/a",
+        "originalText": "tempcontext.laststrq",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 766,
+        "description": "n/a",
+        "originalText": "six",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 768,
+        "description": "n/a",
+        "originalText": "context.npc_abram_talkToJackCoreCity",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 772,
+        "description": "n/a",
+        "originalText": "May I ask you some questions first?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 776,
+        "description": "n/a",
+        "originalText": "I'll go speak to Jack. Till next time, Abram.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 779,
+        "description": "n/a",
+        "originalText": "You will... ::wheeze:: find me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 784,
+        "description": "n/a",
+        "originalText": "::He just wheezes through his mask, saying nothing.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 789,
+        "description": "n/a",
+        "originalText": "::He lets out a violent cough that ends with silence.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 794,
+        "description": "n/a",
+        "originalText": "In due time... ::wheeze:: in due time.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 803,
+        "description": "n/a",
+        "originalText": "Among other things... ::wheeze:: this area also serves as a Protectorate prison. I need you... ::wheeze:: to liberate a prisoner.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 807,
+        "description": "n/a",
+        "originalText": "context.npc_abram_rescueMissionDetails",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 813,
+        "description": "n/a",
+        "originalText": "What is this present you want me to deliver?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 817,
+        "description": "n/a",
+        "originalText": "Forget it. This sounds like trouble.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 820,
+        "description": "n/a",
+        "originalText": "Are you... ::wheeze:: interested?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 827,
+        "description": "n/a",
+        "originalText": "context.npc_abram_saidHeWantsEmbassyInfo",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 831,
+        "description": "n/a",
+        "originalText": "You have... ::wheeze:: all the qualities our... ::wheeze:: organization is looking for. ::He coughs violently.:: You're perceptive, calculated and... ::wheeze:: you can get the job done. ::He coughs.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 837,
+        "description": "n/a",
+        "originalText": "::He just keeps wheezing through his mask and gives a small nod.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 843,
+        "description": "n/a",
+        "originalText": "Under-- ::He's interrupted by a coughing fit.:: ...understandable.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 846,
+        "description": "n/a",
+        "originalText": "context.npc_jywyatt_aboutMutations",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 847,
+        "description": "n/a",
+        "originalText": "context.npc_jywyatt_dead",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 848,
+        "description": "n/a",
+        "originalText": "context.npc_abram_oldJunkyardConnection",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 849,
+        "description": "n/a",
+        "originalText": "context.npc_abram_toldAboutWyatt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 853,
+        "description": "n/a",
+        "originalText": "I'm telling you - he's still there in Old Junkyard with his dogs, waiting for Biocorp to return so he can shoot them between the eyes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 855,
+        "description": "n/a",
+        "originalText": "context.loc_wa_oculus",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 856,
+        "description": "n/a",
+        "originalText": "context.loc_wa_godmen",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 857,
+        "description": "n/a",
+        "originalText": "tempcontext.laststrq",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 858,
+        "description": "n/a",
+        "originalText": "aboutGodmen",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 862,
+        "description": "n/a",
+        "originalText": "Why is that?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 866,
+        "description": "n/a",
+        "originalText": "I see.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 867,
+        "description": "n/a",
+        "originalText": "context.loc_wa_mainframe",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 868,
+        "description": "n/a",
+        "originalText": "tempcontext.laststrq",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 869,
+        "description": "n/a",
+        "originalText": "aboutMainframe",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 873,
+        "description": "n/a",
+        "originalText": "Underrail?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 877,
+        "description": "n/a",
+        "originalText": "Colorful images?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 881,
+        "description": "n/a",
+        "originalText": "Video games?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 882,
+        "description": "n/a",
+        "originalText": "context.npc_abram_showedFace",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 887,
+        "description": "n/a",
+        "originalText": "::[Persuade]:: Are you sure? What illness are you suffering from?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 892,
+        "description": "n/a",
+        "originalText": "::[Doctor]:: I'm also a doctor among other things, maybe I can help somehow?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 896,
+        "description": "n/a",
+        "originalText": "Whatever you say.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 897,
+        "description": "n/a",
+        "originalText": "context.npc_abram_aboutHologram",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 901,
+        "description": "n/a",
+        "originalText": "We keep track... ::wheeze:: of various stations and... ::coughs:: communities of South Underrail and record... ::wheeze:: relevant information.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 904,
+        "description": "n/a",
+        "originalText": "context.npc_abram_aboutHologram",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 922,
+        "description": "n/a",
+        "originalText": "context.npc_rahm-umbra_metInOculus",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 923,
+        "description": "n/a",
+        "originalText": "tempcontext.laststrq",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 924,
+        "description": "n/a",
+        "originalText": "six",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 929,
+        "description": "n/a",
+        "originalText": "I advise you... ::wheeze:: not to bother him if he ever returns. He can be very... ::wheeze:: short-tempered. ::He coughs.:: I've seen him... ::wheeze:: cut a man in half for... ::wheeze:: addressing him disrespectfully.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 935,
+        "description": "n/a",
+        "originalText": "I advise you... ::wheeze:: not to bother him. He can be very... ::wheeze:: short-tempered. ::He coughs.:: I've seen him... ::wheeze:: cut a man in half for... ::wheeze:: addressing him disrespectfully.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 940,
+        "description": "n/a",
+        "originalText": "You may... ::wheeze:: not. All your questions will be... ::wheeze:: answered in due time, $(context.player.Name) of SGS.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 946,
+        "description": "n/a",
+        "originalText": "::He nods.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 953,
+        "description": "n/a",
+        "originalText": "Her name is Maura. ::He coughs.:: As far I as know... ::wheeze:: she is the only prisoner there, but... ::wheeze:: I cannot be sure.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".X9.X9:P",
+        "objectId": 956,
+        "description": "n/a",
+        "originalText": "quest_jypetDelivery_petDeliveryTime",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 960,
+        "description": "n/a",
+        "originalText": "It is a little pet... ::wheeze:: very lovable... ::wheeze:: likes to hang out in ventilation ducts. You must place it there... ::wheeze:: without anyone noticing.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 966,
+        "description": "n/a",
+        "originalText": "::He nods slowly.:: Understandable... ::wheeze:: Just be sure not to... ::coughs:: spoil my surprise.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 972,
+        "description": "n/a",
+        "originalText": "How much will you pay me?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 976,
+        "description": "n/a",
+        "originalText": "Sure, I'm always up for a friendly chat. What do you want to know?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 980,
+        "description": "n/a",
+        "originalText": "I'm not interested in spying on the Protectorate.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 984,
+        "description": "n/a",
+        "originalText": "::Abram seems confused.:: What...? ::wheeze:: Waiting...? ::wheeze::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 991,
+        "description": "n/a",
+        "originalText": "Because I do not... ::wheeze:: believe in gods. There were... ::coughs:: only ever just men, $(context.player.Name)... ::He takes a deep breath:: ...and these would not be the first to... ::wheeze:: declare themselves divine.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 997,
+        "description": "n/a",
+        "originalText": "::He wheezes through his mask.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1003,
+        "description": "n/a",
+        "originalText": "::He nods in agreement as he regains composure.:: ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1009,
+        "description": "n/a",
+        "originalText": "::He shakes his head as he coughs. After a few moments he finally regains his composure.:: ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1016,
+        "description": "n/a",
+        "originalText": "I'm pretty sure my... ::wheeze:: condition is beyond your... ::he coughs:: healing powers.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1022,
+        "description": "n/a",
+        "originalText": "That is...::coughs:: none of your concern.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHF.PHF:F",
+        "objectId": 1025,
+        "description": "n/a",
+        "originalText": "Doctor",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1029,
+        "description": "n/a",
+        "originalText": "::He coughs.:: I doubt you would be able to treat... ::wheeze:: my condition.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1035,
+        "description": "n/a",
+        "originalText": "::He just wheezes through his mask.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1041,
+        "description": "n/a",
+        "originalText": "South Gate Station.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1045,
+        "description": "n/a",
+        "originalText": "Junkyard.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1049,
+        "description": "n/a",
+        "originalText": "Camp Hathor.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1053,
+        "description": "n/a",
+        "originalText": "Rail Crossing.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1057,
+        "description": "n/a",
+        "originalText": "Foundry.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1061,
+        "description": "n/a",
+        "originalText": "Core City.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1066,
+        "description": "n/a",
+        "originalText": "The Rig.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1070,
+        "description": "n/a",
+        "originalText": "Underrail Protectorate.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1075,
+        "description": "n/a",
+        "originalText": "Free Drones.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1079,
+        "description": "n/a",
+        "originalText": "The Faceless.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1084,
+        "description": "n/a",
+        "originalText": "Institute of Tchort.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1088,
+        "description": "n/a",
+        "originalText": "Never mind.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1089,
+        "description": "n/a",
+        "originalText": "context.global_sawTchoristsSnatchCube",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1098,
+        "description": "n/a",
+        "originalText": "You will encounter... ::wheeze:: moderate to heavy resistance down there. I would prefer if y-::coughs::... if you could liberate her with no casualties on either side... ::wheeze:: but if you do engage in conflict... ::wheeze:: make sure you leave no witnesses.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1103,
+        "description": "n/a",
+        "originalText": "Do you think you... ::wheeze:: would be able to do this?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1110,
+        "description": "n/a",
+        "originalText": "context.npc_abram_rejectedPetDeliveryMission",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1113,
+        "description": "n/a",
+        "originalText": "That depends... ::wheeze:: on the quality of the information- ::cough cough::... you provide.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1123,
+        "description": "n/a",
+        "originalText": "::He nods slowly.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1130,
+        "description": "n/a",
+        "originalText": "::He nods slowly.:: Understandable. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1136,
+        "description": "n/a",
+        "originalText": "If this is true... ::He coughs.:: No... ::wheeze:: words are not going to convince me... ::wheeze:: I will travel... ::wheeze:: as soon as my duties... ::wheeze:: allow.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1142,
+        "description": "n/a",
+        "originalText": "What Azif sees when... ::wheeze:: he stares into that thing is... ::coughs:: at best - the glorified history of its creators... ::wheeze:: ...and at worse - a megalomanical fabrication. ::He coughs violently.:: Both are quite common in... ::wheeze:: human history.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1146,
+        "description": "n/a",
+        "originalText": "context.npc_abram_godmenDoubt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1150,
+        "description": "n/a",
+        "originalText": "...current affairs.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1164,
+        "description": "n/a",
+        "originalText": "Even though... ::wheeze:: it's not the most populous station... ::wheeze:: or the most powerful militarily, it's still my belief... ::A violent coughing fit breakes him off.::... it's my belief that it's the strongest... ::wheeze:: overall station in South Underrail. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1171,
+        "description": "n/a",
+        "originalText": "Junkyard is a... ::wheeze:: complex community.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1177,
+        "description": "n/a",
+        "originalText": "It used to be much bigger... ::wheeze:: community during its... ::wheeze:: mining days, but after the mine was flooded... ::wheeze:: many sought their fortune elsewhere. ::He coughs.:: The few inhabitants who were... ::wheeze:: determined to remain turned to hunting.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1183,
+        "description": "n/a",
+        "originalText": "Rail Crossing has the smallest... ::wheeze:: population, the least amount of firepower... ::wheeze:: and only moderate economic influence. ::He clears his throat.:: For that reason many consider it... ::wheeze:: to be the \"weak link\" in the South Underrail's... ::wheeze:: geopolitical network.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1189,
+        "description": "n/a",
+        "originalText": "Foundry is famous and... ::wheeze:: widely respected for its strong heavy industry. ::He coughs.:: It has the only working metallurgical facility... ::wheeze:: in the entire South Underrail. ::He coughs.:: It produces all manner of... ::wheeze:: metal components, including weapon and... ::wheeze:: automaton parts. It's particularly famed for its TiChrome alloy.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1195,
+        "description": "n/a",
+        "originalText": "This is the largest station-state of the South... ::wheeze:: by both population and territory.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".DLCIIC.DLCIIC",
+        "objectId": 1198,
+        "description": "n/a",
+        "originalText": "xpbl",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1202,
+        "description": "n/a",
+        "originalText": "The Rig: A Black Eel-controlled... ::wheeze:: platform, located just north of the Scrappy Narrow, at the southern edge of... ::wheeze:: Core Ring. Its construction began ::wheeze:: in the time when Biocorp's downfall was still reverberating, some fourteen years ago, and it became fully operational in two years... ::wheeze:: although it has been expanded since.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1208,
+        "description": "n/a",
+        "originalText": "The Protectorate is a military organization... ::wheeze:: formed some seventeen to eighteen years ago in North Underrail... ::wheeze:: under the leadership of General Melek. ::He coughs.:: He united and trained the local gangs into... ::wheeze:: a para-military force that eventually became an army.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1211,
+        "description": "n/a",
+        "originalText": "context.faction_knowFreeDrones",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1215,
+        "description": "n/a",
+        "originalText": "Free Drones movement has been around... ::wheeze:: for a long time up north, but it's a relatively novel thing... ::wheeze:: in these parts. Basically, they are a group of anarchists... ::wheeze:: whose main goal is to fight back the Protectorate expansionism.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1221,
+        "description": "n/a",
+        "originalText": "We do not know much about the Faceless. ::He coughs.:: Their origins, numbers, practices and... ::wheeze:: motives are well hidden from the outsiders. Information I have... ::wheeze:: is not solid enough to be shared yet and I do not wish to... ::wheeze:: perpetuate baseless tell tales.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1228,
+        "description": "n/a",
+        "originalText": "Institute of Tchort is an... ::wheeze:: interesting organization indeed. Depending on the perspective, you'll either... ::wheeze:: hear it being defined as a benevolent research institution, or a brainwashing religious cult. The truth is... ::wheeze:: a bit more complicated than that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1234,
+        "description": "n/a",
+        "originalText": "::He wheezes through his mask.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 1237,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1241,
+        "description": "n/a",
+        "originalText": "You do not want to find yourself... ::wheeze:: on the Protectorate's most wanted list.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1247,
+        "description": "n/a",
+        "originalText": "I can do that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1251,
+        "description": "n/a",
+        "originalText": "What's the pay?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1255,
+        "description": "n/a",
+        "originalText": "Too risky. I'll pass.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1259,
+        "description": "n/a",
+        "originalText": "Alright, agreed. Ask your questions.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1263,
+        "description": "n/a",
+        "originalText": "Forget it. I don't think this will be worth my while.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1266,
+        "description": "n/a",
+        "originalText": "How many men... ::wheeze:: are guarding the entrance to... ::wheeze:: the embassy courtyard once you get past... ::wheeze:: the gate?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 1274,
+        "description": "n/a",
+        "originalText": "tempcontext.answerMod",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1276,
+        "description": "n/a",
+        "originalText": "context.npc_abram_agreedToAnswerEmbassyQuestions",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1279,
+        "description": "n/a",
+        "originalText": "Leave me then... ::wheeze:: and forget this conversation ever took place.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1283,
+        "description": "n/a",
+        "originalText": "context.npc_abram_rejectedToSpyEmbassy",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1287,
+        "description": "n/a",
+        "originalText": "I must... ::wheeze:: see it for myself.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1293,
+        "description": "n/a",
+        "originalText": "Alright, have it your way.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1297,
+        "description": "n/a",
+        "originalText": "Can't hurt to try, right? Well, I guess, technically it could, but it's still worth a shot, right?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1301,
+        "description": "n/a",
+        "originalText": "It's located far south... ::wheeze:: which makes it hard for the Protectorate to... ::wheeze:: exercise significant pressure onto it.... ::He coughs.:: ...despite their Junkyard outpost.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1309,
+        "description": "n/a",
+        "originalText": "::He coughs.:: Until recently it's been run by... ::wheeze:: two rivaling gangs... ::wheeze:: Black Eels and Scrappers... ::wheeze:: but recently the former managed to wipe out the latter... ::wheeze:: with a little help from ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1315,
+        "description": "n/a",
+        "originalText": "It's run by two rivaling gangs... ::wheeze:: Black Eels and Scrappers. ::He coughs violently.:: The former control the docks... ::wheeze:: while the latter control Depot A... ::wheeze:: also known as Old Junkyard... ::wheeze:: the biggest scavenger's playground.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1321,
+        "description": "n/a",
+        "originalText": "Today... ::wheeze:: Camp Hathor is a major... ::wheeze:: supplier of meat and leather and it has... ::wheeze:: good trade relations with all other stations.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1328,
+        "description": "n/a",
+        "originalText": "The recent attack of the Faceless... ::wheeze:: didn't help much to improve any of the above either.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1334,
+        "description": "n/a",
+        "originalText": "It covers the entire... ::wheeze:: South Underrail market with these and also... ::wheeze:: exports heavily to northern regions.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1340,
+        "description": "n/a",
+        "originalText": "Core City used to be Biocorp's... ::wheeze:: main urban hub that housed a number of R&D... ::wheeze:: sectors. ::He coughs violently and clears his throat.:: Following the Protectorate's takeover of Biocorp up north... ::wheeze:: the elements of discontent in the Core City's hierarchy... ::wheeze:: used the opportunity to stage a revolt.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1346,
+        "description": "n/a",
+        "originalText": "The Black Eels have built it... ::wheeze:: in order to gain control of the waterways, its traffic and trade, as well as to suppress the ever-rampant piracy, an objective... ::wheeze:: they've been both successful and unsuccessful depending on the time period. The Rig itself is a strategically-located and heavily-defended position, littered with auto-turrets and its perimeter patrolled by the numerous... ::wheeze:: armed jetters; it is no mystery as to why the Eels are the primary... ::wheeze:: opposition to the pirate menace. ::wheeze::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1352,
+        "description": "n/a",
+        "originalText": "He used this army to... ::wheeze:: overtake Biocorp facilities in the north... ::wheeze:: which then granted them access to the technology they needed... ::wheeze:: as well as educated scientists and engineers who knew how to make use of it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1358,
+        "description": "n/a",
+        "originalText": "Depending on who you speak to... ::wheeze:: they offer different reasons for doing this... ::wheeze:: but the most common include the distrust of the Protectorate and... ::wheeze:: \"historically proven\" inherit evil of imperialism or any type of... ::wheeze:: great nation state.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1364,
+        "description": "n/a",
+        "originalText": "I will give you some advice, though... ::wheeze:: as I have encountered their groups in the past... ::wheeze:: even before this whole mess with Core City invasion started.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1367,
+        "description": "n/a",
+        "originalText": "context.loc_cc_knowTchortists",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1371,
+        "description": "n/a",
+        "originalText": "Tchortists revere, or worship a being they refer to as... ::wheeze:: Tchort. According to their claims, it is an actual, living organism which resides in Deep Caverns... ::wheeze:: and is of such paramount importance to the advancement of humankind as to warrant such dedication to it. ::He coughs violently.:: It was discovered by a man who calls himself Eidein, who is the founder of the organization.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1377,
+        "description": "n/a",
+        "originalText": "So... ::wheeze:: what do you say?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1383,
+        "description": "n/a",
+        "originalText": "::He coughs violently.:: Excellent... ::wheeze:: once you've done it... ::wheeze:: I will pay you five hundred charons.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1388,
+        "description": "n/a",
+        "originalText": "It's... ::wheeze:: five hundred charons. So what do you say... ::wheeze:: you up for it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1396,
+        "description": "n/a",
+        "originalText": "I saw only one.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1402,
+        "description": "n/a",
+        "originalText": "::[Perception]:: One and there was another in an adjacent room.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1408,
+        "description": "n/a",
+        "originalText": "One and there was another in an adjacent room.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1413,
+        "description": "n/a",
+        "originalText": "A couple of them, I'm not sure.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1416,
+        "description": "n/a",
+        "originalText": "::He coughs violently.:: Leave me.... ::wheeze:: for the moment... ::wheeze:: I must think...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1423,
+        "description": "n/a",
+        "originalText": "::For a while he just stands there wheezing through his mask, bright green lenses of his goggles pointed at you. There's no telling what is going on in his mind right now.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1429,
+        "description": "n/a",
+        "originalText": "Many ex-Biocorp members.... ::wheeze:: some of which we suspect were very highly.... ::wheeze:: ranked within their previous organization... ::wheeze:: as well as many battle-hardened... ::coughs:: ex-gang members... ::wheeze:: made it their home. These are people with the know-how... ::wheeze:: gear... ::coughs:: and connections. Able and... ::wheeze:: dangerous people.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1432,
+        "description": "n/a",
+        "originalText": "context.quest_jyeelsAttack_movedOut",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1437,
+        "description": "n/a",
+        "originalText": "SGS.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1443,
+        "description": "n/a",
+        "originalText": "the Protectorate.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1450,
+        "description": "n/a",
+        "originalText": "Apart from being an important... ::wheeze:: trading hub due to the fact that no goods are... ::wheeze:: contraband there, it also serves as a demilitarized border.... ::wheeze:: between SGS and the Protectorate as neither are allowed to deploy \u201carmed groups\u201d there.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1456,
+        "description": "n/a",
+        "originalText": "It's a remote place that has little... ::wheeze:: in the way of valuables aside from experienced hunters... ::wheeze:: so it makes it an unattractive target for raiders or... ::wheeze:: other major factions.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1465,
+        "description": "n/a",
+        "originalText": "Following this, as I predicted... ::wheeze:: Rail Crossing could not stand... ::wheeze:: the outside pressure from the savage elements... ::wheeze:: such as nearby Ironheads gang. ::He coughs violently.:: They had to turn to Protectorate for help.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1471,
+        "description": "n/a",
+        "originalText": "I predict that in the near future... ::wheeze:: Rail Crossing will no longer be able to... ::wheeze:: withstand the outside pressure from savage elements... ::wheeze:: such as nearby Ironheads gang... ::He coughs violently.:: It will have to seek aid. Logical solution for them would be... ::wheeze:: the integration into United Stations.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1477,
+        "description": "n/a",
+        "originalText": "Foundry also ranks... ::wheeze:: as the safest of all places... ::wheeze:: in South Underrail, and perhaps the entire Underrail... ::A violent coughing fit interrupts him.:: ...when it comes to outside threats. This is due to... ::wheeze:: the station being heavily fortified and... ::wheeze:: their guards highly trained, well equipped... ::wheeze:: and numerous. Their troops are also... ::wheeze:: battle-hardened due to their frequent... ::wheeze:: skirmishes with their hated enemies... ::He coughs:: ...the Ironheads.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1483,
+        "description": "n/a",
+        "originalText": "This revolt was led by... ::wheeze:: second-in-command of the Core City security forces... ::wheeze:: Archibald Knight, who was later joined in this fight by... ::wheeze:: Rupert Simmons, one of the higher ranking Biocorp... ::wheeze:: technocrats.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1489,
+        "description": "n/a",
+        "originalText": "Another interesting aspect of The Rig is its tavern, the popular... ::wheeze:: stop - or destination - of all who sail between the Chancer's Bay and the Core Ring, be they ferrymen, civilians, gangsters or Protectorate marines. It is indeed a busy place that earns the Eels plenty of... ::wheeze:: coin, it in tandem with the jet ski shop located right next to it. ::wheeze::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1495,
+        "description": "n/a",
+        "originalText": "Following that... ::wheeze:: the Protectorate moved to create United Stations... ::wheeze:: a federation of station-states... ::wheeze:: some of which who joined willingly... ::wheeze:: others who were coerced militarily or just simply conquered.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1503,
+        "description": "n/a",
+        "originalText": "Most of them would prefer... ::wheeze:: our metro system to be a set of small... ::wheeze:: independent communities that cooperate peacefully in such things as trade... ::wheeze:: and technology.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1509,
+        "description": "n/a",
+        "originalText": "Avoid the small groups... ::wheeze:: they are usually very focused on a certain task and often quite hostile. ::He coughs.:: The big groups on the other hand tend to... ::wheeze:: tolerate strangers in their vicinity as long as you don't interfere with them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1515,
+        "description": "n/a",
+        "originalText": "As a former Biocorp scientist of - to us - unknown status, he was able to... ::wheeze:: surface to the top of University's hierarchy after his discovery, and take full control of it. Thus, Institute of Tchort was... ::wheeze:: born. One century ago.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1529,
+        "description": "n/a",
+        "originalText": "::He slowly reaches into one of his overcoat pockets with both of his hands and removes something. He holds it between his palms and brings it close to his mask. You are not sure what it is, but you can make out small insect-like legs protruding from the sides.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1535,
+        "description": "n/a",
+        "originalText": "I'm in.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1539,
+        "description": "n/a",
+        "originalText": "Not worth risking my skin for that. I'll pass.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1542,
+        "description": "n/a",
+        "originalText": "Were you allowed to... ::wheeze:: enter the courtyard?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 1549,
+        "description": "n/a",
+        "originalText": "tempcontext.answerMod",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 1552,
+        "description": "n/a",
+        "originalText": "tempcontext.answerMod",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 1554,
+        "description": "n/a",
+        "originalText": "tempcontext.answerMod",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1558,
+        "description": "n/a",
+        "originalText": "::After a while, he reaches for his goggles and pulls them up onto his forehead, revealing a pair of milky white eyes with pupils so contracted it makes him appear blind.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1562,
+        "description": "n/a",
+        "originalText": "context.npc_abram_showedFace",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1566,
+        "description": "n/a",
+        "originalText": "SGS has close ties with... ::wheeze:: Junkyard and Camp Hathor... ::wheeze:: both of which rely on... ::coughs:: SGS's access to the Lower Underrail metro network for... ::wheeze:: trading.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1569,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_gotSgsSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1574,
+        "description": "n/a",
+        "originalText": "In the past... ::wheeze:: Black Eels used to be very... ::wheeze:: chaotic and opportunistic and didn't give much thought to... ::wheeze:: long-term planning. ::He coughs.:: It will be interesting to see if... ::wheeze:: that has changed after the recent power grab.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1580,
+        "description": "n/a",
+        "originalText": "Black Eels and Scrappers politics... ::wheeze:: are barely politics at all. ::He coughs.:: Both factions are very... ::wheeze:: chaotic and opportunistic... ::wheeze:: with everyone involved focusing almost exclusively on... ::wheeze:: quick profit without much thought being given to... ::wheeze:: long-term planning.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1586,
+        "description": "n/a",
+        "originalText": "It has very good relations with... ::wheeze:: SGS on whose metro access it relies for... ::wheeze:: delivering goods to other stations.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1589,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1595,
+        "description": "n/a",
+        "originalText": "Unfortunately for them... ::wheeze:: the delivery of this \u201caid\u201d... ::wheeze:: whatever it might be... ::wheeze:: was interfered with. ::He coughs.:: Presumably by Free Drones. If the Protectorate and Drones... ::wheeze:: start butting heads over it, I'm afraid Rail Crossing community is in for a... ::wheeze:: bumpy ride. ::He coughs.:: Assuming, of course... ::wheeze:: the Ironheads don't run it over in the meantime.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1602,
+        "description": "n/a",
+        "originalText": "According to our reports... ::wheeze:: some form of aid was dispatched to Rail Crossing... ::wheeze:: but there were delays. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1608,
+        "description": "n/a",
+        "originalText": "There's willingness... ::wheeze:: on the Protectorate side to assist Rail Crossing... ::wheeze:: in exchange for certain \"mandates\"... ::wheeze:: and it is my understanding that some aid has been sent. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1614,
+        "description": "n/a",
+        "originalText": "Any other place... ::wheeze:: or faction you'd like to hear about?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1620,
+        "description": "n/a",
+        "originalText": "Citizens of Foundry are... ::wheeze:: quite wealthy in comparison to other Southerners... ::wheeze:: and enjoy certain social benefits rarely seen in other places... ::wheeze:: such as life insurance, free health-care, and... ::wheeze:: pensions.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1626,
+        "description": "n/a",
+        "originalText": "The revolt was successful... ::wheeze:: but eventually led to further infighting between Simmons'... ::wheeze:: newly established company - Coretech, and... ::wheeze:: Knight's group - Praetorian Security. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1633,
+        "description": "n/a",
+        "originalText": "Recently, ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1639,
+        "description": "n/a",
+        "originalText": "While officially the United Station is... ::wheeze:: governed by a council... ::wheeze:: a special place on that council is reserved for... ::wheeze:: the Protectorate's High Commander and all the major decisions always require his approval... ::wheeze:: be it official or unofficial.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1646,
+        "description": "n/a",
+        "originalText": "Though the movement is very young here in the South... ::wheeze:: and their numbers are not great... ::wheeze:: they already had stunning success in fighting back the Protectorate. ::He coughs.:: They managed to launch a sneak attack on... ::wheeze:: South Railroad Outpost, so devastating that they... ::wheeze:: wiped out the Protectorate soldiers there and took the outpost for themselves... ::wheeze:: forcing the rest of the Protectorate to hole up in the embassy below.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1653,
+        "description": "n/a",
+        "originalText": "Unfortunately for them... ::wheeze:: the movement never really kicked off here in the South and... ::wheeze:: according to the newest reports, their main hideout got hit hard recently... ::wheeze:: and most of those who were there at the time are now presumed dead... ::wheeze:: or at least - disposed of... ::wheeze:: including the leaders.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1659,
+        "description": "n/a",
+        "originalText": "It's best to just avoid them altogether if possible... ::wheeze:: at least until we can find out more about them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1665,
+        "description": "n/a",
+        "originalText": "Everything I've told you... ::He coughs.:: so far implies it is nothing other than a mere cult, justifying the second definition. However, as surprising... ::wheeze:: as it may be, the first one holds equals truth as the second. ::He coughs violently.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1674,
+        "description": "n/a",
+        "originalText": "I'll do it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1680,
+        "description": "n/a",
+        "originalText": "What's the pay?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1685,
+        "description": "n/a",
+        "originalText": "I'll pass. Sounds too risky.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1689,
+        "description": "n/a",
+        "originalText": "::He holds it there as if speaking to it, but no sound comes from either of them. He reaches over and grabs your arm with one hand and lets the creature grapple onto you. You can now clearly see it's a tiny burrower spawn.::\r\n\r\n::Abram's long bony fingers and the creature's tiny legs both feel equally disgusting on your arms.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1695,
+        "description": "n/a",
+        "originalText": "::He coughs violently.:: Excellent.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1701,
+        "description": "n/a",
+        "originalText": "Yes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1706,
+        "description": "n/a",
+        "originalText": "No.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1710,
+        "description": "n/a",
+        "originalText": "::Before you can say anything, he continues by unzipping the high collar of his overcoat and pulling his mask down.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1716,
+        "description": "n/a",
+        "originalText": "On the topic of... ::He coughs violently.:: On the topic of... ::wheeze:: United Stations integration, the leadership of SGS is split. There are people that believe that the movement itself could usher a new age of prosperity in which SGS could play significant role. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1719,
+        "description": "n/a",
+        "originalText": "context.quest_jyeelsAttack_movedOut",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1729,
+        "description": "n/a",
+        "originalText": "context.faction_knowFreeDrones",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1730,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b31_clifton_WeWillTakeCareOfIt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1734,
+        "description": "n/a",
+        "originalText": "It is left to be seen whether or not... ::wheeze:: this will be enough to keep Rail Crossing alive and... ::wheeze:: if this will lead to eventual integration into United Stations.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1740,
+        "description": "n/a",
+        "originalText": "Despite all this... ::wheeze:: Foundry is not a good place to live. ::He coughs.:: The pollution levels are... ::wheeze:: off the charts and working conditions are quite hazardous. ::He coughs.:: People die regularly from... ::wheeze:: cancer, heavy metal poisoning, and... ::wheeze:: workplace mishaps.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1746,
+        "description": "n/a",
+        "originalText": "For several years, Core City was... ::wheeze:: in state of chaos as the war between the factions raged. ::He coughs.:: At one point, though... ::wheeze:: as the threat from external organized gangs mounted... ::wheeze:: truce was established. Eventually, this truce turned into long-term peace.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1755,
+        "description": "n/a",
+        "originalText": "however... ::wheeze:: things are looking rather grim for the Black Eels: ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1761,
+        "description": "n/a",
+        "originalText": "the Eels have managed to greatly suppress the pirates. They have done so... ::wheeze::  by acquiring an old Biocorp sonar station... ::wheeze:: which is able to keep track of nearly all vessels in the nearby waterways. They received it from the Protectorate, of course, who probably dug it out of some ancient naval... ::wheeze:: warehouse and are clearly also benefiting from its... ::wheeze:: installation.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1767,
+        "description": "n/a",
+        "originalText": "Today... ::wheeze:: Protectorate is attempting to expand here in the South as well. ::He coughs.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1770,
+        "description": "n/a",
+        "originalText": "context.loc_b31_clearedProtectorate",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1771,
+        "description": "n/a",
+        "originalText": "context.quest_pr_gasFreeDronesComplete",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1775,
+        "description": "n/a",
+        "originalText": "One century has passed, and Eidein still lives. They put their money where they mouths... ::wheeze:: were. They preached advance through scientific research, most of it ::wheeze:: involving Tchort itself, and during that one century they have established probably one of the safest, most civilized and self-contained communities in Underrail. Granted, they achieved through perfect balance of military might, scientific research and strong... ::wheeze:: emphasis on education, but the foundation indeed lies with Tchort. ::He coughs.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1780,
+        "description": "n/a",
+        "originalText": "You may descend the ladder... ::wheeze:: when ready.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1784,
+        "description": "n/a",
+        "originalText": "context.quest_jyrescueMission_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1786,
+        "description": "n/a",
+        "originalText": "jy_rescueMission",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1789,
+        "description": "n/a",
+        "originalText": "tempcontext.askedAboutRescueMissionPay",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1793,
+        "description": "n/a",
+        "originalText": "::He coughs.:: One thousand charons.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1797,
+        "description": "n/a",
+        "originalText": "tempcontext.askedAboutRescueMissionPay",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1800,
+        "description": "n/a",
+        "originalText": "That is... ::wheeze:: very disappointing. Leave then... ::wheeze:: and forget you ever saw this place.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1804,
+        "description": "n/a",
+        "originalText": "context.npc_abram_rejectedRescueMissionOffer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1808,
+        "description": "n/a",
+        "originalText": "::There is barely time for panic, though. The creature quickly skitters over your arm and torso until it finds a suitable pocket in your clothes to hide in.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1813,
+        "description": "n/a",
+        "originalText": "How many guards did you see there?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1822,
+        "description": "n/a",
+        "originalText": "Were you able to... ::wheeze:: see inside it, at least?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 1828,
+        "description": "n/a",
+        "originalText": "tempcontext.answerMod",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1832,
+        "description": "n/a",
+        "originalText": "::With that action, he reveals a gruesome visage. His lips and the flesh around them have been completely burned off. Through the gaps between his yellow teeth, greenish saliva drips down into the inside of his mask.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1839,
+        "description": "n/a",
+        "originalText": "Others... ::wheeze:: many of who were victims of... ::wheeze:: Protectorate's expansionism in the past or are... ::wheeze:: sought-after by the Protectorate's Central Command... ::He coughs.:: They would rather keep SGS... ::wheeze:: as an independent station.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1842,
+        "description": "n/a",
+        "originalText": "context.lo_lu-b29_trainBlewUp",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1843,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldNoTrainSearch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1847,
+        "description": "n/a",
+        "originalText": "It's ruled by the democratically elected mayor who... ::wheeze:: manages station internal affairs along with... ::wheeze:: independently elected chief of security.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1853,
+        "description": "n/a",
+        "originalText": "An agreement was signed by Simmons and Knight. ::wheeze:: This agreement settled most of the... ::wheeze:: territorial disputes of the time. ::wheeze::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1862,
+        "description": "n/a",
+        "originalText": "The Rig has been assaulted and the Eels residing there completely... ::wheeze:: wiped out. It is unlikely that The Rig will end up being abandoned, extremely... ::wheeze:: unlikely, but this is ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1871,
+        "description": "n/a",
+        "originalText": "The pirates have ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1878,
+        "description": "n/a",
+        "originalText": "Someone - potentially the pirates but one must always... ::wheeze:: be able of looking beyond the obvious - has ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1887,
+        "description": "n/a",
+        "originalText": "In the recent past they managed to... ::wheeze:: restore and occupy a metro station in the south... ::wheeze:: now called South Railroad Outpost... ::wheeze:: or SRO for short. They used this to set themselves up... ::wheeze:: an embassy in Junkyard. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1894,
+        "description": "n/a",
+        "originalText": "They harm no one, and no one harms them. ::He coughs.:: Their exposure to the rest of Underrail was recent, mainly... ::wheeze:: due to a medical trade agreement with Core City, which in turn allowed them to freely spread their ideology in the city. Nowadays, one can see lines of people at the Institute gate... ::wheeze:: waiting to be let inside and start a better life. What reality awaits them inside, few know. ::He coughs.:: How was Eidein able to prolong his life so, that too is a mystery. Is it the power of Tchort, or something else?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".UOP.UOP:A",
+        "objectId": 1898,
+        "description": "n/a",
+        "originalText": "jyt5",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1912,
+        "description": "n/a",
+        "originalText": "Remember... ::coughs:: you must release it near a ventilation shaft... ::wheeze:: It will find its way onwards from there. ::He lets go of your arm.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1920,
+        "description": "n/a",
+        "originalText": "Two or three.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1926,
+        "description": "n/a",
+        "originalText": "::[Perception]:: Two or three.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1930,
+        "description": "n/a",
+        "originalText": "A couple of them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1934,
+        "description": "n/a",
+        "originalText": "There were no guards in the courtyard.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1938,
+        "description": "n/a",
+        "originalText": "Yes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1942,
+        "description": "n/a",
+        "originalText": "No.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1946,
+        "description": "n/a",
+        "originalText": "::As he opens his mouth a sickening acrid smell wafts forward. For a moment it seems like he's about to speak, but the look on your face must have changed his mind, making him laugh.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1953,
+        "description": "n/a",
+        "originalText": "It is also no secret that recently... ::wheeze:: SGS took part in an... ::wheeze:: offensive organized by Black Eels... ::wheeze:: that resulted in destruction of the rival gang... ::coughs:: the Scrappers. Without a doubt this put... ::wheeze:: a damper on Protectorate's plans for Junkyard. ::He coughs.:: It will be interesting to see what their response will be.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1959,
+        "description": "n/a",
+        "originalText": "They adopted isolationist political... ::wheeze:: philosophy where they do not meddle... ::wheeze:: in affairs of others or take part in... ::wheeze:: inter-station events, but also reject all... ::He coughs.:: ...all attempts by other stations to... ::wheeze:: influence them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1965,
+        "description": "n/a",
+        "originalText": "There was, however... ::wheeze:: still a lot of bad blood between the members of these factions... ::wheeze:: due to years of very brutal civil war. ::He clears his throat.:: In order to vent the frustrations... ::wheeze:: an arena was created... or rather it came about on its own... ::wheeze:: an arena where people went to... settle their disputes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1968,
+        "description": "n/a",
+        "originalText": "context.loc_xpbl_rig_sonarDestroyed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1969,
+        "description": "n/a",
+        "originalText": "context.loc_rig_blackEels_wipedOut",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1970,
+        "description": "n/a",
+        "originalText": "context.loc_rig_blackEels_wipedOut",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1974,
+        "description": "n/a",
+        "originalText": "certainly nothing short of a debilitating blow... ::wheeze:: to the Eels.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1977,
+        "description": "n/a",
+        "originalText": "context.quests_xpbl_pirates_theRig_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1982,
+        "description": "n/a",
+        "originalText": "carried out an assault and destroyed ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1989,
+        "description": "n/a",
+        "originalText": "attacked The Rig and destroyed ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1995,
+        "description": "n/a",
+        "originalText": "managed to infiltrate The Rig and destroy ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2002,
+        "description": "n/a",
+        "originalText": "They've had multiple... ::wheeze:: setbacks in recent days, though.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2009,
+        "description": "n/a",
+        "originalText": "They had a major... ::wheeze:: setback recently, though.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2016,
+        "description": "n/a",
+        "originalText": "However... ::wheeze:: SGS took part in the offensive organized by Black Eels which... ::wheeze:: removed the Scrappers from the map. This significantly changed... ::wheeze:: the political and power landscape in Junkyard and severely undermines... ::wheeze:: the chances of any type of integration into United Stations.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2022,
+        "description": "n/a",
+        "originalText": "We'll see what road they will take... ::wheeze:: in their attempts to integrate the Junkyard. ::He coughs.:: I assume that they will attempt to leverage... ::wheeze:: the support from the residents of the lower class... ::wheeze:: who'd be more than happy to see the two ruthless gangs... ::wheeze:: replaced by a faction that at least has a concept of civil rights.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2029,
+        "description": "n/a",
+        "originalText": "With all that said, the Institute has fallen silent, its... ::wheeze:: gates closed. Something happened inside, of which we weren't informed. Protectorate troops have occupied the area. Should the Tchortists emerge, however, I'm afraid... ::wheeze:: the result of that encounter might not be... ::wheeze:: a peaceful one.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2035,
+        "description": "n/a",
+        "originalText": "They... ::wheeze:: are interesting. One should be careful with the Institute, but one could also learn much from them. ::He coughs.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 2042,
+        "description": "n/a",
+        "originalText": "jy_petDelivery",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2044,
+        "description": "n/a",
+        "originalText": "context.quest_jypetDelivery_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2048,
+        "description": "n/a",
+        "originalText": "Were there any guards... ::wheeze:: in the embassy offices?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 2056,
+        "description": "n/a",
+        "originalText": "tempcontext.answerMod",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 2059,
+        "description": "n/a",
+        "originalText": "tempcontext.answerMod",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2062,
+        "description": "n/a",
+        "originalText": "Did you see-- ::cough, cough:: or hear any dogs... ::wheeze:: anywhere on the embassy grounds?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2071,
+        "description": "n/a",
+        "originalText": "::A slow deep laugh of malevolent amusement, as if he's mocking both his own disfigurement and your shock.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2079,
+        "description": "n/a",
+        "originalText": "They do not hide their... ::wheeze:: distrust of the Protectorate, but are willing to... ::wheeze:: do business with them just as much as with any other station. ::He coughs.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2085,
+        "description": "n/a",
+        "originalText": "In time this arena grew... ::wheeze:: and became quite an attraction. Then, a powerful businessman, Gunnar Edstrom, arrived from the east... ::wheeze:: from the far east. Late, true, but it turned out late was just right. His newly-formed... ::wheeze:: company, JKK, joined in the blood sport business, complementing all previous efforts, and with that finally turned... ::wheeze:: the Arena into the tourist hotspot that it is now. Thus, the Oligarchy... ::wheeze:: was born.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2088,
+        "description": "n/a",
+        "originalText": "context.quests_xpbl_pirates_theRig_partyDocksAtRig",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2092,
+        "description": "n/a",
+        "originalText": "an old... ::wheeze:: Biocorp sonar station the Eels have acquired from Protectorate and used to counter Grim Jetters' raids. Whatever happens next, this occurence  ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2096,
+        "description": "n/a",
+        "originalText": "context.loc_xpbl_rig_attacked",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2105,
+        "description": "n/a",
+        "originalText": "They lost control of SRO when... ::wheeze:: Free Drones launched a sneak attack and their remaining forces... ::wheeze:: are now holed up in the embassy... ::wheeze:: with little chance of being reinforced. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2108,
+        "description": "n/a",
+        "originalText": "context.loc_b31_clearedProtectorate",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2111,
+        "description": "n/a",
+        "originalText": "context.loc_tch_invasionStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2119,
+        "description": "n/a",
+        "originalText": "Yes, at least one.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2124,
+        "description": "n/a",
+        "originalText": "::[Perception]:: Yes, at least one.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2128,
+        "description": "n/a",
+        "originalText": "No, none.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2133,
+        "description": "n/a",
+        "originalText": "I'm not sure.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2138,
+        "description": "n/a",
+        "originalText": "Yeah, there were a couple of dogs.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2144,
+        "description": "n/a",
+        "originalText": "No, I saw no dogs.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2150,
+        "description": "n/a",
+        "originalText": "::[Perception]:: No, I saw no dogs.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2154,
+        "description": "n/a",
+        "originalText": "::As the laugh breaks out into a violent coughing fit, he decides the show is over and he pulls his mask and goggles back into place.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2157,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_gotSgsSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2158,
+        "description": "n/a",
+        "originalText": "context.quest_jyeelsAttack_movedOut",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2162,
+        "description": "n/a",
+        "originalText": "Concerning the three factions today... ::wheeze:: they still compete against each other... ::wheeze:: often violently, but their desire to make money through the Arena... ::wheeze:: and trade overrides their desires to kill each other... ::wheeze:: and reigns in any ambitions to become sole rulers of the city.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2167,
+        "description": "n/a",
+        "originalText": "context.loc_b31_clearedProtectorate",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2172,
+        "description": "n/a",
+        "originalText": "As if that wasn't bad enough... ::wheeze:: SGS took part in the offensive organized by Black Eels... ::wheeze:: which removed the Scrappers from the map. ::He coughs.:: This significantly changed the political... ::wheeze:: and power landscape in Junkyard and severely undermines the chances... ::wheeze:: of any type of integration into United Stations.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2179,
+        "description": "n/a",
+        "originalText": "::He coughs.:: Despite the fact that the Protectorate took part in... ::wheeze:: the offensive organized by Black Eels which... ::wheeze:: removed the Scrappers from the map... ::He coughs violently.:: ...I doubt they will be in any position to exert further pressure on Junkyard.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2185,
+        "description": "n/a",
+        "originalText": "If the Protectorate doesn't find a way... ::wheeze:: to support their outpost in Junkyard... ::wheeze:: I predict they will soon have to abandon it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2189,
+        "description": "n/a",
+        "originalText": "context.faction_knowFreeDrones",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2190,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_gotSgsSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2191,
+        "description": "n/a",
+        "originalText": "context.quest_jyeelsAttack_movedOut",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 2196,
+        "description": "n/a",
+        "originalText": "tempcontext.answerMod",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2199,
+        "description": "n/a",
+        "originalText": "Any turrets? ::cough cough::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2207,
+        "description": "n/a",
+        "originalText": "context.npc_abram_toldHimEmbassyHasDogs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2210,
+        "description": "n/a",
+        "originalText": "context.npc_abram_toldHimEmbassyHasDogs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2213,
+        "description": "n/a",
+        "originalText": "context.npc_abram_toldHimEmbassyHasDogs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2225,
+        "description": "n/a",
+        "originalText": "There are very significant... ::wheeze:: class divisions in the general populace. ::He coughs.:: A great number of utterly impoverished... ::wheeze:: people occupy a slum called... ::wheeze:: Drop Zone, located on the fringes of the city. ::He coughs.:: Violence and death is commonplace there. Even within the middle class... ::wheeze:: there is a lot of struggle for money and territory and this...::wheeze:: has given rise to many gangs. Unless you are in upper echelons... ::wheeze:: Core City is a dangerous place to live.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2228,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_gotSgsSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2229,
+        "description": "n/a",
+        "originalText": "context.quest_jyeelsAttack_movedOut",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2243,
+        "description": "n/a",
+        "originalText": "::[Perception]:: Yes, two at the entrance.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2249,
+        "description": "n/a",
+        "originalText": "Yes, two at the entrance.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2254,
+        "description": "n/a",
+        "originalText": "No turrets.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2259,
+        "description": "n/a",
+        "originalText": "I'm not sure.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2265,
+        "description": "n/a",
+        "originalText": "::[Intelligence]:: Old Junkyard?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2269,
+        "description": "n/a",
+        "originalText": "What the hell happened to you?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2273,
+        "description": "n/a",
+        "originalText": "Sorry I asked.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2277,
+        "description": "n/a",
+        "originalText": "When it comes to foreign politics... ::wheeze:: status quo is again a preferred option for the... ::wheeze:: ruling class. Core City is in a unique position... ::wheeze:: to be both the only gateway between North and South... ::wheeze:: as well as Lower and Upper Underrail.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2280,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_gotSgsSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2281,
+        "description": "n/a",
+        "originalText": "context.quest_jyeelsAttack_movedOut",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2282,
+        "description": "n/a",
+        "originalText": "context.quest_jygetSupportForEels_gotUSSupport",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2283,
+        "description": "n/a",
+        "originalText": "context.quest_jyeelsAttack_movedOut",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>NEI#-.LIDP:P",
+        "objectId": 2284,
+        "description": "n/a",
+        "originalText": "plot\\abramscyberneticspawn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2288,
+        "description": "n/a",
+        "originalText": "Just one more question... ::wheeze:: are you allowed to go back to the Embassy?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 2294,
+        "description": "n/a",
+        "originalText": "tempcontext.answerMod",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 2297,
+        "description": "n/a",
+        "originalText": "tempcontext.answerMod",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2299,
+        "description": "n/a",
+        "originalText": "tempcontext.answerMod",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2301,
+        "description": "n/a",
+        "originalText": "tempcontext.answerMod",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2306,
+        "description": "n/a",
+        "originalText": "::He nods slowly.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2310,
+        "description": "n/a",
+        "originalText": "context.npc_abram_oldJunkyardConnection",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2314,
+        "description": "n/a",
+        "originalText": "Biocorp... ::wheeze:: happened to me. ::He coughs.:: Surely you've seen this before.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2320,
+        "description": "n/a",
+        "originalText": "I have warned you... ::wheeze:: not to concern yourself... ::wheeze:: with this.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2326,
+        "description": "n/a",
+        "originalText": "They have contracts with Protectorate that... ::wheeze:: allow the latter to maintain certain military presence... ::wheeze:: on the Core City docks, but the flow of troops from the North... ::wheeze:: into their bases in the South is strictly regulated in a way the Oligarchs consider... ::wheeze:: it's necessary in order to prevent the Protectorate from becoming... ::wheeze:: a threat to the city itself.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2333,
+        "description": "n/a",
+        "originalText": "Yes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2338,
+        "description": "n/a",
+        "originalText": "No.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2343,
+        "description": "n/a",
+        "originalText": "Probably shot... ::wheeze:: a couple of other poor bastards... ::wheeze:: during your little excursion into Old... ::He coughs.:: ...Old Junkyard.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2349,
+        "description": "n/a",
+        "originalText": "I am but one... ::wheeze:: curiosity of Oculus. Not all of them are... ::wheeze:: for your eyes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2355,
+        "description": "n/a",
+        "originalText": "How effective these restrictions have been... ::wheeze:: is up for debate. ::He coughs.:: Some argue that the Oligarchs are making a mistake... ::wheeze:: of allowing any troops at all to pass since the Protectorate is... ::wheeze:: establishing production facilities in the South that are capable... ::wheeze:: of arming and outfitting these troops to boost their combat effectiveness... ::wheeze:: well beyond that which was initially estimated.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2363,
+        "description": "n/a",
+        "originalText": "That is all... ::wheeze:: I needed to know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2367,
+        "description": "n/a",
+        "originalText": "context.npc_abram_toldHimYouHaveEmbassyAccess",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2369,
+        "description": "n/a",
+        "originalText": "context.npc_abram_toldHimYouHaveEmbassyAccess",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2373,
+        "description": "n/a",
+        "originalText": "Do no fret. ::He wheezes.:: They were no friends of mine... ::wheeze:: not since they were no longer... ::wheeze:: themselves.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2377,
+        "description": "n/a",
+        "originalText": "context.npc_abram_oldJunkyardConnection",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2381,
+        "description": "n/a",
+        "originalText": "Many also argue that... ::wheeze:: if United Stations are to expand into the South... ::wheeze:: Core City must be the first station to integrate. Without it the Protectorate has little in ways... ::He coughs violently.:: ...little in ways of pressuring those stations... ::wheeze:: further south, since it would suffer from... ::wheeze:: the lack of reliable supply lines. We can see this... ::wheeze:: in the case of Junkyard and SRO.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2389,
+        "description": "n/a",
+        "originalText": "Kareem will give you your... ::wheeze:: money.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2393,
+        "description": "n/a",
+        "originalText": "context.npc_abram_interviewCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2398,
+        "description": "n/a",
+        "originalText": "Be this as it may... ::wheeze:: no offensive actions have yet been taken against Core City or its rulers by the Protectorate... ::wheeze:: and the United Stations politicians have also been quite... ::wheeze:: careful in their political language when talking about potential... ::wheeze:: integration as not to jeopardize current arrangements.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2427,
+        "description": "n/a",
+        "originalText": "These days it seems that... ::wheeze:: the primary threat to Core City are Faceless... ::wheeze:: rather than the Protectorate. At least, that is... ::wheeze:: the popular perception in the city.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 2430,
+        "description": "n/a",
+        "originalText": "tempcontext.answerMod",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2436,
+        "description": "n/a",
+        "originalText": "There is also a way... ::wheeze:: for you to earn more. If you are interested... ::wheeze:: come to me again and we can talk further. ::Coughs violently.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2440,
+        "description": "n/a",
+        "originalText": "context.npc_abram_interviewScore",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 2441,
+        "description": "n/a",
+        "originalText": "tempcontext.answerMod",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2444,
+        "description": "n/a",
+        "originalText": "context.npc_abram_interviewScore",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 2446,
+        "description": "n/a",
+        "originalText": "context.npc_abram_interviewScore",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2450,
+        "description": "n/a",
+        "originalText": "context.npc_abram_willTryRescueMission",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2451,
+        "description": "n/a",
+        "originalText": "context.npc_abram_toldHimEmbassyHasDogs",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2452,
+        "description": "n/a",
+        "originalText": "context.npc_abram_toldHimYouHaveEmbassyAccess",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

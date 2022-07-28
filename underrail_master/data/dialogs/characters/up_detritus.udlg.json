@@ -1,0 +1,733 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 46,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 47,
+        "description": "n/a",
+        "originalText": "detritus",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 48,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 52,
+        "description": "n/a",
+        "originalText": "So long, $(context.player.Name). I hope we see each other soon.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 59,
+        "description": "n/a",
+        "originalText": "::You see Detritus long before he sees you. His eyes are busy dancing all over the main hall, absorbing everything they see and transforming his face into one large smile which seems like it won't fade anytime soon.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 67,
+        "description": "n/a",
+        "originalText": "::You approach a young man standing next to a barrel full of boiling soup which doesn't smell nearly as life-threatening as it looks. He wears old, worn-out but clean clothes that look like they would easily disintegrate should he stand next to a passing train. His physique, on the other hand, is much more solid: Handsome, with a burly body covered in clear, uniformly toned skin. That combined with his unusually milky-white teeth makes him look like he was created to simply stand still and look good; his callused and heavily scarred hands, however, imply the opposite.::\r\n\r\nHey... Need somethin'?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 76,
+        "description": "n/a",
+        "originalText": "Hello again.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 79,
+        "description": "n/a",
+        "originalText": "context.npc_up_detritus_talkedInside",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 83,
+        "description": "n/a",
+        "originalText": "context.npc_up_detritus_talkedInside",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 87,
+        "description": "n/a",
+        "originalText": "Admiring the hall, I see.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 91,
+        "description": "n/a",
+        "originalText": "Hey, Detritus, how's it going?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 92,
+        "description": "n/a",
+        "originalText": "context,npc_up_detritus_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 97,
+        "description": "n/a",
+        "originalText": "Hello. I'm $(context.player.Name) and I had some questions, if you have the time.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 103,
+        "description": "n/a",
+        "originalText": "Hey, good looking! I'm $(context.player.Name). Interested in a little chat?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 106,
+        "description": "n/a",
+        "originalText": "::Leave him alone.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 119,
+        "description": "n/a",
+        "originalText": "tch-mainhall",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 120,
+        "description": "n/a",
+        "originalText": "context.npc_up_detritus_talkedInside",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 123,
+        "description": "n/a",
+        "originalText": "::He lowers his eyes to meet yours.::\r\n\r\nThis. place. *dominates!* I'm speechless.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 131,
+        "description": "n/a",
+        "originalText": "Nice to meet you, $(context.player.Name). I'm Detritus.\r\n\r\nI got nothin' better to do anyway. What did you wanna ask?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 135,
+        "description": "n/a",
+        "originalText": "context,npc_up_detritus_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 140,
+        "description": "n/a",
+        "originalText": "I can't say no. ::He smiles.:: I'm Detritus, and it's a pleasure to meet you, $(context.player.Name).\r\n\r\nWhat did you want to chat about?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 144,
+        "description": "n/a",
+        "originalText": "context,npc_up_detritus_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 148,
+        "description": "n/a",
+        "originalText": "What can you tell me about yourself?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 153,
+        "description": "n/a",
+        "originalText": "Someone at Institute of Tchort is interested in the fact that you survived that Drop Zone plague.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 158,
+        "description": "n/a",
+        "originalText": "Why are you here and what do you know about this place?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 163,
+        "description": "n/a",
+        "originalText": "What do you know about Tchortists?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 168,
+        "description": "n/a",
+        "originalText": "Who's the derailed geezer outside?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 174,
+        "description": "n/a",
+        "originalText": "Did you perhaps see any of the Tchortists carrying a strange artifact? It looks like a twenty-sided polyhedron.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 177,
+        "description": "n/a",
+        "originalText": "Goodbye, Detritus.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 181,
+        "description": "n/a",
+        "originalText": "It definitely beats Drop Zone, doesn't it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 185,
+        "description": "n/a",
+        "originalText": "Don't get too attached, you probably won't stay here for too long.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 189,
+        "description": "n/a",
+        "originalText": "::At first he seems a bit uneasy about the question, but then decides to answer it.:: I, well, I... I'm a simple zoner from Core City who's searchin' for something better in life. Heard of Drop Zone? I lived there my whole life. Awful place to live in. Awful people, awful food - if you can get your hands on some! And in general - it's awful!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 199,
+        "description": "n/a",
+        "originalText": "::He seems surprised by your statement.:: Interested? Why?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 206,
+        "description": "n/a",
+        "originalText": "This is the Institute of Tchort. The place where Tchortists live and... do whatever they do. I went to one of their lectures in Core City; it sounded hardcore even though I didn't understand half of it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 210,
+        "description": "n/a",
+        "originalText": "context.loc_cc_knowTchortists",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 211,
+        "description": "n/a",
+        "originalText": "context.loc_cc_knowTchortists",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 215,
+        "description": "n/a",
+        "originalText": "Tchortists might look like a religious cult, but they are all about science. Now, I'm not a knowledgeable fellow, so a lot of the hardcore science stuff is beyond me. But the core idea is that we're all somehow connected to this Tchort creature.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 218,
+        "description": "n/a",
+        "originalText": "context.npc_up_what_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 222,
+        "description": "n/a",
+        "originalText": "Oh... ignore that stinker. He ain't right in the head. He walks around and scares people with his filthy gaping mouth. The only thing he ever says is \"what?\"... Just that and nothin' else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 230,
+        "description": "n/a",
+        "originalText": "I don't know anythin' about any po-li-hadrons and all that hardcore stuff. I'm just a simple zoner who minds his own business.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 234,
+        "description": "n/a",
+        "originalText": "context.npc_up_detritus_askCube",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 237,
+        "description": "n/a",
+        "originalText": "::He laughs.:: It sure does! Hey, I don't know if you've been told, but they're goin' to take me to Tchort!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 244,
+        "description": "n/a",
+        "originalText": "About that - Tchortists are gonna to take me down to Tchort.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 250,
+        "description": "n/a",
+        "originalText": "context.loc_cc_knowDropZone",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 254,
+        "description": "n/a",
+        "originalText": "Was there anything good about the Zone for you?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 258,
+        "description": "n/a",
+        "originalText": "I understand, no wonder you left.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 259,
+        "description": "n/a",
+        "originalText": "context.quests_tch_rista_findHealthStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 260,
+        "description": "n/a",
+        "originalText": "context.npc_up_detrius_convinceHimToJoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 261,
+        "description": "n/a",
+        "originalText": "context.npc_up_detritus_tellsAboutSurvivingPlague",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 265,
+        "description": "n/a",
+        "originalText": "Because you're special: You survived the plague despite the fact that it killed everyone from your family. It could be something genetic for all we know!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 269,
+        "description": "n/a",
+        "originalText": "Any way you look at it, it seems a lot better than the Zone... ::He looks at you after a brief pause.:: So I came here to try my luck, yeah. Maybe there's a better life waitin' for me behind that heavy gate.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 275,
+        "description": "n/a",
+        "originalText": "It has similar DNA to us and it can do some amazin' stuff, like regenerate and live forever, adapt to anythin'... somethin' like that. What's most hardcore is that they, Tchortists, want to use the knowledge gained from Tchort to improve us, I mean, allow us to one day go to the Surface and survive there!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 280,
+        "description": "n/a",
+        "originalText": "He is not violent, or else he would have had his innards splattered all over the floor by rassophores by now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 285,
+        "description": "n/a",
+        "originalText": "context.global_sawTchoristsSnatchCube",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 286,
+        "description": "n/a",
+        "originalText": "context.npc_up_detritus_askCube",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 290,
+        "description": "n/a",
+        "originalText": "Besides, I spend most of the time here and the view is not the best. Maybe other folks can help you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 296,
+        "description": "n/a",
+        "originalText": "Why? I wasn't told anything about you being taken to Tchort.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 300,
+        "description": "n/a",
+        "originalText": "What now?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 304,
+        "description": "n/a",
+        "originalText": "Family, I suppose, nothing else really comes to mind. But the zone enjoys taking away good things from ya. Plague swept my whole family away. Father, Mother, Grandad. Five sisters and two brothers, all of them older than me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 310,
+        "description": "n/a",
+        "originalText": "::He shrugs.:: I mean, I had family there. But the zone enjoys taking away good things from ya, like my family. Plague swept them all away. Father, Mother, Grandad. Five sisters and two brothers, all of them older than me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 315,
+        "description": "n/a",
+        "originalText": "I don't think I'm that special, I don't. ::His voice starts wavering nervously.:: And if it's in my genes - then why did my whole family die? Shouldn't we all have had that resistance if it's, how's it called - hereditary. Besides - what if it turns out that I am not special, then what's gonna happen to me?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 323,
+        "description": "n/a",
+        "originalText": "For more details about Tchortists, better ask some of the smarter people 'round here. I'm sure they'll be able to explain it better than I can.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 329,
+        "description": "n/a",
+        "originalText": "I definitely prefer that to rottin' in that stinky Drop Zone.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 335,
+        "description": "n/a",
+        "originalText": "Rassophores?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 339,
+        "description": "n/a",
+        "originalText": "I had other questions?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 343,
+        "description": "n/a",
+        "originalText": "It's, um... how did they call it... Nucleus. Yeah, somethin' hardcore like that. They took my blood and did some tests, just like you told me they would. It turns out there is something special about me. I don't understand all the details, but the important thing is that they promised to allow me to stay in the Institute for good! Dominatin'!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 348,
+        "description": "n/a",
+        "originalText": "All gone. It is usually easy to lose life in Drop Zone, but that plague... that was pure evil.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 356,
+        "description": "n/a",
+        "originalText": "That I don't know; maybe you were the first with the immunity. You were the youngest of all your siblings, right? Now is not the time to have second thoughts. Do you want to get in Institute of Tchort or not?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 360,
+        "description": "n/a",
+        "originalText": "Stop being such a wimp, Detritus! You came here to join Institute of Tchort - what more do you want!? Here's your lucky chance now - take it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 364,
+        "description": "n/a",
+        "originalText": "That is how the Tchortist soldiers are called, if I understood it correctly. I'm guessin' the word has some hardcore meaning or somethin', 'cause it sounds really weird to my ears.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 370,
+        "description": "n/a",
+        "originalText": "Yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 376,
+        "description": "n/a",
+        "originalText": "Then they told me they need me checked out by some... investigators - is that what they call them? Anyway, these expert investigators are working in Nucleus so they gotta take me down there. 'Cause, well, from how I understand, that's where they also have some of the equipment necessary for further testing, I don't know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 382,
+        "description": "n/a",
+        "originalText": "Plague?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 386,
+        "description": "n/a",
+        "originalText": "That is really sad. How about we change the subject?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 390,
+        "description": "n/a",
+        "originalText": "::He calms down.:: Ahh, pipeworks... Yes, yes... you are right. But, what do they need me for? What I mean is: What will they do to me?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 397,
+        "description": "n/a",
+        "originalText": "Just stay out of their way and you're good.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 402,
+        "description": "n/a",
+        "originalText": "This is all new to me and all, but I'm sure everything is gonna be alright. I'm gonna be learning about Tchortism once I'm back from... Nucleus, right. It's... gonna be hardcore. Everything in this building is hardcore... \r\n\r\nLuck sure took it's time to say hi again. ::He laughs.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 411,
+        "description": "n/a",
+        "originalText": "Yes, a-- a hardcore plague dominated half the Zone several years ago. Not a lot of folks know about the plague, 'cause no one really cares what happens in the Drop Zone. But us zoners - we care. I care. My dearest are gone 'cause of that pipeworkin' plague.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 419,
+        "description": "n/a",
+        "originalText": "::He shrugs.:: Okay.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 423,
+        "description": "n/a",
+        "originalText": "context.npc_up_detrius_convinceHimToJoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 427,
+        "description": "n/a",
+        "originalText": "They are going to perform simple tests. They won't hurt you, so don't worry.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 431,
+        "description": "n/a",
+        "originalText": "How are they going to get you to Deep Caverns?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 435,
+        "description": "n/a",
+        "originalText": "I'm really happy for you. I think Tchortists will treat you pretty nice here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 439,
+        "description": "n/a",
+        "originalText": "Yeah, cool.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 441,
+        "description": "n/a",
+        "originalText": "context.npc_up_detritus_tellsAboutSurvivingPlague",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 445,
+        "description": "n/a",
+        "originalText": "You are lucky to be alive.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 449,
+        "description": "n/a",
+        "originalText": "How did you manage to survive?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 452,
+        "description": "n/a",
+        "originalText": "Alright - count me in. ::He flashes a joyful smile.:: Hardcore, hardcore. I'm as nervous as a caged hopper, but count me in. I'm ready.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 459,
+        "description": "n/a",
+        "originalText": "I don't really know much, but I heard someone mention Eidein and an elevator, and... Wait, why are you asking me this? Aren't you supposed to know that?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 466,
+        "description": "n/a",
+        "originalText": "I have only one more thing to say to you, friend: Thank you. I will never forget this.\r\n\r\nI have to go now, I should be off soon. $(context.player.Name), see you around!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 473,
+        "description": "n/a",
+        "originalText": "Very lucky. And it's exactly that - luck, 'cause I don't have an explanation why death decided to spare me. I mean, I've never been ill in my whole life. Ever. No colds, let alone somethin' more serious.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 480,
+        "description": "n/a",
+        "originalText": "::He shrugs.:: Luck? It must be luck, 'cause I don't have an explanation why death decided to spare me. I mean, I've never been ill in my whole life. Ever. No colds, let alone somethin' more serious.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 486,
+        "description": "n/a",
+        "originalText": "Great, I'll go talk to the Tchortists. Expect someone to come for you soon.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 490,
+        "description": "n/a",
+        "originalText": "I'll go talk to Tchortists, but I had some questions first.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 494,
+        "description": "n/a",
+        "originalText": "No reason. Forget I asked you anything.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 498,
+        "description": "n/a",
+        "originalText": "I'm relatively new here, so I don't know a lot of the stuff yet.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 501,
+        "description": "n/a",
+        "originalText": "Goodbye, Detritus. Take care.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 504,
+        "description": "n/a",
+        "originalText": "So long.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 508,
+        "description": "n/a",
+        "originalText": "That's interesting. Maybe you were immune to the plague somehow. Have you ever been to a doctor?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 512,
+        "description": "n/a",
+        "originalText": "How about we move onto a different subject?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 516,
+        "description": "n/a",
+        "originalText": "Yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 522,
+        "description": "n/a",
+        "originalText": "Oh... never mind then. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 528,
+        "description": "n/a",
+        "originalText": "::He bursts out laughing.:: Doctor? No... I'm a zoner, remember? Bah, you don't understand it. You come from a different world, you. It's all just luck. Everythin' in life is about having luck, that's what I learned. You can be good at something, sure, but if you are unlucky, then that's that. Nothing helps.\r\n\r\nLook at my hands. I've been workin' like a slave my whole life and... everythin' I've earned can easily be chucked down Pipeworks. It's miserable. I was lucky enough to survive the plague, but unlucky with everythin' else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 534,
+        "description": "n/a",
+        "originalText": "::He shrugs, drifting off for a moment. After taking a deep breath, he continues.:: Anyway, enough of that. Got any more questions?",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

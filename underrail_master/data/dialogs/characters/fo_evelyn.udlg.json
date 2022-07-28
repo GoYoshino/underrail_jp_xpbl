@@ -1,0 +1,628 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 55,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 56,
+        "description": "n/a",
+        "originalText": "evelyn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 57,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 61,
+        "description": "n/a",
+        "originalText": "::Evelyn says nothing, instead letting her angry, deranged stare do the talking.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 68,
+        "description": "n/a",
+        "originalText": "::You find yourself in Evelyn's bedroom, feeling a strong headache and dizziness after a mere two drinks that weren't that strong at all - let alone enough for you to lose consciousness. As the dark curtain slowly lifts from your eyes, you are presented with a bone-chilling image: Evelyn is standing before you, pointing a large knife right at your face. \r\n\r\nThe semi-drugged, nauseating state you're in only enhances her transformation from beauty into beast, making the experience even more surreal: Her kind eyes have now become flaming furnaces emitting enough heat to turn your skin to liquid; her charming smile - a scrap metal shredder grinning at your impending doom, and her soft, full hair - strands of molten metal erupting from the tip of her head and flowing down her face.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 75,
+        "description": "n/a",
+        "originalText": "::The young, attractive woman seems to be the only person present in this quiet home. Even at first sight it is clear that this woman shines as bright as a diamond in a bucket of coal when compared to other women you've seen in Foundry so far. Her beautifully elongated face and her slim yet curvy figure form a striking image which is sadly smudged by one tiny imperfection - mild swelling and blackness around her tired green eyes. \r\n\r\nShe is the first one to speak.::\r\n\r\nGood day. May I help you somehow?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 84,
+        "description": "n/a",
+        "originalText": "Hello. I was just thinking about you, $(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 91,
+        "description": "n/a",
+        "originalText": "What is it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 94,
+        "description": "n/a",
+        "originalText": "fo_prison",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 101,
+        "description": "n/a",
+        "originalText": "::Only as you recoil do you realize you have been undressed almost completely, which further exacerbates your position. After she watches you flounder about for a few moments, she finally decides to speak.::\r\n\r\nOh, my sweet $(context.player.Name), how naive can you get. Now that I have you in my grasp, we're going to have so much fun! Well, at least I will - duh! ::After finishing her last sentence, she clenches her knife and moves toward you.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 105,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 107,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 112,
+        "description": "n/a",
+        "originalText": "Hi, my name's $(context.player.Name), I apologize if I'm disturbing you, but I'd just like to ask you a couple of questions.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 117,
+        "description": "n/a",
+        "originalText": "Hello, I'm $(context.player.Name). I came here to talk to you, if you don't mind.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 133,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_seducedYa",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 135,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_chasing",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 137,
+        "description": "n/a",
+        "originalText": "fo_EvelynChase",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 139,
+        "description": "n/a",
+        "originalText": "context.npc_evelyn_evelynStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 143,
+        "description": "n/a",
+        "originalText": "::End Dialog.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 148,
+        "description": "n/a",
+        "originalText": "::She smiles.:: Well, since you're so polite I suppose I'll have to indulge you. My name is Evelyn Ingram, $(context.player.Name). What would you like to talk to me about?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 154,
+        "description": "n/a",
+        "originalText": "Nice to meet you. I'm Evelyn. What do you need?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 162,
+        "description": "n/a",
+        "originalText": "Who are you and what do you do around here?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 167,
+        "description": "n/a",
+        "originalText": "A beautiful woman like you should not be forced to sit alone in her home and wither away. I can make you company, if you don't have a problem with that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 174,
+        "description": "n/a",
+        "originalText": "How do you feel now that the mine has been reopened?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 181,
+        "description": "n/a",
+        "originalText": "What can you tell me about Foundry?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 186,
+        "description": "n/a",
+        "originalText": "What was I thinking! I'd like to have a drink with you - if the offer still stands?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 192,
+        "description": "n/a",
+        "originalText": "Do you know anything about creatures from the mine?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 198,
+        "description": "n/a",
+        "originalText": "Are you bothered by those people from the slums? I mean, you live right next to them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 203,
+        "description": "n/a",
+        "originalText": "I need to go. Bye.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 207,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_askWhatSheDoes",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 212,
+        "description": "n/a",
+        "originalText": "Ah, I don't think it would be very smart of me to discuss personal information with strangers... but you seem like an honest guy. Different than the ones I'm usually surrounded with.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 219,
+        "description": "n/a",
+        "originalText": "Excuse me? I just met you and I'm not comfortable talking about private things with strangers.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 227,
+        "description": "n/a",
+        "originalText": "::A charming smile slowly appears on her face.:: Not at all. Thank you for the compliment, but I don't consider myself *that* beautiful. Pretty seems more appropriate. But, you are right about me being alone... that is true, sadly.\r\n\r\n::She pauses, letting her seductive stare convey her unspoken thoughts. After a few quiet moments, she turns away to grab a bottle of some seemingly expensive drink and shows it to you.:: Care for a drink?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 238,
+        "description": "n/a",
+        "originalText": "Well, well, if it isn't the \"boss\" himself. The mayor and the chief want most of the glory for themselves, but *I* know who did all the hard work. It takes one brave, strong, capable man to do what you did. If you ever find a break from doing heroic deeds, you could perhaps find some time tell me all about your endeavors.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 244,
+        "description": "n/a",
+        "originalText": "I heard people talking about it. I'm glad it was over quickly.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 248,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_askMineReopen",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 249,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_askFoundry",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 254,
+        "description": "n/a",
+        "originalText": "About Foundry? Foundry is well known throughout Underrail for its rich mine, and because we're the largest exporter of iron in the region. That allows us to afford a strong defense, which we need if we are to defend ourselves from raiders. Unfortunately, Foundry is also the most polluted station in the region... and life expectancy isn't the best either. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 260,
+        "description": "n/a",
+        "originalText": "You know, I don't feel like being a tour guide right now. Foundry has a rich mine, strong defence, pollution.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 264,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_askFoundry",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 269,
+        "description": "n/a",
+        "originalText": "::She crosses her arms and takes a good look at you before speaking:: Do you really expect me to offer you a drink again, after what you did to me earlier?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 281,
+        "description": "n/a",
+        "originalText": "Not much, I've mostly heard people say those things look like they're made of rocks or something, but that's all I know. Luckily, I never had a chance to meet one in person and learn whether that description is true.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 285,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_askMonsters",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 291,
+        "description": "n/a",
+        "originalText": "Hmmm, they rarely even come out, and when they do, they don't bother me at all. Now, Messer on the other hand, our local butcher, is having some... difficulties with those people, as far as he tells me. I think you can figure out why a bunch of underfed bums would bother a butcher who's got a pen full of pigs in the back.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 295,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_askSlums",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 299,
+        "description": "n/a",
+        "originalText": "See you again. Bye.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 304,
+        "description": "n/a",
+        "originalText": "Goodbye.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 311,
+        "description": "n/a",
+        "originalText": "I don't know what to say about myself... Well, I was the wife of the former Foundry Guard chief, Michael Ingram. You might have heard of him. Sadly, he died some time ago from a heart attack, leaving me... all alone.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 319,
+        "description": "n/a",
+        "originalText": "If you're going to ask me direct personal questions like that - I suggest you find someone else to interrogate.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 323,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_askWhatSheDoes",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 324,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_needsMan",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 326,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_said_no",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 332,
+        "description": "n/a",
+        "originalText": "::Have a drink with Evelyn.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 337,
+        "description": "n/a",
+        "originalText": "A drink? Are you sure this isn't a misunderstanding?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 338,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_askMineReopen",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 339,
+        "description": "n/a",
+        "originalText": "context.loc_fo_mineReopened",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 344,
+        "description": "n/a",
+        "originalText": "I'd really love to hear it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 350,
+        "description": "n/a",
+        "originalText": "Good news.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 357,
+        "description": "n/a",
+        "originalText": "To tell you the truth, I don't care much about this place. I'd leave it if I could.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 363,
+        "description": "n/a",
+        "originalText": "That's all there is to it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 366,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_said_no",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 371,
+        "description": "n/a",
+        "originalText": "Yes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 375,
+        "description": "n/a",
+        "originalText": "Well, no. You are right to be mad.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 379,
+        "description": "n/a",
+        "originalText": "I'm really, really sorry. I'll be good this time.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 380,
+        "description": "n/a",
+        "originalText": "context.loc_fo_monstersKnow",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 381,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_askMonsters",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 382,
+        "description": "n/a",
+        "originalText": "context.loc_fo_mineReopened",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 386,
+        "description": "n/a",
+        "originalText": "And I hope I never meet one. You know, I'm sure the Foundry Guard situation will be resolved quickly, and the mine will be operational again.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 389,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_askSlums",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 390,
+        "description": "n/a",
+        "originalText": "context.loc_fo_slums_know",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 395,
+        "description": "n/a",
+        "originalText": "And he is such a lovely man, Messer, and probably the only person I like talking to around here. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 402,
+        "description": "n/a",
+        "originalText": "I'm very sorry to hear that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 406,
+        "description": "n/a",
+        "originalText": "I'm sorry. Maybe we should change the subject.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 408,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_seducedYa",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 410,
+        "description": "n/a",
+        "originalText": "Fo_EvelynSeduces",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 412,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_revealVent",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 415,
+        "description": "n/a",
+        "originalText": "Well, let's see now... ::She smiles.:: First, I would like for you to have a nice drink with me, or several. After that... well, who knows, we'll see what happens after that, if you understand what I... mean.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 421,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_said_no",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 424,
+        "description": "n/a",
+        "originalText": "::She pauses for several seconds, alternately looking at you then away as she considers your words. Finally, she speaks.::\r\n \r\nI think today is your lucky day, $(context.player.Name). Usually I would not give anyone a second chance after doing what you did, but there's just something... special about you...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 431,
+        "description": "n/a",
+        "originalText": "You seem pretty nice too. ::She smiles.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 437,
+        "description": "n/a",
+        "originalText": "I was really shocked when he died. All was well until one day he suddenly fell, dying before he hit the floor. Doctor Stevenson told me that it was a heart attack; apparently he'd been overworked and overstressed and... slept too little. Not to mention the \"quality\" of living conditions here. In the end, all that got to him, leaving me to cope with... loneliness.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 443,
+        "description": "n/a",
+        "originalText": "Don't feel sorry. While it is... difficult for me to speak about it, sometimes it's good to speak about these things. And you seem like a good listener. Anyway...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 449,
+        "description": "n/a",
+        "originalText": "Sorry, but I'm going to have to say no.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 455,
+        "description": "n/a",
+        "originalText": "Losing a man I loved like that left a hole in my heart I don't think I'll ever be able to fill again. I don't know... who knows, maybe it's time for me to move on. I *am* young and still have so much to live for...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 461,
+        "description": "n/a",
+        "originalText": "::All seductiveness instantly evaporates from her face, leaving behind only an expression of disappointment.:: Well, in that case, *I* am the one that should be sorry. Maybe it really was a misunderstanding. A woman like me can get lonely in a boring place like this, you know. I apologize for... this.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 467,
+        "description": "n/a",
+        "originalText": "::She sighs.:: It's... complicated. Maybe that's enough about that subject.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 471,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_askWhatSheDoes",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 473,
+        "description": "n/a",
+        "originalText": "context.npc_fo_evelyn_needsMan",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 477,
+        "description": "n/a",
+        "originalText": "Anyway, is there anything else you wanted or are we done?",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

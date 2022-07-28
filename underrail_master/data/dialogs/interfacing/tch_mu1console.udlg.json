@@ -1,0 +1,243 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 21,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 22,
+        "description": "n/a",
+        "originalText": "interface",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 23,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 27,
+        "description": "n/a",
+        "originalText": "::Utility Station 7 - Terminal 6\r\nHazardous waste disposal control\r\n\r\nLockdown mode initiated. Please enter security code to proceed.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 36,
+        "description": "n/a",
+        "originalText": "::Utility Station 7 - Terminal 6\r\nHazardous waste disposal control\r\n\r\nChecking status...\r\n1 procedure(s) initialized::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 42,
+        "description": "n/a",
+        "originalText": "::Utility Station 7 - Terminal 6\r\nHazardous waste disposal control\r\n\r\nChecking status...\r\nWaste disposal system is on standy - no procedures in place::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 45,
+        "description": "n/a",
+        "originalText": "context.loc_tch_mu1_console_accessDenied",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 49,
+        "description": "n/a",
+        "originalText": "::Type something random::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 52,
+        "description": "n/a",
+        "originalText": "::Exit::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 53,
+        "description": "n/a",
+        "originalText": "context.loc_tch_mu1_console_startGas",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 66,
+        "description": "n/a",
+        "originalText": "::Invalid security code::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 74,
+        "description": "n/a",
+        "originalText": "::Initiate toxic gas disposal procedure::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 81,
+        "description": "n/a",
+        "originalText": "::Unlock chamber::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 88,
+        "description": "n/a",
+        "originalText": "::Toggle emergency shutters::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 93,
+        "description": "n/a",
+        "originalText": "::Toggle emergency shutters::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 96,
+        "description": "n/a",
+        "originalText": "::Initiating procedure...\r\nAssessing pipeline 1 integrity... passed\r\nAssessing pipeline 2 integrity...\r\n\r\nWarning - Pipeline 2 integrity assessment failed!\r\nDangerous breach in section C-3 of Pipeline 2 detected!\r\nGas disposal procedure aborted due to safety risks.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 101,
+        "description": "n/a",
+        "originalText": "loc_tch_mu1_console_startGas",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 107,
+        "description": "n/a",
+        "originalText": "::Chamber unlocked successfully::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 111,
+        "description": "n/a",
+        "originalText": "context.loc_tch_mu1Console_unlockChamber",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 112,
+        "description": "n/a",
+        "originalText": "loc_tch_mu1Console_unlockChamber",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 113,
+        "description": "n/a",
+        "originalText": "context.tch_mu1_toggleShutters",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 117,
+        "description": "n/a",
+        "originalText": "context.tch_mu1_toggleShutters",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 118,
+        "description": "n/a",
+        "originalText": "context.tch_mu1_toggleShutters",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 122,
+        "description": "n/a",
+        "originalText": "::Warning - unable to lower emergency shutters!\r\n\r\n::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 129,
+        "description": "n/a",
+        "originalText": "::[Hacking] Perform an override and initialize the toxic gas disposal procedure.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 133,
+        "description": "n/a",
+        "originalText": "::Back.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 134,
+        "description": "n/a",
+        "originalText": "context.loc_tch_mu1_console_startGas",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q99.Q99:AN",
+        "objectId": 137,
+        "description": "n/a",
+        "originalText": "tch_mu1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 147,
+        "description": "n/a",
+        "originalText": "::Sending notification to maintenance.\r\n\r\nPlease wait...::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 156,
+        "description": "n/a",
+        "originalText": "::Initializing toxic gas disposal procedure...\r\n\r\nProcedure initialized successfully.\r\n\r\nWarning - gas leak detected!\r\n\r\nChamber lockdown initiated!::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 162,
+        "description": "n/a",
+        "originalText": "::Unauthorized access blocked!\r\n\r\nInitiating terminal 6 lockdown and sending notification to Utility Station 7 security. Please remain where you are until the security officers arrive.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SLSJ1.SLSJ1:A",
+        "objectId": 167,
+        "description": "n/a",
+        "originalText": "tch_mu1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 172,
+        "description": "n/a",
+        "originalText": "context.loc_tch_mu1_console_startGas",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 174,
+        "description": "n/a",
+        "originalText": "context.loc_tch_mu1_console_accessDenied",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

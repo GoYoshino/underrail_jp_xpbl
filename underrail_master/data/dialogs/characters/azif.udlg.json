@@ -1,0 +1,5346 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 114,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 115,
+        "description": "n/a",
+        "originalText": "azif",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 116,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 122,
+        "description": "n/a",
+        "originalText": "::You finish relating your strenuous adventure to Azif. You tried to be as brief as possible but still failed utterly, yet the other party never lost interest, not even for a single moment. Moreover, as you were staring into his non-human eyes, you began to notice things you had failed to notice before: This abyss does not have a bottom - this abyss is in fact a gateway to an expanding universe; in darkness you now see stars and galaxies, colliding and embracing in death only to give birth to new ones after their remains have recombined. As your words shed new light to recent events, so do these celestial bodies shine brighter, so you create new memories and ideas, new cerebral stretches for his consciousness to explore and occupy.\r\n\r\nVoid these eyes are not to those who have the ability to see through them.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 128,
+        "description": "n/a",
+        "originalText": "We're here...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 137,
+        "description": "n/a",
+        "originalText": "::Whispers.:: Stay close and keep quiet.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 143,
+        "description": "n/a",
+        "originalText": "::He remains silent.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 151,
+        "description": "n/a",
+        "originalText": "::A male figure stands unmoving before you, hands clasped in front of him. Most of his head is in wraps, except for a pair of pitch-black eyes; it is as if you stare into the abyss only to discover that the abyss was staring into you long before you were aware of its existence. And the abyss embraces you...\r\n\r\nHis fingers are the first to come to life, moving like the legs of a centipede. Then you hear a slow, offbeat voice addressing you.::\r\n\r\nYou have questions for me, yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 160,
+        "description": "n/a",
+        "originalText": "Welcome to Oculus, $(context.player.Name). By now, many questions must have accumulated inside your head. I will try to answer them as best I can.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 167,
+        "description": "n/a",
+        "originalText": "Yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 174,
+        "description": "n/a",
+        "originalText": "He failed... ::Azif murmurs to himself before raising his voice to normal speaking volume.:: And Tanner managed to escape. At least for now. \r\n\r\nSo that is what happened.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 179,
+        "description": "n/a",
+        "originalText": "context.npc_azif_talkedSixInDCTalk",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 186,
+        "description": "n/a",
+        "originalText": "What do you mean \"we're here\"? There's nothing there.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 190,
+        "description": "n/a",
+        "originalText": "A chasm? What are we supposed to do here?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 195,
+        "description": "n/a",
+        "originalText": "::[Intelligence]:: There's more to this place than meets the eye, I assume.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 199,
+        "description": "n/a",
+        "originalText": "context.npc_azif_lockedOut",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 200,
+        "description": "n/a",
+        "originalText": "context.npc_azif_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 204,
+        "description": "n/a",
+        "originalText": "::He moves his hands to the side and tilts his head slightly upward.:: I am Azif, and I've been observing your performance keenly. I must say - watching you grow as an agent and take progressively harder tasks upon yourself and then even executing on them optimally, with thought and elegance, was... not something I get to witness often.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 208,
+        "description": "n/a",
+        "originalText": "context.npc_azif_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 243,
+        "description": "n/a",
+        "originalText": "context.npc_azif_insideIntroduction",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 245,
+        "description": "n/a",
+        "originalText": "context.loc_wa_accessLevel",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 247,
+        "description": "n/a",
+        "originalText": "context.npc_azif_startedSixInDCTalk",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 248,
+        "description": "n/a",
+        "originalText": "context.npc_azif_talkedSixInDCTalk",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 252,
+        "description": "n/a",
+        "originalText": "Well then, what do you think of all this?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 253,
+        "description": "n/a",
+        "originalText": "context.npc_azif_agreedToJoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 254,
+        "description": "n/a",
+        "originalText": "context.npc_azif_ledYouInside",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 255,
+        "description": "n/a",
+        "originalText": "context.npc_azif_leadingPos",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 260,
+        "description": "n/a",
+        "originalText": "There is, but you will need to look closer. Not with these eyes... ::He points to your eyes.:: but with your mind's eye.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 266,
+        "description": "n/a",
+        "originalText": "There's more than that here, but you will need to look closer. Not with these eyes... ::He points to your eyes.:: but with your mind's eye.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 273,
+        "description": "n/a",
+        "originalText": "Indeed. Look closer. Not with these eyes... ::He points to your eyes.:: but with your mind's eye.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 276,
+        "description": "n/a",
+        "originalText": "context.npc_azif_agreedToJoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 277,
+        "description": "n/a",
+        "originalText": "context.npc_azif_ledYouInside",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 278,
+        "description": "n/a",
+        "originalText": "context.npc_azif_leadingPos",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 290,
+        "description": "n/a",
+        "originalText": "context.npc_azif_ledYouInside",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 291,
+        "description": "n/a",
+        "originalText": "context.npc_azif_insideIntroduction",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 293,
+        "description": "n/a",
+        "originalText": "tempcontext.fromTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 301,
+        "description": "n/a",
+        "originalText": "I met Six in Deep Caverns.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 307,
+        "description": "n/a",
+        "originalText": "I met your cybernetic client at the Institute of Tchort.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 312,
+        "description": "n/a",
+        "originalText": "About Tanner and everything that happened...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 319,
+        "description": "n/a",
+        "originalText": "What is this place?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 325,
+        "description": "n/a",
+        "originalText": "Who built Oculus?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 332,
+        "description": "n/a",
+        "originalText": "Who were the Godmen?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 339,
+        "description": "n/a",
+        "originalText": "What is this Mainframe you speak of?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 346,
+        "description": "n/a",
+        "originalText": "Who is that six-fingered cyborg?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 352,
+        "description": "n/a",
+        "originalText": "Aren't you worried about the Lunatics underneath the Oculus?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 358,
+        "description": "n/a",
+        "originalText": "I've talked to one of the Lunatics beneath the Oculus, a psychokinetic wearing a purple and blue robe and a lustrous gem on his forehead.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 364,
+        "description": "n/a",
+        "originalText": "So what do I do now?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 371,
+        "description": "n/a",
+        "originalText": "Tell me about that assignment.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 377,
+        "description": "n/a",
+        "originalText": "I spoke to Wit Nosek.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 382,
+        "description": "n/a",
+        "originalText": "I interacted with the Mainframe.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 388,
+        "description": "n/a",
+        "originalText": "Have you ever heard of the Acorn, a.k.a ACoNR?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 393,
+        "description": "n/a",
+        "originalText": "I have the Acorn. ::Show him the Acorn.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 398,
+        "description": "n/a",
+        "originalText": "About the Acorn...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 404,
+        "description": "n/a",
+        "originalText": "Do you know what this is? ::Show him the shard.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 409,
+        "description": "n/a",
+        "originalText": "Let's talk about the shard again.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 416,
+        "description": "n/a",
+        "originalText": "Do you know what this is? ::Show him the Ethereal Torch.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 422,
+        "description": "n/a",
+        "originalText": "How's the shard doing?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 428,
+        "description": "n/a",
+        "originalText": "Let's talk about this alien lantern again.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 434,
+        "description": "n/a",
+        "originalText": "Let's talk about the torch again.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 440,
+        "description": "n/a",
+        "originalText": "Have you found the use for that Godmen device?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 443,
+        "description": "n/a",
+        "originalText": "See you later.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 444,
+        "description": "n/a",
+        "originalText": "context.npc_azif_insideIntroduction",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 450,
+        "description": "n/a",
+        "originalText": "That is a lot of information to digest, yes. ::He pauses briefly.:: It is clear that our mutual friend saw something in you that deemed you worthy of his - rather stingy all things considered - words, but one cannot say he wasn't right. You slew Tchort, after all, just as he... predicted you would.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 455,
+        "description": "n/a",
+        "originalText": "Allow me help you with that...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 462,
+        "description": "n/a",
+        "originalText": "It was a pleasure to work on these missions.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 466,
+        "description": "n/a",
+        "originalText": "So you have further need for my services, I assume?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 470,
+        "description": "n/a",
+        "originalText": "And what do you want from me now?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 474,
+        "description": "n/a",
+        "originalText": "Who are you people anyway?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 480,
+        "description": "n/a",
+        "originalText": "You've been watching me? That's creepy, man.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 487,
+        "description": "n/a",
+        "originalText": "I explicitly warned you... not to pursue him.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 494,
+        "description": "n/a",
+        "originalText": "::He replies with a delay.:: You did not follow him there, did you?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 500,
+        "description": "n/a",
+        "originalText": "::He replies with a delay.:: So you just... met him?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 505,
+        "description": "n/a",
+        "originalText": "context.npc_azif_startedSixInDCTalk",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 512,
+        "description": "n/a",
+        "originalText": "Interesting. But you did not come here just to tell me that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 520,
+        "description": "n/a",
+        "originalText": "context.npc_azif_talkSixInstitute",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 521,
+        "description": "n/a",
+        "originalText": "context.npc_azif_talkedSixInDCTalk",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 525,
+        "description": "n/a",
+        "originalText": "Yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 533,
+        "description": "n/a",
+        "originalText": "This is Oculus, the eye of Underrail, yes. All important information finds its way here sooner or later.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 537,
+        "description": "n/a",
+        "originalText": "tempcontext.laststrq",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 538,
+        "description": "n/a",
+        "originalText": "whatIsThisPlace",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 540,
+        "description": "n/a",
+        "originalText": "context.npc_azif_askWhatIsThisPlace",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 548,
+        "description": "n/a",
+        "originalText": "It was originally built by beings we, in absence of a better name, refer to as Godmen; we learned this much from the Mainframe.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 552,
+        "description": "n/a",
+        "originalText": "tempcontext.laststrq",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 553,
+        "description": "n/a",
+        "originalText": "whoBuiltOculus",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 559,
+        "description": "n/a",
+        "originalText": "When the Mainframe spoke to me, it uttered words in an unknown language directly into my mind.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 563,
+        "description": "n/a",
+        "originalText": "context.npc_azif_toldAboutGodmen",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 565,
+        "description": "n/a",
+        "originalText": "tempcontext.laststrq",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 566,
+        "description": "n/a",
+        "originalText": "whoWereGodmen",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 572,
+        "description": "n/a",
+        "originalText": "This thing here in the center - that's the Crystal Mainframe. I am not completely clear on what it is myself and it's even harder to convey that which I know about it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 576,
+        "description": "n/a",
+        "originalText": "tempcontext.laststrq",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 577,
+        "description": "n/a",
+        "originalText": "whatIsCrystalMainframe",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 579,
+        "description": "n/a",
+        "originalText": "context.npc_azif_toldAboutMainframe",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 587,
+        "description": "n/a",
+        "originalText": "A client of mine. He is not present at the moment, but should he return, try not to disturb him. He is not a talkative fellow.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 593,
+        "description": "n/a",
+        "originalText": "He is a client of mine. Do not bother him. He is not a very talkative fellow.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 597,
+        "description": "n/a",
+        "originalText": "context.npc_azif_whoIsSix",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 603,
+        "description": "n/a",
+        "originalText": "Not in the slightest. Even if they could circumvent the electronic defense system somehow, gaining access to Oculus is impossible - with a courteous nigh.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 607,
+        "description": "n/a",
+        "originalText": "context.npc_azif_talkedLunatics",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 613,
+        "description": "n/a",
+        "originalText": "Intriguing. Go on.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 619,
+        "description": "n/a",
+        "originalText": "context.npc_azif_talkedSynesthete",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 625,
+        "description": "n/a",
+        "originalText": "I suggest you look around a bit. Familiarize yourself with the equipment and your colleagues. Like yourself, each of them are here for a good reason, yes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 629,
+        "description": "n/a",
+        "originalText": "context.npc_azif_toldYouWhatNext",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 635,
+        "description": "n/a",
+        "originalText": "There lived a man, and it could be that he still lives, named Wit Nosek. A long time ago he used to work for Biocorp. The *old* Biocorp, before Underrail Protectorate takeover. Way before.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 639,
+        "description": "n/a",
+        "originalText": "context.quest_wa_oldManNosek_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 641,
+        "description": "n/a",
+        "originalText": "wa_oldManNosek",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 648,
+        "description": "n/a",
+        "originalText": "Did you, now? And where did you find him?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 656,
+        "description": "n/a",
+        "originalText": "Was he more forthcoming this time?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 665,
+        "description": "n/a",
+        "originalText": "Have you, now? And what was your experience?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 672,
+        "description": "n/a",
+        "originalText": "Acorn? ::His voice resonates with curious recollection.:: Yes. Why do you ask?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 678,
+        "description": "n/a",
+        "originalText": "context.npc_azif_mentionAcorn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 684,
+        "description": "n/a",
+        "originalText": "Acorn... an actual Acorn. ::He looks at the container, its printed name and symbol, marveling at its every feature.::\r\n\r\nI never thought I'd see one in person.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 689,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_acorn_gaveTo",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 690,
+        "description": "n/a",
+        "originalText": "azif",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 694,
+        "description": "n/a",
+        "originalText": "Yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 702,
+        "description": "n/a",
+        "originalText": "::His eyes do not seem to be directed towards the item you're presenting to him, but you still feel how intently fixed his attention on it is.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 706,
+        "description": "n/a",
+        "originalText": "context.npc_azif_askedAboutShard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 714,
+        "description": "n/a",
+        "originalText": "Yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 725,
+        "description": "n/a",
+        "originalText": "I do not know what this device is exactly, but it looks like it can be used to project some sort of force. It could be a weapon. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 730,
+        "description": "n/a",
+        "originalText": "::He looks at the device carefully.:: It looks like an artifact of the Godmen. Where did you find this?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 736,
+        "description": "n/a",
+        "originalText": "context.npc_azif_askedAboutTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 742,
+        "description": "n/a",
+        "originalText": "I am... looking into it. Slowly.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 746,
+        "description": "n/a",
+        "originalText": "tempcontext.cannotAskAboutTransfferedShard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 753,
+        "description": "n/a",
+        "originalText": "Yes, let's.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 757,
+        "description": "n/a",
+        "originalText": "tempcontext.fromTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 762,
+        "description": "n/a",
+        "originalText": "tempcontext.fromTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 768,
+        "description": "n/a",
+        "originalText": "Not quite yet. It appears to be a bit too weak for an actual Godmen weapon, but it did have some destructive purpose. Very peculiar...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 772,
+        "description": "n/a",
+        "originalText": "tempcontext.cannotAskAboutTransfferedTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 778,
+        "description": "n/a",
+        "originalText": "And when you asked him whether he was a Godman... he neither confirmed nor denied it... which is puzzling.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 785,
+        "description": "n/a",
+        "originalText": "One of the things I found quite surprising in your tale, though - beside the things he spoke about - is that you dared attack him and lived to tell the tale. It is fascinating, though of lesser importance now...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 790,
+        "description": "n/a",
+        "originalText": "::He lowers his head in thought.:: This is a lot to take in such a short period of time, but then again... yes... Tchort... Could it be...? Leviathans...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 800,
+        "description": "n/a",
+        "originalText": "::End Dialog.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 804,
+        "description": "n/a",
+        "originalText": "That is good to hear, for that means you'll find the following proposition enticing.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 810,
+        "description": "n/a",
+        "originalText": "Indeed, but what I will offer you is not simply a job.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 816,
+        "description": "n/a",
+        "originalText": "It is not just about what we want from you? There's things we can offer as well.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 822,
+        "description": "n/a",
+        "originalText": "We are the eye of Underrail. We watch and wait for opportunities such as those you've been given. Opportunities to obtain wealth, to gain better understanding of this world we found ourselves in, and perhaps to change its course for the better.\r\n",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 825,
+        "description": "n/a",
+        "originalText": "tempcontext.tempQ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 830,
+        "description": "n/a",
+        "originalText": "Oh, you've seen nothing yet. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 834,
+        "description": "n/a",
+        "originalText": "tempcontext.tempQ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 835,
+        "description": "n/a",
+        "originalText": "context.npc_rahm-umbra_metInOculus",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 836,
+        "description": "n/a",
+        "originalText": "context.npc_azif_startedSixInDCTalk",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 837,
+        "description": "n/a",
+        "originalText": "context.loc_leftDeepCaverns",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 838,
+        "description": "n/a",
+        "originalText": "context.npc_azif_talkSixInstitute",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 842,
+        "description": "n/a",
+        "originalText": "I did not. Our encounter was meant to happen, as strange as that may sound, and Six told me that himself. But he spoke about a lot of other things, and it is those I have trouble understanding. That is why I come to you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 843,
+        "description": "n/a",
+        "originalText": "context.npc_azif_whoIsSix",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 847,
+        "description": "n/a",
+        "originalText": "No. Our encounter was meant to happen, as strange as that may sound, and Six told me that himself. But he spoke about a lot of other things, and it is those I have trouble understanding. That is why I come to you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 851,
+        "description": "n/a",
+        "originalText": "Not exactly. Our encounter was meant to happen, as strange as that may sound, and Six told me that himself. But he spoke about a lot of other things, and it is those I have trouble understanding. That is why I come to you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 852,
+        "description": "n/a",
+        "originalText": "context.npc_rahm-umbra_metAtInstitute",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 853,
+        "description": "n/a",
+        "originalText": "context.npc_azif_talkSixInstitute",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 854,
+        "description": "n/a",
+        "originalText": "context.npc_rahm-umbra_metInOculus",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 855,
+        "description": "n/a",
+        "originalText": "context.loc_leftDeepCaverns",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 860,
+        "description": "n/a",
+        "originalText": "It seems that both him and me are after the same thing. I thought you could answer some of my questions.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 864,
+        "description": "n/a",
+        "originalText": "No. I came to you to talk to you about why he's there.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 868,
+        "description": "n/a",
+        "originalText": "Is he following me?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 872,
+        "description": "n/a",
+        "originalText": "Of course not, and you know damn well what I want. What is Six doing there?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 883,
+        "description": "n/a",
+        "originalText": "tempcontext.laststrq",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 884,
+        "description": "n/a",
+        "originalText": "whatIsThisPlace",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 888,
+        "description": "n/a",
+        "originalText": "We use this information to generate profit and ensure our safety, survival and prosperity. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 892,
+        "description": "n/a",
+        "originalText": "context.loc_wa_oculus",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 893,
+        "description": "n/a",
+        "originalText": "context.npc_azif_askWhatIsThisPlace",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 895,
+        "description": "n/a",
+        "originalText": "tempcontext.laststrq",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 896,
+        "description": "n/a",
+        "originalText": "whoBuiltOculus",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 899,
+        "description": "n/a",
+        "originalText": "We don't know for sure what its purpose was originally, but we assume it was similar to what we use it for today.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 906,
+        "description": "n/a",
+        "originalText": "context.loc_wa_godmen",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 908,
+        "description": "n/a",
+        "originalText": "context.loc_wa_mainframe",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 909,
+        "description": "n/a",
+        "originalText": "context.loc_wa_godmen",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 910,
+        "description": "n/a",
+        "originalText": "tempcontext.laststrq",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 911,
+        "description": "n/a",
+        "originalText": "whoWereGodmen",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 915,
+        "description": "n/a",
+        "originalText": "Among those were thoughts and concepts my mind have never encountered before and had great trouble processing. Some of them still confuse me to no end and prevent me from deciphering the messages of the Mainframe.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 918,
+        "description": "n/a",
+        "originalText": "context.loc_wa_mainframe",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 919,
+        "description": "n/a",
+        "originalText": "tempcontext.laststrq",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.SC1:V",
+        "objectId": 920,
+        "description": "n/a",
+        "originalText": "whatIsCrystalMainframe",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 924,
+        "description": "n/a",
+        "originalText": "A supercomputer, a database, a prophetic machine - a sleeping god. It can be taken as any of these things, or it might be all of them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 927,
+        "description": "n/a",
+        "originalText": "context.npc_rahm-umbra_metInOculus",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 928,
+        "description": "n/a",
+        "originalText": "context.npc_azif_talkSixInstitute",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 929,
+        "description": "n/a",
+        "originalText": "context.npc_azif_whoIsSix",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 930,
+        "description": "n/a",
+        "originalText": "context.global_sawTchoristsSnatchCube",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 931,
+        "description": "n/a",
+        "originalText": "context.npc_azif_talkedLunatics",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 937,
+        "description": "n/a",
+        "originalText": "Conversely, their trips into certain death provide us with some valuable information regarding the nature of their lunacy. The fact that they can perceive Oculus, or certain aspects of it is not something that should be ignored. We've been noticing for years that many of them tend to be drawn to sources of great psionic energy, but how exactly all of that is arranged in their disarranged minds remains a mystery still.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 940,
+        "description": "n/a",
+        "originalText": "context.npc_azif_talkedLunatics",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 941,
+        "description": "n/a",
+        "originalText": "context.npc_lux_lunaticSynesthete_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 942,
+        "description": "n/a",
+        "originalText": "context.npc_azif_talkedSynesthete",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 947,
+        "description": "n/a",
+        "originalText": "I haven't learned much, but he was talking about lines, angles and forms, and something he called Transfinity.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 952,
+        "description": "n/a",
+        "originalText": "He was talking a lot about lines, angles, forms. I also saw the ritual - or transformation, how they call it - through which they're trying to reach Transfinity. That's when they get fried.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 953,
+        "description": "n/a",
+        "originalText": "context.npc_azif_ledYouInside",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 954,
+        "description": "n/a",
+        "originalText": "context.npc_azif_toldYouWhatNext",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 957,
+        "description": "n/a",
+        "originalText": "And when you're good and ready, come see me again. I have an assignment for you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 960,
+        "description": "n/a",
+        "originalText": "context.npc_azif_toldYouWhatNext",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 961,
+        "description": "n/a",
+        "originalText": "context.quest_wa_oldManNosek_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 965,
+        "description": "n/a",
+        "originalText": "He worked on a project called \"The Ark.\" The exact details of the project are unknown to me, but I do know it was related to some manner of life longevity research. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 968,
+        "description": "n/a",
+        "originalText": "context.npc_wit_askedHimIfWit",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 969,
+        "description": "n/a",
+        "originalText": "context.quest_wa_oldManNosek_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 970,
+        "description": "n/a",
+        "originalText": "context.npc_azif_toldHimYouSpokeWithWit",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 972,
+        "description": "n/a",
+        "originalText": "context.npc_azif_toldHimYouSpokeWithWit",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 976,
+        "description": "n/a",
+        "originalText": "He was in Core City.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 980,
+        "description": "n/a",
+        "originalText": "I'd rather not say.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 988,
+        "description": "n/a",
+        "originalText": "context.npc_azif_toldAboutMainframe",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 989,
+        "description": "n/a",
+        "originalText": "context.wa_mainframe_connected",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 990,
+        "description": "n/a",
+        "originalText": "context.never",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 1000,
+        "description": "n/a",
+        "originalText": "plot.xpbl_acorn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1001,
+        "description": "n/a",
+        "originalText": "context.npc_azif_mentionAcorn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1006,
+        "description": "n/a",
+        "originalText": "I learned about it during one of my recent ventures. What do you know about it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1010,
+        "description": "n/a",
+        "originalText": "I just heard of it somewhere. Thought you might know something about it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1011,
+        "description": "n/a",
+        "originalText": "context.npc_azif_mentionAcorn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SC1.CIC:P",
+        "objectId": 1012,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_acorn_gaveTo",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 1013,
+        "description": "n/a",
+        "originalText": "plot.xpbl_acorn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1017,
+        "description": "n/a",
+        "originalText": "It's yours. ::Give him the Acorn.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1021,
+        "description": "n/a",
+        "originalText": "It took a lot of effort for me to get this. How about we discuss my payment first?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1032,
+        "description": "n/a",
+        "originalText": "context.npc_azif_askedAboutShard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 1033,
+        "description": "n/a",
+        "originalText": "shard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1038,
+        "description": "n/a",
+        "originalText": "It's a piece of a monolith of the Godmen, I believe so. I've seen these before, but not quite like this. This... looks like it came from the one at the entrance to the Black Sea, the Glowing Canine.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1041,
+        "description": "n/a",
+        "originalText": "context.npc_azif_askedAboutShard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1042,
+        "description": "n/a",
+        "originalText": "context.npc_azif_askedAboutTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1043,
+        "description": "n/a",
+        "originalText": "tempcontext.askAboutTransfferedShard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1044,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_transfferedToHim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1056,
+        "description": "n/a",
+        "originalText": "context.npc_azif_askedAboutTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 1057,
+        "description": "n/a",
+        "originalText": "monolithTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1058,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_decodedItWithYou",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1069,
+        "description": "n/a",
+        "originalText": "Have you tried using it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1073,
+        "description": "n/a",
+        "originalText": "tempcontext.fromTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1078,
+        "description": "n/a",
+        "originalText": "It used to be a shard before it transformed into this.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1082,
+        "description": "n/a",
+        "originalText": "In a barrel in Lower Underrail.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1083,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_transfferedToHim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1084,
+        "description": "n/a",
+        "originalText": "tempcontext.cannotAskAboutTransfferedShard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1085,
+        "description": "n/a",
+        "originalText": "context.npc_azif_askedAboutTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1086,
+        "description": "n/a",
+        "originalText": "context.npc_rahm-umbra_toldYouItsCalledTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1087,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_transfferedToHim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1102,
+        "description": "n/a",
+        "originalText": "context.npc_azif_askedAboutTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1103,
+        "description": "n/a",
+        "originalText": "context.npc_rahm-umbra_toldYouItsCalledTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1104,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_transfferedToHim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1105,
+        "description": "n/a",
+        "originalText": "tempcontext.cannotAskAboutTransfferedTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1106,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_transfferedToHim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1107,
+        "description": "n/a",
+        "originalText": "context.npc_rahm-umbra_toldHimAboutGodmen",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1108,
+        "description": "n/a",
+        "originalText": "context.npc_rahm-umbra_attacked",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1112,
+        "description": "n/a",
+        "originalText": "Leviathans?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1116,
+        "description": "n/a",
+        "originalText": "Are you trying to tell me that Tchort is one of these Leviathans?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1120,
+        "description": "n/a",
+        "originalText": "Damn it, Azif, I came to you so I'd unravel a bit more of this story, not to have you keep me on the edge like this.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1122,
+        "description": "n/a",
+        "originalText": "context.npc_azif_ledYouInside",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 1124,
+        "description": "n/a",
+        "originalText": "lux_oculus",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1127,
+        "description": "n/a",
+        "originalText": "We need people such as yourself, yes. People who understand that steering destinies requires a gentle hand. Even though that very hand must occasionally hold a knife. We need people that value secrecy over glory and understand the advantage of the defensive cover of anonymity.\r\n\r\nDo you understand?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1137,
+        "description": "n/a",
+        "originalText": "::Azif is silent.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1143,
+        "description": "n/a",
+        "originalText": "context.npc_rahmUmbra_toldCube",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1147,
+        "description": "n/a",
+        "originalText": "I have no answers for you. He would have told you everything you needed to know there and then if he wanted to. If he told you nothing, then nothing is what you deserve. For he is my client: We've made a contract, and it's keeping my lips sealed. Have you forgotten how we do our business, $(context.player.Name)?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1152,
+        "description": "n/a",
+        "originalText": "No. There is no need for that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1160,
+        "description": "n/a",
+        "originalText": "Do not be insolent. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1166,
+        "description": "n/a",
+        "originalText": "What happened afterward to the oculite that infiltrated the Faceless city?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1170,
+        "description": "n/a",
+        "originalText": "So what is the Faceless city like?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1174,
+        "description": "n/a",
+        "originalText": "How did Tanner contact you and under what name? Couldn't you have somehow figured out his position?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1178,
+        "description": "n/a",
+        "originalText": "Your actions have led to the Faceless invasion and so many deaths. Do you feel... guilty?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1182,
+        "description": "n/a",
+        "originalText": "I have no more questions.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1186,
+        "description": "n/a",
+        "originalText": "And also to make sure this place remains secret and undefiled. We have not built it and it is not ours, but we are its custodians for the moment.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1192,
+        "description": "n/a",
+        "originalText": "To spy on people?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1196,
+        "description": "n/a",
+        "originalText": "And what would that be?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1200,
+        "description": "n/a",
+        "originalText": "Great acoustics?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1204,
+        "description": "n/a",
+        "originalText": "Some of them, such as \"Godmen,\" my mind could approximate. Know, though, that this is not a compound word in its original language. It does not stand for godly men or male gods, this much I know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1209,
+        "description": "n/a",
+        "originalText": "Those of us who can withstand its intensity have connected to it psionically to receive its knowledge... and visions. This is dangerous business, though, and more than a few good men have been driven completely insane by its power.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1214,
+        "description": "n/a",
+        "originalText": "context.npc_wa_constantine_toldLunatics",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1215,
+        "description": "n/a",
+        "originalText": "context.loc_lux_uwa_knowLunatics",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1219,
+        "description": "n/a",
+        "originalText": "It is up to us to observe.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1222,
+        "description": "n/a",
+        "originalText": "npc_lux_lunaticSynesthete_startRitual",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1226,
+        "description": "n/a",
+        "originalText": "Transfinity, *Transfinity...*\r\n\r\nBeyond finity... \r\n\r\nBeyond... limits. \r\n\r\nBeyond the limits of this world, perhaps.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1229,
+        "description": "n/a",
+        "originalText": "npc_lux_lunaticSynesthete_startRitual",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1233,
+        "description": "n/a",
+        "originalText": "What I do know is that near the end of his time with Biocorp he made a major breakthrough in his research. Unfortunately, those were chaotic times and he ended up not sharing these results with his colleagues before he fled from the organization.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1239,
+        "description": "n/a",
+        "originalText": "I see. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1245,
+        "description": "n/a",
+        "originalText": "Holding tight onto your assignment, I see. I respect that. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1252,
+        "description": "n/a",
+        "originalText": "He told me some things about... ::Tell him what Wit told you and how he died.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1256,
+        "description": "n/a",
+        "originalText": "Not yet.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1262,
+        "description": "n/a",
+        "originalText": "::Tell him about the Leviathan vision.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1268,
+        "description": "n/a",
+        "originalText": "::Tell him about the energy egg vision.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1274,
+        "description": "n/a",
+        "originalText": "::Tell him about the Godmen thoughts vision.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1278,
+        "description": "n/a",
+        "originalText": "Never mind. Let's talk about something else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1283,
+        "description": "n/a",
+        "originalText": "Seemingly it's a modest square container. But within it lies technology so advanced it's beyond the comprehension of even the smartest minds in the world; the majority, anyway.\r\n\r\nThus it's a very valuable thing, yes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1287,
+        "description": "n/a",
+        "originalText": "tempcontext.azif_acornToldAttention",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1293,
+        "description": "n/a",
+        "originalText": "::He inspects the Acorn, rotating it from side to side. Then he looks at you.::\r\n\r\nThe coded signal...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1301,
+        "description": "n/a",
+        "originalText": "Of course. Will three thousand charons suffice? Anything less would be disrespectful, considering the value of the item.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1308,
+        "description": "n/a",
+        "originalText": "How does the Acorn work, exactly?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1313,
+        "description": "n/a",
+        "originalText": "Did NFT make them? They seem far too advanced when compared to the rest of the technology they have.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1317,
+        "description": "n/a",
+        "originalText": "Where could the other ones be?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1321,
+        "description": "n/a",
+        "originalText": "What are you going to do with it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1325,
+        "description": "n/a",
+        "originalText": "Let's talk about something else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1328,
+        "description": "n/a",
+        "originalText": "How did you obtain this?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1336,
+        "description": "n/a",
+        "originalText": "context.loc_wa_godmen",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1340,
+        "description": "n/a",
+        "originalText": "How dangerous would it be to decode the shard?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1345,
+        "description": "n/a",
+        "originalText": "I want you to help me decode the shard.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1350,
+        "description": "n/a",
+        "originalText": "Let's try decoding the shard again.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1354,
+        "description": "n/a",
+        "originalText": "If I was to sell you the shard, how much would you offer me?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1359,
+        "description": "n/a",
+        "originalText": "I'll give you the shard for free. Consider it my donation to our organization. ::Give him the shard.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1363,
+        "description": "n/a",
+        "originalText": "Let's talk about something else for a moment.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1364,
+        "description": "n/a",
+        "originalText": "tempcontext.justDecoded",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1367,
+        "description": "n/a",
+        "originalText": "A shard? Where did you find this shard?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1375,
+        "description": "n/a",
+        "originalText": "context.npc_azif_toldHimTorchUsedToBeShard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1379,
+        "description": "n/a",
+        "originalText": "Well, that is quite serendipitous, yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1387,
+        "description": "n/a",
+        "originalText": "What should I do with this device?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1391,
+        "description": "n/a",
+        "originalText": "If I was to sell you the device, how much would you offer me?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1397,
+        "description": "n/a",
+        "originalText": "I tried using the device and it does appear to be a weapon. ::Describe how you fired the weapon.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1403,
+        "description": "n/a",
+        "originalText": "::Tell him how you destroyed the Shadowlith with the torch.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1409,
+        "description": "n/a",
+        "originalText": "::Tell him how you destroyed the totem stone of the savages in the Black Sea.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1415,
+        "description": "n/a",
+        "originalText": "::Tell him how you killed the savage king in his void/spirit form.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1421,
+        "description": "n/a",
+        "originalText": "::Tell him how you killed a void creature with it.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1426,
+        "description": "n/a",
+        "originalText": "I'll give you the device for free. Consider it my donation to our organization. ::Give him the device.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1429,
+        "description": "n/a",
+        "originalText": "One moment... ::His words come out slow, emerging from the depths of his mind as soon as they are being thought of.:: You see, Godmen hate and have fought Leviathans, whom I do not know much about other than they are... the Enemy... repulsive... giant. Yes, the Mainframe spoke to me of them. That might be why Rahm-Umbra - could he actually be a Godman? - wanted you to destroy Tchort: Tchort is... a Leviathan. \r\n\r\nBut Leviathans were defeated, or so the Mainframe said.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1436,
+        "description": "n/a",
+        "originalText": "I understand.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1440,
+        "description": "n/a",
+        "originalText": "I think so.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1444,
+        "description": "n/a",
+        "originalText": "Not really, no.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1448,
+        "description": "n/a",
+        "originalText": "I have no idea what you're saying.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1452,
+        "description": "n/a",
+        "originalText": "Can you cut the philosophical mumbo-jumbo and just tell me what you guys do?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1456,
+        "description": "n/a",
+        "originalText": "No one else but you spoke to him as far as I know, which makes you the only one I could approach about this.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1460,
+        "description": "n/a",
+        "originalText": "You are interested in him as much as I am. Don't try to deny it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1464,
+        "description": "n/a",
+        "originalText": "Azif?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1468,
+        "description": "n/a",
+        "originalText": "Do not pursue him - and do not inquire into things that do not concern you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1475,
+        "description": "n/a",
+        "originalText": "It seems that both of us are after the same thing.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1479,
+        "description": "n/a",
+        "originalText": "Then, why is he there?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1483,
+        "description": "n/a",
+        "originalText": "We do not know. After handing the Cube into the hands of the other oculite he simply vanished. We had agreed beforehand that, should his infiltration become successful, he would stay in their society for an indefinite amount of time still, if it were possible; there is so much to learn from the Faceless that we weren't going to give up on it after we had come so close.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1489,
+        "description": "n/a",
+        "originalText": "The only thing he relayed to us was that it was more technologically advanced than we had anticipated, and that as a collective they operate on a level above our own. Not much else. Our communication was quite short and to the point.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1495,
+        "description": "n/a",
+        "originalText": "Almost always he contacted us through a different individual, and when that was not the case, this individual at least used a new pseudonym. His true identity and location was never revealed to us... until now. For someone who we now know to be a master at keeping himself hidden from someone like Rahm-Umbra, it is not surprising he's quite capable of managing us, mere mortals in comparison.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1501,
+        "description": "n/a",
+        "originalText": "But have they led to those deaths, or did I just partake in this \u201cevent\u201d that would occur regardless?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1507,
+        "description": "n/a",
+        "originalText": "Was that all you wanted from me, then?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1513,
+        "description": "n/a",
+        "originalText": "Indeed. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1519,
+        "description": "n/a",
+        "originalText": "Monitoring. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1525,
+        "description": "n/a",
+        "originalText": "No, that is just a fortunate bonus.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1531,
+        "description": "n/a",
+        "originalText": "What exactly it means is a part of the mystery and for the same reasons I cannot explain the meaning of the word, I also cannot convey well enough the things the Mainframe told me about the Godmen.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1537,
+        "description": "n/a",
+        "originalText": "Can I try to connect to it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1541,
+        "description": "n/a",
+        "originalText": "Interesting.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1546,
+        "description": "n/a",
+        "originalText": "So their attraction to Oculus could have some... religious basis. At least for him it does.\r\n\r\nIt is not difficult to imagine that they're trying to reach this Transfinite idyll of theirs through what they don't perceive as violent death but rather some kind of... ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1552,
+        "description": "n/a",
+        "originalText": "I need to know what these results were and I suspect that Wit is the only man that can help us with that. I don't know where he is or if he's alive at all, so getting this information will surely not be easy.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1557,
+        "description": "n/a",
+        "originalText": "Is he... an old man now?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1562,
+        "description": "n/a",
+        "originalText": "context.npc_wit_toldSecret",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1566,
+        "description": "n/a",
+        "originalText": "Hmm... ::Azif dwells on what you told him for a while.:: This is interesting, but without the research documentation, there's not much to go on.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1572,
+        "description": "n/a",
+        "originalText": "You must find a way to convince him then. The knowledge he holds may be very important, yes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1579,
+        "description": "n/a",
+        "originalText": "::He listens closely as you describe your vision.:: And what do you think that vision speaks of?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1587,
+        "description": "n/a",
+        "originalText": "context.npc_azif_sharedVision1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1592,
+        "description": "n/a",
+        "originalText": "::He listens closely as you describe your vision.:: How do you interpret that vision?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1600,
+        "description": "n/a",
+        "originalText": "context.npc_azif_sharedVision2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1605,
+        "description": "n/a",
+        "originalText": "::He listens closely as you describe your vision.:: And what do you think it all means?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1613,
+        "description": "n/a",
+        "originalText": "context.npc_azif_sharedVision3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1617,
+        "description": "n/a",
+        "originalText": "Very well.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1624,
+        "description": "n/a",
+        "originalText": "Now, besides finding out about it, did you also, perhaps... find *it*? ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1630,
+        "description": "n/a",
+        "originalText": "Now, have you merely heard about it, or do you have anything more... concrete for me? ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 1634,
+        "description": "n/a",
+        "originalText": "plot.xpbl_acorn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 1636,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_acorn_gaveTo",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 1637,
+        "description": "n/a",
+        "originalText": "azif",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 1639,
+        "description": "n/a",
+        "originalText": "xpbl_foundAcorn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1644,
+        "description": "n/a",
+        "originalText": "What do you mean?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1649,
+        "description": "n/a",
+        "originalText": "For the quantum near-field lock? I don't have that, if that's what you mean.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1663,
+        "description": "n/a",
+        "originalText": "Obviously I can't go into all of the details, but I can describe to you the basic principles of operation to the extent of my knowledge: Once an Acorn is unlocked and activated, it loads its blueprint and seeks to realize it. The blueprint is not as simple as one may think, as it does not only contain the design for the megaproject itself but also patterns for everything that needs to be built *in order* to finish the megaproject.\r\n\r\nTo put it simply, the nanobots cannot do everything themselves - they need to make machines that make bigger and more complex machines.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1667,
+        "description": "n/a",
+        "originalText": "context.npc_wa_azif_toldAcornFunctions",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1668,
+        "description": "n/a",
+        "originalText": "context.npc_wa_azif_toldAcornFunctions",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1672,
+        "description": "n/a",
+        "originalText": "They manufactured and issued them, that is documented and well-known. The container is theirs. The quantum near-field lock is theirs. But the technology of the Acorn itself - highly unlikely. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1678,
+        "description": "n/a",
+        "originalText": "They were offered to anyone who could afford them, programmed to realize what the contractors desired. All major supercorporations had them, it's no secret. Saying Acorns were abundant would be ridiculous, but there is good evidence that they all had at least one at one point or another.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1684,
+        "description": "n/a",
+        "originalText": "Observe. Study it. It is unusable without the coded signal, a state in which it may remain for years to come... but even in dormancy it can teach us plenty.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1690,
+        "description": "n/a",
+        "originalText": "Yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1698,
+        "description": "n/a",
+        "originalText": "It was indeed chipped off that very monolith.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1703,
+        "description": "n/a",
+        "originalText": "A ferryman in the Black Sea used it to kill one of the giant savage natives there by throwing it at him. I retrieved it from the savage's corpse.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1707,
+        "description": "n/a",
+        "originalText": "It was buried in the corpse of a savage giant in the Black Sea.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1711,
+        "description": "n/a",
+        "originalText": "I found it in a barrel in Lower Underrail.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1715,
+        "description": "n/a",
+        "originalText": "For me, doing it alone and for my eyes only, slowly, over a period of time, probably not that dangerous. But for you participating in my divination, it could be rather dangerous, yes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1724,
+        "description": "n/a",
+        "originalText": "::He nods and moves a step closer.:: Hold the shard out in your palm and look into my eyes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1732,
+        "description": "n/a",
+        "originalText": "I would give you 1500 charons. I think that would be fair, yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 1735,
+        "description": "n/a",
+        "originalText": "shard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1743,
+        "description": "n/a",
+        "originalText": "::He pauses for a moment.:: I will take it then. Thank you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1749,
+        "description": "n/a",
+        "originalText": "Go on. Yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1757,
+        "description": "n/a",
+        "originalText": "It was chipped off a monolith at the entrance to the Black Sea.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1761,
+        "description": "n/a",
+        "originalText": "It looks like some sort of Godmen device. I've seen and held similar devices before, but not one exactly like this. It looks like it could be a weapon.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1764,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_askedHimWhatToDoWithIt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1769,
+        "description": "n/a",
+        "originalText": "You should try experimenting with it, see what it can do and what it's limits are. Carefully, of course.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1773,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_askedHimWhatToDoWithIt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1779,
+        "description": "n/a",
+        "originalText": "As I suspected then, yes. It doesn't sound like it was particularly devastating, according to Godmen standards at least.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1783,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_tellHim_usedIt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1789,
+        "description": "n/a",
+        "originalText": "::He listens carefully as you tell him the story of how you descended into the Abyssal Station and destroyed the black monolith you found there and what you learned about it.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1793,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_tellHim_destroyedShadowlith",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1799,
+        "description": "n/a",
+        "originalText": "::He listens carefully as you tell him about the temple of the savages and how you destroyed their totem stone.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1803,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_tellHim_detroyedTotemStone",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1809,
+        "description": "n/a",
+        "originalText": "::He listens carefully as you tell him about how you struck the savage king down twice.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1813,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_tellHim_killedSavageKingSpirit",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1819,
+        "description": "n/a",
+        "originalText": "::He listens carefully as you tell him the story of how you descended into the Abyssal Station and fought and killed a void creature.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1823,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_tellHim_killedVoidCreature",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 1824,
+        "description": "n/a",
+        "originalText": "monolithTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1832,
+        "description": "n/a",
+        "originalText": "::He pauses for a moment.:: I will take it then. Thank you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1838,
+        "description": "n/a",
+        "originalText": "If what you said is true, then that would explain why killing Tchort suddenly became more important than finding Tanner. But how do I fit into all of this?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1842,
+        "description": "n/a",
+        "originalText": "Very good. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1848,
+        "description": "n/a",
+        "originalText": "Yes, I think you do. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1853,
+        "description": "n/a",
+        "originalText": "It could be that you don't have ears for these words?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1861,
+        "description": "n/a",
+        "originalText": "That is not the issue. The issue is that ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1867,
+        "description": "n/a",
+        "originalText": "I will not. Regardless, ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1874,
+        "description": "n/a",
+        "originalText": "Six is my client, and to clients I have certain obligations",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1877,
+        "description": "n/a",
+        "originalText": "context.npc_rahmUmbra_toldCube",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1881,
+        "description": "n/a",
+        "originalText": "But we haven't heard from him since. Utter silence. It could be that he was compromised and later hunted down and executed, or that he returned to them to continue with his task - and become absorbed by their society. After all, this could've been the mechanism by which he tricked the Faceless into believing that he was one of them - he became one of them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1887,
+        "description": "n/a",
+        "originalText": "Oh, and yes, he did warn us of their military capacity, and that we witnessed shortly after.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1893,
+        "description": "n/a",
+        "originalText": "Besides, we - Rahm-Umbra and I - have already made a contract. I knew what had to be done, and I didn't want to risk it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1899,
+        "description": "n/a",
+        "originalText": "You should dwell careful on the meaning of Rahm-Umbra's words and how they relate to our perception of causality. I know I will.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1905,
+        "description": "n/a",
+        "originalText": "Though much of their machinery is broken or inoperable, those that we can still use give us considerable insight into what is going on in Underrail.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1911,
+        "description": "n/a",
+        "originalText": "This place was meant for monitoring the world around it, or more specifically - the human society. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1917,
+        "description": "n/a",
+        "originalText": "Depending on whether the messages are interpreted as history or visions - Godmen are, were or yet to be, the masters of their galaxy and all the universe that is within their reach. Their home is a moon orbiting a gas giant. Where these celestial bodies are in relation to us - I do not know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1923,
+        "description": "n/a",
+        "originalText": "You may, but know that is likely to end badly for you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1929,
+        "description": "n/a",
+        "originalText": "Indeed.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1935,
+        "description": "n/a",
+        "originalText": "transformation, yes. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1942,
+        "description": "n/a",
+        "originalText": "journey, perhaps.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1948,
+        "description": "n/a",
+        "originalText": "You will have our knowledge database to help you in your investigation though, so I suggest you start there. You can access it through a console in the geopolitical room, near the holographic map.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1954,
+        "description": "n/a",
+        "originalText": "Pretty old, yeah.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1958,
+        "description": "n/a",
+        "originalText": "Nope, he looks like a middle-age man.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1961,
+        "description": "n/a",
+        "originalText": "And you say you didn't find anything on him or his premises?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1965,
+        "description": "n/a",
+        "originalText": "context.wa_mainframe_vision1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1966,
+        "description": "n/a",
+        "originalText": "context.npc_azif_sharedVision1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1969,
+        "description": "n/a",
+        "originalText": "::[Intelligence]:: ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1972,
+        "description": "n/a",
+        "originalText": "::[Intelligence]::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1979,
+        "description": "n/a",
+        "originalText": "I don't know yet.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1980,
+        "description": "n/a",
+        "originalText": "context.wa_mainframe_vision2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1981,
+        "description": "n/a",
+        "originalText": "context.npc_azif_sharedVision2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1994,
+        "description": "n/a",
+        "originalText": "I don't know yet.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1995,
+        "description": "n/a",
+        "originalText": "context.wa_mainframe_vision3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1996,
+        "description": "n/a",
+        "originalText": "context.npc_azif_sharedVision3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2009,
+        "description": "n/a",
+        "originalText": "I don't know yet.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2010,
+        "description": "n/a",
+        "originalText": "tempcontext.azif_acornToldAttention",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 2019,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_knowACoNR_level",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2024,
+        "description": "n/a",
+        "originalText": "Acorns have something called a quantum near-field lock. These kinds of locks require a highly complex coded signal to open. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 2027,
+        "description": "n/a",
+        "originalText": "context.global_xpbl_knowACoNR_level",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2032,
+        "description": "n/a",
+        "originalText": "You know about it? Yes, for the lock. All Acorns have it. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2039,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: Seven sounds perfectly respectful.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2044,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: Six sounds a lot more respectful.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2049,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: Five sounds quite respectful.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2054,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: Four sounds a bit more respectful.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2058,
+        "description": "n/a",
+        "originalText": "Three thousand sounds right.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2062,
+        "description": "n/a",
+        "originalText": "Now, the Acorn's advanced AI allows it to evaluate its surroundings, which might be nothing more than damp, deserted caverns. This would mean its nanobots would have to adapt, to seek raw materials on their own, manufacture machinery - essentially, develop all the necessary technology from scratch.\r\n\r\nThe Acorn will often need to establish an external source of electric power - its starting energy stores are immense but finite - and it needs the means to defend itself and its work as well.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2068,
+        "description": "n/a",
+        "originalText": "Such acute artificial intelligence and fine nanobot control and capability surpass the known technological achievements of any of the supercorporations of the time period, and even of today. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2074,
+        "description": "n/a",
+        "originalText": "But where they are now, that is a question I cannot answer. This one's the first to be discovered, after decades and decades...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2080,
+        "description": "n/a",
+        "originalText": "For now - we have it. We have it...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2087,
+        "description": "n/a",
+        "originalText": "Chipped off? As in - detached from it by physical force, yes? How?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2095,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_toldHimAboutChipping",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2096,
+        "description": "n/a",
+        "originalText": "context.xpbl_ferrymanKilledGiantStory",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2100,
+        "description": "n/a",
+        "originalText": "I see. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2106,
+        "description": "n/a",
+        "originalText": "How... fortunate for you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2112,
+        "description": "n/a",
+        "originalText": "But do not think that I seek to discourage you so that you would pass the artifact to me. If you wish to take this risk upon yourself, I will gladly help you and I will do as much as I can to shield you from any dangerous emanations.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 2115,
+        "description": "n/a",
+        "originalText": "shard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2116,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_attemptedDecoding",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2120,
+        "description": "n/a",
+        "originalText": "::You look into his black abyssal eyes. In a few moments, darkness overtakes you and you can see nothing. But after a while you can make out the shard in your palms, but seen through his eyes.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2124,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_attemptedDecoding",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 2125,
+        "description": "n/a",
+        "originalText": "shard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2126,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_attemptedDecoding",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".T13.T13:IC",
+        "objectId": 2138,
+        "description": "n/a",
+        "originalText": "shard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2141,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_giftedToHim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2143,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_transfferedToHim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2145,
+        "description": "n/a",
+        "originalText": "tempcontext.cannotAskAboutTransfferedShard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2149,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_toldHimAboutChipping",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2154,
+        "description": "n/a",
+        "originalText": "Or, as I suggested before, I would be willing to buy it from you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2160,
+        "description": "n/a",
+        "originalText": "Or I would be willing to buy it from you for a fair price, if you do not want it anymore.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2163,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_tellHim_usedIt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2164,
+        "description": "n/a",
+        "originalText": "context.item_etherealTorch_used",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2165,
+        "description": "n/a",
+        "originalText": "azif",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2166,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2167,
+        "description": "n/a",
+        "originalText": "context.xpbl_ds3_shadowlithDestroyed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2168,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_tellHim_destroyedShadowlith",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2172,
+        "description": "n/a",
+        "originalText": "I've never came across anything resembling the type of monolith you describe. It's unfortunate that you could not bring back to me a sample of it due to its weight. Perhaps we'll have to organize an expedition to that place at some point to learn more about what exactly took place there.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2175,
+        "description": "n/a",
+        "originalText": "azif",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2176,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2177,
+        "description": "n/a",
+        "originalText": "context.loc_xpbl_b12_temple_shadowlithFragmentDestroyed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2178,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_tellHim_detroyedTotemStone",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2182,
+        "description": "n/a",
+        "originalText": "We are aware of their presence there. We're going to keep a close eye on how your actions affect them going into the future. I am curious of their connection to that stone.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2185,
+        "description": "n/a",
+        "originalText": "azif",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2186,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2187,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_sormirbaren_king_spirit_dead",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2188,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_tellHim_killedSavageKingSpirit",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2192,
+        "description": "n/a",
+        "originalText": "I do wonder what exactly was that void creature that returned bearing his image. Was it really him? If it was, that brings up the question then, can the energies that their shamans rely on really provide some sort of potential immortality or at least a life after initial physical death. Hmm...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2195,
+        "description": "n/a",
+        "originalText": "azif",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2196,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2197,
+        "description": "n/a",
+        "originalText": "context.xpbl_aSpaceSnakeKilled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2198,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_tellHim_killedVoidCreature",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2202,
+        "description": "n/a",
+        "originalText": "Hmm... curious. I think I beheld something similar back when I... back when we did some crude experiments with the Godmen monoliths. Perhaps, at some point, we ought to organize an expedition to that place to see if we can learn more from them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2205,
+        "description": "n/a",
+        "originalText": "azif",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2206,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2208,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_giftedToHim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2210,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_transfferedToHim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2212,
+        "description": "n/a",
+        "originalText": "tempcontext.cannotAskAboutTransfferedTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".T13.T13:IC",
+        "objectId": 2214,
+        "description": "n/a",
+        "originalText": "monolithTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2219,
+        "description": "n/a",
+        "originalText": "You? I'll get to that. But let us consider this first: It could really be that not all Leviathans have been defeated, and that Rahm-Umbra at some point during his chase for Tanner recognized Tchort as being one. But then again, there is so much in your story that grounds Tchort to our world. It came to existence here, in this - our reality, in our time. Yes? It is not otherwordly, is it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2225,
+        "description": "n/a",
+        "originalText": "Tell me then - is this something that you would want to be a part of? Will you join our organization?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2231,
+        "description": "n/a",
+        "originalText": "I'm just kidding. I get it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2235,
+        "description": "n/a",
+        "originalText": "Sorry, still no idea what you're saying.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2240,
+        "description": "n/a",
+        "originalText": "; we have already discussed this. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2246,
+        "description": "n/a",
+        "originalText": ". Not revealing sensitive information about them is one of those obligations. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2252,
+        "description": "n/a",
+        "originalText": "We're back to suppositions. The short and simple truth is - I do not know. At this point, everything is possible.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2258,
+        "description": "n/a",
+        "originalText": "That is why we call it Oculus.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2264,
+        "description": "n/a",
+        "originalText": "They came into power by defeating the Leviathans, whom they greatly hate, though I know little about those. Godmen sit immortal on their moon, watching the universe through super-telescopes. Their stars give them more power than they need and they can fire their deadly weapons as far as they can see.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2267,
+        "description": "n/a",
+        "originalText": "context.npc_lux_lunaticSynesthete_talkedPlace",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2271,
+        "description": "n/a",
+        "originalText": "He also told me how all of these Lunatics have been summoned by the Oculus from every \"angle\" of Underrail, long before he came along. But their more direct methods couldn't help them reach Transfinity.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2274,
+        "description": "n/a",
+        "originalText": "\r\n\r\nIs this Lunatic still among the living, or did he share the fate of his predecessors?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2283,
+        "description": "n/a",
+        "originalText": "I see. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2289,
+        "description": "n/a",
+        "originalText": "Hmm... ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2295,
+        "description": "n/a",
+        "originalText": "Absolutely nothing.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2299,
+        "description": "n/a",
+        "originalText": "Hmm. ::He nods understandingly.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2306,
+        "description": "n/a",
+        "originalText": "As a matter of fact, I have it here. ::Show him the Acorn.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2310,
+        "description": "n/a",
+        "originalText": "Not yet, but I'm working on obtaining it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2314,
+        "description": "n/a",
+        "originalText": "No.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2317,
+        "description": "n/a",
+        "originalText": "But perhaps I'm asking for too much. These locks are practically impenetrable... but there is time.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2333,
+        "description": "n/a",
+        "originalText": "The Oculus budget may be large, but it is not limitless.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2364,
+        "description": "n/a",
+        "originalText": "Excellent.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2370,
+        "description": "n/a",
+        "originalText": "Conversely, it could've been activated in a high-technology environment, where power and processed materials are readily available, where it could interface with other machines and systems in order to, yes, *learn* and aid itself in order to complete its task. \r\n\r\nOne can even actively help it by feeding it data it requires for further progress, as well as supplying it with resources.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2373,
+        "description": "n/a",
+        "originalText": "context.loc_xpbl_c3_monolith_chippingExamined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2374,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_pir_donnie_toldMonolith",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2379,
+        "description": "n/a",
+        "originalText": "With a mining pick.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2384,
+        "description": "n/a",
+        "originalText": "A man struck it with a mining pick and got turned into a rock of some kind, but he did manage to chip it off.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2389,
+        "description": "n/a",
+        "originalText": "A man struck it with a mining pick and got carbonized, but he did manage to chip it off.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2393,
+        "description": "n/a",
+        "originalText": "I don't know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2397,
+        "description": "n/a",
+        "originalText": "It seems to be a part of a Godmen monolith. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2403,
+        "description": "n/a",
+        "originalText": "::As you trace your hand across the surface of the rocky side, you have a strange feeling that somehow this side of the item is meant to be held in your hand, like a handle. There's nothing in the shape of it that suggests it, but you get the feeling all the same.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2411,
+        "description": "n/a",
+        "originalText": "It's a deal.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2418,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: I think it's worth at least 1750.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2425,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: I really can't go under 2000.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2432,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: I'll part with it for 2250. I bet I could get even more from some... wealthy collectors.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2436,
+        "description": "n/a",
+        "originalText": "I will have to think about it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2437,
+        "description": "n/a",
+        "originalText": "context.loc_xpbl_c3_monolith_chippingExamined",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2438,
+        "description": "n/a",
+        "originalText": "context.npc_xpbl_pir_donnie_toldMonolith",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2439,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_offeredToBuyIt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2442,
+        "description": "n/a",
+        "originalText": "Then again, it is apparent that Rahm-Umbra experiences things differently than us. There is no before or after for him - only events. Self-contained and predestined. It could be that Leviathans are not specific creatures of any kind - could it be that they are evil in general? But they haven't defeated evil, or did they? In their time? And it could also be that you aren't special on your own but because you simply embody something... else? More?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2462,
+        "description": "n/a",
+        "originalText": "::He looks at you suspiciously.:: I see. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2469,
+        "description": "n/a",
+        "originalText": "This was a mistake. You should forget this meeting ever took place.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2472,
+        "description": "n/a",
+        "originalText": "context.npc_azif_talkSixInstitute",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2476,
+        "description": "n/a",
+        "originalText": "So why should I reveal anything to you?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2482,
+        "description": "n/a",
+        "originalText": "Godmen have nothing to fear except the dark empty silent expanses and primordial fires, though they highly prefer the latter.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2488,
+        "description": "n/a",
+        "originalText": "Summoned... And angles again? How fascinating. Speaks of a very mathematical perception of reality.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2495,
+        "description": "n/a",
+        "originalText": "He's alive, but he's no longer with the rest of the Lunatics.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2500,
+        "description": "n/a",
+        "originalText": "He's dead.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2505,
+        "description": "n/a",
+        "originalText": "He's alive.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2509,
+        "description": "n/a",
+        "originalText": "Go on - did he tell you anything about his research?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2515,
+        "description": "n/a",
+        "originalText": "Very unfortunate.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 2518,
+        "description": "n/a",
+        "originalText": "plot.xpbl_acorn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2523,
+        "description": "n/a",
+        "originalText": "That is unfortunate. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2529,
+        "description": "n/a",
+        "originalText": "Isn't there some other way to open it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2533,
+        "description": "n/a",
+        "originalText": "Wait, you said Acorns. There is more than one?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2538,
+        "description": "n/a",
+        "originalText": "Agreed.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2543,
+        "description": "n/a",
+        "originalText": "azif",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2544,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2548,
+        "description": "n/a",
+        "originalText": "azif",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2549,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2553,
+        "description": "n/a",
+        "originalText": "azif",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2554,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2558,
+        "description": "n/a",
+        "originalText": "azif",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2559,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2562,
+        "description": "n/a",
+        "originalText": "azif",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2563,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2567,
+        "description": "n/a",
+        "originalText": "Additionally, it is clever enough to substitute materials it doesn't have with the ones it does, so the end result can fulfill the requirements in *essence* but not necessarily in form. As long as it fits the needs, the Acorn will use anything it can - however it can. \r\n\r\nIt doesn't merely follow the blueprint, it uses reason... *its* reason, yes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2572,
+        "description": "n/a",
+        "originalText": "With a plain mining pick? Are you joking with me?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2580,
+        "description": "n/a",
+        "originalText": "tempcontext.haventSpecifiedWhatHappenedToChipper",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2588,
+        "description": "n/a",
+        "originalText": "In all my time studying the monoliths I have never seen anyway manage to do even the slightest damage to them with simple tools or weapons.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2594,
+        "description": "n/a",
+        "originalText": "I have seen and been in possession of pieces similar to this before. This Godmen technology is strange thing, yes: They seem to put their data, machines, tool, and maybe some living conscious minds inside these big packages that are the monoliths we see scattered across the world.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2600,
+        "description": "n/a",
+        "originalText": "::This feeling doesn't last long after you turn the item to observe the crystal side.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2609,
+        "description": "n/a",
+        "originalText": "::He nods.:: Excellent. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2622,
+        "description": "n/a",
+        "originalText": "Perhaps you are right. Very well, it's a deal.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2628,
+        "description": "n/a",
+        "originalText": "Perhaps, but to me it is not. All I will offer is 1500.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2632,
+        "description": "n/a",
+        "originalText": "tempcontext.shardMerc1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2641,
+        "description": "n/a",
+        "originalText": "Perhaps you are right. Very well, it's a deal.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2647,
+        "description": "n/a",
+        "originalText": "That is too bad, but nevertheless all I will offer is 1500.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2651,
+        "description": "n/a",
+        "originalText": "tempcontext.shardMerc2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2660,
+        "description": "n/a",
+        "originalText": "Hmm... very well then. Perhaps I did undervalue it a bit.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2666,
+        "description": "n/a",
+        "originalText": "You are welcome to try. If it doesn't work out, my offer will still stand - 1500 charons.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2670,
+        "description": "n/a",
+        "originalText": "tempcontext.shardMerc3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2675,
+        "description": "n/a",
+        "originalText": "::He nods.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2682,
+        "description": "n/a",
+        "originalText": "::[Intelligence]:: Maybe it is not the present me he values so much - but the future me?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2686,
+        "description": "n/a",
+        "originalText": "I think I was just a fortunate $(#man/woman) in an unfortunate world. I am still made of nothing more than flesh and bone.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2690,
+        "description": "n/a",
+        "originalText": "Well, I have to confess that I really dominate, to use Core City slang.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2695,
+        "description": "n/a",
+        "originalText": "I am the Invictus, after all.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2699,
+        "description": "n/a",
+        "originalText": "Yes, I wish to join your organization.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2705,
+        "description": "n/a",
+        "originalText": "I'll have to think about this.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2711,
+        "description": "n/a",
+        "originalText": "What would I have to do?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2715,
+        "description": "n/a",
+        "originalText": "Thank you for the offer, but I don't think that's the life for me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2719,
+        "description": "n/a",
+        "originalText": "Nah, I'll pass.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2721,
+        "description": "n/a",
+        "originalText": "context.npc_azif_offended",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2723,
+        "description": "n/a",
+        "originalText": "context.npc_azif_lockedOut",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2735,
+        "description": "n/a",
+        "originalText": "That is a lot to take in, is it not? Do not ask me what any of this means, though. I would not condition your contemplations with my own assumptions. I'd rather you produce something entirely new for me to consider.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2742,
+        "description": "n/a",
+        "originalText": "context.npc_lux_lunaticSynesthete_talkedJuice",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2746,
+        "description": "n/a",
+        "originalText": "Shame. You've sparked my interest, but alas. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2749,
+        "description": "n/a",
+        "originalText": "context.npc_lux_synesthete_dead",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2750,
+        "description": "n/a",
+        "originalText": "context.npc_lux_synesthete_dead",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2754,
+        "description": "n/a",
+        "originalText": "Excellent. I'll keep a closer eye on him. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2764,
+        "description": "n/a",
+        "originalText": "But still, you did well, yes. Tracking him down must not have been easy. One thousand charons is your reward, as well as this. ::He hands you some manner of electronic device.:: I think you'll find this very useful.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2771,
+        "description": "n/a",
+        "originalText": "If your ventures do lead you to it, ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2777,
+        "description": "n/a",
+        "originalText": "If you do manage to find the Acorn, ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2782,
+        "description": "n/a",
+        "originalText": "Acorns have the ability to self-destruct in case someone tries to physically open the container. Nothing overly devastating - it simply melts its core, rendering itself useless.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2789,
+        "description": "n/a",
+        "originalText": "::He chuckles.:: Yes, there are more of them...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2810,
+        "description": "n/a",
+        "originalText": "It's all highly advanced, highly, highly advanced. And the megaprojects, as the name implies, are monumental in scale and importance. After all, using such elegant technology on lesser things would be... wasteful, wouldn't it? \r\n\r\nSo think of massive machines, vehicles, facilities, stations, entire cities - megalopolises... Yes. You understand.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2817,
+        "description": "n/a",
+        "originalText": "Not at all.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2824,
+        "description": "n/a",
+        "originalText": "No, it's true, though the man that struck it got turned into a rock of some kind.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2831,
+        "description": "n/a",
+        "originalText": "No, it's true, though the man that struck it got carbonized.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2835,
+        "description": "n/a",
+        "originalText": "Yeah, I'm just messing with you. I don't know how it was detached.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2836,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_quinton_talkedPyriteStevePiece",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2837,
+        "description": "n/a",
+        "originalText": "context.item_pyriteStevePieceAnalyzed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2838,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_quinton_talkedPyriteStevePiece",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2839,
+        "description": "n/a",
+        "originalText": "context.item_pyriteStevePieceAnalyzed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2844,
+        "description": "n/a",
+        "originalText": "In any case ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2851,
+        "description": "n/a",
+        "originalText": "Maybe they do so in order to protect their possessions from those such as we, as retrieving them is both difficult and very risky; and somewhat a random process, especially when it comes to the devices themselves.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2857,
+        "description": "n/a",
+        "originalText": "::You stare into the crystal for a while and its light starts to imprint incredible images into your mind's eye. Geometric shapes and bodies that defy the laws of space, infinitely fine patterns, colors beyond the visible spectrum and greater wonders that you have no way to describe even to yourself.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 2860,
+        "description": "n/a",
+        "originalText": "shard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 2861,
+        "description": "n/a",
+        "originalText": "monolithTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2869,
+        "description": "n/a",
+        "originalText": "::He takes the device and hands you the money.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2879,
+        "description": "n/a",
+        "originalText": "::He takes the shard and hands you the money.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2887,
+        "description": "n/a",
+        "originalText": "tempcontext.shardMerc1",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2891,
+        "description": "n/a",
+        "originalText": "tempcontext.shardMerc2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2897,
+        "description": "n/a",
+        "originalText": "azif",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2898,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2899,
+        "description": "n/a",
+        "originalText": "tempcontext.shardMerc3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2905,
+        "description": "n/a",
+        "originalText": "azif",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 2906,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2918,
+        "description": "n/a",
+        "originalText": "It could be so. The same applies to Tchort, though - perhaps this Tchort is not a threat in his eyes but what it will grow to become, yes? But then again... future and past - temporal dimension - these do not seem to be a part of Rahm-Umbra's vocabulary.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2924,
+        "description": "n/a",
+        "originalText": "It could be that your value does not come from your... material properties.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2930,
+        "description": "n/a",
+        "originalText": "No doubt about that. You aren't an oculite for no reason.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2933,
+        "description": "n/a",
+        "originalText": "context.loc_cc_arenaFinished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2936,
+        "description": "n/a",
+        "originalText": "Hm.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2946,
+        "description": "n/a",
+        "originalText": "::His eyes move, but their uniform blackness prevents you from distinguishing the exact point of their focus. A single blink brings them to a stop.:: \r\n\r\nExcellent. Follow me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2950,
+        "description": "n/a",
+        "originalText": "tempcontext.thinkAboutIt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2954,
+        "description": "n/a",
+        "originalText": "You may take a moment to consider this, but I'm afraid I have to insist that you provide me with an answer before we part ways.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2958,
+        "description": "n/a",
+        "originalText": "tempcontext.thinkAboutIt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 2959,
+        "description": "n/a",
+        "originalText": "tempcontext.whatWouldIDo",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2963,
+        "description": "n/a",
+        "originalText": "You should have a clear picture on how we operate by now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 2967,
+        "description": "n/a",
+        "originalText": "tempcontext.whatWouldIDo",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 2971,
+        "description": "n/a",
+        "originalText": "::He nods slowly.:: You should forget this meeting ever took place.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2978,
+        "description": "n/a",
+        "originalText": "::[Intelligence]:: Because I hold one piece of the puzzle that is Six, while you hold another. These pieces are not enough to gain complete understanding of him, his kin, his world, his history - and all this may be nothing but scratching the surface - but every step brings us closer to the truth. Like it or not, he has become a client of us both, so why not combine our knowledge?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2983,
+        "description": "n/a",
+        "originalText": "::[Persuade]:: Because you'll learn more from me about Six than I'll learn from you. Besides, we've both cooperated with him. Why shouldn't we share this kind of information? Isn't precisely that our main objective - gathering information?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2987,
+        "description": "n/a",
+        "originalText": "If Six could've revealed his *true* name to me, then it's clear how much he trusts me. Why wouldn't you?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2993,
+        "description": "n/a",
+        "originalText": "'Cause I'm the freakin' Invictus!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 2997,
+        "description": "n/a",
+        "originalText": "Very interesting. Perhaps I will meditate on it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3001,
+        "description": "n/a",
+        "originalText": "I think I heard enough for now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3005,
+        "description": "n/a",
+        "originalText": "I prefer action to riddles myself, so I'll leave the mystery of Godmen to you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3009,
+        "description": "n/a",
+        "originalText": "I don't know what you're on, man, but pass that stuff.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3013,
+        "description": "n/a",
+        "originalText": "These Lunatics, there is some truth in what they're sensing, yes, however they might interpret it. \r\n\r\nI merely wish to distill it, $(context.player.Name), and learn from it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3018,
+        "description": "n/a",
+        "originalText": "I don't have anything else for you to work on right now so you are free to pursue your own leads and opportunities. We'll be here if you need us and do remember that you still have the resources and the tools of Oculus at your disposal.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 3022,
+        "description": "n/a",
+        "originalText": "wa_oldManNosek",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3024,
+        "description": "n/a",
+        "originalText": "context.quest_wa_oldManNosek_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3029,
+        "description": "n/a",
+        "originalText": "tempcontext.azif_acornToldAttention",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3033,
+        "description": "n/a",
+        "originalText": "bring it to me without delay and you will be rewarded. Not only with coins, no, but also with knowledge regarding the technology of and accordingly *within* the Acorn.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 3036,
+        "description": "n/a",
+        "originalText": "azif",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 3037,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3041,
+        "description": "n/a",
+        "originalText": "Acorns, you see, they are quite unique things. Inside each one is a spherical supercomputer - the brain of an artificial intelligence capable of controlling innumerable nanobots also contained within.\r\n\r\nWhy? To create. For each Acorn has a prime directive to construct something - a *megaproject* - based on a blueprint it has. It must do this under any and all circumstances, and it can do so autonomously, all on its own.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3052,
+        "description": "n/a",
+        "originalText": "I find that ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3056,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_confirmedChipping",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3057,
+        "description": "n/a",
+        "originalText": "tempcontext.haventSpecifiedWhatHappenedToChipper",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3061,
+        "description": "n/a",
+        "originalText": "I still find that ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3065,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_confirmedChipping",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3067,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_chipperPyrolized",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3068,
+        "description": "n/a",
+        "originalText": "tempcontext.haventSpecifiedWhatHappenedToChipper",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3070,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_confirmedChipping",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3072,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_chipperCarbonized",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3076,
+        "description": "n/a",
+        "originalText": "I see. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3083,
+        "description": "n/a",
+        "originalText": "I have seen and been in possession of pieces of Godmen monolith. This Godmen technology is a strange thing, yes: they seem to put their data, machines, tools, and maybe some living conscious minds inside these big packages that are the monoliths we see scattered across the world.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3089,
+        "description": "n/a",
+        "originalText": "So you say this devices was once a monolith chipping - a shard. How did you manage to transform it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3098,
+        "description": "n/a",
+        "originalText": "Know that the shard that you have is the encoded form of whatever that device is, but what that devices is - is not determined yet, it could be multiple things, probably depending on some factors we are not aware of and cannot influence meaningfully at this time.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3104,
+        "description": "n/a",
+        "originalText": "::And they all seem to occupy the same space - the infinite depths of the ethereal light of the crystal. You need but only reach out and grab them before they flee too far from your limited mind.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 3107,
+        "description": "n/a",
+        "originalText": "monolithTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".T13.T13:IC",
+        "objectId": 3109,
+        "description": "n/a",
+        "originalText": "monolithTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3112,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_soldToHim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3114,
+        "description": "n/a",
+        "originalText": "context.npc_azif_torch_transfferedToHim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3116,
+        "description": "n/a",
+        "originalText": "tempcontext.cannotAskAboutTransfferedTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3118,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_transfferedToHim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3120,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_soldToHim",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3122,
+        "description": "n/a",
+        "originalText": "tempcontext.cannotAskAboutTransfferedShard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".T13.T13:IC",
+        "objectId": 3124,
+        "description": "n/a",
+        "originalText": "shard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 3127,
+        "description": "n/a",
+        "originalText": "shard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 3128,
+        "description": "n/a",
+        "originalText": "monolithTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 3132,
+        "description": "n/a",
+        "originalText": "shard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 3133,
+        "description": "n/a",
+        "originalText": "monolithTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 3137,
+        "description": "n/a",
+        "originalText": "monolithTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 3138,
+        "description": "n/a",
+        "originalText": "shard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3142,
+        "description": "n/a",
+        "originalText": "tempcontext.fromTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3146,
+        "description": "n/a",
+        "originalText": "$(context.player.Name), we are now dealing with concepts we cannot understand so easily, if at all. The simpler the model of something is and the less you have to hypothesize, the more likely it is for that model to be true; and we make a lot of suppositions. Rahm-Umbra being Godman - it is an idea I resist greatly, because Godmen - the way I see them - cannot be these... cyborgs - whatever Rahm-Umbra is. Their form should be purer... more celestial, angelic. No matter how alien Rahm-Umbra might appear to us, he is not alien enough, not on a vertical scale at least. He is... too conceivable.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3150,
+        "description": "n/a",
+        "originalText": "context.npc_azif_agreedToJoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 3152,
+        "description": "n/a",
+        "originalText": "wa_meetAzif",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3156,
+        "description": "n/a",
+        "originalText": "::Follow him.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3158,
+        "description": "n/a",
+        "originalText": "context.npc_azif_lockedOut",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3163,
+        "description": "n/a",
+        "originalText": "I'm rather impressed by your response, for it revealed to me a part of you that I hadn't noticed earlier: You not only understand that there is this other world encompassing our own, that it exists, but you seek to understand *it*. Lesser $(#men/people) are either afraid, partially for their material existence due to such an endeavor but also because it might shatter the already fragile mechanics of their perceived world. It is a mental feat to reevaluate something as basic as reality and reinterpret things we take for granted. What then follows is the relativization of everything, and most can't bear that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3170,
+        "description": "n/a",
+        "originalText": "When you put it in that perspective, I have no choice but to agree with you. Very good, $(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3176,
+        "description": "n/a",
+        "originalText": "I see your point, $(context.player.Name). You have managed to grab my attention.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3184,
+        "description": "n/a",
+        "originalText": "I know. And it makes no difference.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3188,
+        "description": "n/a",
+        "originalText": "context.npc_azif_discussSixToldInvictus",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3192,
+        "description": "n/a",
+        "originalText": "I hope you do.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3198,
+        "description": "n/a",
+        "originalText": "You are probably right.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3204,
+        "description": "n/a",
+        "originalText": "::He nods.:: Very well.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3210,
+        "description": "n/a",
+        "originalText": "It is right there - the Mainframe. Help yourself.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3245,
+        "description": "n/a",
+        "originalText": "hard to believe. In all my time studying the monoliths I have never seen anyway manage to do even the slightest damage to them with simple tools or weapons.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3248,
+        "description": "n/a",
+        "originalText": "context.npc_azif_toldHimTorchUsedToBeShard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3249,
+        "description": "n/a",
+        "originalText": "context.npc_azif_toldHimTorchUsedToBeShard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3253,
+        "description": "n/a",
+        "originalText": "// todo: I drank a special concoction that allowed me to take proper hold of it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3257,
+        "description": "n/a",
+        "originalText": "I just got really drunk and somehow I did it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3261,
+        "description": "n/a",
+        "originalText": "By sheer luck.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3265,
+        "description": "n/a",
+        "originalText": "I can help you decode the device, but I don't know what it will turn into or what effects it may have on us. I will lend you my eyes and you will be able to behold it as well as I as we pierce through to it, but we will both be at risk then.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3271,
+        "description": "n/a",
+        "originalText": "::As you turn the shard sideways, you notice that, somehow, the two disparate parts of the shard now seem to perfectly fit together and no longer make sense separately, like a handle and a blade of a knife.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3283,
+        "description": "n/a",
+        "originalText": "Tchort, on the other hand... Everything I imagined a Leviathan to be... came out of your mouth, yes - perfectly. The appearance, the repugnant atmosphere, the malicious attitude - the voracious monologue - it even mentioned the High Ones, correct? \"It is Shadow we expected.\" \"The flesh of the High Ones...\"\r\n\r\n::His voice drops to a whisper.:: Could Rahm-Umbra really be... one of the Godmen? Rahm... Umbra...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3292,
+        "description": "n/a",
+        "originalText": "But you have no such fears, and you know exactly where to seek the answers to your questions. And most importantly, you have the intellect to make sense of it all. Yes... Very good, $(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3297,
+        "description": "n/a",
+        "originalText": "I'll let you start. Speak to me of your encounter - encounters - with Six. After that I'll fill in the missing pieces to the best of my knowledge.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3301,
+        "description": "n/a",
+        "originalText": "context.npc_azif_discussSixToldInvictus",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3302,
+        "description": "n/a",
+        "originalText": "context.loc_cc_arenaFinished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3306,
+        "description": "n/a",
+        "originalText": "My question still stands.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 3311,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 3312,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 3313,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 3314,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 3315,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3320,
+        "description": "n/a",
+        "originalText": "Getting pyrolyzed",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3327,
+        "description": "n/a",
+        "originalText": "Getting carbonized",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3330,
+        "description": "n/a",
+        "originalText": "context.neverTrue",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3334,
+        "description": "n/a",
+        "originalText": "I see... Well, in any case, ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3341,
+        "description": "n/a",
+        "originalText": "Or you can give the device to me, in which case I alone will bear the risk, but also will keep it for myself and you will not know what has become of it. In this case, I will compensate you for the device itself.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3347,
+        "description": "n/a",
+        "originalText": "::It seems crazy, but you now you feel as you might be able to take hold of this weapon or tool or whatever it might turn out to be, for it seems it has potential to be many things.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 3350,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3366,
+        "description": "n/a",
+        "originalText": "If he is, then so is Tanner.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3370,
+        "description": "n/a",
+        "originalText": "Deal. Here goes... ::Tell him what you learned from Six in Deep Caverns.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3379,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_chipperPyrolized",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3383,
+        "description": "n/a",
+        "originalText": ", disintegrated, evaporated, transmuted, crystalized, and worse when attempting to exert physical force on a Godmen monolith - that I can believe, yes.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3386,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_chipperCarbonized",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3390,
+        "description": "n/a",
+        "originalText": "I do not know what this device is exactly, but it looks like it can be used to project some sort of force. It could be a weapon. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3394,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_offeredToBuyIt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 3402,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 3403,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 3404,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3407,
+        "description": "n/a",
+        "originalText": "Tanner... ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 3415,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>TI#-.LIDP:P",
+        "objectId": 3416,
+        "description": "n/a",
+        "originalText": "devices\\skeletonkey",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3420,
+        "description": "n/a",
+        "originalText": "So I would assume it was removed in some other manner, regardless of whether someone else perished in a different or the same attempt by using some crude means as well.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3426,
+        "description": "n/a",
+        "originalText": "::Try to feel out the handle of the shard and plunge your mind deep into the light and bring back whatever you can.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3430,
+        "description": "n/a",
+        "originalText": "::Try to snap out of it.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3435,
+        "description": "n/a",
+        "originalText": "::[Intelligence]:: You're about to tell me a lot of things about Tanner, aren't you?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3439,
+        "description": "n/a",
+        "originalText": "Azif?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3443,
+        "description": "n/a",
+        "originalText": "Why did you stop?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3447,
+        "description": "n/a",
+        "originalText": "Are you okay?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3457,
+        "description": "n/a",
+        "originalText": "::As you reach for and into the shard, both your hand and your mind seem lost inside it, overwhelmed by its energies and vastness. You feel as though your entire being could be torn apart and disintegrated inside this great space, so you quickly grab onto the first thing your inadequate hands can grasp and pull yourself out.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3463,
+        "description": "n/a",
+        "originalText": "::Suddenly you snap out of the trance. Azif is standing quietly in front of you. He says nothing, but raises on of his hands, motioning you to calm down.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3470,
+        "description": "n/a",
+        "originalText": "::He nods slowly, confirming your remark.:: ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3476,
+        "description": "n/a",
+        "originalText": "You have revealed so much to me, things I had never expected to hear from someone we acquired in such a coincidental way, someone who had just happened to enter the Protectorate embassy at the right time. I am thankful for the insight you have provided. Now is the time to honor my part of the deal.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3481,
+        "description": "n/a",
+        "originalText": "::Suddenly you snap out of the trance. Azif is standing quietly in front of you. He says nothing, but raises one of his hands, motioning you to calm down. He then tilts his head towards the newly acquired artifact in your hand to bring your attention to it.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 3487,
+        "description": "n/a",
+        "originalText": "shard",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3491,
+        "description": "n/a",
+        "originalText": "context.item_shard_torchRetrieved",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3493,
+        "description": "n/a",
+        "originalText": "context.npc_azif_shard_decodedItWithYou",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3495,
+        "description": "n/a",
+        "originalText": "tempcontext.justDecoded",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3497,
+        "description": "n/a",
+        "originalText": "context.npc_azif_activatedEtherealTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3500,
+        "description": "n/a",
+        "originalText": "Rest a while, we can try again later.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3505,
+        "description": "n/a",
+        "originalText": "Hadrian Tanner was... my client.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3516,
+        "description": "n/a",
+        "originalText": "What is this?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3519,
+        "description": "n/a",
+        "originalText": "Give me a moment.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3527,
+        "description": "n/a",
+        "originalText": "::[Intelligence]:: Did you... your oculites steal the Cube from the Faceless? For Tanner? Were *you* responsible for everything that happened?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3531,
+        "description": "n/a",
+        "originalText": "You've got to be kidding me, Azif?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3535,
+        "description": "n/a",
+        "originalText": "What?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3539,
+        "description": "n/a",
+        "originalText": "::Gasp.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 3541,
+        "description": "n/a",
+        "originalText": "context.npc_azif_askedAboutTorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3547,
+        "description": "n/a",
+        "originalText": "Yes... and no. Allow me to explain everything...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3553,
+        "description": "n/a",
+        "originalText": "Allow me to explain everything: ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3563,
+        "description": "n/a",
+        "originalText": "Many, many years ago I was approached by our mutual client, Rahm-Umbra - Six. Although, approach might be the wrong word here - he *appeared* right before me, out of thin air. He had no trouble finding me, even though few souls knew where I was. His tall figure overshadowed mine, yes, and I thought it meant the end of me. But fortunately, I was wrong. He is an assassin, true, but I wasn't his target...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>QSI#-.LIDP:P",
+        "objectId": 3566,
+        "description": "n/a",
+        "originalText": "plot\\xpbl\\monolithtorch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3570,
+        "description": "n/a",
+        "originalText": "He was direct and inquisitive - and difficult, yes, especially when responding to *my* queries. His stay was short. He asked me several questions, looked around and left me with this: One day a person will seek my help in obtaining an item of great importance. I am to accept this job and carry on with it as the client demands. No time frame, no indication as to who this person might be, nor what this item was; I will know it when it happens, he said. All these things are clear now, but back then I was confused. I couldn't grasp it. Many years have passed after that, and that whole encounter moved to the back of my mind. Forgotten.\r\n\r\nUntil...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3575,
+        "description": "n/a",
+        "originalText": "Until we were contacted by whom I now know as Hadrian Tanner, and even that is not his real name. This happened... just over a year ago now. He approached us under a pseudonym back then, yes. Understandable. Rahm-Umbra was right, even if it did take a long time for it to happen. I made a contract with this person: To acquire something from the city of the Faceless in Deep Caverns - the very Cube that would end up causing all this mayhem.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3582,
+        "description": "n/a",
+        "originalText": "What did Tanner want it for?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3586,
+        "description": "n/a",
+        "originalText": "He never said, and I did not ask. It is an object capable of outputting incredible amounts of energy. Whatever he needed it for had to be something too demanding for any power source he had available. He didn't ask specifically for it, though, at least not immediately. He was simply aware of the Faceless and their technology - and he wanted a slice of it, hoping that it would fulfill his needs. And only we could help him acquire that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3592,
+        "description": "n/a",
+        "originalText": "We needed the right oculite for the job, because it was apparent that this was a difficult task: It meant passing through the Tchortist Institute and reaching Deep Caverns, traversing the perilous wilderness, evading or confronting all that lurks there, locating the Faceless and their city before proceeding to the hardest part of the mission up to that point - infiltrating the Faceless society. We needed someone who is the embodiment of Oculus, who would dedicate himself and deliver. And we had just the one...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3598,
+        "description": "n/a",
+        "originalText": "How he tricked their mindreaders, how he became a member of their society, how he gained access and insight into their technology - and all that without actually becoming one of them... ::He pauses.:: But that I do not know. He was cut off from us completely, for communication - any communication was extremely risky; yet we were aware that this mission asked for a lot of time and patience, so we simply waited.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3604,
+        "description": "n/a",
+        "originalText": "Until one day we received a message. It was very brief and heavily encrypted, yes, but it described to us the Cube. It was exactly what Tanner had wanted. Thus we entered the final part of the operation: Stealing the Cube from the Faceless. And as he has achieved all these great feats before - impossible for most - so he has managed to snatch the Cube from the Faceless and sneak out of their city.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3610,
+        "description": "n/a",
+        "originalText": "Everything was running smoothly up to that point - perfect you could say. Then things became... more complicated. And just at that moment - Six returned.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3616,
+        "description": "n/a",
+        "originalText": "He was aware of everything that had been happening, and he was pleased with how I performed so far. So far... His content would soon evaporate as everything began crashing down - starting with the earth itself.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3623,
+        "description": "n/a",
+        "originalText": "The infiltrator had already managed to transfer the Cube to another oculite when the earthquake struck. That oculite, in turn, was supposed to hand the Cube over to Tanner's people, which he did. They finally left Core City - and then we lost track of them. Partially due to communication problems caused by the earthquake, partially due to the incompetence of the oculite which was meant to follow them, but we lost track of both Tanner's people and the Cube.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3630,
+        "description": "n/a",
+        "originalText": "Now, because of your story, I know that these people were the SGS merchants, the Bakers, and what happened to them afterward, but at that time we had no idea what was going on.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3636,
+        "description": "n/a",
+        "originalText": "You can understand that Rahm-Umbra was far from pleased, and I believe he was in that very mood when you arrived to Oculus, yes. He remained here up until we learned that the Tchortists have acquired something from the Coretech research facility that fit the description of the Cube, then he went after it. I wouldn't be lying if I told you I was relieved to see him leave. Even though I was eager to somehow learn more about him, despite how non-forthcoming he was, I feared that, if the state of the mission deteriorated even further, it would be I who would have to vacate Oculus... and quickly.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3639,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lora_toldStory",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3642,
+        "description": "n/a",
+        "originalText": "The rest - well, that was your story, $(context.player.Name). ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3652,
+        "description": "n/a",
+        "originalText": "::[Intelligence]:: I had some suspicions that the person who gave the Cube to the Bakers in Core City was someone from Oculus, but I had little evidence to support it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3656,
+        "description": "n/a",
+        "originalText": "This surely explains a lot.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 3660,
+        "description": "n/a",
+        "originalText": "I am speechless, Azif.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3666,
+        "description": "n/a",
+        "originalText": "You were one of us by that point. It's natural to think that, yes. But... you'd rather ask me some more questions now than make your own constatations. Yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3672,
+        "description": "n/a",
+        "originalText": "I'm sure it does. But you have more questions for me, yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 3678,
+        "description": "n/a",
+        "originalText": "But you have questions for me, yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 3682,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lora_toldStory",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

@@ -1,0 +1,705 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 49,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 50,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 51,
+        "description": "n/a",
+        "originalText": "vera",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 52,
+        "description": "n/a",
+        "originalText": "ezra",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 53,
+        "description": "n/a",
+        "originalText": "oldJonas",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 54,
+        "description": "n/a",
+        "originalText": "gorsky",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 60,
+        "description": "n/a",
+        "originalText": "::As you were describing what you saw in Tanner's room, you could clearly make out expressions of growing astonishment on council members' faces. You finish, and with that the room instantly becomes noiseless, as if empty. Until Old Jonas speaks.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 66,
+        "description": "n/a",
+        "originalText": "And there it is...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 70,
+        "description": "n/a",
+        "originalText": "context.loc_sgs_finalCouncil",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 72,
+        "description": "n/a",
+        "originalText": "searchTannersRoom",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 76,
+        "description": "n/a",
+        "originalText": "What are you talking about?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 82,
+        "description": "n/a",
+        "originalText": "What am I talking about? Weren't you listenin', woman? This is the moment. The moment where we can finally sit down and discuss the man - if he even *is* a man at all - who's been a mystery to us for all these years, yet we never dared speak about him... it... whatever. \r\n\r\nI know we're all thinkin' alike here, right?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 88,
+        "description": "n/a",
+        "originalText": "Yes. ::She pauses.:: Tanner was a mystery. His appearance, background, or lack thereof, and just... his presence. He stood out so much when I saw him the first time... but no one ever spoke about him, ever, and he was a competent man so I... \r\n...accepted things as they were.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 94,
+        "description": "n/a",
+        "originalText": "Well, Vera, child, it wasn't only you. I remember Tanner when he first came to the station. I had hair and more teeth, and the epithet \"old\" was far off from becomin' stuck to my name. Tanner, he looked barely different than what he looks now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 100,
+        "description": "n/a",
+        "originalText": "Maybe its 'cause of that thing you saw in that room of his, $(context.player.Name). Tanner barely aged. You people might not have noticed it as much, but I did. I felt the same as Vera, and as every single soul in this station. And for a good reason - Tanner was clearly hidin' something from us, and a peek into his room, as revealin' as it is, poses more questions than answers.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 106,
+        "description": "n/a",
+        "originalText": "::He shrugs.:: I don't know... But at least we can now openly discuss Tanner.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 112,
+        "description": "n/a",
+        "originalText": "I do not disagree with anything said here; our opinions do not differ. However, we now need to focus on the reason - or reasons - for his disappearance and how that will affect South Gate Station. And $(context.player.Name), I feel, has more things to reveal to us about him.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 118,
+        "description": "n/a",
+        "originalText": "$(context.player.Name), you performed quite a few tasks for Tanner recently.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 124,
+        "description": "n/a",
+        "originalText": "Ever since $(#he/she) got here, Tanner's been sendin' $(#him/her) around.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 130,
+        "description": "n/a",
+        "originalText": "Do you know anything else you feel we should know?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 135,
+        "description": "n/a",
+        "originalText": "Now's the time to talk, $(context.player.Name). Tell us what you know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 144,
+        "description": "n/a",
+        "originalText": "The tasks Tanner gave me were all somehow connected to the mysterious object which was stolen from the Faceless, causing them to invade Core City and the rest of South Underrail. I've learned that the object is a powerful one, and Tanner wanted it for himself. All this has led me all the way to Deep Caverns, where I've seen it finally get returned to the Faceless.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 148,
+        "description": "n/a",
+        "originalText": "I know nothing more than what I've already told you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 152,
+        "description": "n/a",
+        "originalText": "Are... are you trying to say Tanner was *the* one responsible for the invasion?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 156,
+        "description": "n/a",
+        "originalText": "context.loc_sgs_toldCouncilDeepCaverns",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 159,
+        "description": "n/a",
+        "originalText": "$(context.player.Name), thank you for everything. You've done enough for now. We've got a few more things to discuss on this matter. Meanwhile, you might want to get some rest - some good rest. \r\n\r\nCome to my office afterward.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 165,
+        "description": "n/a",
+        "originalText": "This story gets better and better. But, what the heck is this object you're talkin' about?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 174,
+        "description": "n/a",
+        "originalText": "I will. ::Go to your room.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 179,
+        "description": "n/a",
+        "originalText": "The object is a power source. I do not know what the Faceless are using it for, but it's definitely something important if they're willing to invade us for it. It is a polyhedron made from some unknown material. It had strange markings and what appeared to be sockets of some kind, which is probably how it is connected to whatever it's powering.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 183,
+        "description": "n/a",
+        "originalText": "I don't know what it does, but I have seen it. It is a polyhedron made of some unknown material; it had strange markings and what appeared to be sockets of some kind.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 187,
+        "description": "n/a",
+        "originalText": "I don't know what it does and I've never had the chance to see it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PCA1.PCA1:WP",
+        "objectId": 189,
+        "description": "n/a",
+        "originalText": "Sgs_FinalCouncilEnds",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 190,
+        "description": "n/a",
+        "originalText": "context.npc_dc_flcom_explainCube",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 194,
+        "description": "n/a",
+        "originalText": "Incredible. Tanner must've needed that device so badly he was willing to risk an all-out war with the Faceless. There is, however, the question of how was he able to steal it from the Faceless in the first place.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 200,
+        "description": "n/a",
+        "originalText": "It must've been something important enough for him to risk an all-out war with the Faceless. There is, however, the question of how was he able to steal it from the Faceless in the first place.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 217,
+        "description": "n/a",
+        "originalText": "Someone did it for him. I found Lora Baker in Deep Caverns and she explained to me that Tanner sent her and Terry to pick up this object from some man; he must've been connected in some way to the theft, if not having done it himself. However, the earthquake prevented the Bakers from returning to SGS, and so did a gang which called itself the Acid Hunters. They killed Terry and wounded Lora, and took the item from them.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 221,
+        "description": "n/a",
+        "originalText": "Someone must've done it for him, but how the whole theft was accomplished, that I do not know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 225,
+        "description": "n/a",
+        "originalText": "I don't know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 226,
+        "description": "n/a",
+        "originalText": "context.npc_sgs_lora_toldStory",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 236,
+        "description": "n/a",
+        "originalText": "The Faceless returned Lora; I forgot to tell you in all this rush. She is resting right now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 241,
+        "description": "n/a",
+        "originalText": "Lora? In Deep Caverns? She's alive? What happened to her?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 247,
+        "description": "n/a",
+        "originalText": "context.loc_sgs_councilTellLora",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 251,
+        "description": "n/a",
+        "originalText": "In any case, you mentioned you went all the way down to Deep Caverns.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 257,
+        "description": "n/a",
+        "originalText": "context.loc_sgs_acknowledgedLoraReturn",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 259,
+        "description": "n/a",
+        "originalText": "findMissingMerchants",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 261,
+        "description": "n/a",
+        "originalText": "findMissingMerchants",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 263,
+        "description": "n/a",
+        "originalText": "context.quest_findMissingMerchants_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 265,
+        "description": "n/a",
+        "originalText": "context.quest_findMissingMerchants_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 269,
+        "description": "n/a",
+        "originalText": "I wasn't able to bring her back from Deep Caverns. The Faceless must've taken her with them, and I don't know where she is now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 273,
+        "description": "n/a",
+        "originalText": "I'm afraid she died shortly after we spoke.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 276,
+        "description": "n/a",
+        "originalText": "Tell us how it happened.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 281,
+        "description": "n/a",
+        "originalText": "context.npc_dc_flo_agreeToReturnLora",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 282,
+        "description": "n/a",
+        "originalText": "context.global_returnedCubeToFaceless",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 286,
+        "description": "n/a",
+        "originalText": "That is unfortunate news indeed, but we need to return to this Faceless object. You mentioned you went all the way down to Deep Caverns.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 293,
+        "description": "n/a",
+        "originalText": "After the Acid Hunters took it from Lora and Terry, it finally ended up in Coretech's research facility, from which it was stolen by Tchortists. After infiltrating their institute, the Faceless attacked, but the object had already been sent down into Deep Caverns. So, I had no option but to follow it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 298,
+        "description": "n/a",
+        "originalText": "The object somehow ended up in Coretech's research facility, from which it was stolen by Tchortists. After infiltrating their institute, the Faceless attacked, but the object had already been sent down into Deep Caverns. So, I had no option but to follow it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 299,
+        "description": "n/a",
+        "originalText": "context.loc_sgs_councilTellLora",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 303,
+        "description": "n/a",
+        "originalText": "Better and better...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 306,
+        "description": "n/a",
+        "originalText": "context.loc_sgs_councilTellLora",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 310,
+        "description": "n/a",
+        "originalText": "Would you stop it, Jonas?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 315,
+        "description": "n/a",
+        "originalText": "Hm. It seems like everyone wanted this object, including the enigmatic Institute. Why did the Tchortists send it to Deep Caverns? What do they have there?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 323,
+        "description": "n/a",
+        "originalText": "They have *Tchort*.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 327,
+        "description": "n/a",
+        "originalText": "I'm guessing they wanted to use it for something, but a guess is the best I've got.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 330,
+        "description": "n/a",
+        "originalText": "What? What is Tchort?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 336,
+        "description": "n/a",
+        "originalText": "So, the Faceless took it from the Tchortists?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 346,
+        "description": "n/a",
+        "originalText": "It's one *ugly* creature. One giant, disgusting mutated mass of flesh with slimy tentacles sprouting from it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 350,
+        "description": "n/a",
+        "originalText": "If it wasn't for me the Faceless would've never retrieved the object. I took care of everything, they just came along to thank me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 354,
+        "description": "n/a",
+        "originalText": "I helped the Faceless. With our forces combined, the object is now back to where it belongs.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 358,
+        "description": "n/a",
+        "originalText": "The Faceless took care of it. I was only an observer in this whole mess.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 361,
+        "description": "n/a",
+        "originalText": "::Everyone is silently exchanging glances.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 368,
+        "description": "n/a",
+        "originalText": "context.sgs_finalCouncil_toldTchort",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 372,
+        "description": "n/a",
+        "originalText": "You got a real pair of mighty boulders between your legs. $(#How do you even walk, son?/I mean figuratively, sweetheart.)",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 378,
+        "description": "n/a",
+        "originalText": "Damn, $(context.player.Name), fighting alongside them Faceless. You must've done somethin' pretty darn good to make them trust you so.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 384,
+        "description": "n/a",
+        "originalText": "Even being an observer in all that takes a good pair of boulders between your legs. $(#How do you even walk, son?/I mean figuratively, sweetheart.)",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 390,
+        "description": "n/a",
+        "originalText": "I killed it and returned the object to the Faceless.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 394,
+        "description": "n/a",
+        "originalText": "I helped the Faceless fight it. With our forces combined, the creature is dead and the item has been returned to its owners.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 398,
+        "description": "n/a",
+        "originalText": "The Faceless took care of the creature. I was only an observer in this whole mess.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 401,
+        "description": "n/a",
+        "originalText": "Fascinating. You have seen amazing things in such a period of time, and you lived to tell the tale. But this tale presents more questions than answers, and we still don't know who Tanner truly is, what he was going to do with the Faceless device and where he is now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 409,
+        "description": "n/a",
+        "originalText": "There's a thing or two I've learned that might shed some light on who Tanner really is.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 413,
+        "description": "n/a",
+        "originalText": "Sadly, this is all I know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 416,
+        "description": "n/a",
+        "originalText": "Do tell us, $(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 426,
+        "description": "n/a",
+        "originalText": "I've met this humanoid creature which calls itself Rahm-Umbra. We've met in Deep Caverns for the first time, but it seems we were both involved in all these important events regarding the Faceless object.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 431,
+        "description": "n/a",
+        "originalText": "I've met this humanoid creature which calls itself Rahm-Umbra. We've met even before Deep Caverns and it seems we were both involved in all these important events regarding the Faceless object.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 435,
+        "description": "n/a",
+        "originalText": "On second thought, forget about it; it's irrelevant after all.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 440,
+        "description": "n/a",
+        "originalText": "Can you describe it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 449,
+        "description": "n/a",
+        "originalText": "Gentlemen... I think a long meeting is ahead of us.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 452,
+        "description": "n/a",
+        "originalText": "context.npc_rahm-umbra_metAtInstitute",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 453,
+        "description": "n/a",
+        "originalText": "context.npc_rahm-umbra_metInOculus",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 457,
+        "description": "n/a",
+        "originalText": "He is lean, tall, about as tall as Tanner, and has a prosthetic arm and a leg. He wears a metallic-looking mask and instead of eyes he has four lenses. One other striking feature is that he has six digits on each of his hands. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 458,
+        "description": "n/a",
+        "originalText": "context.npc_rahm-umbra_metInOculus",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 459,
+        "description": "n/a",
+        "originalText": "context.npc_rahm-umbra_metAtInstitute",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 462,
+        "description": "n/a",
+        "originalText": "Thank you for everything, $(context.player.Name). The rest of us have a long discussion ahead. You, on the other hand, might want to get some rest - some good rest. You've done more than enough. Afterward, you should come to my office.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 468,
+        "description": "n/a",
+        "originalText": "As tall as Tanner... mask...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 475,
+        "description": "n/a",
+        "originalText": "He is a powerful individual, even capable of things like instant teleportation. The technology he wields is far more advanced than anything we've ever seen.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 478,
+        "description": "n/a",
+        "originalText": "Yeah... go on.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 486,
+        "description": "n/a",
+        "originalText": "He and Tanner seem to be of the same species, from what I understood. Rahm-Umbra wants to assassinate him, and he seems to have been trying to find him for a long time. Now that he has finally discovered him, Tanner slipped away and fled to North Underrail.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 490,
+        "description": "n/a",
+        "originalText": "So, what you're tryin' to say is, Tanner has been posing as a human in order to hide from a whatever-the-hell-it-is assassin and now bolted as soon as this... Ram-Ember sniffed him out.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 494,
+        "description": "n/a",
+        "originalText": "context.loc_sgs_councilKnowsEverything",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 498,
+        "description": "n/a",
+        "originalText": "Everything makes sense now. The Faceless object, Tanner's appearance, that stasis cell in his room, his departure.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 504,
+        "description": "n/a",
+        "originalText": "We still don't know what he was gonna do with that gizmo, but I can bet the five hairs on my head it's related to him not wantin' to get zapped by his fellow kinsman.",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

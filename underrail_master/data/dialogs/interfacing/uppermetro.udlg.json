@@ -1,0 +1,740 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 20,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 21,
+        "description": "n/a",
+        "originalText": "interface",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 22,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 26,
+        "description": "n/a",
+        "originalText": "::No mutants allowed.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 41,
+        "description": "n/a",
+        "originalText": "::You had been caught with a forged ticket. ::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 47,
+        "description": "n/a",
+        "originalText": "::Traveling by metro will cost you twenty five charons. Where would you like to go?::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 59,
+        "description": "n/a",
+        "originalText": "::You need twenty five charons to travel by metro.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 69,
+        "description": "n/a",
+        "originalText": "::You need to pay a three hundred charon fine before you are allowed to travel by metro again.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 74,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 79,
+        "description": "n/a",
+        "originalText": "::Use a ticket::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 84,
+        "description": "n/a",
+        "originalText": "::Use a forged ticket::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 90,
+        "description": "n/a",
+        "originalText": "::Polemos Station (Fort Apogee)::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 96,
+        "description": "n/a",
+        "originalText": "::Epione Lab::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 102,
+        "description": "n/a",
+        "originalText": "::University::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 108,
+        "description": "n/a",
+        "originalText": "::Core City::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 111,
+        "description": "n/a",
+        "originalText": "::Nowhere::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 114,
+        "description": "n/a",
+        "originalText": "::Leave::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 115,
+        "description": "n/a",
+        "originalText": "context.global_metro_caughtForgedTicket",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 116,
+        "description": "n/a",
+        "originalText": "context.global_metro_paidFine",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 123,
+        "description": "n/a",
+        "originalText": "::Pay the fine::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 128,
+        "description": "n/a",
+        "originalText": "::This ticket is valid for a single journey to any destination. Where would you like to go?::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 142,
+        "description": "n/a",
+        "originalText": "::This ticket is valid for a single journey to any destination. Where would you like to go?::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 145,
+        "description": "n/a",
+        "originalText": "up-pb",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 147,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 150,
+        "description": "n/a",
+        "originalText": "up-lift",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 152,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 155,
+        "description": "n/a",
+        "originalText": "up-tch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 157,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 160,
+        "description": "n/a",
+        "originalText": "up-cc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 162,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 165,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 167,
+        "description": "n/a",
+        "originalText": "currency.sc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 169,
+        "description": "n/a",
+        "originalText": "context.global_metro_paidFine",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 170,
+        "description": "n/a",
+        "originalText": "underrailExpressTicket",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 171,
+        "description": "n/a",
+        "originalText": "context.global_metro_caughtForgedTicket",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 177,
+        "description": "n/a",
+        "originalText": "::Polemos Station (Fort Apogee)::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 183,
+        "description": "n/a",
+        "originalText": "::Epione Lab::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 189,
+        "description": "n/a",
+        "originalText": "::University::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 195,
+        "description": "n/a",
+        "originalText": "::Core City::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PHIC.PHIC:IC",
+        "objectId": 196,
+        "description": "n/a",
+        "originalText": "underrailExpressTicket_forged",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 197,
+        "description": "n/a",
+        "originalText": "context.global_metro_caughtForgedTicket",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 219,
+        "description": "n/a",
+        "originalText": "interface",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 220,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:LI",
+        "objectId": 221,
+        "description": "n/a",
+        "originalText": "up-pb",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:EI",
+        "objectId": 222,
+        "description": "n/a",
+        "originalText": "FromTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:LI",
+        "objectId": 223,
+        "description": "n/a",
+        "originalText": "up-lift",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:EI",
+        "objectId": 224,
+        "description": "n/a",
+        "originalText": "FromTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:LI",
+        "objectId": 225,
+        "description": "n/a",
+        "originalText": "up-tch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:EI",
+        "objectId": 226,
+        "description": "n/a",
+        "originalText": "FromTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:LI",
+        "objectId": 227,
+        "description": "n/a",
+        "originalText": "up-cc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:EI",
+        "objectId": 228,
+        "description": "n/a",
+        "originalText": "FromTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 229,
+        "description": "n/a",
+        "originalText": "up-pb",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 231,
+        "description": "n/a",
+        "originalText": "underrailExpressTicket",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 234,
+        "description": "n/a",
+        "originalText": "up-lift",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 236,
+        "description": "n/a",
+        "originalText": "underrailExpressTicket",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 239,
+        "description": "n/a",
+        "originalText": "up-tch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 241,
+        "description": "n/a",
+        "originalText": "underrailExpressTicket",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 244,
+        "description": "n/a",
+        "originalText": "up-cc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 246,
+        "description": "n/a",
+        "originalText": "underrailExpressTicket",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 254,
+        "description": "n/a",
+        "originalText": "::Polemos Station (Fort Apogee)::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 260,
+        "description": "n/a",
+        "originalText": "::Epione Lab::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 266,
+        "description": "n/a",
+        "originalText": "::University::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 272,
+        "description": "n/a",
+        "originalText": "::Core City::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 279,
+        "description": "n/a",
+        "originalText": "::Polemos Station (Fort Apogee)::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 286,
+        "description": "n/a",
+        "originalText": "::Epione Lab::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 293,
+        "description": "n/a",
+        "originalText": "::University::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 300,
+        "description": "n/a",
+        "originalText": "::Core City::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:LI",
+        "objectId": 301,
+        "description": "n/a",
+        "originalText": "up-pb",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:EI",
+        "objectId": 302,
+        "description": "n/a",
+        "originalText": "FromTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:LI",
+        "objectId": 303,
+        "description": "n/a",
+        "originalText": "up-lift",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:EI",
+        "objectId": 304,
+        "description": "n/a",
+        "originalText": "FromTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:LI",
+        "objectId": 305,
+        "description": "n/a",
+        "originalText": "up-tch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:EI",
+        "objectId": 306,
+        "description": "n/a",
+        "originalText": "FromTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:LI",
+        "objectId": 307,
+        "description": "n/a",
+        "originalText": "up-cc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:EI",
+        "objectId": 308,
+        "description": "n/a",
+        "originalText": "FromTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 309,
+        "description": "n/a",
+        "originalText": "up-pb",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 314,
+        "description": "n/a",
+        "originalText": "::The ticket scanner flashes red and beeps forebodingly - the ticket didn't pass the check. ::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 318,
+        "description": "n/a",
+        "originalText": "underrailExpressTicket_forged",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 319,
+        "description": "n/a",
+        "originalText": "up-lift",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 321,
+        "description": "n/a",
+        "originalText": "underrailExpressTicket_forged",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 322,
+        "description": "n/a",
+        "originalText": "up-tch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 324,
+        "description": "n/a",
+        "originalText": "underrailExpressTicket_forged",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 325,
+        "description": "n/a",
+        "originalText": "up-cc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 327,
+        "description": "n/a",
+        "originalText": "underrailExpressTicket_forged",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 328,
+        "description": "n/a",
+        "originalText": "up-pb",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 330,
+        "description": "n/a",
+        "originalText": "underrailExpressTicket_forged",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 334,
+        "description": "n/a",
+        "originalText": "context.global_metro_usedForgedTicket",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 335,
+        "description": "n/a",
+        "originalText": "up-lift",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 337,
+        "description": "n/a",
+        "originalText": "underrailExpressTicket_forged",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 341,
+        "description": "n/a",
+        "originalText": "context.global_metro_usedForgedTicket",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 342,
+        "description": "n/a",
+        "originalText": "up-tch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 344,
+        "description": "n/a",
+        "originalText": "underrailExpressTicket_forged",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 348,
+        "description": "n/a",
+        "originalText": "context.global_metro_usedForgedTicket",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".PIIAC.PIIAC:AN",
+        "objectId": 349,
+        "description": "n/a",
+        "originalText": "up-cc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".RIFPA.RIFPA:IC",
+        "objectId": 351,
+        "description": "n/a",
+        "originalText": "underrailExpressTicket_forged",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 355,
+        "description": "n/a",
+        "originalText": "context.global_metro_usedForgedTicket",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 357,
+        "description": "n/a",
+        "originalText": "context.global_metro_caughtForgedTicket",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:LI",
+        "objectId": 358,
+        "description": "n/a",
+        "originalText": "up-pb",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:EI",
+        "objectId": 359,
+        "description": "n/a",
+        "originalText": "FromTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:LI",
+        "objectId": 360,
+        "description": "n/a",
+        "originalText": "up-lift",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:EI",
+        "objectId": 361,
+        "description": "n/a",
+        "originalText": "FromTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:LI",
+        "objectId": 362,
+        "description": "n/a",
+        "originalText": "up-tch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:EI",
+        "objectId": 363,
+        "description": "n/a",
+        "originalText": "FromTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:LI",
+        "objectId": 364,
+        "description": "n/a",
+        "originalText": "up-cc",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LR.LR:EI",
+        "objectId": 365,
+        "description": "n/a",
+        "originalText": "FromTrain",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

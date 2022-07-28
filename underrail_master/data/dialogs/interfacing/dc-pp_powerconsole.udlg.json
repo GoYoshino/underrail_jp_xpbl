@@ -1,0 +1,761 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 42,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 43,
+        "description": "n/a",
+        "originalText": "interface",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 44,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 49,
+        "description": "n/a",
+        "originalText": "::Arke Power Station Power Management Console\r\n\r\nBiocorp Dis Electronics\r\n\r\nPower station rated capacity: 300 MW\r\nWarning! Estimated turbine efficiency is extremely low! (<10%)\r\nTurbine maintenance or replacement is necessary!\r\nWarning! Total electric supply capacity is extremely low! (<5%)\r\n\r\nCurrent estimated capacity: <10 MW::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 70,
+        "description": "n/a",
+        "originalText": "::Current power expenditure (%):\r\n\r\nResearch Complex: $(context.loc_dc_labPower)%\r\nTithonus Lab: 0%\r\nMutagen Tanks A: $(context.loc_dc_mutagenPower)%\r\nMutagen Tanks B: 0%\r\nArke Power Station: $(context.loc_dc_arkePower)%\r\nWarehouse Block 1: 0%\r\nWarehouse Block 2: $(context.loc_dc_warehousePower)%\r\nBCAF - Detachment Hollow Earth: 0%\r\nTalos Outpost: $(context.loc_dc_facelessPower)%\r\nCaerus Residential Block: $(context.loc_dc_residentialPower)%\r\nTartarus Maximum Security Prison: $(context.loc_dc_prisonPower)%\r\nSouth Elevator: 0%\r\n\r\nCurrent power available for allocation: $(context.loc_dc_TotalPower)%::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 88,
+        "description": "n/a",
+        "originalText": "context.loc_dc-pp_initializePower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 90,
+        "description": "n/a",
+        "originalText": "context.loc_dc-pp_initializePower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 92,
+        "description": "n/a",
+        "originalText": "context.loc_dc_arkePower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 94,
+        "description": "n/a",
+        "originalText": "context.loc_dc_labPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 96,
+        "description": "n/a",
+        "originalText": "context.loc_dc_mutagenPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 98,
+        "description": "n/a",
+        "originalText": "context.loc_dc_warehousePower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 100,
+        "description": "n/a",
+        "originalText": "context.loc_dc_facelessPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 102,
+        "description": "n/a",
+        "originalText": "context.loc_dc_residentialPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 104,
+        "description": "n/a",
+        "originalText": "context.loc_dc_prisonPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 106,
+        "description": "n/a",
+        "originalText": "context.loc_dc_TotalPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 111,
+        "description": "n/a",
+        "originalText": "::Power plant management::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 116,
+        "description": "n/a",
+        "originalText": "::Deallocate power from Arke security systems and assembly lines::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 124,
+        "description": "n/a",
+        "originalText": "::Allocate power to Warehouse Block 2 (-5%)::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 133,
+        "description": "n/a",
+        "originalText": "::Deallocate power from Warehouse Block 2 (+5%)::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 142,
+        "description": "n/a",
+        "originalText": "::Allocate power to Hollow Earth main research complex (-60%)::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 151,
+        "description": "n/a",
+        "originalText": "::Deallocate power from Hollow Earth main research complex (+60%)::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 160,
+        "description": "n/a",
+        "originalText": "::Allocate power to Mutagen Tanks A (-30%)::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 169,
+        "description": "n/a",
+        "originalText": "::Deallocate power from Mutagen Tanks A (+30%)::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 174,
+        "description": "n/a",
+        "originalText": "::Allocate power to Mutagen Tanks B *(Node 3 offline)*::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 184,
+        "description": "n/a",
+        "originalText": "::Allocate power to Caerus Residential Block (-40%)::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 193,
+        "description": "n/a",
+        "originalText": "::Deallocate power from Caerus Residential Block (+40%)::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 198,
+        "description": "n/a",
+        "originalText": "::Allocate power to Tartarus Maximum Security Prison *(Nodes 8 and 11 offline)*::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 203,
+        "description": "n/a",
+        "originalText": "::Allocate power to South Elevator *(Node 19 offline)*::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 208,
+        "description": "n/a",
+        "originalText": "::Allocate power to Talos Outpost *(Node 2 offline)*::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 212,
+        "description": "n/a",
+        "originalText": "::Exit::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 218,
+        "description": "n/a",
+        "originalText": "::Gas turbine 1 status: on\r\nGas turbine 2 status: on\r\n\r\nWarning! Turbine maintenance or replacement is necessary!\r\n\r\nSteam turbine status: on\r\nHeat recovery steam generator (HRSG) status: on\r\n::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 221,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_securityDisabled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 224,
+        "description": "n/a",
+        "originalText": "::This procedure will disable all security systems, including AMA lines, surveillance systems and turret defenses.\r\n\r\nAre you sure you want to proceed?::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 229,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_securityDisabled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 233,
+        "description": "n/a",
+        "originalText": "::Power allocated successfully!::\r\n\r\n",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 239,
+        "description": "n/a",
+        "originalText": "context.loc_dc_TotalPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 241,
+        "description": "n/a",
+        "originalText": "context.loc_dc_warehousePower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 244,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_securityDisabled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 248,
+        "description": "n/a",
+        "originalText": "::Power deallocated successfully!::\r\n\r\n",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 254,
+        "description": "n/a",
+        "originalText": "context.loc_dc_warehousePower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 256,
+        "description": "n/a",
+        "originalText": "context.loc_dc_TotalPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 257,
+        "description": "n/a",
+        "originalText": "loc_dc_warehousePower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 259,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_securityDisabled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 263,
+        "description": "n/a",
+        "originalText": "context.loc_dc_TotalPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 265,
+        "description": "n/a",
+        "originalText": "context.loc_dc_labPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 268,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_securityDisabled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 272,
+        "description": "n/a",
+        "originalText": "context.loc_dc_labPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 274,
+        "description": "n/a",
+        "originalText": "context.loc_dc_TotalPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 275,
+        "description": "n/a",
+        "originalText": "loc_dc_labPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 277,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_securityDisabled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 281,
+        "description": "n/a",
+        "originalText": "context.loc_dc_TotalPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 283,
+        "description": "n/a",
+        "originalText": "context.loc_dc_mutagenPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 286,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_securityDisabled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 290,
+        "description": "n/a",
+        "originalText": "context.loc_dc_mutagenPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 292,
+        "description": "n/a",
+        "originalText": "context.loc_dc_TotalPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 293,
+        "description": "n/a",
+        "originalText": "loc_dc_mutagenPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 295,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_securityDisabled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 296,
+        "description": "n/a",
+        "originalText": "none",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 297,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_securityDisabled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 305,
+        "description": "n/a",
+        "originalText": "::Power allocated successfully!::\r\n",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 311,
+        "description": "n/a",
+        "originalText": "context.loc_dc_TotalPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 313,
+        "description": "n/a",
+        "originalText": "context.loc_dc_residentialPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 316,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_securityDisabled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 320,
+        "description": "n/a",
+        "originalText": "context.loc_dc_residentialPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 322,
+        "description": "n/a",
+        "originalText": "context.loc_dc_TotalPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 323,
+        "description": "n/a",
+        "originalText": "loc_dc_residentialPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 325,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_securityDisabled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 326,
+        "description": "n/a",
+        "originalText": "none",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 327,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_securityDisabled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 328,
+        "description": "n/a",
+        "originalText": "none",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 329,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_securityDisabled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 330,
+        "description": "n/a",
+        "originalText": "none",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 331,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_securityDisabled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 335,
+        "description": "n/a",
+        "originalText": "::HRSG supplementary burners: on\r\n\r\nMode of operation: combined cycle (Manual config)::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 341,
+        "description": "n/a",
+        "originalText": "::HRSG supplementary burners: off\r\n\r\nMode of operation: combined cycle (Auto config)::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 349,
+        "description": "n/a",
+        "originalText": "::Yes::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 353,
+        "description": "n/a",
+        "originalText": "::No::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 355,
+        "description": "n/a",
+        "originalText": "loc_dc_warehousePower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 357,
+        "description": "n/a",
+        "originalText": "loc_dc_TotalPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 361,
+        "description": "n/a",
+        "originalText": "loc_dc_labPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 363,
+        "description": "n/a",
+        "originalText": "loc_dc_TotalPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 367,
+        "description": "n/a",
+        "originalText": "loc_dc_mutagenPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 369,
+        "description": "n/a",
+        "originalText": "loc_dc_TotalPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 372,
+        "description": "n/a",
+        "originalText": "context.loc_dc_res_setSpiders",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 378,
+        "description": "n/a",
+        "originalText": "context.loc_dc_res_setSpiders",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 380,
+        "description": "n/a",
+        "originalText": "loc_dc_residentialPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 382,
+        "description": "n/a",
+        "originalText": "loc_dc_TotalPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 385,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_powerOptimized",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 389,
+        "description": "n/a",
+        "originalText": "::Back::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 393,
+        "description": "n/a",
+        "originalText": "::[Electronics] Manually configure the combined-cycle system::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 394,
+        "description": "n/a",
+        "originalText": "interface",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 395,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 406,
+        "description": "n/a",
+        "originalText": "::Disabling security systems...\r\n\r\nTurbine chamber security - security disabled!\r\nOffice section - security disabled!\r\nAutomated manufacturing and assembly - security disabled!\r\nIRIS Core - Error: Remote access is denied!\r\n\r\nProcedure completed with 1 error(s)::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 412,
+        "description": "n/a",
+        "originalText": "::Procedure canceled::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 415,
+        "description": "n/a",
+        "originalText": "dc-res2",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 417,
+        "description": "n/a",
+        "originalText": "dc-res3",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 423,
+        "description": "n/a",
+        "originalText": "::Optimizing gas turbine air-fuel mixture... Done.\r\n\r\nEngaging and configuring HRSG supplementary burners... Done.\r\n\r\n::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 427,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_securityDisabled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 429,
+        "description": "n/a",
+        "originalText": "context.loc_dc_arkePower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 431,
+        "description": "n/a",
+        "originalText": "context.loc_dc_TotalPower",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SFVA:P",
+        "objectId": 433,
+        "description": "n/a",
+        "originalText": "context.loc_dc_irisStatus",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SSFV.SSFV:V",
+        "objectId": 434,
+        "description": "n/a",
+        "originalText": "disabled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 447,
+        "description": "n/a",
+        "originalText": "::Verifying steam turbine status... Done.\r\n\r\nOptimizing supercondenser operation... Done.\r\n\r\nManual configuration successful. Total net power gain: 51%::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 453,
+        "description": "n/a",
+        "originalText": "::Warning! Steam pressure reaching unacceptable levels!\r\n\r\nReverting to default settings... \r\nDisengaging HRSG supplementary burners... \r\nOptimizing air-fuel mixture...\r\n\r\nProcedure completed! (52 errors logged)::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 457,
+        "description": "n/a",
+        "originalText": "dc-pp_m",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 459,
+        "description": "n/a",
+        "originalText": "dc-pp_ama",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 463,
+        "description": "n/a",
+        "originalText": "context.loc_dc_pp_powerOptimized",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".MIFV.SFVA:P",
+        "objectId": 465,
+        "description": "n/a",
+        "originalText": "context.loc_dc_TotalPower",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]

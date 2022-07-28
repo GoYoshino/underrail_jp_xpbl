@@ -1,0 +1,2756 @@
+[
+    {
+        "classInfo": ".J.CE:N",
+        "objectId": 102,
+        "description": "n/a",
+        "originalText": "Start Element",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 103,
+        "description": "n/a",
+        "originalText": "herve",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A4.A4:N",
+        "objectId": 104,
+        "description": "n/a",
+        "originalText": "player",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 110,
+        "description": "n/a",
+        "originalText": "::Captain Herve welcomes you into his office with a smile.::\r\n\r\nGood to see you again, $(context.player.Name). What brings you back to Rail Crossing?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 116,
+        "description": "n/a",
+        "originalText": "Please, not now...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 124,
+        "description": "n/a",
+        "originalText": "The Faceless have retreated. I don't know if you had anything to do with it, but if you did, thank you!",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 132,
+        "description": "n/a",
+        "originalText": "Hello, traveller. I am Herve, captain of the militia and the de facto mayor of this station. It is very fortunate that you didn't arrive during the Faceless attack. Things were quite violent.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 141,
+        "description": "n/a",
+        "originalText": "I saw you exiting Buzzer's shop and suddenly the Faceless are retreating. I don't know what you did, but thank you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 149,
+        "description": "n/a",
+        "originalText": "Hello, traveller. I am Herve, captain of the militia and the de facto mayor of this station.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 156,
+        "description": "n/a",
+        "originalText": "Good to see you again, $(context.player.Name).",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 162,
+        "description": "n/a",
+        "originalText": "Yes?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 198,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_talkSupplyArrival",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 205,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_acknowledgedHelp",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 210,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 223,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_acknowledgedHelp",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 224,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 228,
+        "description": "n/a",
+        "originalText": "We are usually a friendly and welcoming community, but you've chosen a bad day to pay us a visit.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 232,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 233,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_talkSupplyArrival",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 234,
+        "description": "n/a",
+        "originalText": "context.loc_rc1_trainSupplies_arrived",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 235,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_talkSupplyArrival",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 241,
+        "description": "n/a",
+        "originalText": "I wanted to talk to you about a certain debt I have at the bar here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 247,
+        "description": "n/a",
+        "originalText": "I see the supplies have finally arrived.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 254,
+        "description": "n/a",
+        "originalText": "I talked to Major Clifton again about the supplies.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 260,
+        "description": "n/a",
+        "originalText": "I found out what happened to the missing train.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 265,
+        "description": "n/a",
+        "originalText": "Even though the Faceless are gone, you seem troubled. Are there any other problems?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 270,
+        "description": "n/a",
+        "originalText": "Even though the Faceless are gone, you seem troubled. Are there any other problems?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 276,
+        "description": "n/a",
+        "originalText": "I've informed the Protectorate of the missing train's location. They'll take care of it and will send you the supplies as soon as possible.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 282,
+        "description": "n/a",
+        "originalText": "I've informed the Protectorate of the missing train's location. Their soldiers have managed to recover it and it's on its way back to the outpost.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 288,
+        "description": "n/a",
+        "originalText": "I've talked to Major Clifton in South Railroad Outpost.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 293,
+        "description": "n/a",
+        "originalText": "::[Lie]:: I tried everything, but the train is impossible to find. I am stopping the search.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 298,
+        "description": "n/a",
+        "originalText": "I've decided to help you with the missing train.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 303,
+        "description": "n/a",
+        "originalText": "Do you know anything about the Free Drones?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 309,
+        "description": "n/a",
+        "originalText": "What can you tell me about South Railroad Outpost?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 315,
+        "description": "n/a",
+        "originalText": "Why is this a bad day to visit?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 321,
+        "description": "n/a",
+        "originalText": "Why do you think they occupied Buzzer's shop?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 327,
+        "description": "n/a",
+        "originalText": "What are you going to do about the Faceless?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 333,
+        "description": "n/a",
+        "originalText": "Maybe I could help you with your Faceless situation.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 339,
+        "description": "n/a",
+        "originalText": "So let's talk about how I can help you with your Faceless situation again...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 345,
+        "description": "n/a",
+        "originalText": "Where is Buzzer's shop exactly?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 351,
+        "description": "n/a",
+        "originalText": "How many Faceless are there?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 357,
+        "description": "n/a",
+        "originalText": "Is there another way to get into Buzzer's shop?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 364,
+        "description": "n/a",
+        "originalText": "I got rid of the Faceless for you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 370,
+        "description": "n/a",
+        "originalText": "I'm looking for Terry and Lora Baker, merchants from SGS. Have you seen them recently?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 377,
+        "description": "n/a",
+        "originalText": "Buzzer died before I had the chance to talk to him about the Faceless attack, leaving me with some unanswered questions.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 380,
+        "description": "n/a",
+        "originalText": "Catch you later.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 381,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 382,
+        "description": "n/a",
+        "originalText": "context.lo_lu-b29_trainBlewUp",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 383,
+        "description": "n/a",
+        "originalText": "context.quest_rcgetRidOfFaceless_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 384,
+        "description": "n/a",
+        "originalText": "context.loc_cc_facelessRetreated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 385,
+        "description": "n/a",
+        "originalText": "context.quest_rcgetRidOfFaceless_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 386,
+        "description": "n/a",
+        "originalText": "context.loc_cc_facelessRetreated",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 387,
+        "description": "n/a",
+        "originalText": "context.quest_rcgetRidOfFaceless_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 388,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 389,
+        "description": "n/a",
+        "originalText": "context.loc_rc_facelessProblemResolved",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 390,
+        "description": "n/a",
+        "originalText": "context.quest_rcgetRidOfFaceless_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 391,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_acknowledgedHelp",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 392,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 396,
+        "description": "n/a",
+        "originalText": "Name's Herve, by the way. I'm the captain of the milita and the de facto mayor of this station.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 400,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 405,
+        "description": "n/a",
+        "originalText": "Yes, I've already heard about it. So what's the problem? Why do you refuse to pay?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 413,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_talkBarBill",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 419,
+        "description": "n/a",
+        "originalText": "Yes! And not a moment too soon. I've been receiving more and more reports of Ironhead activity near Rail Crossing. It even seems that several different clans are converging on this location. These Ironheads, they are like packs of rathounds: They've sensed blood in the air and are moving in for the kill.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 423,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_askedSupplyArrival",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 429,
+        "description": "n/a",
+        "originalText": "Yes, what did he say?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 434,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldAboutTrainArrival",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 436,
+        "description": "n/a",
+        "originalText": "rc_checkWhenTrainIsArriving",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 444,
+        "description": "n/a",
+        "originalText": "You did? Great! Tell me everything.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 450,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldWhatHappenedToTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 459,
+        "description": "n/a",
+        "originalText": "I am relieved, believe me, more than it shows. But so many troubles befell Rail Crossing recently, and that is the reason why I'm not exactly jumping with joy. We basically trade one misfortune for another.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 478,
+        "description": "n/a",
+        "originalText": "Excellent! ::For the first time, a smile finally appears on the captain's face.:: I'm just glad all this is coming to an end. You've done it again, $(context.player.Name). You are one incredibly capable individual. Thank you very much! I promised a reward, and here it is. ::He gives you 400 charons.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 483,
+        "description": "n/a",
+        "originalText": "You found it? Wow, you've been busy... What happened to it?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 499,
+        "description": "n/a",
+        "originalText": "Great, what did he say?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 505,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldWhatCliftonSaid",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 517,
+        "description": "n/a",
+        "originalText": "Hold on, hold on. I think we still have a chance, maybe there are some clues that can point us in the right direct... ion. ::Herve stops speaking and simply stares at you with disappointment..:: I see... You've already made up your mind. :: He sighs.:: I can't force you to do this if you don't want to. I'm... I'm sorry it turned out this way.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 525,
+        "description": "n/a",
+        "originalText": "Great, great! Thank you! You will be rewarded for your assistance, I promise, just find out what happened to that train. Okay, so the best way to reach South Railroad Outpost is by following the tracks south, which is exactly the route the train had to take to reach us. Return to me if you learn anything important, and please, be quick - lives are at stake.\r\n\r\nI'll be here, in the office. Take care.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 533,
+        "description": "n/a",
+        "originalText": "The only thing I know about them is that they are an anarchist group from North Underrail and that they are fighting the Protectorate. They oppose the Union and, even though their numbers in South Underrail are low at the moment, I fear they will grow large enough to become a serious threat.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 542,
+        "description": "n/a",
+        "originalText": "Not much, really. All I know is that it's a Protectorate outpost, has a railroad access and is pretty well guarded.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 546,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_askSRO",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 552,
+        "description": "n/a",
+        "originalText": "You must have heard the reports of Faceless invading the Core City by now, right? Well, we got our own problems with the Faceless here.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 556,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_badDayToVisit",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 563,
+        "description": "n/a",
+        "originalText": "I can't say for sure. Maybe they want something from him or his shop. Buzzer's known to trade in strange electronics - maybe he got hold of something they want.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 567,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_whyBuzzersShop",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 574,
+        "description": "n/a",
+        "originalText": "There's not much we can do at this point. We barely have enough men to fight them off if they come at us now. If we rush them again and suffer more losses, we're done. We'd have to evacuate the station.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 578,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_whatAreYouPlanningToDo",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 586,
+        "description": "n/a",
+        "originalText": "::He looks at you curiously.:: That would almost certainly mean you risking your neck for us. Why would you want to do this?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 590,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_offeredHelp",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 598,
+        "description": "n/a",
+        "originalText": "Let me lay down my offer again: You get three hundred charons if you get rid of the Faceless one way or the other, plus a bonus of one hundred charons if you get Buzzer out alive.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 604,
+        "description": "n/a",
+        "originalText": "I'm just wondering why you're interested in helping us so much...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 613,
+        "description": "n/a",
+        "originalText": "It's just to the south. It's guarded by a Faceless and there are plasma walkers patrolling. And further down south is the train depot.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 617,
+        "description": "n/a",
+        "originalText": "tempcontext.lastQ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 625,
+        "description": "n/a",
+        "originalText": "When we tried to storm the shop I saw three of them, but there could be more inside.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 629,
+        "description": "n/a",
+        "originalText": "tempcontext.lastQ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 637,
+        "description": "n/a",
+        "originalText": "Maybe through the tunnel, but I don't know what state it's in, no one's been using it for a long time. You can access it through the trap door on the south end of the depot. The key is in my locker over there.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SIFV.SFVA:P",
+        "objectId": 641,
+        "description": "n/a",
+        "originalText": "tempcontext.lastQ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 650,
+        "description": "n/a",
+        "originalText": "Yeah, I saw some of them retreating. I don't know what you did, but well done. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 654,
+        "description": "n/a",
+        "originalText": "context.quest_rcgetRidOfFaceless_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 656,
+        "description": "n/a",
+        "originalText": "rc_getRidOfFaceless",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 663,
+        "description": "n/a",
+        "originalText": "They come here regularly to trade, usually with Buzzer, but I haven't seen them recently, no.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 667,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_askedAboutBakers",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 677,
+        "description": "n/a",
+        "originalText": "I already told you all I know. Did you search the shop or learn something from the Faceless themselves?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 683,
+        "description": "n/a",
+        "originalText": "Buzzer was known to trade in strange electronics - maybe he got hold of something they wanted. Did you search the shop or learn something from the Faceless themselves?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 687,
+        "description": "n/a",
+        "originalText": "context.loc_rc_askAroundForBuzzersCustomers",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 688,
+        "description": "n/a",
+        "originalText": "context.npc_rc_barkeeper_bill_unpaid",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 689,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_talkBarBill",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 693,
+        "description": "n/a",
+        "originalText": "I have no money at the moment.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 697,
+        "description": "n/a",
+        "originalText": "I already left the money on the counter, but someone else took it when the barkeeper wasn't looking.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 701,
+        "description": "n/a",
+        "originalText": "The drink and the service were absolutely awful.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 705,
+        "description": "n/a",
+        "originalText": "Dude was supposed to pay for it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 706,
+        "description": "n/a",
+        "originalText": "context.loc_rc1_trainSupplies_arrived",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 707,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_askedSupplyArrival",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 711,
+        "description": "n/a",
+        "originalText": "We are still short on men, but at least we have some serious firepower in our hands. I hope that will be enough.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 714,
+        "description": "n/a",
+        "originalText": "context.npc_lu_clifton_sentToAmbassador",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 715,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldAboutTrainArrival",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 716,
+        "description": "n/a",
+        "originalText": "context.npc_lu_clifton_waitedForTheTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 720,
+        "description": "n/a",
+        "originalText": "He said the supplies will be here in no more than two weeks.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 721,
+        "description": "n/a",
+        "originalText": "context.lo_lu-b29_trainFound",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 722,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 723,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 724,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldWhatHappenedToTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 725,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b31_clifton_WeWillTakeCareOfIt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 729,
+        "description": "n/a",
+        "originalText": "It was hijacked by a small group of armed bandits.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 734,
+        "description": "n/a",
+        "originalText": "The Free Drones hijacked the train.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 735,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 736,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 737,
+        "description": "n/a",
+        "originalText": "context.lo_lu-b31_killedPeople",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 739,
+        "description": "n/a",
+        "originalText": "context.loc_rc_facelessProblemResolved",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 740,
+        "description": "n/a",
+        "originalText": "context.quest_rcgetRidOfFaceless_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 741,
+        "description": "n/a",
+        "originalText": "context.loc_b31_clearedProtectorate",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 745,
+        "description": "n/a",
+        "originalText": "Is it something I can help you with? You know you can trust me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 749,
+        "description": "n/a",
+        "originalText": "Then I wish you the best of luck. Let's talk about something else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 750,
+        "description": "n/a",
+        "originalText": "context.quest_rcgetRidOfFaceless_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 751,
+        "description": "n/a",
+        "originalText": "context.quest_rcgetRidOfFaceless_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 752,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 753,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 754,
+        "description": "n/a",
+        "originalText": "context.lo_lu-b31_killedPeople",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 756,
+        "description": "n/a",
+        "originalText": "context.loc_b31_clearedProtectorate",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 757,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 758,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 759,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b31_clifton_WeWillTakeCareOfIt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 760,
+        "description": "n/a",
+        "originalText": "context.npc_lu_clifton_waitedForTheTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 761,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldWhatHappenedToTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 775,
+        "description": "n/a",
+        "originalText": "The train was hijacked by some gang.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 780,
+        "description": "n/a",
+        "originalText": "The Free Drones hijacked the train.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 781,
+        "description": "n/a",
+        "originalText": "context.npc_lu_clifton_waitedForTheTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 782,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 783,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 784,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b31_clifton_WeWillTakeCareOfIt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 785,
+        "description": "n/a",
+        "originalText": "context.npc_lu_clifton_toldTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 786,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 787,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 788,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldWhatCliftonSaid",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 789,
+        "description": "n/a",
+        "originalText": "context.lo_lu-b29_trainFound",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 793,
+        "description": "n/a",
+        "originalText": "The train left the outpost as planned, but they aren't sure what happened to it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 797,
+        "description": "n/a",
+        "originalText": "Yeah, the train left the outpost all right, but they lost track of it. They also impolitely told me to wait until they deal with it, and after that, they'll inform you about what happens next. Eventually...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 798,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 799,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 800,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b31_clifton_WeWillTakeCareOfIt",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 801,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b28_freeDroneGuard_met",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 802,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldWhatHappenedToTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 803,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b31_clifton_toldTrainExploded",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 804,
+        "description": "n/a",
+        "originalText": "context.faction_freeDrones_attacked",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 805,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b28_freeDroneGuard_persuadedToLeave",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 812,
+        "description": "n/a",
+        "originalText": "See you around... $(context.player.Name). Take care.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 815,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 816,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 826,
+        "description": "n/a",
+        "originalText": "context.faction_knowFreeDrones",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 827,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 831,
+        "description": "n/a",
+        "originalText": "That is all I know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 834,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 835,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_askSRO",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 836,
+        "description": "n/a",
+        "originalText": "context.npc_lu_clifton_toldTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 840,
+        "description": "n/a",
+        "originalText": "That's all I know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 843,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_badDayToVisit",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 844,
+        "description": "n/a",
+        "originalText": "context.loc_rc_facelessProblemResolved",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 848,
+        "description": "n/a",
+        "originalText": "They busted in with one of their tunnelers down the track south and occupied Buzzer's shop. We tried to blitz them back before they'd set up but that ended badly. They killed three of my men and badly wounded one.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 851,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_badDayToVisit",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 852,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_whyBuzzersShop",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 853,
+        "description": "n/a",
+        "originalText": "context.loc_rc_facelessProblemResolved",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 857,
+        "description": "n/a",
+        "originalText": "Or maybe they actually planned to tunnel out somewhere else in the station and just improvised once they realized they missed their target.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 860,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_badDayToVisit",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 861,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_whatAreYouPlanningToDo",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 862,
+        "description": "n/a",
+        "originalText": "context.loc_rc_facelessProblemResolved",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 863,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_whatAreYouPlanningToDo",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 864,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_offeredHelp",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 865,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_askedForMoney",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 866,
+        "description": "n/a",
+        "originalText": "context.loc_rc_facelessProblemResolved",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 876,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_madeADeal",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 877,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_offeredHelp",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 878,
+        "description": "n/a",
+        "originalText": "context.loc_rc_facelessProblemResolved",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 888,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_madeADeal",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 889,
+        "description": "n/a",
+        "originalText": "context.loc_rc_facelessProblemResolved",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 890,
+        "description": "n/a",
+        "originalText": "tempcontext.lastQ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 892,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_madeADeal",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 893,
+        "description": "n/a",
+        "originalText": "context.loc_railCrossing_facelessResolved",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 894,
+        "description": "n/a",
+        "originalText": "tempcontext.lastQ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 896,
+        "description": "n/a",
+        "originalText": "context.loc_rc_facelessProblemResolved",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 901,
+        "description": "n/a",
+        "originalText": "Also, they had at least two plasma walkers patrolling the depot so be careful if you go snooping around there. \r\n\r\nMyles has some ideas how to disable those when we discussed a possibility of a second attack. You should ask him about what he had in mind. He lives on the north side of the station.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 904,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_madeADeal",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 905,
+        "description": "n/a",
+        "originalText": "context.loc_railCrossing_facelessResolved",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".ICC.CIC:P",
+        "objectId": 906,
+        "description": "n/a",
+        "originalText": "tempcontext.lastQ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 908,
+        "description": "n/a",
+        "originalText": "context.loc_rc_facelessProblemResolved",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 909,
+        "description": "n/a",
+        "originalText": "context.quest_rcgetRidOfFaceless_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 910,
+        "description": "n/a",
+        "originalText": "context.quest_rcgetRidOfFaceless_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 911,
+        "description": "n/a",
+        "originalText": "context.loc_rc_facelessProblemResolved",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 917,
+        "description": "n/a",
+        "originalText": "You did us a great favor and we won't forget this.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 925,
+        "description": "n/a",
+        "originalText": "Here's the four hundred charons I promised you. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 932,
+        "description": "n/a",
+        "originalText": "Here's the three hundred charons I promised you. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 935,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_askedAboutBakers",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 936,
+        "description": "n/a",
+        "originalText": "context.quest_findMissingMerchants_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 937,
+        "description": "n/a",
+        "originalText": "context.quest_findMissingMerchants_found",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 938,
+        "description": "n/a",
+        "originalText": "context.quest_rcgetRidOfFaceless_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 939,
+        "description": "n/a",
+        "originalText": "context.npc_rcbuzzer_dead",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 940,
+        "description": "n/a",
+        "originalText": "context.global_heardAboutAcidHunters",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 941,
+        "description": "n/a",
+        "originalText": "context.npc_rcbuzzer_guess",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 942,
+        "description": "n/a",
+        "originalText": "context.loc_rc_askAroundForBuzzersCustomers",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 943,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_whyBuzzersShop",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 955,
+        "description": "n/a",
+        "originalText": "Ah. So that's the core of the issue. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 961,
+        "description": "n/a",
+        "originalText": "I find that hard to believe. ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 967,
+        "description": "n/a",
+        "originalText": "But he is no longer in Rail Crossing, correct? ",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 972,
+        "description": "n/a",
+        "originalText": "Two weeks? That is not good news...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 979,
+        "description": "n/a",
+        "originalText": "I was afraid of that. But where is it now, and what about the cargo?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 986,
+        "description": "n/a",
+        "originalText": "context.learnOfFreeDrones",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 989,
+        "description": "n/a",
+        "originalText": "Free Drones? Are you sure?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 997,
+        "description": "n/a",
+        "originalText": "Trust is not the issue, it's just... Alright, I'll explain.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1003,
+        "description": "n/a",
+        "originalText": "What do you need?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1009,
+        "description": "n/a",
+        "originalText": "Oh, did the major tell you anything about when the supplies will arrive?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1015,
+        "description": "n/a",
+        "originalText": "::The smile lasts for while, but a worm of doubt soon makes it slowly go away. Worry surfaces on his face, and just as you were about to leave, he stops you.::\r\n\r\nWait. I have one more favor to ask of you...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1022,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 1024,
+        "description": "n/a",
+        "originalText": "rc_trainHeist",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1028,
+        "description": "n/a",
+        "originalText": "I was afraid of that, but I'm relieved the train has been found. I'm just glad all this is coming to an end. You've done it again $(context.player.Name), you seem to be an incredibly capable individual. Thank you very much! I promised a reward, so here it is. ::He gives you 400 charons.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1031,
+        "description": "n/a",
+        "originalText": "context.learnOfFreeDrones",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1034,
+        "description": "n/a",
+        "originalText": "Free Drones? Are you sure?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1041,
+        "description": "n/a",
+        "originalText": "It is what I feared. Someone must've intercepted the train. We need to keep searching. Who knows how long it'll take for the Protectorate to get to the bottom of this.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1048,
+        "description": "n/a",
+        "originalText": "Sounds like some jack-in-office of an officer. Someone must've intercepted the train. We need to keep searching. Who knows how long it'll take for the Protectorate to get to the bottom of this.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1054,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C34.C34:QN",
+        "objectId": 1056,
+        "description": "n/a",
+        "originalText": "rc_trainHeist",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1060,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldNoTrainSearch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1062,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistStarted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1064,
+        "description": "n/a",
+        "originalText": "rc_trainHeist",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1073,
+        "description": "n/a",
+        "originalText": "I'm from SGS actually. Tanner sent me to lend you a hand.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1077,
+        "description": "n/a",
+        "originalText": "We humans should stand together against this Faceless offensive. If your station falls today, my station could be next.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1082,
+        "description": "n/a",
+        "originalText": "I'd expect to be paid, of course.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1085,
+        "description": "n/a",
+        "originalText": "Never mind, sounds like a bad idea.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1086,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_askedForMoney",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1090,
+        "description": "n/a",
+        "originalText": "Agreed.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1097,
+        "description": "n/a",
+        "originalText": "::[Mercantile]:: You'll have to do better than that, chief. I'm risking my neck here. I'll get you rid of those freaks for 400 charons and for additional I'll get your homeboy Buzzer for additional two hundred charons.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1101,
+        "description": "n/a",
+        "originalText": "I'll think about it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1103,
+        "description": "n/a",
+        "originalText": "context.npc_rcmyles_heardAboutEmpPlan",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1104,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_agreedToPay",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1109,
+        "description": "n/a",
+        "originalText": "context.loc_railCrossing_removedFacelessForFree",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1110,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_agreedToPayHigher",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1119,
+        "description": "n/a",
+        "originalText": "They are looking for some item; I don't know what the item is, but it doesn't take a genius to figure out it means a lot to them. As you've said yourself, maybe someone brought something to his store. Did anyone unusual come to his store recently?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1124,
+        "description": "n/a",
+        "originalText": "::[Intelligence]:: I did not find anything unusual, but whatever the Faceless are looking for, it is no longer there. My guess is that all poor Buzzer was guilty of is letting the wrong people into his shop, drawing the Faceless toward him.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1128,
+        "description": "n/a",
+        "originalText": "Nothing useful, unfortunately.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1133,
+        "description": "n/a",
+        "originalText": "Listen, South Gate Station and Rail Crossing have established pretty good relations over the years. Should we allow petty issues like this to divide us?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1139,
+        "description": "n/a",
+        "originalText": "That is, unless someone intercepts the train again.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1143,
+        "description": "n/a",
+        "originalText": "There was nothing I could do.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1149,
+        "description": "n/a",
+        "originalText": "I took care of the hijackers. It's south of Rail Crossing; there is a turn west into a cave and to what appears to be some warehouse. The supplies look mostly untouched.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1154,
+        "description": "n/a",
+        "originalText": "It's gone. I tried to fight the hijackers, but one of them used a bomb to destroy the train and its cargo. It was located just south of Rail Crossing.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1159,
+        "description": "n/a",
+        "originalText": "I informed Major Clifton at South Railroad Outpost. The Protectorate went there to deal with the hijackers and reaquire the train. They said they'll send you the supplies soon.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1165,
+        "description": "n/a",
+        "originalText": "It's south of Rail Crossing; there is a turn west into a cave and to what appears to be some warehouse. I came here for reinforcements.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1170,
+        "description": "n/a",
+        "originalText": "Yes. I think all this was an act against Protectorate, rather than against Rail Crossing.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1175,
+        "description": "n/a",
+        "originalText": "I'm sure, but I don't know their exact motives.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1179,
+        "description": "n/a",
+        "originalText": "Recently we've had problems with an increasing number of attacks on Rail Crossing. Mostly by bandits, but hell, when you add the Faceless to that, the pressure becomes overwhelming. Regardless, even without these recent events the attacks have become more and more vicious and difficult to repel. So... I... made a deal with the Protectorate some time ago, according to which they were to deliver us military supplies.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1182,
+        "description": "n/a",
+        "originalText": "context.npc_lu_clifton_waitedForTheTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1186,
+        "description": "n/a",
+        "originalText": "Go ahead.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1194,
+        "description": "n/a",
+        "originalText": "They are fighting against the Protectorate, claiming that they're oppressors.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1199,
+        "description": "n/a",
+        "originalText": "I'm sure, but I don't know their exact motives.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1203,
+        "description": "n/a",
+        "originalText": "What if they're lying? Maybe they are trying to trick you somehow.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1207,
+        "description": "n/a",
+        "originalText": "I'm on the case.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 1208,
+        "description": "n/a",
+        "originalText": "lu-b29",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 1210,
+        "description": "n/a",
+        "originalText": "lu-b27",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q0.Q0:L",
+        "objectId": 1212,
+        "description": "n/a",
+        "originalText": "lu-b31",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1218,
+        "description": "n/a",
+        "originalText": "Ah, I did put out a distress call to SGS. Are you the only one they could spare? I guess you people have your own problems.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1224,
+        "description": "n/a",
+        "originalText": "::He gives you a suspicious look.:: I guess that makes sense.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1230,
+        "description": "n/a",
+        "originalText": "That I can understand. If you can somehow make the Faceless leave or take them all out I'll pay you three hundred charons. If you can get Buzzer out of there alive, assuming he still is, I'll throw in extra one hundred charons. Sound good?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1234,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_askedForMoney",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1239,
+        "description": "n/a",
+        "originalText": "We have a deal then.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1242,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_haggled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1249,
+        "description": "n/a",
+        "originalText": "Hmm... fair enough. Chances are you'll just get killed and I won't have to pay you anything anyway.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1254,
+        "description": "n/a",
+        "originalText": "Forget it, $(#boy/girl). It's three hundred and one hundred. Take it or leave it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1260,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_haggled",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1264,
+        "description": "n/a",
+        "originalText": "You do that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1284,
+        "description": "n/a",
+        "originalText": "::He shrugs.:: Plenty, actually. But I don't keep track of who visits Buzzer. You could still ask around the station. Maybe you'll find some clue. My mind is preoccupied with other things now, however, so you're on your own in this.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1292,
+        "description": "n/a",
+        "originalText": "How can you be so sure?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1298,
+        "description": "n/a",
+        "originalText": "::He shrugs.:: Sorry, my mind is preoccupied with other things now, so I can't help you much, but it seems to me like the only thing you've got left is to ask around the station. Lots of weird folks come to Buzzer's shop, so perhaps someone saw something you could find useful.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1309,
+        "description": "n/a",
+        "originalText": "You've already helped this station so much, which is something I and this whole station are very grateful for. I will personally pay for your debt, $(context.player.Name). Let's forget this... incident ever happened. Very good.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1315,
+        "description": "n/a",
+        "originalText": "I cannot arrest you or force you to pay your debt off since I fear that might affect our two stations' relations. However, you are being denied service throughout the station - most of it, at least - from what I hear, so it is entirely up to you how you want to proceed. I will not interfere.\r\n\r\nThink about it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1321,
+        "description": "n/a",
+        "originalText": "Please, things are already difficult enough. However, thank you for the information. Two weeks, while long, is better than nothing.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1327,
+        "description": "n/a",
+        "originalText": "I understand. Thank you for your help. Two weeks, while long, is better than nothing.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1335,
+        "description": "n/a",
+        "originalText": "Great! In that case, contact the Protectorate again and have them take care of it. It's best that way. Don't think the Protectorate would appreciate us taking the train without their knowledge",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1341,
+        "description": "n/a",
+        "originalText": "Excellent, but I don't think the Protectorate would appreciate us taking the train without their knowledge. Go to South Railroad Outpost and talk to them about getting their train and then sending the supplies to me.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1347,
+        "description": "n/a",
+        "originalText": "What? WHAT? Damn it! This is unbelievable. Why did you have to do it all alone? Why didn't you contact us or the Protectorate?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1356,
+        "description": "n/a",
+        "originalText": "Excellent! ::For the first time, a smile finally appears on the captain's face.:: I'm just glad all this is coming to an end. You've done it again, $(context.player.Name). You are one incredibly capable individual. Thank you very much! I promised a reward, and here it is. ::He gives you 400 charons.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1367,
+        "description": "n/a",
+        "originalText": "Great, go to South Railroad Outpost about that. If they said it's their investigation, then they should deal with the hijackers. And they are far better equipped for it anyway.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1373,
+        "description": "n/a",
+        "originalText": "We don't have the men to deal with the hijackers, but I'm sure the Protectorate wouldn't mind giving us a hand. It's their train after all. Go to South Railroad Outpost and tell them what you told me. They are far better equipped for dealing with the hijackers anyway.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1380,
+        "description": "n/a",
+        "originalText": "Indeed, it makes perfect sense. I don't know much about them, but I know they're all about fighting the Protectorate. They came from the North several years ago, just after Protectorate started building Fort Apogee in Upper Underrail.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1387,
+        "description": "n/a",
+        "originalText": "I don't know much about the Free Drones, but what I know is they're all about fighting the Protectorate. They came from the North several years ago, just after Protectorate started building Fort Apogee in Upper Underrail.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1393,
+        "description": "n/a",
+        "originalText": "Look, I don't know how you feel about the Protectorate, but what I did I did out of necessity. Rail Crossing is a small station - easy pickings - and we need a way to protect ourselves. To do that, we need weapons, ammo, medical supplies.... everything, pretty much. And those things you can't go around and pick like, like mushrooms.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1398,
+        "description": "n/a",
+        "originalText": "This whole situation with the train... it's dragging on. While I do know that the train has been located, I'm left in the dark again. Rail Crossing is vulnerable. You understand. I need to know when the train will be arriving, and it doesn't appear to me like they've revealed that information to you.\r\n\r\nWould it be a problem for you to go back and... ask them about it? Perhaps, if possible, somehow... \"speed up\" the process? If possible.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1408,
+        "description": "n/a",
+        "originalText": "Indeed, it makes perfect sense. The only thing I know about them is that they are an anarchist group from North Underrail and that they are fighting the Protectorate. They oppose the Union and, even though their numbers in South Underrail are low at the moment, I fear they will grow large enough to become a serious threat.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1415,
+        "description": "n/a",
+        "originalText": "The only thing I know about them is that they are an anarchist group from North Underrail and that they are fighting the Protectorate. They oppose the Union and, even though their numbers in South Underrail are low at the moment, I fear they will grow large enough to become a serious threat.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1420,
+        "description": "n/a",
+        "originalText": "I do not think so. ::He pauses.:: But even if it is true, there is nothing we can do about it other than try to find out what happened to the train. And hope, basically.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1426,
+        "description": "n/a",
+        "originalText": "I knew I could count on you. Good luck.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1429,
+        "description": "n/a",
+        "originalText": "context.quest_assistRailCrossing_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1438,
+        "description": "n/a",
+        "originalText": "As I said. Storming the shop is not an option anymore, so you'll have to figure out something else.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1442,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_agreedToPay",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1445,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_agreedToPay",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1447,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_agreedToPayHigher",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1451,
+        "description": "n/a",
+        "originalText": "I'll take it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1455,
+        "description": "n/a",
+        "originalText": "I'll think about it.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1456,
+        "description": "n/a",
+        "originalText": "context.npc_rcbuzzer_dead",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1462,
+        "description": "n/a",
+        "originalText": "It's unfortunate that you couldn't save Buzzer, though. He will be missed.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1470,
+        "description": "n/a",
+        "originalText": "You didn't save Buzzer, though, so no bonus money for you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1479,
+        "description": "n/a",
+        "originalText": "And since you saved Buzzer in the process, here's your bonus as well - two hundred charons.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1487,
+        "description": "n/a",
+        "originalText": "And since you saved Buzzer in the process, here's your bonus as well - one hundred charons.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1493,
+        "description": "n/a",
+        "originalText": "context.npc_rcmindreader_lookingForAnItem",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1494,
+        "description": "n/a",
+        "originalText": "context.npc_fofaceless_toldAboutInvestigation",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1498,
+        "description": "n/a",
+        "originalText": "Can I ask you a few more questions before I leave?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1501,
+        "description": "n/a",
+        "originalText": "I understand. I'm going to go and ask around a bit.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1505,
+        "description": "n/a",
+        "originalText": "I am not, but you said something yourself - he deals in strange electronics. I think the most plausible explanation is that someone brought this device to his store; it likely didn't exchange hands, as the Faceless would've found it by now.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1509,
+        "description": "n/a",
+        "originalText": "context.npc_rc_barkeeper_bill_unpaid",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1511,
+        "description": "n/a",
+        "originalText": "context.npc_rc_barkeeper_bill_hervePaid",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1512,
+        "description": "n/a",
+        "originalText": "context.lo_lu-b29_defuseSuccess",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1516,
+        "description": "n/a",
+        "originalText": "Get back to me when you're done.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1521,
+        "description": "n/a",
+        "originalText": "Get back to me when you're done.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1524,
+        "description": "n/a",
+        "originalText": "context.lo_lu-b29_trainBlewUp",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1528,
+        "description": "n/a",
+        "originalText": "I had no choice at the moment. I couldn't tell them to wait while I get reinforcements.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1532,
+        "description": "n/a",
+        "originalText": "It's how I do things. Alone.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1533,
+        "description": "n/a",
+        "originalText": "context.npc_lu_clifton_attackFreeDrones",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1534,
+        "description": "n/a",
+        "originalText": "context.lo_lu-b29_trainFound",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1535,
+        "description": "n/a",
+        "originalText": "context.npc_lu_clifton_attackFreeDrones",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1536,
+        "description": "n/a",
+        "originalText": "context.lo_lu-b29_trainBlewUp",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1537,
+        "description": "n/a",
+        "originalText": "context.lo_lu-b29_defuseSuccess",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1539,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b29_droneBomber_learnMotives",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1542,
+        "description": "n/a",
+        "originalText": "All that aside, where is the train now, and what about the cargo?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1549,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b29_droneBomber_learnMotives",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1560,
+        "description": "n/a",
+        "originalText": "I could ask Major Clifton about it. Maybe they've already recovered the train.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1564,
+        "description": "n/a",
+        "originalText": "You think highly of me, perhaps too much. I don't think I can \"speed up\" anything.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1570,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b29_droneBomber_learnMotives",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1574,
+        "description": "n/a",
+        "originalText": "All in all, I'm relieved the train has been found. You've done it again $(context.player.Name), you seem to be an incredibly capable individual. Thank you very much! I promised a reward, so here it is. ::He gives you 400 charons.::",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1577,
+        "description": "n/a",
+        "originalText": "context.npc_lu-b29_droneBomber_learnMotives",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1579,
+        "description": "n/a",
+        "originalText": "rc_getRidOfFaceless",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1581,
+        "description": "n/a",
+        "originalText": "rc_saveBuzzer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1583,
+        "description": "n/a",
+        "originalText": "context.quest_rcgetRidOfFaceless_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1585,
+        "description": "n/a",
+        "originalText": "context.quest_rcsaveBuzzer_started",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1587,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_madeADeal",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1589,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_agreedToPay",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C34.C34:QN",
+        "objectId": 1591,
+        "description": "n/a",
+        "originalText": "rc_saveBuzzer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C34.C34:QN",
+        "objectId": 1593,
+        "description": "n/a",
+        "originalText": "rc_saveBuzzer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1597,
+        "description": "n/a",
+        "originalText": "Wish I could have. Rest in peace, Buzzer.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C34.C34:QN",
+        "objectId": 1599,
+        "description": "n/a",
+        "originalText": "rc_saveBuzzer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C34.C34:QN",
+        "objectId": 1601,
+        "description": "n/a",
+        "originalText": "rc_saveBuzzer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1602,
+        "description": "n/a",
+        "originalText": "context.npc_rcherve_agreedToPayHigher",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 1606,
+        "description": "n/a",
+        "originalText": "rc_saveBuzzer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1610,
+        "description": "n/a",
+        "originalText": "Pleasure doing business with you.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C33.C33:QN",
+        "objectId": 1614,
+        "description": "n/a",
+        "originalText": "rc_saveBuzzer",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1626,
+        "description": "n/a",
+        "originalText": "Go ahead.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1631,
+        "description": "n/a",
+        "originalText": "You could ask around, but Buzzer had a lot of customers, and a lot of them were weird folks. ::He shrugs.:: My mind is preoccupied with other things now, however, so you're on your own in this.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1636,
+        "description": "n/a",
+        "originalText": "context.quest_rcgetRidOfFaceless_finished",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1640,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldWhatCliftonSaid",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1644,
+        "description": "n/a",
+        "originalText": "::The captain lowers his head.:: It doesn't matter now. Please, leave me alone. You've done enough.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1650,
+        "description": "n/a",
+        "originalText": "::The captain lowers his head.:: Well, that worked out beautifully. Just leave me alone, you've done enough.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1653,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldWhatCliftonSaid",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1657,
+        "description": "n/a",
+        "originalText": "Tell me more about this delivery.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1663,
+        "description": "n/a",
+        "originalText": "They didn't just give you all that for free, did they?",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1666,
+        "description": "n/a",
+        "originalText": "I would be grateful. Thank you so much.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1672,
+        "description": "n/a",
+        "originalText": "I understand. Even one simple information would suffice.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 1676,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1680,
+        "description": "n/a",
+        "originalText": "May he rest in peace...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1689,
+        "description": "n/a",
+        "originalText": "Indeed...",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 1695,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 1696,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1697,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1698,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldNoTrainSearch",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1699,
+        "description": "n/a",
+        "originalText": "context.lo_lu-b29_trainBlewUp",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1710,
+        "description": "n/a",
+        "originalText": "The only thing I had been told was that a train loaded with supplies was due to arrive several days ago. As far as I know, the train was to set off from South Railroad Outpost, which is a small Protectorate base south of here. The train never arrived, and I've received no word from the Protectorate regarding the whole situation since. \r\n\r\nI do not know what is happening: Maybe it never departed, maybe something happened along the way, maybe... I just don't know.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".BC.CIC:P",
+        "objectId": 1715,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_askPriceGear",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1719,
+        "description": "n/a",
+        "originalText": "Nothing is free in this world.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1723,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_askPriceGear",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1727,
+        "description": "n/a",
+        "originalText": "I'll see what I can do.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".C34.C34:QN",
+        "objectId": 1731,
+        "description": "n/a",
+        "originalText": "rc_trainHeist",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1733,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_TrainHeistCompleted",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SBFV.SFVA:P",
+        "objectId": 1735,
+        "description": "n/a",
+        "originalText": "context.npc_rc_herve_toldTrain",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1739,
+        "description": "n/a",
+        "originalText": "I will help you. We'll find out what happened.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".A3.SE:LT:0:Value",
+        "objectId": 1743,
+        "description": "n/a",
+        "originalText": "I'll pass.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1747,
+        "description": "n/a",
+        "originalText": "We made a deal. Let's leave it at that.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1753,
+        "description": "n/a",
+        "originalText": "Thank you, I'll be waiting.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".Q.SE:LT:0:Value",
+        "objectId": 1767,
+        "description": "n/a",
+        "originalText": "Very well. I... understand. This is not your fight, after all.",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".SQA.SQA:QN",
+        "objectId": 1771,
+        "description": "n/a",
+        "originalText": "rc_checkWhenTrainIsArriving",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 1772,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "objectId": 1773,
+        "description": "n/a",
+        "originalText": "currency\\stygiancoin",
+        "translatedText": ""
+    },
+    {
+        "jsonVersion": "0.2"
+    }
+]
