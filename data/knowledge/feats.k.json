@@ -25,7 +25,7 @@
         "objectId": 6,
         "description": "n/a",
         "originalText": "You can activate the Sprint ability which grants you {0} additional movement points for {1}. Only effective while not in stealth.\r\n\r\nCooldown: {2}.",
-        "translatedText": "{1} の間 MPが {1} 増加する。ステルス状態では 効果がない。\r\n\r\nクールダウン: {2}"
+        "translatedText": "{1}の間 MPが{1}増加する。 ステルス状態では効果がない。\r\n\r\nクールダウン: {2}"
     },
     {
         "className": "KI",
@@ -39,7 +39,7 @@
         "objectId": 8,
         "description": "n/a",
         "originalText": "You can perform an aimed shot with any single-target ranged weapon for a guaranteed critical hit.\r\n\r\nCooldown: {0}.",
-        "translatedText": "単体攻撃武器を 装備中に 使用できる。 必ず クリティカルヒット する。\r\n\r\nクールダウン: {0}."
+        "translatedText": "単体攻撃武器を装備中に使用できる。 必ずクリティカルヒットする。\r\n\r\nクールダウン: {0}."
     },
     {
         "className": "KI",
@@ -53,7 +53,7 @@
         "objectId": 10,
         "description": "n/a",
         "originalText": "Grants you a special attack with a crossbow or sniper rifle that deals additional damage per stealth skill point. Can only be used in stealth. This attack cannot critically hit.\r\n\r\nCooldown: {0}.",
-        "translatedText": "クロスボウか スナイパーライフルを 装備中に 使用できる。 Stealth スキルに 応じた 追加ダメージを 与える。 ステルス中しか 使用できない。 このアビリティは クリティカルヒットしない。\r\n\r\nクールダウン: {0}"
+        "translatedText": "クロスボウか スナイパーライフルを 装備中に使用できる。 Stealthスキルに応じた 追加ダメージを与える。 ステルス中しか使用できない。 このアビリティはクリティカルヒットしない。\r\n\r\nクールダウン: {0}"
     },
     {
         "className": "KI",
@@ -67,7 +67,7 @@
         "objectId": 12,
         "description": "n/a",
         "originalText": "Grants you a special attack with a crossbow or sniper rifle that deals {0}% weapon damage plus additional {1}% damage per stealth skill point. Can only be used in stealth. This attack cannot critically hit.\r\n\r\nCooldown: {2}.",
-        "translatedText": "クロスボウか スナイパーライフルを 装備中に 使用できる。　武器ダメージの 100%を　与え、 Stealth スキル 1ポイントに つき {1}% の ダメージを 与える。　このアビリティは クリティカルヒットしない。\r\n\r\nクールダウン: {2}."
+        "translatedText": "クロスボウか スナイパーライフルを 装備中に 使用できる。 武器ダメージの100%を与え、Stealthスキル 1ポイントにつき {1}%のダメージを与える。 このアビリティはクリティカルヒットしない。\r\n\r\nクールダウン: {2}."
     },
     {
         "className": "KI",
@@ -81,7 +81,7 @@
         "objectId": 14,
         "description": "n/a",
         "originalText": "Grants you a special attack with chemical blob pistols that launches a big blob at the targeted location, dealing normal weapon damage to everything in a small radius. This attack costs {0}% of regular attack action points.\r\n\r\nCooldown: {1}.",
-        "translatedText": "毒液ピストルを装備中に使用できる。目標地点に巨大なスライムを撃ち出し、小範囲内のすべての敵に通常の武器ダメージを与える。APコストは通常攻撃の{0}%。\r\n\r\nクールダウン: {1}"
+        "translatedText": "毒液ピストルを装備中に使用できる。 目標地点に巨大なスライムを撃ち出し、 小範囲内のすべての敵に 通常の武器ダメージを与える。 APコストは通常攻撃の{0}%。\r\n\r\nクールダウン: {1}"
     },
     {
         "className": "KI",
@@ -123,7 +123,7 @@
         "objectId": 20,
         "description": "n/a",
         "originalText": "An attack with a pistol, crossbow or SMG that does normal damage and applies a bleeding wound that deals additional {0}% of the original damage over {1} and removes all movement points for the same duration.\r\n\r\nOnly works on living targets (that have knees).\r\n\r\nCooldown: {2}.",
-        "translatedText": "ピストル、クロスボウ、サブマシンガンのいずれかを装備中に使用できる。敵を出血状態にし、{1}の間ダメージを与える。出血ダメージは攻撃ダメージの{0}%。出血中の敵はMPが0になる。(APは残るので行動することはできる)\r\n\r\nかかとのある生命体にしか効果がない。\r\n\r\nクールダウン: {2}."
+        "translatedText": "ピストル、クロスボウ、サブマシンガンの いずれかを装備中に使用できる。 敵を出血状態にし、 {1}の間 ダメージを与える。 出血ダメージは攻撃ダメージの{0}%。 出血中の敵はMPが0になる。 (APは残るので行動することはできる)\r\n\r\nかかとの ある 生命体に しか 効果が ない。\r\n\r\nクールダウン: {2}."
     },
     {
         "className": "KI",
@@ -137,7 +137,7 @@
         "objectId": 22,
         "description": "n/a",
         "originalText": "An attack with a pistol, crossbow, SMG or shotgun that does normal damage and applies a bleeding wound that deals additional {0}% of the original damage over {1} and removes all movement points for the same duration.\r\n\r\nOnly works on living targets (that have knees).\r\n\r\nCooldown: {2}.",
-        "translatedText": "ピストル、クロスボウ、サブマシンガンのいずれかを装備中に使用できる。敵を出血状態にし、{1}の間ダメージを与える。出血ダメージは攻撃ダメージの{0}%で、出血中の敵はMPが0になる。\r\n\r\nかかとのある生命体にしか効果がない。クールダウン: {2}"
+        "translatedText": "ピストル、クロスボウ、サブマシンガンの いずれかを装備中に使用できる。 敵を出血状態にし、 {1}の間ダメージを与える。 出血ダメージは攻撃ダメージの{0}%で、 出血中の敵はMPが0になる。\r\n\r\nかかとの ある 生命体にしか 効果が ない。 クールダウン: {2}"
     },
     {
         "className": "KI",
@@ -165,7 +165,7 @@
         "objectId": 26,
         "description": "n/a",
         "originalText": "Increases your critical damage bonus with pistols, crossbows and sniper rifles when fully focused by {0}%. Firearm pistols receive this bonus at all times, regardless of focus.",
-        "translatedText": "静止集中／Focusedバフが最大である限り、ピストル・クロスボウ・スナイパーライフルによるクリティカルダメージが{0}%増加する。装備が火薬ピストルならば、無条件にこの効果を受ける。"
+        "translatedText": "静止集中／Focusedバフが 最大である限り、 ピストル・クロスボウ・スナイパーライフルによる クリティカルダメージが {0}%増加する。 装備が火薬ピストルならば、 無条件にこの効果を受ける。"
     },
     {
         "className": "KI",
@@ -179,7 +179,7 @@
         "objectId": 28,
         "description": "n/a",
         "originalText": "Increases damage against rooted, stunned and incapacitated targets by {0}% and against slowed targets by {1}% with weapons, unarmed attacks and throwing knives.\r\n\r\nOnly works on living targets.",
-        "translatedText": "束縛／Rooted、スタン／Stunned、無力化／Incapacitated状態の相手には{0}%、スロウ状態の相手には{1}%、素手・武器・投げナイフのダメージが増加する。\r\n\r\n生命体にしか効かない。"
+        "translatedText": "束縛／Rooted、スタン／Stunned、 無力化／Incapacitated状態の相手には{0}%、 スロウ状態の相手には{1}%、 素手・ 武器・投げナイフのダメージが増加する。 \r\n\r\n生命体にしか効果がない。"
     },
     {
         "className": "KI",
@@ -193,7 +193,7 @@
         "objectId": 30,
         "description": "n/a",
         "originalText": "Reduces the amount of action points required to fire pistols by {0} and increases initiative by {1} while wielding one. Only applies to firearms.",
-        "translatedText": "ピストルを発射する際の消費APが{0}減少する。ピストルを装備しているとき、イニシアティブが{1}増加する。火薬武器にしか効果がない。"
+        "translatedText": "ピストルを発射する際の消費APが{0}減少する。 ピストルを装備しているとき、イニシアティブが{1}増加する。 火薬武器にしか効果がない。"
     },
     {
         "className": "KI",
@@ -235,7 +235,7 @@
         "objectId": 36,
         "description": "n/a",
         "originalText": "Increases the duration of all cold effects of your psi abilities by {0} and allows you to shatter targets caught in your cryostasis if the attack deals over {1}% of target's remaining health (only mechanical and cold damage dealt is considered).\r\n\r\nAlso increases the health of cryogenic barrier by {2}%.",
-        "translatedText": "PSIアビリティによる冷気系状態異常の持続時間が{0}増加する。Cryostatsisの使用時、対象の残りHPの{1}%以上のダメージを与えるとことで対象を粉砕する能力を得る(物理／Mechanical、冷気／Coldダメージの合計で判定する)。\r\n\r\nCryogenic Barrierの耐久力が{2}%増加する。"
+        "translatedText": "PSIアビリティによる冷気系状態異常の持続時間が{0}増加する。 Cryostatsisの使用時、 対象の残りHPの{1}%以上のダメージを与えることで 対象を粉砕する能力を得る (物理／Mechanical、冷気／Cold ダメージの合計で判定する)。\r\n\r\nCryogenic Barrierの 耐久力が {2}% 増加する。"
     },
     {
         "className": "KI",
@@ -249,7 +249,7 @@
         "objectId": 38,
         "description": "n/a",
         "originalText": "Grants you a special close range attack with the pistol that deals {0}% weapon damage against stunned and incapacitated targets. Does not work with pistols that deal their primary damage to multiple targets. Costs 5 action points more than a regular attack.\r\n\r\nCooldown: {1}.",
-        "translatedText": "Executeアビリティを習得する。ピストルで近接距離の相手に使用でき、対象がスタン／Stunned状態か無力化／Incapacitated状態ならば通常攻撃の{0}%のダメージを与える。範囲攻撃のピストルには適用されない。APコストは通常攻撃のAP+5。\r\n\r\nクールダウン: {1}."
+        "translatedText": "Executeアビリティを習得する。 ピストルで近接距離の相手に使用でき、 対象がスタン／Stunned状態か無力化／Incapacitated状態ならば 通常攻撃の{0}%のダメージを与える。 範囲攻撃のピストルには適用されない。 APコストは通常攻撃のAP+5。\r\n\r\nクールダウン: {1}."
     },
     {
         "className": "KI",
@@ -263,7 +263,7 @@
         "objectId": 40,
         "description": "n/a",
         "originalText": "Your cold based metathermic psi abilities also reduce target's constitution by {0}. This effect stacks up to {1} times and lasts up to {2}.\r\n\r\nCan be mitigated with cold resistance and targets that are immune to chilling and freezing effects are also immune to hypothermia.",
-        "translatedText": "冷気系のPSIアビリティに、{1}ターンの間対象のCONを{0}低下させる効果を付与する。この効果は{1}回まで重複する。\r\n\r\nこの効果は冷気耐性によって軽減でき、冷気が効かない対象には効果がない。"
+        "translatedText": "冷気系のPSIアビリティに、{1}ターンの間 対象の持久／Constitutionを{0}低下させる効果を付与する。 この効果は{1}回まで重複する。\r\n\r\nこの効果は冷気耐性によって軽減でき、 冷気が効かない対象には効果がない。"
     },
     {
         "className": "KI",
@@ -277,7 +277,7 @@
         "objectId": 42,
         "description": "n/a",
         "originalText": "Lowers the stealth movement speed penalty to {0}% and allows you to retain up to {1} movement points in combat while stealthed.",
-        "translatedText": "ステルス中の移動速度ペナルティを{0}%に軽減する。ステルス状態で戦闘に入ってもMPが{1}残る。"
+        "translatedText": "ステルス中の移動速度ペナルティを {0}%に軽減する。 ステルス状態で戦闘に入ってもMPが{1}残る。"
     },
     {
         "className": "KI",
@@ -305,7 +305,7 @@
         "objectId": 46,
         "description": "n/a",
         "originalText": "Increases the base damage of your Neural Overload psi ability by {0}%. Also, whenever it lands it reduces all target's psi point gains by {1}% for {2} turns. This effect stacks {3} times.",
-        "translatedText": "Neural Overloadの基本ダメージが{0}%上昇する。また命中時、対象のPSIポイントの自然回復を{1}%低下させる効果を{2}ターン発生させる。この効果は{3}つまで重複する。"
+        "translatedText": "Neural Overloadの基本ダメージが{0}% 上昇する。 また命中時、対象のPSIポイントの自然回復を{1}%低下させる 効果を{2}ターン発生させる。 この効果は{3}つまで重複する。"
     },
     {
         "className": "KI",
@@ -333,7 +333,7 @@
         "objectId": 50,
         "description": "n/a",
         "originalText": "Each offensive mind affecting psi ability you land on the target reduces its resolve by a small percentage, but can ultimately stack up to {0}%.",
-        "translatedText": "敵に攻撃系のPSIアビリティが命中したとき、対象の意志力／Resolveをわずかに低下させる。効果は重複するが、最大で{0}%まで。"
+        "translatedText": "敵に攻撃系のPSIアビリティが 命中したとき、 対象の意志力／Resolveを わずかに低下させる。 効果は重複するが、 最大で{0}%まで。"
     },
     {
         "className": "KI",
@@ -347,7 +347,7 @@
         "objectId": 52,
         "description": "n/a",
         "originalText": "Reduces all mechanical, heat and cold damage taken by {0}% plus {1}% for every point in constitution above {2}.",
-        "translatedText": "自分が受けるすべての物理・熱・冷気ダメージを{0}%軽減する。CONが{2}を超えている場合、超えている1ポイントにつきさらに{1}%軽減する。"
+        "translatedText": "自分が受けるすべての 物理・熱・冷気ダメージを{0}% 軽減する。 CONが{2}を超えている場合、 超えている1ポイントにつき さらに{1}% 軽減する。"
     },
     {
         "className": "KI",
@@ -375,7 +375,7 @@
         "objectId": 56,
         "description": "n/a",
         "originalText": "Removes additional action point cost when firing special bolts.",
-        "translatedText": "特殊ボルトを撃つ際の追加APコストがなくなる。"
+        "translatedText": "特殊ボルトを撃つ際の 追加APコストが なくなる。"
     },
     {
         "className": "KI",
@@ -403,7 +403,7 @@
         "objectId": 60,
         "description": "n/a",
         "originalText": "After invoking heat based psi ability you gain thermodynamicity which reduces the action point cost of your next cold based psi ability by {0}% and vice versa.\r\n\r\nIf unused, the bonus expires after {1}.",
-        "translatedText": "熱／冷却系のPSIアビリティを発動した際、{1}ターンの間Thermodynamicity状態になる。この状態では、前回使用したのと反対の属性(熱を使ったなら冷気、冷気を使ったなら熱)のPSIアビリティのコストが{0}%減少する。"
+        "translatedText": "熱／冷却系のPSIアビリティを 発動した際、 {1}の間 Thermodynamicity状態になる。 この状態では、 前回使用したのと反対の属性 (熱を使ったなら冷気、 冷気を使ったなら熱) のPSIアビリティのAPコストが {0}%減少する。"
     },
     {
         "className": "KI",
@@ -417,7 +417,7 @@
         "objectId": 62,
         "description": "n/a",
         "originalText": "Whenever you deal damage with your fire based psi abilities you have a {0}% chance to set the target on fire, dealing {1}% of that damage again over {2} turns.\r\n\r\nSetting living targets on fire will put them in state of extreme panic.",
-        "translatedText": "炎系のPSIアビリティでダメージを与えた際、一定確率で対象を{1}ターンの間炎上状態にする。炎上のダメージは炎上を引き起こした攻撃のダメージの{0}%。\r\n\r\n生命体の敵が炎上状態になると極度の混乱に陥る。"
+        "translatedText": "炎系のPSIアビリティで ダメージを与えた際、 一定確率で 対象を{1}の間 炎上状態にする。 炎上のダメージは 炎上を引き起こした攻撃の ダメージの{0}%。\r\n\r\n生命体の敵が 炎上状態になると 極度の混乱に陥る。"
     },
     {
         "className": "KI",
@@ -445,7 +445,7 @@
         "objectId": 66,
         "description": "n/a",
         "originalText": "You can fire two extra rounds during your assault rifle and SMG burst attack if you are strong enough to take the kickback.",
-        "translatedText": "アサルトライフルかサブマシンガンのバースト射撃の発射数が2増える。ただし、Strength／筋力が装備条件を満たしていない場合は発動しない。"
+        "translatedText": "アサルトライフルか サブマシンガンの バースト射撃の 発射数が2増える。ただし、 Strength／筋力が 装備条件を満たしていない場合は 発動しない。"
     },
     {
         "className": "KI",
@@ -473,7 +473,7 @@
         "objectId": 70,
         "description": "n/a",
         "originalText": "When attacking an illuminated target from out of the darkness with a single-target ranged weapon you ignore half the target's evasion and your critical chance is increased by {0}% plus {1}% for each stealth skill point.",
-        "translatedText": "自分が暗いタイルにいるときに明るいタイルにいる敵に対して単体遠隔武器で攻撃したとき、対象のEvasionスキルの半分を無視し、クリティカル率を({0}%+自身のStealthスキル1につき{1}%)する。"
+        "translatedText": "自分が暗いタイルにいるときに 明るいタイルにいる敵に対して 単体遠隔武器で攻撃したとき、 対象のEvasionスキルの半分を無視し、 クリティカル率を ({0}%+自身のStealthスキル1につき{1})% する。"
     },
     {
         "className": "KI",
@@ -487,7 +487,7 @@
         "objectId": 72,
         "description": "n/a",
         "originalText": "Telekinesis is strong with you.\r\n\r\nDamage from your telekinetic punch is increased by {0}%, your force field has {1}% more health and lasts {2} additional turns, and your force emission costs {3} less psi point.",
-        "translatedText": "テレキネシス系の能力を強化する。\r\n\r\nTelekinetic Punchのダメージが{0}%増加する。Force FieldのHPが{1}%増加し、持続時間が{2}ターン増加する。Forse EmissionのPSIポイントコストが{3}減少する。"
+        "translatedText": "テレキネシス系の能力を強化する。\r\n\r\nTelekinetic Punchのダメージが {0}%増加する。 Force FieldのHPが{1}%増加し、 持続時間が{2}ターン増加する。 Forse Emissionの PSIポイントコストが {3}減少する。"
     },
     {
         "className": "KI",
@@ -501,7 +501,7 @@
         "objectId": 74,
         "description": "n/a",
         "originalText": "You are the master of your own fate.\r\n\r\nActivate this ability to remove and gain immunity to stun, fear, incapacitation, and mind control for {0}.\r\n\r\nWhile this effect is active you can invoke any thought control psi ability as an area of effect ability, but that will end the effect.\r\n\r\nCooldown: {1}.",
-        "translatedText": "自らの運命を決めるのは自分自身だ。\r\n\r\n使用すると{0}ターンの間、スタン／Stunned、恐慌／Fear、無力化／Incapacitation状態にならなくなり、清掃さを受け付けなくなる。\r\n\r\nこのバフの効果中に思考操作／Thought Control系統のPSIアビリティを使用すると、範囲攻撃に変化するかわりに、即座にバフが終了する。\r\n\r\nクールダウン: {1}."
+        "translatedText": "自らの運命を決めるのは自分自身だ。\r\n\r\n使用すると{0}ターンの間、 スタン／Stunned、恐慌／Fear、無力化／Incapacitation 状態にならなくなり、 精神操作を受け付けなくなる。　\r\n\r\nこのバフの効果中に思考操作／Thought Control系統の PSIアビリティを 使用すると、 範囲攻撃に変化するかわりに、 即座にバフが終了する。\r\n\r\nクールダウン: {1}."
     },
     {
         "className": "KI",
@@ -1061,7 +1061,7 @@
         "objectId": 154,
         "description": "n/a",
         "originalText": "You can perform a special melee attack that deals normal damage and reduces target's mechanical resistance and threshold by {0}% for {1} if it lands.\r\n\r\nCooldown: {2}.",
-        "translatedText": "Expose weaknessアビリティを習得する。APコスト{3}の近接攻撃で、命中したならば、{1}の間対象の物理耐性と物理装甲を50%低下させる。\r\n\r\nクールダウン: {2}."
+        "translatedText": "Expose weaknessアビリティを習得する。APコスト{0}の近接攻撃で、命中したならば、{1}の間対象の物理耐性と物理装甲を50%低下させる。\r\n\r\nクールダウン: {2}."
     },
     {
         "className": "KI",
