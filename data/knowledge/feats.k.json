@@ -319,7 +319,7 @@
         "objectId": 48,
         "description": "n/a",
         "originalText": "Increases the base damage of your Neural Overload psi ability by {0}%. Also, whenever it lands it reduces target's psi point reserves by {1}% of their maximum psi points.",
-        "translatedText": ""
+        "translatedText": "PSIアビリティ Neural Overload の基本ダメージが{0}%上昇する。 また、Neural Overloadを命中させるたび、 対象はPSIプールから 最大PSIポイントの{1}%のPSIポイントを失う。"
     },
     {
         "className": "KI",
@@ -431,7 +431,7 @@
         "objectId": 64,
         "description": "n/a",
         "originalText": "Whenever you deal damage with your fire based psi abilities you have a chance to set the target on fire, dealing {0}% of that damage again over {1} turns.\r\n\r\nSetting living targets on fire will put them in state of extreme panic.",
-        "translatedText": ""
+        "translatedText": "炎系のPSIアビリティでダメージを与えた際、 一定確率で対象を{1}ターンの間 炎上状態にする。 炎上のダメージは 炎上を引き起こした攻撃の ダメージの{0}%。\r\n\r\n生命体の敵が 炎上状態になると 極度の混乱に陥る。"
     },
     {
         "className": "KI",
@@ -459,7 +459,7 @@
         "objectId": 68,
         "description": "n/a",
         "originalText": "You can fire two extra rounds during your assault rifle and SMG burst attack and one extra shell during shotgun bursts if you are strong enough to take the kickback.",
-        "translatedText": ""
+        "translatedText": "バースト射撃の射撃数が増える。 アサルトライフルかサブマシンガンなら+2、ショットガンなら+1。 ただし、Strength／筋力が装備条件を満たしていない場合は 発動しない。"
     },
     {
         "className": "KI",
@@ -1424,7 +1424,7 @@
         "className": "KI",
         "objectId": 206,
         "description": "n/a",
-        "originalText": "When throwing knives you throw an extra one at a nearby target that's within the attack cone.",
+        "originalText": "投げナイフを投げた際、+1本の追加の投げナイフを投げる。 対象は1発目を投げた方向の 狭い扇形範囲に入っている敵のどれか。",
         "translatedText": ""
     },
     {
@@ -1607,7 +1607,7 @@
         "objectId": 232,
         "description": "n/a",
         "originalText": "You add your total armor penalty to the critical damage bonus of sledgehammer, fist weapon and unarmed attacks.",
-        "translatedText": ""
+        "translatedText": "スレッジハンマー・拳武器・素手の クリティカルダメージボーナスに、 重装ペナルティを加算する。"
     },
     {
         "className": "KI",
@@ -1621,7 +1621,7 @@
         "objectId": 234,
         "description": "n/a",
         "originalText": "You can safely navigate caltrops and puddles of acid.",
-        "translatedText": "まきびし・酸溜まりの影響を受けなくなる。"
+        "translatedText": "まきびし／Caltrops、 酸溜まり／Acid Entanglement の影響を受けなくなる。"
     },
     {
         "className": "KI",
@@ -1873,7 +1873,7 @@
         "objectId": 270,
         "description": "n/a",
         "originalText": "When you damage a living target by moving your telekinetic proxy, there's {0}% chance it will be dazed for {1}.",
-        "translatedText": ""
+        "translatedText": "Telekinetic Proxyアビリティで 生命体を攻撃したとき、 {0}%の確率で 対象を{1}の間 めまい状態／Dazedにする。"
     },
     {
         "className": "KI",
@@ -2237,7 +2237,7 @@
         "objectId": 322,
         "description": "n/a",
         "originalText": "Crossbows that you craft have their critical damage bonus increased by {0}% (additive).",
-        "translatedText": ""
+        "translatedText": "クロスボウをクラフトすると、 完成品のクリティカルダメージボーナスが{0}%高くなる。"
     },
     {
         "className": "KI",
@@ -2321,7 +2321,7 @@
         "objectId": 334,
         "description": "n/a",
         "originalText": "When your temporal distortion triggers, it has {0}% chance to be applied to each nearby enemy. Distortions that came about in this way can now themselves trigger further distortions.",
-        "translatedText": ""
+        "translatedText": "Temporal Distortionが発動したとき、 近くの敵それぞれに対して個別に{0}%の判定を行う。 判定が成功したとき、 追加のTemporal Distortionデバフが 発生する。"
     },
     {
         "className": "KI",
@@ -2692,14 +2692,14 @@
         "objectId": 387,
         "description": "n/a",
         "originalText": "versatility",
-        "translatedText": "銃・クロスボウ・近接スキルのうち、最も高いものの{0}%まで他のスキルを底上げする。"
+        "translatedText": ""
     },
     {
         "className": "KI",
         "objectId": 388,
         "description": "n/a",
         "originalText": "Your effective Guns, Crossbows and Melee skill value is brought up to {0}% of the effective value of the highest of those skills.",
-        "translatedText": ""
+        "translatedText": "銃・クロスボウ・近接スキルのうち、最も高いものの{0}%まで他のスキルを底上げする。"
     },
     {
         "className": "KI",
