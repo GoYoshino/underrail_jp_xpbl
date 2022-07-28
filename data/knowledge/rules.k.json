@@ -24,7 +24,7 @@
         "className": "KI",
         "objectId": 6,
         "description": "n/a",
-        "originalText": "Set the difficulty and the experience point system for this play-through.",
+        "originalText": "このプレイデータの難易度とEXPシステムを選択してください。",
         "translatedText": ""
     },
     {
@@ -39,7 +39,7 @@
         "objectId": 8,
         "description": "n/a",
         "originalText": "Easy Difficulty",
-        "translatedText": ""
+        "translatedText": "イージー"
     },
     {
         "className": "KI",
@@ -53,7 +53,7 @@
         "objectId": 10,
         "description": "n/a",
         "originalText": "This is for people who find the combat on normal difficulty a bit too hard for their taste.\r\n\r\n- Player character has double the normal amount of health, while medical consumables heal for more and have reduced cooldown.\r\n- Some encounters have been made easier either in enemy numbers or through other means.\r\n- NPCs will on occasion act less intelligently than on normal difficulty.",
-        "translatedText": ""
+        "translatedText": "ノーマル難易度の戦闘は難しすぎて口に合わない、と感じた人はこれを選びましょう。\r\n\r\n・プレイヤーキャラクターのHPが2倍になります。回復アイテムの効果が上昇し、クールダウンも短くなります。"
     },
     {
         "className": "KI",
@@ -67,7 +67,7 @@
         "objectId": 12,
         "description": "n/a",
         "originalText": "Normal Difficulty",
-        "translatedText": ""
+        "translatedText": "ノーマル"
     },
     {
         "className": "KI",
@@ -81,7 +81,7 @@
         "objectId": 14,
         "description": "n/a",
         "originalText": "Provides a lot of challenge to an average hardcore gamer with less room for error in combat. This is the way the game is meant to be played.",
-        "translatedText": ""
+        "translatedText": "挑戦に飢えたハードコアゲーマー向きの難易度。戦場でミスをすれば厳しく咎められます。 Underrailはこの難易度で遊ぶことが前提の調整になっています。"
     },
     {
         "className": "KI",
@@ -95,7 +95,7 @@
         "objectId": 16,
         "description": "n/a",
         "originalText": "Hard Difficulty",
-        "translatedText": ""
+        "translatedText": "ハード"
     },
     {
         "className": "KI",
@@ -109,7 +109,7 @@
         "objectId": 18,
         "description": "n/a",
         "originalText": "This difficulty is meant for experienced players as it leaves very little room for error.\r\n\r\n- Player character has reduced health, while medical consumables heal for less and have increased cooldown.\r\n- Some encounters have been made harder either in enemy numbers or through other means.\r\n- NPCs will on occasion act more intelligently than on normal difficulty.\r\n- Items are sold for 50% of their value.",
-        "translatedText": ""
+        "translatedText": "経験者向け。意思決定のミスはほとんど許されません。\r\n\r\n・プレイヤーキャラクターの最大HPが低下し、回復アイテムの効果が低下し、クールダウンは長くなります。\r\n・戦闘の敵配置が厳しくなります。数が増えることもあれば、その他の強化が施されることもあります。\r\n- ノーマルよりNPCのAIが賢くなります。\r\n・アイテムの売却価格が価値／Valueの半分になります。"
     },
     {
         "className": "KI",
@@ -122,7 +122,7 @@
         "className": "KI",
         "objectId": 20,
         "description": "n/a",
-        "originalText": "DOMINATING Difficulty",
+        "originalText": "DOMINATING",
         "translatedText": ""
     },
     {
@@ -137,7 +137,7 @@
         "objectId": 22,
         "description": "n/a",
         "originalText": "This difficulty is for the Underrail veterans that no longer find the game challenging enough.\r\n\r\n- In addition to player health and cooldown modifications and additional NPC intelligence, it also increases the regular NPC health by 50% and their skill levels by 30% (this bonus is even greater for certain special \"boss\" NPCs).\r\n- A lot of encounters have been spiced up with many additional enemies or made extremely hard through other means.\r\n- Items are sold for 25% of their value.\r\n\r\nWe do not guarantee that the game can be completed in this mode so choose at your own peril.",
-        "translatedText": ""
+        "translatedText": "Underrailでこれ以上やることがなくなってしまったベテラン向け。\r\n\r\n・ハードと同様の最大HP減少・回復アイテムのペナルティ・NPCのAIの改善に加え、通常NPCのHPが50%増加し、スキルレベルが30%増加します(\"ボス\")は除く)。\r\n・戦闘の敵配置にさらなるスパイスが追加され、量質ともに大きく増強されます。\r\n・アイテム売却価格が価値／Valueの25%になります。\r\n\r\nクリアが保証される調整にはなっていません。自己責任で選択してください。"
     },
     {
         "className": "KI",
@@ -165,7 +165,7 @@
         "objectId": 26,
         "description": "n/a",
         "originalText": "You gain experience up by collecting \"oddities\" scattered across Underrail and by completing quests. Higher end oddities are found in progressively more dangerous and hard to access areas. No experience is granted for skill usage or killing (though some oddities are only dropped by creatures).",
-        "translatedText": ""
+        "translatedText": "奇妙な発見／Oddityとよばれるアイテムを集めたり、クエストをクリアすることでのみ経験値(XP)が手に入ります。 危険なエリアや侵入が難しいエリアにいくほど、手に入るOddityも高レベルのものになっていきます。 スキルを使用したり、敵を倒したりすることで経験値が入ることはありません。 (ただし、Oddityの中にはモンスタードロップからしか手に入らないものもあります)"
     },
     {
         "className": "KI",
@@ -192,8 +192,8 @@
         "className": "KI",
         "objectId": 30,
         "description": "n/a",
-        "originalText": "You gain experience by killing enemies, completing quests and utilizing certain skills.",
-        "translatedText": ""
+        "originalText": "",
+        "translatedText": "敵を倒したり、クエストをクリアしたり、特定のスキルを使って行動すると経験値が入ります。"
     },
     {
         "className": "KI",
@@ -207,7 +207,7 @@
         "objectId": 32,
         "description": "n/a",
         "originalText": "You have reached veteran levels and will no longer gain base ability points.\r\n\r\nHowever, you'll be able to choose previously unavailable veteran feats, in addition to the standard feats.",
-        "translatedText": ""
+        "translatedText": "レベルがVeteranランクに到達しました。Veteranランク以降は、レベルアップでステータスポイントが手に入りません。\r\n\r\nその代わりに、Veteranレベル専用のフィートを習得可能になりました。"
     },
     {
         "className": "KI",
@@ -221,6 +221,6 @@
         "objectId": 34,
         "description": "n/a",
         "originalText": "Your character has gained access to specialization points which can be used to improve your feats.",
-        "translatedText": ""
+        "translatedText": "フィートの専門化／Specializationに使用できるポイントを手に入れました。"
     }
 ]
