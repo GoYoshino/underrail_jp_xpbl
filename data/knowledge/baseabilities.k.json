@@ -25,7 +25,7 @@
         "objectId": 6,
         "description": "n/a",
         "originalText": "Strength measures character's muscle power. It affects melee damage and carry capacity. It's also important for characters who intend to use heavier weapons (such as {0}).",
-        "translatedText": ""
+        "translatedText": "筋力／Strength(STR)\r\nキャラクターの筋力を表す。近接武器によるダメージと最大所持重量に影響する。また、重い武器({0}など)の装備条件になる。"
     },
     {
         "className": "KI",
@@ -39,7 +39,7 @@
         "objectId": 8,
         "description": "n/a",
         "originalText": "Dexterity measures character's reflexes, hand-eye coordination and finger nimbleness. It affects many things, such as operating locks, thievery, throwing and initiative.\r\n\r\nIt increases critical strike chance of melee attacks. High dexterity also reduces action point cost of unarmed and light weapons (pistols, SMGs, knives, throwing knives and fist weapons).",
-        "translatedText": ""
+        "translatedText": "器用／Dexterity(DEX)\r\n反射神経、視覚と運動との統合能力、手先の器用さを表す。解錠や窃盗の成功率、投擲の威力、戦闘での行動順などに影響する。\r\n\r\nDEXが高いほど近接攻撃のクリティカル率が上昇するほか、素手・軽い武器(ピストル、サブマシンガン、ナイフ、投げナイフ、拳武器)のAPコストが軽減される。"
     },
     {
         "className": "KI",
@@ -53,7 +53,7 @@
         "objectId": 10,
         "description": "n/a",
         "originalText": "Agility represents character's reflexes, fleet-footedness, as well as affinity towards other athletic and acrobatic activities. Among other things it affects dodge, evasion, initiative and movement points. It also allows the character to move more quietly, increasing the stealth performance.",
-        "translatedText": ""
+        "translatedText": "敏捷／Agility(AGI)\r\n反射神経、俊敏さ、その他の曲芸的な運動能力を表す。近接攻撃や遠隔攻撃の回避、戦闘での行動順、MP(移動力)などに影響する。またステルス能力にも影響する。"
     },
     {
         "className": "KI",
@@ -67,7 +67,7 @@
         "objectId": 12,
         "description": "n/a",
         "originalText": "Constitution represents the health and general stamina of your character. It is important for all types of characters, but especially for those who plan on making the armor suit their main defense. It also helps prevent or lessen the effects of poisons and diseases.",
-        "translatedText": ""
+        "translatedText": "頑強／Constitution(CON)\r\n体力、肉体の持久力を表す。どのようなキャラクターにも必要だが、重装備に頼る場合は特に重要である。毒や病気を防いだり、影響を少なくすることができる。"
     },
     {
         "className": "KI",
@@ -81,7 +81,7 @@
         "objectId": 14,
         "description": "n/a",
         "originalText": "Perception represents character's ability to discern objects from far away as well as to notice hidden things in their vicinity. It helps the character to use ranged weapons more effectively, as well as detect hidden objects, passages and creatures.",
-        "translatedText": ""
+        "translatedText": "知覚／Perception(PER)\r\n遠くから物体を識別する能力や、近くに隠された物体を検知する能力を表す。遠隔武器の性能、隠された物体や通路の発見、ステルス状態の生物の看破などに影響する。"
     },
     {
         "className": "KI",
@@ -109,7 +109,7 @@
         "objectId": 18,
         "description": "n/a",
         "originalText": "Will measures character's mental determination to see to his actions regardless of various mental difficulties, such as pain, suggestion and overwhelming odds, as well as to force his will onto others and the environment.\r\n\r\nIt heavily affects the potency of all psi disciplines, as well as psi point regeneration.",
-        "translatedText": ""
+        "translatedText": "意思／Will(WIL)\r\n苦痛・誘惑・不利な状況といった状態におかれても行動を完遂する能力、あるいは他者や世界を自らの意思に従わせる能力を表す。\r\n\r\nすべてのPSI能力の効果に大きく影響し、またPSIポイントの自然回復にも影響する。"
     },
     {
         "className": "KI",
@@ -123,6 +123,6 @@
         "objectId": 20,
         "description": "n/a",
         "originalText": "Intelligence determines how well the character learns and reasons. It is important for a character that focuses on science as all disciplines are dependent on it.\r\n\r\nIt also determines the number of different psi abilities that can be invoked during combat and affects psi point regeneration.",
-        "translatedText": ""
+        "translatedText": "知力／Intelligence(INT)\r\nキャラクターの学習能力や思考能力を表す。科学的な試みがうまくいくかどうかは完全にINTに依存する。\r\n\r\nまた、装備できるPSIアビリティの数と、PSIポイントの自然回復にも影響する。"
     }
 ]
