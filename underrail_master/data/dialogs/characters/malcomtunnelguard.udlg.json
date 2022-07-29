@@ -25,7 +25,7 @@
         "objectId": 38,
         "description": "n/a",
         "originalText": "::The man greets you with a warm smile.::\r\n\r\nAh, $(context.player.Name), good to finally meet you. I'm Malcom. How can I help you?",
-        "translatedText": ""
+        "translatedText": "::男は暖かな笑顔であなたに挨拶する。:: $(context.player.Name)さん、やっと会えましたね。Malcomといいます。何かご用ですか？"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
@@ -130,28 +130,28 @@
         "objectId": 140,
         "description": "n/a",
         "originalText": "I need to get out into the caves.",
-        "translatedText": ""
+        "translatedText": "ステーションを出て洞窟に行きたい。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 145,
         "description": "n/a",
         "originalText": "Open the gate, please. I'm off to the caves.",
-        "translatedText": ""
+        "translatedText": "ゲートを開けてくれないか。洞窟に出る。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 152,
         "description": "n/a",
         "originalText": "Open the gate, please. I'm off to the caves.",
-        "translatedText": ""
+        "translatedText": "ゲートを開けてくれないか。洞窟に出る。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 155,
         "description": "n/a",
         "originalText": "Not right now.",
-        "translatedText": ""
+        "translatedText": "今のところ用事はない。"
     },
     {
         "classInfo": ".BC.CIC:P",
@@ -340,14 +340,14 @@
         "objectId": 215,
         "description": "n/a",
         "originalText": "You didn't get your access card yet, right? Yes. Should be around here somewhere... \r\n\r\n::He starts looking through the drawers.::",
-        "translatedText": ""
+        "translatedText": "アクセスカードの配布をまだ受けてないでしょう？　確かこの辺に……\r\n\r\n::彼は引き出しの中を探しはじめる。::"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 226,
         "description": "n/a",
         "originalText": "::He nods.:: Oh, and here's a tip for you: If you find yourself surrounded by rathounds, use flares to scare them away. They'll be back, though, so try not to stick around.",
-        "translatedText": ""
+        "translatedText": "::(頷く):: ああ、それから。いいことをお教えしましょう。もしRathoundに囲まれたら、フレアを投げると逃げていきますよ。ただ、すぐに戻ってくるでしょうから、あまり周辺にとどまらない方がいいでしょうね。"
     },
     {
         "classInfo": ".SBFV.SFVA:P",
@@ -438,7 +438,7 @@
         "objectId": 286,
         "description": "n/a",
         "originalText": "There it is. ::He produces a red access card and passes it to you.::\r\n\r\nNow listen here, this is the procedure...",
-        "translatedText": ""
+        "translatedText": "ありました。 ::赤いアクセスカードを受け取った。::\r\n\r\n少しの間説明を聴いてください。規則ですので……"
     },
     {
         "classInfo": ".SBFV.SFVA:P",
@@ -487,21 +487,21 @@
         "objectId": 302,
         "description": "n/a",
         "originalText": "Thanks, I'll keep that in mind.",
-        "translatedText": ""
+        "translatedText": "ありがとう、覚えておこう。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 306,
         "description": "n/a",
         "originalText": "Everyone knows that.",
-        "translatedText": ""
+        "translatedText": "そんなこと誰でも知ってる。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 310,
         "description": "n/a",
         "originalText": "I want to stomp them out, not scare them away.",
-        "translatedText": ""
+        "translatedText": "怖がらせて逃がすより奴らを叩き潰したいな。"
     },
     {
         "classInfo": ".OSGJ.OSGJ:AN",
@@ -641,28 +641,28 @@
         "objectId": 359,
         "description": "n/a",
         "originalText": "When you want to leave, you let me know and I'll open the inner gate. You then step into the transition room. Then I close the inner gate and open the outer gate and off you go.",
-        "translatedText": ""
+        "translatedText": "外に出たい時は、かならず僕に声をかけてください。そうしたら二重扉の内側を開けます。あなたが内側に入ったのを確認したら内側を閉じ、外側の扉を開けます。これで外に出られます。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 366,
         "description": "n/a",
         "originalText": "You're good to go.",
-        "translatedText": ""
+        "translatedText": "いってらっしゃい。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 372,
         "description": "n/a",
         "originalText": "Just trying to help you out. ",
-        "translatedText": ""
+        "translatedText": "お役に立てばと思いまして。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 378,
         "description": "n/a",
         "originalText": "Well then... try not to lose a foot. ",
-        "translatedText": ""
+        "translatedText": "そうですか……足を食いちぎられないよう頑張ってくださいね。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
@@ -704,7 +704,7 @@
         "objectId": 399,
         "description": "n/a",
         "originalText": "Alright, now, when you want to get back in, use the card I gave you on the console outside. Stand in front of the camera so I can confirm it's you. Then I'll open the outer gate.",
-        "translatedText": ""
+        "translatedText": "外から帰還したときは、ドアのそばにあるコンソール端末に先ほど渡したカードを挿入してください。顔を確認しないといけないのでカメラの前に立つようにしてください。確認が取れたら外側の隔壁を開けます。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
@@ -753,7 +753,7 @@
         "objectId": 449,
         "description": "n/a",
         "originalText": "Earlier, we used to do bioscanning everytime someone passed, but since no one ever showed up positive, it became a nuisance.",
-        "translatedText": ""
+        "translatedText": "昔は人の出入りがあるたびにバイオスキャンをしていたんですが、陽性者がほぼいなくなってからは不要になりました。"
     },
     {
         "classInfo": ".SC1.CIC:P",
@@ -921,14 +921,14 @@
         "objectId": 489,
         "description": "n/a",
         "originalText": "What if I *do* contract a disease?",
-        "translatedText": ""
+        "translatedText": "もし自分が*感染*して帰ってきたら？"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 493,
         "description": "n/a",
         "originalText": "Understood.",
-        "translatedText": ""
+        "translatedText": "わかった。"
     },
     {
         "classInfo": ".SBFV.SFVA:P",
@@ -963,7 +963,7 @@
         "objectId": 516,
         "description": "n/a",
         "originalText": "Then be kind enough to inform me so I can activate the turrets. They'll shred you to pieces, we'll burn the remains and everything's good.",
-        "translatedText": ""
+        "translatedText": "正直に打ち明けてくれると助かります。タレットを起動して感染者を粉々にしたあと全て燃やすという仕事がありますので。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
@@ -1012,7 +1012,7 @@
         "objectId": 541,
         "description": "n/a",
         "originalText": "::He chuckles.:: Just kidding... or am I.",
-        "translatedText": ""
+        "translatedText": "::(くすくす笑う)::冗談ですよ。そちらも冗談かと思って。"
     },
     {
         "classInfo": ".KI2.I:C",
