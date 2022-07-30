@@ -53,7 +53,7 @@
         "objectId": 70,
         "description": "n/a",
         "originalText": "You know, I saw that dead scavenger as ",
-        "translatedText": ""
+        "translatedText": "見ました？　物資集めをしていた人の死体が運び込まれたんですよ。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
@@ -137,14 +137,14 @@
         "objectId": 145,
         "description": "n/a",
         "originalText": "Open the gate, please. I'm off to the caves.",
-        "translatedText": "ゲートを開けてくれないか。洞窟に出る。"
+        "translatedText": "洞窟に出たいので、ゲートを開けてくれないか。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 152,
         "description": "n/a",
         "originalText": "Open the gate, please. I'm off to the caves.",
-        "translatedText": "ゲートを開けてくれないか。洞窟に出る。"
+        "translatedText": "洞窟に出たいので、ゲートを開けてくれないか。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
@@ -263,7 +263,7 @@
         "objectId": 178,
         "description": "n/a",
         "originalText": "was being carried to medical. ::He shakes his head.::",
-        "translatedText": ""
+        "translatedText": "医務室に運ばれていったようですが……::(首を振る)::"
     },
     {
         "classInfo": ".SSFV.SFVA:P",
@@ -368,14 +368,14 @@
         "objectId": 243,
         "description": "n/a",
         "originalText": "I've seen the body myself. What do you know about it?",
-        "translatedText": ""
+        "translatedText": "確かに見かけた気がする。何か知っているか？"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 248,
         "description": "n/a",
         "originalText": "I heard about that. What happened?",
-        "translatedText": ""
+        "translatedText": "噂は聞いた。何が起きたんだ？"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
@@ -389,14 +389,14 @@
         "objectId": 257,
         "description": "n/a",
         "originalText": "I'd rather not discuss that.",
-        "translatedText": ""
+        "translatedText": "その話はやめよう。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 261,
         "description": "n/a",
         "originalText": "Don't know, don't wanna know.",
-        "translatedText": ""
+        "translatedText": "知らないし知ろうとも思わない。"
     },
     {
         "classInfo": ".BC.CIC:P",
@@ -522,14 +522,14 @@
         "objectId": 319,
         "description": "n/a",
         "originalText": "Well, one of the guards found this dying $(context.frag_dun_wasteWater_corpseGender) in Mushroom Cove just as I was starting my shift some hours ago. ",
-        "translatedText": ""
+        "translatedText": "ええと、発見したのは衛兵で、Mushroom_Coveで死んでいたそうです。僕の勤務時間が始まる数時間前ですね。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 329,
         "description": "n/a",
         "originalText": "Fair enough. ",
-        "translatedText": ""
+        "translatedText": "そうですね。"
     },
     {
         "classInfo": ".SC1.CIC:P",
@@ -711,42 +711,42 @@
         "objectId": 409,
         "description": "n/a",
         "originalText": "was horribly mutated, covered in green tumors and all. ",
-        "translatedText": ""
+        "translatedText": "おそろしく汚染されていて、緑色の液体で覆われていたそうです。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 416,
         "description": "n/a",
         "originalText": "was severely burnt, smelled horribly. ",
-        "translatedText": ""
+        "translatedText": "身体が焼け焦げていて、ひどい臭いでした。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 423,
         "description": "n/a",
         "originalText": "had so many gunshot wounds it was impossible to count them all. ",
-        "translatedText": ""
+        "translatedText": "身体中に銃創がありました。数えきれないくらいの。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 430,
         "description": "n/a",
         "originalText": "was badly electrocuted,  smelled horribly. ",
-        "translatedText": ""
+        "translatedText": "感電して焼け焦げていました。ひどい臭いでした。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 437,
         "description": "n/a",
         "originalText": "was horribly mauled by something, with bits of flesh dangling off. Wasn't psi beetles, that's for sure. ",
-        "translatedText": ""
+        "translatedText": "何者かに叩き潰されたようで、肉片がぶらさがっていました。PSI虫の仕業ではないでしょうね。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 444,
         "description": "n/a",
         "originalText": "was missing patches of hair and skin - the skull was showing. But that face... like $(tempContext.wasteWaterPronoun)'s been through living hell. ",
-        "translatedText": ""
+        "translatedText": "頭皮がえぐれて、頭蓋骨が見えていました。しかしあの顔は……地獄から来た生物のようでした。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
@@ -774,7 +774,7 @@
         "objectId": 461,
         "description": "n/a",
         "originalText": "Terrible things happen out there all the time, but this $(context.frag_dun_wasteWater_corpseGender) was still alive when $(tempContext.wasteWaterPronoun) was brought through here. Now that's something you don't see often. Sadly, that didn't last, as $(tempContext.wasteWaterPronoun) died before reaching the medical level, though.",
-        "translatedText": ""
+        "translatedText": "酷い死に方をする人は珍しくもありませんが、その人は運び込まれた時点では生きていたみたいです。滅多にない話ですね。残念ながら医務室に運び込まれる前に亡くなったようですが。"
     },
     {
         "classInfo": ".SC1.CIC:P",
@@ -949,14 +949,14 @@
         "objectId": 507,
         "description": "n/a",
         "originalText": "Did he manage to say who did this to him?",
-        "translatedText": ""
+        "translatedText": "ダイイングメッセージはなかったのか？"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 512,
         "description": "n/a",
         "originalText": "Did she manage to say who did this to her?",
-        "translatedText": ""
+        "translatedText": "ダイイングメッセージはなかったのか？"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
@@ -970,7 +970,7 @@
         "objectId": 522,
         "description": "n/a",
         "originalText": "So, you going or what?",
-        "translatedText": ""
+        "translatedText": "それで、何の御用ですか？"
     },
     {
         "classInfo": ".SC1.CIC:P",
@@ -991,7 +991,7 @@
         "objectId": 533,
         "description": "n/a",
         "originalText": "No. Mushroom Cove's full of psi beetles",
-        "translatedText": ""
+        "translatedText": "いいえ。Mushroom_CoveはPSI虫だらけですが、"
     },
     {
         "classInfo": ".SC1.CIC:P",
@@ -1025,7 +1025,7 @@
         "classInfo": ".KI2.I:N",
         "objectId": 545,
         "description": "n/a",
-        "originalText": "SGS Cave Access Card",
+        "originalText": "SGS洞窟入り口カードキー／SGS Cave Access Card",
         "translatedText": ""
     },
     {
@@ -1033,7 +1033,7 @@
         "objectId": 547,
         "description": "n/a",
         "originalText": "You can use this card to get back into the South Gate Station from the caves.",
-        "translatedText": ""
+        "translatedText": "このカードを使うことで、洞窟側からSGSに入ることができる。"
     },
     {
         "classInfo": ".KI2.I:VM",
@@ -1047,14 +1047,14 @@
         "objectId": 557,
         "description": "n/a",
         "originalText": ". Could be them, as they got some nasty psi abilities at their disposal, but the way this scavenger's been hurt... it's somewhat different than anything I've seen the beetles did.",
-        "translatedText": ""
+        "translatedText": "奴らの仕業かもしれません。厄介な能力を持っていますからね。しかしあのやられ方はひどすぎる……私が知っているのとは別の能力を持っているのかもしれません。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 563,
         "description": "n/a",
         "originalText": " but this doesn't look like a product of their psionics. ",
-        "translatedText": ""
+        "translatedText": "奴らの仕業ではなさそうなことは確かです。"
     },
     {
         "classInfo": ".A4.A4:N",
@@ -1117,28 +1117,28 @@
         "objectId": 587,
         "description": "n/a",
         "originalText": "How do I get to Mushroom Cove?",
-        "translatedText": ""
+        "translatedText": "Mushroom_Coveはどこにあるんだ？"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 592,
         "description": "n/a",
         "originalText": "That's everything I needed to know.",
-        "translatedText": ""
+        "translatedText": "ありがとう、情報は十分だ。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 597,
         "description": "n/a",
         "originalText": "That's everything I needed to know. I need to get out into the caves.",
-        "translatedText": ""
+        "translatedText": "ありがとう、情報は充分だ。これから洞窟に行ってみるよ。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 602,
         "description": "n/a",
         "originalText": "It's a wet cave a bit south from here. ",
-        "translatedText": ""
+        "translatedText": "ここから少し南に行った、湿っているところです。"
     },
     {
         "classInfo": ".BC.CIC:P",
@@ -1152,7 +1152,7 @@
         "objectId": 609,
         "description": "n/a",
         "originalText": "::He nods.:: Heading out?",
-        "translatedText": ""
+        "translatedText": "::(頷く)::外に出るんですか？"
     },
     {
         "classInfo": ".BC.CIC:P",
@@ -1166,14 +1166,14 @@
         "objectId": 617,
         "description": "n/a",
         "originalText": "But I'd advise against going there right now, $(context.player.Name). It's a dangerous place for a rookie.",
-        "translatedText": ""
+        "translatedText": "でも$(context.player.Name)さん、今行くのはやめた方がいいですよ。新人には危険すぎます。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 623,
         "description": "n/a",
         "originalText": "But don't you get any strange ideas, $(context.player.Name). It's a dangerous place...",
-        "translatedText": ""
+        "translatedText": "変な気を起こさないでくださいよ、$(context.player.Name)さん。危険な場所ですから……"
     },
     {
         "classInfo": ".BC.CIC:P",
