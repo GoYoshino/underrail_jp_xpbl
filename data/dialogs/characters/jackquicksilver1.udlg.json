@@ -1,1510 +1,1625 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 67,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 68,
-        "description": "n/a",
-        "originalText": "jackQuicksilver",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 69,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 75,
         "description": "n/a",
         "originalText": "I've been informed of your refusal to accomplish the given assignments. That concludes our cooperation. Goodbye, $(context.player.Name).",
-        "translatedText": "報告は受けてるぜ、課題を放り出したそうじゃないか。俺たちの協力関係もおしまいってわけだ。じゃあな、$(context.player.Name)。"
+        "translatedText": "報告は受けてるぜ、課題を放り出したそうじゃないか。俺たちの協力関係もおしまいってわけだ。じゃあな、$(context.player.Name)。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 82,
         "description": "n/a",
         "originalText": "Yeah?",
-        "translatedText": "なんだ？"
+        "translatedText": "なんだ？",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 88,
         "description": "n/a",
         "originalText": "Maybe I should order another drink...",
-        "translatedText": "もう一杯注文すべきか……"
+        "translatedText": "もう一杯注文すべきか……",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 110,
         "description": "n/a",
         "originalText": "Haven't seen you around here before. You stuck in this hole now as well?",
-        "translatedText": "見ない顔だな。もしかしてあんたも足止めを食らってるクチか？"
+        "translatedText": "見ない顔だな。もしかしてあんたも足止めを食らってるクチか？",
+        "ignore": false
     },
     {
-        "classInfo": ".C34.C34:QN",
+        "classInfo": "(C34).C34:QN",
         "objectId": 119,
         "description": "n/a",
         "originalText": "wa_ReportToJack",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 121,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_watchers_noLongerWorking",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 122,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_gaveFirstMissions",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 144,
         "description": "n/a",
         "originalText": "Hmm? I'm sorry, I don't have time to chat, I'm waiting for someone.",
-        "translatedText": "なんだ？　悪い、おしゃべりしてる時間がなくてな。人を待ってるんだ。"
+        "translatedText": "なんだ？　悪い、おしゃべりしてる時間がなくてな。人を待ってるんだ。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 150,
         "description": "n/a",
         "originalText": "$(context.player.Name), I've waited for you for quite some time back there, yet you never showed up. I'm sorry, but I had to move on. I had some business I needed to attend to.",
-        "translatedText": "$(context.player.Name)、結構長い時間待ってたんだが、あまりにも姿を見せなかったんで会えなかった。すまん。だが、やらなきゃいけない仕事があったんだ。"
+        "translatedText": "$(context.player.Name)、結構長い時間待ってたんだが、あまりにも姿を見せなかったんで会えなかった。すまん。だが、やらなきゃいけない仕事があったんだ。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 159,
         "description": "n/a",
         "originalText": "I told you we'd meet again, $(context.player.Name). You look well enough. Listen, I'd love to chat, but I'm waiting for someone important, I'll catch you later.",
-        "translatedText": "また会ったな、$(context.player.Name)。元気そうだ。別におしゃべりは嫌いじゃないんだが、今は重要人物を待ってるからダメなんだ。また今度な。"
+        "translatedText": "また会ったな、$(context.player.Name)。元気そうだ。別におしゃべりは嫌いじゃないんだが、今は重要人物を待ってるからダメなんだ。また今度な。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 165,
         "description": "n/a",
         "originalText": "Oh, $(context.player.Name), there's a familiar face. I'd love to chat with you at the moment, but I'm waiting for someone important. I'll catch you later.",
-        "translatedText": "おう、$(context.player.Name)。あんたの顔もすっかり見慣れちまった。話したいのは山々だが、ちょっと重要人物を待ってるんだ。また今度な。"
+        "translatedText": "おう、$(context.player.Name)。あんたの顔もすっかり見慣れちまった。話したいのは山々だが、ちょっと重要人物を待ってるんだ。また今度な。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 174,
         "description": "n/a",
         "originalText": "So you are $(context.player.Name). Name's Jack Quicksilver. Abram told me you come from SGS. I was stuck there recently, it's funny how we never met. But, that's not important right now. He also told me you helped him in Junkyard. Told me you have potential.",
-        "translatedText": "なるほど、あんたが$(context.player.Name)か。俺はJack Quicksilverっていう。あんたはSGSの人間だってAbramに聞いたから探しに来たんだ。俺も地震のときはSGSに閉じ込められてたから、偶然会ってても不思議じゃなかったんだが……まあ、それはどうでもいい話だ。Junkyardでの活躍はAbramから聞いてるぜ。見込みがあるってこともな。"
+        "translatedText": "なるほど、あんたが$(context.player.Name)か。俺はJack Quicksilverっていう。あんたはSGSの人間だってAbramに聞いたから探しに来たんだ。俺も地震のときはSGSに閉じ込められてたから、偶然会ってても不思議じゃなかったんだが……まあ、それはどうでもいい話だ。Junkyardでの活躍はAbramから聞いてるぜ。見込みがあるってこともな。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 181,
         "description": "n/a",
         "originalText": "...And here $(#he/she) is. You've talked to Abram, I presume. He informed me earlier you helped him in Junkyard. Told me you have potential.",
-        "translatedText": "……やっと見つけた。Abramを知ってるだろ？　そのはずだ。彼からJunkyardでの話を聞いたからな。見込みがある奴だと。"
+        "translatedText": "……やっと見つけた。Abramを知ってるだろ？　そのはずだ。彼からJunkyardでの話を聞いたからな。見込みがある奴だと。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 188,
         "description": "n/a",
         "originalText": "Well, well, if it isn't $(context.player.Name). I told you we would meet again. Abram informed me you helped him in Junkyard. Told me you have potential.",
-        "translatedText": "おやおや、久々の再会だな、$(context.player.Name)。　AbramからJunkyardでのことは聞いてる。見込みがあるとも聞いてるぜ。"
+        "translatedText": "おやおや、久々の再会だな、$(context.player.Name)。　AbramからJunkyardでのことは聞いてる。見込みがあるとも聞いてるぜ。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 194,
         "description": "n/a",
         "originalText": "Well, well, if it isn't $(context.player.Name). We talked briefly at SGS, yet here we are again. Interesting. Abram informed me you helped him in Junkyard. Told me you have potential.",
-        "translatedText": "おやおや、久々の再会だな、$(context.player.Name)。SGSで少し話しただけだが、ここでまた会うとはな。AbramからJunkyardでのことは聞いてる。見込みがあるとも聞いてるぜ"
+        "translatedText": "おやおや、久々の再会だな、$(context.player.Name)。SGSで少し話しただけだが、ここでまた会うとはな。AbramからJunkyardでのことは聞いてる。見込みがあるとも聞いてるぜ",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 197,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 201,
         "description": "n/a",
         "originalText": "Yeah?",
-        "translatedText": "なんだ？"
+        "translatedText": "なんだ？",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 205,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 210,
         "description": "n/a",
         "originalText": "No, actually, I'm new here.",
-        "translatedText": "いや、新入りだ。"
+        "translatedText": "いや、新入りだ。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 214,
         "description": "n/a",
         "originalText": "Why would I be stuck?",
-        "translatedText": "足止めって？"
+        "translatedText": "足止めって？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 218,
         "description": "n/a",
         "originalText": "Who wants to know?",
-        "translatedText": "あんたこそ誰なんだ？"
+        "translatedText": "あんたこそ誰なんだ？",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 219,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_fo_everard_rejectMission",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 220,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_lenox_rejectQuest",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 224,
         "description": "n/a",
         "originalText": "Show me what you've got for trade. ::Barter.::",
-        "translatedText": "商品を見せてくれ。::売買::"
+        "translatedText": "商品を見せてくれ。::売買::",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 232,
         "description": "n/a",
         "originalText": "I have done everything you asked. Now what?",
-        "translatedText": "言われた仕事はやり遂げたぞ。次は？"
+        "translatedText": "言われた仕事はやり遂げたぞ。次は？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 238,
         "description": "n/a",
         "originalText": "I'm done with Everard's assignment.",
-        "translatedText": "Everardの課題を終わらせた。"
+        "translatedText": "Everardの課題を終わらせた。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 244,
         "description": "n/a",
         "originalText": "I'm done with Xander's assignment.",
-        "translatedText": "Xanderの課題を終わらせた。"
+        "translatedText": "Xanderの課題を終わらせた。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 250,
         "description": "n/a",
         "originalText": "I'm done with Pierce's assignment.",
-        "translatedText": "Pierceの課題を終わらせた。"
+        "translatedText": "Pierceの課題を終わらせた。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 256,
         "description": "n/a",
         "originalText": "I'd like to know more about the organization you're working for.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 261,
         "description": "n/a",
         "originalText": "I need some help with the assignments you gave me.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 264,
         "description": "n/a",
         "originalText": "Catch you later, Jack.",
-        "translatedText": "またな、Jack。"
+        "translatedText": "またな、Jack。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 265,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_waitingAbram",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 266,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_abram_talkToJackCoreCity",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PIIAC.PIIAC:AN",
+        "classInfo": "(PIIAC).PIIAC:AN",
         "objectId": 267,
         "description": "n/a",
         "originalText": "cc10",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 268,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_abram_talkToJackCoreCity",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 269,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 281,
         "description": "n/a",
         "originalText": "What was the meaning of all that?",
-        "translatedText": "どういう意味だ？"
+        "translatedText": "どういう意味だ？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 285,
         "description": "n/a",
         "originalText": "You used me as a decoy.",
-        "translatedText": "囮に使ったっていうのか。"
+        "translatedText": "囮に使ったっていうのか。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 286,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jqsDelivery_finished",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PIIAC.PIIAC:AN",
+        "classInfo": "(PIIAC).PIIAC:AN",
         "objectId": 287,
         "description": "n/a",
         "originalText": "cc10",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 288,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_abram_talkToJackCoreCity",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 289,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 293,
         "description": "n/a",
         "originalText": "We will put you to the test, don't worry. Before all that, I'd like to make certain things clear before we proceed.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 296,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_waitingAbram",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 297,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jqsDelivery_finished",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 314,
         "description": "n/a",
         "originalText": "Name's Jack Quicksilver.",
-        "translatedText": "俺はJack Quicksilverっていう。あんたの名前は？"
+        "translatedText": "俺はJack Quicksilverっていう。あんたの名前は？",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 318,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_introd",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 322,
         "description": "n/a",
         "originalText": "Thought you might be travelling and got trapped here by the earthquake. Forget it.",
-        "translatedText": "いや、地震でここから出られなくなった旅人かと思ってね。"
+        "translatedText": "いや、地震でここから出られなくなった旅人かと思ってね。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 329,
         "description": "n/a",
         "originalText": "Don't answer a question with a question. It's irritating.",
-        "translatedText": "質問に質問で返すな。うざったいな。"
+        "translatedText": "質問に質問で返すな。うざったいな。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 342,
         "description": "n/a",
         "originalText": "Now... we wait. I have no assignments available at the moment. I'll contact you when you are needed.",
-        "translatedText": "次は……待機だな。今のところ仕事はない。また必要になったら連絡する。"
+        "translatedText": "次は……待機だな。今のところ仕事はない。また必要になったら連絡する。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 354,
         "description": "n/a",
         "originalText": "Indeed you have, and with optimal results even. This hasn't gone unnoticed.",
-        "translatedText": "よくやった、しかも最高の結果に近い。この成果は評価の対象になるだろう。"
+        "translatedText": "よくやった、しかも最高の結果に近い。この成果は評価の対象になるだろう。",
+        "ignore": false
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 358,
         "description": "n/a",
         "originalText": "wa_ReportToJack",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 360,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_finalReport",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 366,
         "description": "n/a",
         "originalText": "I've been informed. ::He gives you 400 stygian coins.::",
-        "translatedText": "確かに。::400カロンを受け取った。::"
+        "translatedText": "確かに。::400カロンを受け取った。::",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 370,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_foundryReward",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 376,
         "description": "n/a",
         "originalText": "Indeed you are. ::He gives you 400 stygian coins.::",
-        "translatedText": "ああ、そうだな。::400_カロンを受け取った。:::"
+        "translatedText": "ああ、そうだな。::400_カロンを受け取った。:::",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 380,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_danielReward",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 386,
         "description": "n/a",
         "originalText": "As I hoped. ::He gives you 400 stygian coins.::",
-        "translatedText": "確かに。::400カロンを受け取った。::"
+        "translatedText": "確かに。::400カロンを受け取った。::",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 390,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_pierceReward",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 396,
         "description": "n/a",
         "originalText": "Tough. Abram or I would have told you by now more if we thought you should know at this point in time.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 400,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_askOrganization",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 406,
         "description": "n/a",
         "originalText": "$(context.player.Name), I can't say much that will help you. It's up to you to figure out what needs to be done and then do it, preferably in an optimal way. Then again, I suppose a word of advice wouldn't hurt.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 410,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_waitingAbram",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 411,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_deliveryTaskAccepted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 412,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jqsDelivery_finished",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 416,
         "description": "n/a",
         "originalText": "I knew I was being watched, so I had to use someone as a decoy while I get the real package out of the station.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 422,
         "description": "n/a",
         "originalText": "That I did. Guilty as charged.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 428,
         "description": "n/a",
         "originalText": "Abram and I are working for a... certain organization, whose name I can't reveal to you at the moment; the less you know, the better. What you do need to know is that you have shown certain qualities we seek, and if your performance continues to be satisfactory... there just might be more work for you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 435,
         "description": "n/a",
         "originalText": "Let's barter. ::Barter.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 441,
         "description": "n/a",
-        "originalText": "Jackはどこの出身なんだ？",
-        "translatedText": ""
+        "originalText": "Where are you from, Jack?",
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 447,
         "description": "n/a",
         "originalText": "What brought you here in the first place?",
-        "translatedText": "どうしてこの場所に？"
+        "translatedText": "どうしてこの場所に？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 454,
         "description": "n/a",
         "originalText": "What do you do for living? Are you a trader?",
-        "translatedText": "仕事は何をしてるんだ？　商人なのか？"
+        "translatedText": "仕事は何をしてるんだ？　商人なのか？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 460,
         "description": "n/a",
         "originalText": "What happened with that business opportunity?",
-        "translatedText": "儲け話がフイになったっていうのは？"
+        "translatedText": "儲け話がフイになったっていうのは？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 466,
         "description": "n/a",
         "originalText": "Tell me about that job you mentioned earlier again.",
-        "translatedText": "前話してた\"仕事\"について話したい。"
+        "translatedText": "前話してた\"仕事\"について話したい。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 470,
         "description": "n/a",
         "originalText": "Catch you later, Jack.",
-        "translatedText": "また後でな。"
+        "translatedText": "また後でな。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 474,
         "description": "n/a",
         "originalText": " Who're you?",
-        "translatedText": "あんたは？"
+        "translatedText": "あんたは？",
+        "ignore": false
     },
     {
-        "classInfo": ".MNLA.MNLA:NN",
+        "classInfo": "(MNLA).MNLA:NN",
         "objectId": 479,
         "description": "n/a",
         "originalText": "jackQuicksilver",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 480,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_foundryReward",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 481,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_danielReward",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 482,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_pierceReward",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 483,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_watchers_noLongerWorking",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 484,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_finalReport",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 489,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_watchers_noLongerWorking",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 493,
         "description": "n/a",
         "originalText": "All right, see you later then.",
-        "translatedText": "わかった、また後で。"
+        "translatedText": "わかった、また後で。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 497,
         "description": "n/a",
         "originalText": "How will you contact me?",
-        "translatedText": "どうやって自分に連絡を？"
+        "translatedText": "どうやって自分に連絡を？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 502,
         "description": "n/a",
         "originalText": "I punched through a rock wall with my bare fists back in Hathor mine! I don't have time to wait!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 506,
         "description": "n/a",
         "originalText": "There's someone who wishes to speak with you.",
-        "translatedText": "あんたと話したい奴がいる。"
+        "translatedText": "あんたと話したい奴がいる。",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 510,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_sentYouToAzif",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 512,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_wa_meetAzif_started",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 514,
         "description": "n/a",
         "originalText": "wa_meetAzif",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 515,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_FoundryTrialCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 516,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_foundryReward",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 521,
         "description": "n/a",
         "originalText": "There you go. Anything else?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 524,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_DanielArdaCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 525,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_danielReward",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 526,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_pierceReward",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 527,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_SGSMurderCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 528,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_askOrganization",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 529,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_finalReport",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 533,
         "description": "n/a",
         "originalText": "But don't worry, just be patient.",
-        "translatedText": "心配しないで待ってろ。"
+        "translatedText": "心配しないで待ってろ。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 536,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_gaveFirstMissions",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 543,
         "description": "n/a",
         "originalText": "And, it's a very simple piece of advice: Keep your eyes and ears open. There are always cracks in the walls for you to get through, little details that reveal big secrets, small mistakes that have big consequences. Take care in everything you do, for a careless mistake might cause unrepairable damage.",
-        "translatedText": "あと、これはアドバイスというには単純すぎるが、常によく観察するんだ。通れそうな壁のひび割れは探せばあるものだし、小さな証拠の積み重ねが大きな秘密を暴いたりもするし、小さな失敗が積み重なれば大きな失敗につながる。自分の全ての行動に気をつけるんだ。特に取り返しのつかないミスにはな。"
+        "translatedText": "あと、これはアドバイスというには単純すぎるが、常によく観察するんだ。通れそうな壁のひび割れは探せばあるものだし、小さな証拠の積み重ねが大きな秘密を暴いたりもするし、小さな失敗が積み重なれば大きな失敗につながる。自分の全ての行動に気をつけるんだ。特に取り返しのつかないミスにはな。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 554,
         "description": "n/a",
         "originalText": "I told you a man was waiting to pay you for the delivery. I never said who the man would be. Well, I've waited, and waited, and waited... ::He hands you some charons.:: In any case, thanks for the help. You earned this.",
-        "translatedText": "受け取り要員がいるとは言ったが、誰とまでは言ってないぜ。つまりだ、俺はずっと、ずっと、ずっと待ちぼうけを食らわされてたってことさ……::報酬を受け取った。::まあ、協力には感謝する。これは正当な報酬だ。"
+        "translatedText": "受け取り要員がいるとは言ったが、誰とまでは言ってないぜ。つまりだ、俺はずっと、ずっと、ずっと待ちぼうけを食らわされてたってことさ……::報酬を受け取った。::まあ、協力には感謝する。これは正当な報酬だ。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 561,
         "description": "n/a",
         "originalText": "Everything, and I mean everything, concerning Abram, myself and everyone - I do mean everyone - involved in what we do, stays between us. We require maximum discretion, and, just so you know, we have eyes and ears everywhere.\r\n\r\nYou get it, don't you?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 566,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 571,
         "description": "n/a",
         "originalText": "I'm not a citizen of any place if that's what you're asking. I travel around a lot, but when I'm not on a train, I spend most of my time in Core City.",
-        "translatedText": "所属のことを聞いてるんなら、俺はどこの市民でもない。いつも旅してるから電車が家みたいなもんだが、そうじゃないときはCore_Cityにいることが多い。"
+        "translatedText": "所属のことを聞いてるんなら、俺はどこの市民でもない。いつも旅してるから電車が家みたいなもんだが、そうじゃないときはCore_Cityにいることが多い。",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 575,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 581,
         "description": "n/a",
         "originalText": "A lucrative business opportunity. But it slipped past me, unfortunately.",
-        "translatedText": "儲け話があったもんでね。残念ながら掴み損ねたが。"
+        "translatedText": "儲け話があったもんでね。残念ながら掴み損ねたが。",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 585,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 589,
         "description": "n/a",
         "originalText": "Among other things, yeah. Are you looking to trade?",
-        "translatedText": "まあ、それだけじゃないが商売もやってる。取引がしたいのか？"
+        "translatedText": "まあ、それだけじゃないが商売もやってる。取引がしたいのか？",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 595,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 597,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_canTrade",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 603,
         "description": "n/a",
         "originalText": "It's a business secret.",
-        "translatedText": "悪いが、職務上の守秘義務ってやつがあってね。"
+        "translatedText": "悪いが、職務上の守秘義務ってやつがあってね。",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 607,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 613,
         "description": "n/a",
         "originalText": "Package delivery. I'll pay you in SGS credits. Hundred pieces.\r\n\r\n",
-        "translatedText": "配達さ。報酬はSGSクレジットで払う。100クレジットだ。\r\n\r\n"
+        "translatedText": "配達さ。報酬はSGSクレジットで払う。100クレジットだ。\r\n\r\n",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 617,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 620,
         "description": "n/a",
         "originalText": "Or maybe I'll catch you.",
-        "translatedText": "おう。"
+        "translatedText": "おう。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 624,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_introd",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 628,
         "description": "n/a",
-        "originalText": "$(context.player.Name)だ。",
-        "translatedText": ""
+        "originalText": "My name is $(context.player.Name).",
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 629,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_fo_todor_released",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 630,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_SGSMurder_mordreGuilty",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 631,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_daniel_toldHerculesInvestigation",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 634,
         "description": "n/a",
         "originalText": "Sure. See you later...",
-        "translatedText": "ああ。また後でな……"
+        "translatedText": "ああ。また後でな……",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 639,
         "description": "n/a",
         "originalText": "You ask me a question like that after all you've been through? \r\n\r\nSee you around, $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 642,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_ch_destroyedRocksWithFists",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 645,
         "description": "n/a",
         "originalText": "Sure you do. We all have to wait for something. Ain't it so? That's all I've got to say for now.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 652,
         "description": "n/a",
         "originalText": "Travel to the caves below Lower Underrail and look for Azif in a place called the \"Hanging Rat.\"",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 657,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_FoundryTrialCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 658,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_DanielArdaCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 659,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_SGSMurderCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 663,
         "description": "n/a",
         "originalText": "That's enough of Jack's wisdom for now. ::He smiles.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 670,
         "description": "n/a",
         "originalText": "Since that's out of the way, I'm going to have to excuse myself. I'm waiting for someone important. See you later, $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 676,
         "description": "n/a",
         "originalText": "Now, on to more pressing matters. Abram informed me you helped him in Junkyard. Told me you have potential.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 682,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jqsDelivery_finished",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".RIFPA.RIFPA:IC",
+        "classInfo": "(RIFPA).RIFPA:IC",
         "objectId": 684,
         "description": "n/a",
         "originalText": "jq.task1.package",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 686,
         "description": "n/a",
         "originalText": "packageDelivery",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 689,
         "description": "n/a",
         "originalText": "I'm getting tired of talking so listen up, I'll be brief: I have three assignments for you at the moment; you can do them in any order you like; do know that two of them will require some traveling. \r\n\r\nFirst, I want you to go to Foundry and find our cell there. Once you do, you will be asked, \"Who goes there?\" to which you reply with, \"The neophyte.\" Once you're in, talk to Everard, he'll tell you what needs to be done.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 695,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 696,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_canTrade",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 697,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 700,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_toldAboutBusiness",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 701,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 706,
         "description": "n/a",
         "originalText": "Show me what you got. ::Barter.::",
-        "translatedText": "商品を見せてくれ。::売買::"
+        "translatedText": "商品を見せてくれ。::売買::",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 710,
         "description": "n/a",
         "originalText": "Maybe later.",
-        "translatedText": "またの機会に。"
+        "translatedText": "またの機会に。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 711,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_toldAboutBusiness",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 712,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_deliveryTaskOutline",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 716,
         "description": "n/a",
         "originalText": "If you're interested in doing some work, though, that's something I can arrange.",
-        "translatedText": "だが、何か仕事を探してるんなら、ちょうどよさそうな案件があるぜ。"
+        "translatedText": "だが、何か仕事を探してるんなら、ちょうどよさそうな案件があるぜ。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 722,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_deliveryTaskOutline",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 723,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_deliveryTaskAccepted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 728,
         "description": "n/a",
         "originalText": "You interested?",
-        "translatedText": "興味あるかい？"
+        "translatedText": "興味あるかい？",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 734,
         "description": "n/a",
         "originalText": "::He just nods in confirmation.::",
-        "translatedText": "::(無言でうなずく)::"
+        "translatedText": "::(無言でうなずく)::",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 748,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_lux_knowHangingRat",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 752,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_abram_talkToJackCoreCity",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 759,
         "description": "n/a",
         "originalText": "How do I find the cell?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 763,
         "description": "n/a",
         "originalText": "I got it, what's the second assignment.",
-        "translatedText": "わかった。2つ目の課題は？"
+        "translatedText": "わかった。2つ目の課題は？",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 768,
         "description": "n/a",
         "originalText": "I'll be here for a little while longer.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 772,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_deliveryTaskOutline",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 776,
         "description": "n/a",
         "originalText": "What kind of work?",
-        "translatedText": "どういう仕事なんだ？"
+        "translatedText": "どういう仕事なんだ？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 780,
         "description": "n/a",
         "originalText": "What's the pay?",
-        "translatedText": "報酬は？"
+        "translatedText": "報酬は？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 784,
         "description": "n/a",
         "originalText": "Perhaps later.",
-        "translatedText": "その話は後にしよう。"
+        "translatedText": "その話は後にしよう。",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 793,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_deliveryTaskOutline",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 799,
         "description": "n/a",
         "originalText": "Who is Azif?",
-        "translatedText": "Azifというのは誰だ？"
+        "translatedText": "Azifというのは誰だ？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 805,
         "description": "n/a",
         "originalText": "How do I find this place?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 809,
         "description": "n/a",
         "originalText": "Alright. I'll look for Azif.",
-        "translatedText": "わかった。Azifを探すことにしよう。"
+        "translatedText": "わかった。Azifを探すことにしよう。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 813,
         "description": "n/a",
         "originalText": "I'll think about it.",
-        "translatedText": "考えておこう。"
+        "translatedText": "考えておこう。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 817,
         "description": "n/a",
         "originalText": "Forget it. I have more important things to do then wonder aimlessly through caves.",
-        "translatedText": "やめておこう、洞窟を散歩するより他にやることがある。"
+        "translatedText": "やめておこう、洞窟を散歩するより他にやることがある。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 823,
         "description": "n/a",
         "originalText": "$(context.player.Name), if I need to tell you such basic things, you might not be cut out for this line of work. Where was I... Ah, yes.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 828,
         "description": "n/a",
         "originalText": "Second, I want you to go to SGS - that's right - and find a man called Lenox Pierce. He is in need of our services, so be polite and represent us well. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 835,
         "description": "n/a",
         "originalText": "I'll pay you in SGS credits. Hundred pieces. It's a package delivery job.\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 841,
         "description": "n/a",
         "originalText": "::He nods.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 847,
         "description": "n/a",
         "originalText": "Yeah. Tell me the details.",
-        "translatedText": "ああ、詳しいことを教えてくれ。"
+        "translatedText": "ああ、詳しいことを教えてくれ。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 850,
         "description": "n/a",
         "originalText": "Maybe later.",
-        "translatedText": "また後で。"
+        "translatedText": "また後で。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 851,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.azif1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 855,
         "description": "n/a",
         "originalText": "You'll find out.",
-        "translatedText": "すぐにわかるさ。"
+        "translatedText": "すぐにわかるさ。",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 859,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.azif1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 860,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.azif2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 864,
         "description": "n/a",
         "originalText": "::He smirks.:: By being resourceful, as you were so far.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 868,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.azif1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 871,
         "description": "n/a",
         "originalText": "::He nods.::",
-        "translatedText": "::(頷く)::"
+        "translatedText": "::(頷く)::",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 876,
         "description": "n/a",
         "originalText": "::He nods.:: Take your time.",
-        "translatedText": "::(頷く)::慎重にやれよ。"
+        "translatedText": "::(頷く)::慎重にやれよ。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 881,
         "description": "n/a",
         "originalText": "Still, if you change your mind, you should make your way there.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 896,
         "description": "n/a",
         "originalText": "And what's the third assignment?",
-        "translatedText": "それで3つ目の課題は？"
+        "translatedText": "それで3つ目の課題は？",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 899,
         "description": "n/a",
         "originalText": "::He beckons you closer.:: You know where the GMS warehouse block is?",
-        "translatedText": "::彼は近くに寄るように促す。::GMS倉庫ブロックの場所はわかるか？"
+        "translatedText": "::彼は近くに寄るように促す。::GMS倉庫ブロックの場所はわかるか？",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 907,
         "description": "n/a",
         "originalText": "Enter the caves from the Rail Crossing station and start your search from there.",
-        "translatedText": "Rail_Crossingの駅から洞窟に入って、そこから探索を始めるんだ。"
+        "translatedText": "Rail_Crossingの駅から洞窟に入って、そこから探索を始めるんだ。",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "classInfo": "(LIDP#G1>C00#-).LIDP:P",
         "objectId": 910,
         "description": "n/a",
         "originalText": "currency\\stygiancoin",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "classInfo": "(LIDP#G1>C00#-).LIDP:P",
         "objectId": 911,
         "description": "n/a",
         "originalText": "currency\\stygiancoin",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 915,
         "description": "n/a",
         "originalText": "The third one is here, in Core City. A man called Ohad Xander is waiting for you down at the Core City train station. He also needs some help with a certain... \"issue.\"\r\n\r\nGo now, let's not keep people waiting. You will be paid upon assignment completion. If you have any more questions or want to trade, I'll be right here - enjoying my drink.",
-        "translatedText": "三つめはここ、つまりCore_Cityだな。Ohad_Xanderという人物がここから下、Core_Cityの駅で待ってる。彼はある種のちょっとした……\"手助け\"を必要としている。\r\n\r\nさあ、行ってくれ。人を待たせるのは良くないことだ。課題が終わったら報酬を払う。もし質問があったり、売買をしたいときは戻ってきてくれ。俺はここで飲んでるからな。"
+        "translatedText": "三つめはここ、つまりCore_Cityだな。Ohad_Xanderという人物がここから下、Core_Cityの駅で待ってる。彼はある種のちょっとした……\"手助け\"を必要としている。\r\n\r\nさあ、行ってくれ。人を待たせるのは良くないことだ。課題が終わったら報酬を払う。もし質問があったり、売買をしたいときは戻ってきてくれ。俺はここで飲んでるからな。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 921,
         "description": "n/a",
         "originalText": "Yes.",
-        "translatedText": "ああ。"
+        "translatedText": "ああ。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 925,
         "description": "n/a",
         "originalText": "No.",
-        "translatedText": "わからない。"
+        "translatedText": "わからない。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 940,
         "description": "n/a",
         "originalText": "First go to the barracks at the station platform here in SGS. This key will open one of the footlockers and the package will be inside. ::He hands you the key.::",
-        "translatedText": "::荷物はSGSの駅のプラットフォームにある兵舎の中だ。鍵付きチェストが置いてあるから、この鍵で開けてくれ。中に荷物がある。::鍵を受け取った。::"
+        "translatedText": "::荷物はSGSの駅のプラットフォームにある兵舎の中だ。鍵付きチェストが置いてあるから、この鍵で開けてくれ。中に荷物がある。::鍵を受け取った。::",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 945,
         "description": "n/a",
         "originalText": "Never mind then. Can't risk you getting lost with the package.",
-        "translatedText": "いや、やっぱりこの話はナシだ。お前に任せるのはリスクが高そうだ。"
+        "translatedText": "いや、やっぱりこの話はナシだ。お前に任せるのはリスクが高そうだ。",
+        "ignore": false
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 949,
         "description": "n/a",
         "originalText": "wa_findFoundryCell",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 951,
         "description": "n/a",
         "originalText": "wa_talkToOhadXander",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 953,
         "description": "n/a",
         "originalText": "wa_talkToLenoxPierce",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 955,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_gaveFirstMissions",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 959,
         "description": "n/a",
         "originalText": "wa_ReportToJack",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 962,
         "description": "n/a",
         "originalText": "Take the package to the warehouse block, to the building just south of the GMS compound. A man will be waiting for the package there and you'll get your money.",
-        "translatedText": "荷物の運び先は倉庫区画だ。::GMS_Compound::のすぐ南だな。受け取り要員がそこにいるから、報酬と荷物を交換してくれ。"
+        "translatedText": "荷物の運び先は倉庫区画だ。::GMS_Compound::のすぐ南だな。受け取り要員がそこにいるから、報酬と荷物を交換してくれ。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q0.Q0:L",
+        "classInfo": "(Q0).Q0:L",
         "objectId": 968,
         "description": "n/a",
         "originalText": "fo2",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 973,
         "description": "n/a",
         "originalText": "Alright.",
-        "translatedText": "わかった。"
+        "translatedText": "わかった。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 977,
         "description": "n/a",
         "originalText": "Why don't you just take the package yourself?",
-        "translatedText": "自分で届けない理由があるのか？"
+        "translatedText": "自分で届けない理由があるのか？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 981,
         "description": "n/a",
         "originalText": "Actually I changed my mind.",
-        "translatedText": "いや、やめておこう。"
+        "translatedText": "いや、やめておこう。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 989,
         "description": "n/a",
         "originalText": "We will not speak of this again until the job is done.",
-        "translatedText": "いいか、仕事が完了するまで、この話題は禁止だ。"
+        "translatedText": "いいか、仕事が完了するまで、この話題は禁止だ。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 995,
         "description": "n/a",
         "originalText": "No questions. ",
-        "translatedText": "質問はなしだ。"
+        "translatedText": "質問はなしだ。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1001,
         "description": "n/a",
         "originalText": "Too late for that now. ",
-        "translatedText": "いや、今更降りるのはナシだ。"
+        "translatedText": "いや、今更降りるのはナシだ。",
+        "ignore": false
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 1005,
         "description": "n/a",
         "originalText": "packageDelivery",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1009,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jackQuicksilver_deliveryTaskAccepted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q0.Q0:L",
+        "classInfo": "(Q0).Q0:L",
         "objectId": 1017,
         "description": "n/a",
         "originalText": "lu-a1",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q0.Q0:L",
+        "classInfo": "(Q0).Q0:L",
         "objectId": 1019,
         "description": "n/a",
         "originalText": "WarehouseBlockAlpha1",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".KI2.I:C",
+        "classInfo": "(KI2).I:C",
         "objectId": 1028,
         "description": "n/a",
         "originalText": "key.jq.task1",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".KI2.I:N",
+        "classInfo": "(KI2).I:N",
         "objectId": 1029,
         "description": "n/a",
         "originalText": "SGS Barracks Footlocker Key",
-        "translatedText": "SGS兵舎チェストの鍵／SGS Barracks Footlocker Key"
+        "translatedText": "SGS兵舎チェストの鍵／SGS Barracks Footlocker Key",
+        "ignore": false
     },
     {
-        "classInfo": ".KI2.I:D",
+        "classInfo": "(KI2).I:D",
         "objectId": 1031,
         "description": "n/a",
         "originalText": "This key should open one of the footlockers in the barracks on the SGS station platform.",
-        "translatedText": "SGSの駅にある兵舎の中のチェストのどれかがこの鍵で開くはずだ。"
+        "translatedText": "SGSの駅にある兵舎の中のチェストのどれかがこの鍵で開くはずだ。",
+        "ignore": false
     },
     {
-        "classInfo": ".KI2.I:VM",
+        "classInfo": "(KI2).I:VM",
         "objectId": 1032,
         "description": "n/a",
         "originalText": "Plot.20",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

@@ -1,2434 +1,2660 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 162,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 163,
-        "description": "n/a",
-        "originalText": "oldJonas",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 164,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".BC.C:N",
+        "classInfo": "(BC).C:N",
         "objectId": 174,
         "description": "n/a",
         "originalText": "already met",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 175,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 179,
         "description": "n/a",
         "originalText": "::He frowns:: I've got nothin' to say to you. Nothin'.",
-        "translatedText": "::(眉をひそめる)::あんたに話すことなどない。帰れ！"
+        "translatedText": "::(眉をひそめる)::あんたに話すことなどない。帰れ！",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 186,
         "description": "n/a",
         "originalText": "::Jonas seems to be deep in disturbing thoughts. As you address him, he seems to snap out of it and quickly get back to his usual mirthful self.:: Still runnin' about, I see? Ah, you youngsters are full of energy.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 193,
         "description": "n/a",
         "originalText": "What is it?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 200,
         "description": "n/a",
         "originalText": "Take a seat, youngster, have yourself a drink. You don't need to be rushin' about all the time.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 206,
         "description": "n/a",
         "originalText": "Back again? What can Old Jonas do for you, youngster?",
-        "translatedText": "こんなところまで戻ってきて、この老いぼれに何か用かね？"
+        "translatedText": "こんなところまで戻ってきて、この老いぼれに何か用かね？",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 213,
         "description": "n/a",
         "originalText": "::An old man wearing an old coat, old pants and old boots introduces himself with an amiable smile.::\r\n\r\nOh, it's the young $(context.player.Name). Off to do some huntin'?",
-        "translatedText": "::古いコート、古いパンツ、古いブーツを履いた老人は、愛想よく自己紹介をする。::\r\n\r\nああ、$(context.player.Name)君じゃないか。狩りにでも行くのかい？"
+        "translatedText": "::古いコート、古いパンツ、古いブーツを履いた老人は、愛想よく自己紹介をする。::\r\n\r\nああ、$(context.player.Name)君じゃないか。狩りにでも行くのかい？",
+        "ignore": false
     },
     {
-        "classInfo": ".NLAC.NLAC:NN",
+        "classInfo": "(NLAC).NLAC:NN",
         "objectId": 237,
         "description": "n/a",
         "originalText": "oldJonas",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PIIAC.PIIAC:AN",
+        "classInfo": "(PIIAC).PIIAC:AN",
         "objectId": 238,
         "description": "n/a",
         "originalText": "l5",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 240,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 241,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_watchConflict",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PIIAC.PIIAC:AN",
+        "classInfo": "(PIIAC).PIIAC:AN",
         "objectId": 245,
         "description": "n/a",
         "originalText": "l5",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 250,
         "description": "n/a",
         "originalText": "I think I found your watch. ::Show him the old watch you found.::",
-        "translatedText": "探していたという時計はこれか？ ::古い時計を見せる::"
+        "translatedText": "探していたという時計はこれか？ ::古い時計を見せる::",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 255,
         "description": "n/a",
         "originalText": "I think your watch has been given a second chance, old man. ::Show him the old watch you found.::",
-        "translatedText": "じいさん、どうやらこの時計はあんたと再会できる運命らしいぞ。::古い時計を見せる::"
+        "translatedText": "じいさん、どうやらこの時計はあんたと再会できる運命らしいぞ。::古い時計を見せる::",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 261,
         "description": "n/a",
         "originalText": "Remember that watch you mentioned earlier. I think I found it.",
-        "translatedText": "思い出した、さっき言ってた時計とやら、拾った気がするぞ。"
+        "translatedText": "思い出した、さっき言ってた時計とやら、拾った気がするぞ。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 267,
         "description": "n/a",
         "originalText": "What is this place?",
-        "translatedText": "この場所は一体？"
+        "translatedText": "この場所は一体？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 273,
         "description": "n/a",
         "originalText": "What are you doing here?",
-        "translatedText": "この場所で何をしているのか知りたい。"
+        "translatedText": "この場所で何をしているのか知りたい。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 279,
         "description": "n/a",
         "originalText": "I hear you are very knowledgeable of the tunnels and I could use some advice.",
-        "translatedText": "あなたはこの洞窟の知識が豊富だと聞いた。アドバイスが欲しい。"
+        "translatedText": "あなたはこの洞窟の知識が豊富だと聞いた。アドバイスが欲しい。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 284,
         "description": "n/a",
         "originalText": "I got more questions about the tunnels for you.",
-        "translatedText": "洞窟についてもっと質問がある。"
+        "translatedText": "洞窟についてもっと質問がある。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 290,
         "description": "n/a",
         "originalText": "You said the outposts are to the north, right? How exactly do I get my bearings down here in the tunnels? Where is north?",
-        "translatedText": "前哨は北にあるといったが、本当か？　この洞窟の中で北がどっちかなんてわかるものなのか？"
+        "translatedText": "前哨は北にあるといったが、本当か？　この洞窟の中で北がどっちかなんてわかるものなのか？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 296,
         "description": "n/a",
         "originalText": "I'm looking for an old friend of yours, Blaine. You got any idea where he might be?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 303,
         "description": "n/a",
         "originalText": "About your friend Blaine...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 309,
         "description": "n/a",
         "originalText": "What do you know about Patrick Pierce's death?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 314,
         "description": "n/a",
         "originalText": "Let's barter. ::Barter.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 317,
         "description": "n/a",
         "originalText": "See you later, old geezer.",
-        "translatedText": "またな、じいさん。"
+        "translatedText": "またな、じいさん。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 318,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_toldHimAboutTchort",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 319,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_finalCouncil_toldTchort",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 326,
         "description": "n/a",
         "originalText": "Yes, that's the one! ",
-        "translatedText": "そう、それだよ！"
+        "translatedText": "そう、それだよ！",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 335,
         "description": "n/a",
         "originalText": "Ha-ha! Good one - good one!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 341,
         "description": "n/a",
         "originalText": "JonasWatch",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 347,
         "description": "n/a",
         "originalText": "This is the Crossroad Watch. The only way to get into our station from the tunnels is through here.",
-        "translatedText": "::Crossroad Watch::と呼ばれている場所だよ。洞窟を通ってSGSに入る唯一のルート上に建てられている。"
+        "translatedText": "::Crossroad Watch::と呼ばれている場所だよ。洞窟を通ってSGSに入る唯一のルート上に建てられている。",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 351,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lastQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 357,
         "description": "n/a",
         "originalText": "Just sortin' through some goods I scavenged today. Wanna take a look, see if there's somethin' you like, before I take it back to the station? I offer a fair bargain.",
-        "translatedText": "廃墟を漁って集めた品の整理をしていただけさ。 このあとステーションに持って行くけど、見てみるかね？　欲しいものがあったら売ってあげよう。格安だ。"
+        "translatedText": "廃墟を漁って集めた品の整理をしていただけさ。 このあとステーションに持って行くけど、見てみるかね？　欲しいものがあったら売ってあげよう。格安だ。",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 363,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lastQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 364,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_askedAboutKnowledgeable",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 368,
         "description": "n/a",
         "originalText": "Been crawlin' through them tunnels all my life. What do you want to know?",
-        "translatedText": "生まれてからずっとこの洞窟を徘徊してるからねえ。何が知りたいの？"
+        "translatedText": "生まれてからずっとこの洞窟を徘徊してるからねえ。何が知りたいの？",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 372,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_askedAboutKnowledgeable",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 373,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_askedAboutKnowledgeable",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 377,
         "description": "n/a",
         "originalText": "Shoot.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 386,
         "description": "n/a",
         "originalText": "I think I got one of them, eh, compasses somewhere 'round here if you're interestin' in bartering.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 392,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_directions",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 398,
         "description": "n/a",
         "originalText": "::He looks at you suspiciously.:: Why would you be looking for Blaine?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 405,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldjonas_askedAboutBlaine",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 414,
         "description": "n/a",
         "originalText": "What about him?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 418,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.flag1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 424,
         "description": "n/a",
         "originalText": "Patrick... Yeah, I knew Patrick. The kid died in his sleep one day, and Doc - Pasquale - couldn't figure out what signed his death sentence. Patrick's brother threw a tantrum, demanded that Doc perform the autopsy again. So he did.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 428,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_oldJonas_askPatPierce",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 432,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jonasWatch_state",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 434,
         "description": "n/a",
         "originalText": "JonasWatch",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 435,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_jonas_toldSecondChance",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 438,
         "description": "n/a",
         "originalText": "Where'd you find it?",
-        "translatedText": "これ、どこで見つけたの？"
+        "translatedText": "これ、どこで見つけたの？",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 443,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jonasWatch_state",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 445,
         "description": "n/a",
         "originalText": "JonasWatch",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 446,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_jonas_toldSecondChance",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 450,
         "description": "n/a",
         "originalText": "That's the watch alright. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 453,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jonasWatch_state",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 455,
         "description": "n/a",
         "originalText": "JonasWatch",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 456,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lastQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PIIAC.PIIAC:AN",
+        "classInfo": "(PIIAC).PIIAC:AN",
         "objectId": 458,
         "description": "n/a",
         "originalText": "CrossroadCaves",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 459,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lastQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PIIAC.PIIAC:AN",
+        "classInfo": "(PIIAC).PIIAC:AN",
         "objectId": 461,
         "description": "n/a",
         "originalText": "CrossroadCaves",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 463,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_barter",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 467,
         "description": "n/a",
         "originalText": "Sure. Let me see what you have. ::Barter.::",
-        "translatedText": "わかった。商品を見せてくれ。::売買::"
+        "translatedText": "わかった。商品を見せてくれ。::売買::",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 471,
         "description": "n/a",
         "originalText": "Perhaps later.",
-        "translatedText": "それはまた後で。"
+        "translatedText": "それはまた後で。",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 487,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_directions",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 489,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.temp_addedCompas",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PIIAC.PIIAC:AN",
+        "classInfo": "(PIIAC).PIIAC:AN",
         "objectId": 490,
         "description": "n/a",
         "originalText": "CrossroadCaves",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 492,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_barter",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 496,
         "description": "n/a",
         "originalText": "That'd be useful. What do you want for it?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 500,
         "description": "n/a",
         "originalText": "I'll find my way around somehow.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 501,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jysilas_startedTalkAboutTakeover",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 502,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldjonas_askedAboutBlaine",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 503,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_blaine_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 507,
         "description": "n/a",
         "originalText": "I've got some questions for him.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 511,
         "description": "n/a",
         "originalText": "I'm looking for some advice on Old Junkyard.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 516,
         "description": "n/a",
         "originalText": "That's none of your business.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 517,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldjonas_askedAboutBlaine",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 518,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_blaine_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 519,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldjonas_toldYouWhereBlaineIs",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 522,
         "description": "n/a",
         "originalText": "You can find him in the under-passages not too far from SGS. Just head out north past our station and take one of the stairs down. Look for his shop down there. The only way to get inside is to beep the intercom twice short, once long, and then twice short again. Ya dig? Twice short, once long, twice short again.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 535,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_SGSMurderStarted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 536,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_SGSMurderCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 539,
         "description": "n/a",
         "originalText": "Nothin'. Still couldn't figure it out. Now, Doc's far too busy saving people's lives to be spendin' too much time on the dead, ya dig. There's so much stuff medicine as a science hasn't even scratched yet, so I can see why sometimes you gotta pull the line. Sad, but we can't have *all* the answers. It wasn't a contagious disease or some other devil, and that's the most important thing.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 544,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_barter",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PIIAC.PIIAC:AN",
+        "classInfo": "(PIIAC).PIIAC:AN",
         "objectId": 545,
         "description": "n/a",
         "originalText": "CrossroadCaves",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 549,
         "description": "n/a",
         "originalText": "You really don't want to know.",
-        "translatedText": "知らない方がいい……"
+        "translatedText": "知らない方がいい……",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 553,
         "description": "n/a",
         "originalText": "In the belly of a rathound.",
-        "translatedText": "Rathoundの腹の中。"
+        "translatedText": "Rathoundの腹の中。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 558,
         "description": "n/a",
         "originalText": "Suit yourself.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 566,
         "description": "n/a",
         "originalText": "Do you know how I can get to that Junkyard place?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 571,
         "description": "n/a",
         "originalText": "Why's the Chancer's Bay called like that?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 576,
         "description": "n/a",
         "originalText": "What are second chance goods again?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 582,
         "description": "n/a",
         "originalText": "What can you tell me about the abandoned outposts nearby?",
-        "translatedText": "近くにあるという放棄された前哨について。"
+        "translatedText": "近くにあるという放棄された前哨について。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 589,
         "description": "n/a",
         "originalText": "Is it really true that you descended to the bottom of Deep Caverns?",
-        "translatedText": "::Deep Cavern::の最深部に到達したという噂は本当なのか？"
+        "translatedText": "::Deep Cavern::の最深部に到達したという噂は本当なのか？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 596,
         "description": "n/a",
         "originalText": "You promised to tell me about your descent into the Deep Caverns.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 602,
         "description": "n/a",
         "originalText": "How much damage did the earthquake do to the surrounding cave tunnels?",
-        "translatedText": "周辺の洞窟への地震の被害は？"
+        "translatedText": "周辺の洞窟への地震の被害は？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 606,
         "description": "n/a",
         "originalText": "Can you tell me a bit about creatures that inhabit these tunnels?",
-        "translatedText": "洞窟の生物について教えてほしい。"
+        "translatedText": "洞窟の生物について教えてほしい。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 610,
         "description": "n/a",
         "originalText": "What are these Tunnelers I've heard people mention?",
-        "translatedText": "::Tunneler::という人々について耳にした。どういう奴らなんだ？"
+        "translatedText": "::Tunneler::という人々について耳にした。どういう奴らなんだ？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 614,
         "description": "n/a",
         "originalText": "Never mind. Let's talk about something else.",
-        "translatedText": "いや、他の話題にしよう。"
+        "translatedText": "いや、他の話題にしよう。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 619,
         "description": "n/a",
         "originalText": "::He chuckles.:: Suit yourself.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 625,
         "description": "n/a",
         "originalText": "Well I don't know where he is. I haven't seen him for quite some time actually.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 629,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldjonas_rudeWhenAskingAboutBlaine",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 632,
         "description": "n/a",
         "originalText": "Thanks, old man.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 637,
         "description": "n/a",
         "originalText": "Do you at least have any hints as to where I should look for him?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 642,
         "description": "n/a",
         "originalText": "::[Persuade]:: Look, I don't mean him any harm. I'm planning a scavenging run and I just want to ask him a few questions about the Old Junkyard. That's all.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 646,
         "description": "n/a",
         "originalText": "Never mind.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 650,
         "description": "n/a",
         "originalText": "Too bad.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 654,
         "description": "n/a",
         "originalText": "Can you tell me what he was like as a person?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 658,
         "description": "n/a",
         "originalText": "I see.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 662,
         "description": "n/a",
         "originalText": "It's covered with... ugh, you're right - best that I don't know.",
-        "translatedText": "なんだこれ、ベトベトして……うげ、君の言った通りだ。知らない方がよさそう。"
+        "translatedText": "なんだこれ、ベトベトして……うげ、君の言った通りだ。知らない方がよさそう。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 668,
         "description": "n/a",
         "originalText": "::He quirks an eyebrow.:: I knew those things would devour anythin', but a metal watch...",
-        "translatedText": "::彼は眉をしかめる。::奴らが何でも食うとは知ってたけど、まさか時計をね……"
+        "translatedText": "::彼は眉をしかめる。::奴らが何でも食うとは知ってたけど、まさか時計をね……",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 679,
         "description": "n/a",
         "originalText": "Off to do some junk diggin', eh? Just go to the far side of Mushroom Cove and take the tunnels north. If you don't get mauled by rathounds or mind-blown by psi beetles, eventually you'll reach Junkyard. Takin' the ferry across the Chancer's Bay is a safer bet, though. You'll find one at the SGS docks.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 683,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lastQ2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 688,
         "description": "n/a",
         "originalText": "'Cause of second chance goods.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 693,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_jonas_toldSecondChance",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 697,
         "description": "n/a",
         "originalText": "Oh, you know what second chance goods are, even if you don't know them by that name. Take this example: Some guy goes out and buys a pair of boots from a merchant. Nice, comfy leather boots. He goes out spelunkin' to test them out and gets attacked by some thugs - either whacked and looted, or robbed. The thugs - preferably workin' for the merchant who originally sold them to that poor sod - bring it to the merchant so that they can be resold. \r\n\r\nThus they've been given a \"second chance.\"",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 706,
         "description": "n/a",
         "originalText": "The nearest one is just north of the Crossroad Watch. They stretch to the east and to the west from there. They were built by Omega station but are somewhat in ruins since we put them out of business. Plenty of rathounds there now.",
-        "translatedText": "一番近いのはこのCrossroad Watchの北にいけばすぐあるね。他のは東と西にある。元々は::Omega Station::によって建てられたものだが、我々が追い払って無人にしたせいで、今ではそこそこ荒れ果ててしまった。Rathoundが沢山住み着いているよ。"
+        "translatedText": "一番近いのはこのCrossroad Watchの北にいけばすぐあるね。他のは東と西にある。元々は::Omega Station::によって建てられたものだが、我々が追い払って無人にしたせいで、今ではそこそこ荒れ果ててしまった。Rathoundが沢山住み着いているよ。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 713,
         "description": "n/a",
         "originalText": "The nearest one is just north of here and then they stretch to the east and to the west. They were built by Omega station but are somewhat in ruins now since we put them out of business. Plenty of Rathounds there now.",
-        "translatedText": "一番近いのはこのCrossroad Watchの北にいけばすぐあるね。他のは東と西にある。元々は::Omega Station::によって建てられたものだが、我々が追い払って無人にしたせいで、今ではそこそこ荒れ果ててしまった。Rathoundが沢山住み着いているよ。"
+        "translatedText": "一番近いのはこのCrossroad Watchの北にいけばすぐあるね。他のは東と西にある。元々は::Omega Station::によって建てられたものだが、我々が追い払って無人にしたせいで、今ではそこそこ荒れ果ててしまった。Rathoundが沢山住み着いているよ。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 723,
         "description": "n/a",
         "originalText": "::He laughs.:: Listen, youngster, there's not a place in this accursed underworld these old legs haven't visited. I've descended as low as one can go and I even took a peek into the dreaded mutagen tanks and...",
-        "translatedText": "::(笑う)::聞いてくれ若人よ。この呪われた地下世界でこの足が踏んでいない地はないよ。降りるときは行ける限界まで行ったし、ミュータジェン槽を崖の上から覗き込むなんて命知らずな事もやったさ。あと……"
+        "translatedText": "::(笑う)::聞いてくれ若人よ。この呪われた地下世界でこの足が踏んでいない地はないよ。降りるときは行ける限界まで行ったし、ミュータジェン槽を崖の上から覗き込むなんて命知らずな事もやったさ。あと……",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 727,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lastQ2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 729,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_askedJonasAboutDeepCaverns",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 738,
         "description": "n/a",
         "originalText": "Look, youngster, I don't want to know anythin' about any giant mutated eldritch piles of flesh. If that's what I saw down there as well, I'm glad I can't remember it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 746,
         "description": "n/a",
         "originalText": "Eh, what do you need to hear my story for? You got one of your own now.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 754,
         "description": "n/a",
         "originalText": "Well, it's somewhat of a long story. You sure you wanna hear it?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 764,
         "description": "n/a",
         "originalText": "Well, a lot of the passageways have caved in. I'd use dynamite to clear them up, but Tanner confiscated all of it to make it available for clearin' up the South Tunnel. Can't say I blame him, the metro's more important.",
-        "translatedText": "そうね、かなりの通路が崩落しちゃってる。ダイナマイトがあれば発破できるんだけども、Tannerが::South_Tunnel::の開通に全部持って行っちゃってね……いや、彼は間違ってないよ。鉄道の開通のほうが重要だ。"
+        "translatedText": "そうね、かなりの通路が崩落しちゃってる。ダイナマイトがあれば発破できるんだけども、Tannerが::South_Tunnel::の開通に全部持って行っちゃってね……いや、彼は間違ってないよ。鉄道の開通のほうが重要だ。",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 768,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lastQ2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 773,
         "description": "n/a",
         "originalText": "Well, there's cave hoppers, mole crickets, rathounds, psi beetles... and rarely shadow crawlers. What critter are you interested in?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 779,
         "description": "n/a",
         "originalText": "The thing is no one really knows for sure who they are. They are nomadic people of the Deeps. People around these parts call them \"Tunnelers\" because they are known to dig wide sprawlin' tunnels throughout the underground, connecting remote places of the Underrail. But, again, no one knows why they do that.",
-        "translatedText": "確証を持ってる人はいないだろうね。彼らはいろんなところを移り住む洞窟深部の住人で、\"Tunnelers\"という名前がついたのは、彼らが地下のトンネルを四方八方に掘って僻地と僻地をつないでいるからだ。だけど、さっきも言った通り、なんでそんなことをしているのか誰も知らない。"
+        "translatedText": "確証を持ってる人はいないだろうね。彼らはいろんなところを移り住む洞窟深部の住人で、\"Tunnelers\"という名前がついたのは、彼らが地下のトンネルを四方八方に掘って僻地と僻地をつないでいるからだ。だけど、さっきも言った通り、なんでそんなことをしているのか誰も知らない。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 785,
         "description": "n/a",
         "originalText": "Alright, youngster.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 792,
         "description": "n/a",
         "originalText": "Nope. None.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 798,
         "description": "n/a",
         "originalText": "Why don't you try the Junkyard slums? He used to hang out there often, yeah.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 807,
         "description": "n/a",
         "originalText": "::He's silent for a few seconds, studying you.:: Alright, but I'll hold you to your word.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 813,
         "description": "n/a",
         "originalText": "Look, look, I told you already - I don't know where he is.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 816,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.flag1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 817,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.flag1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 821,
         "description": "n/a",
         "originalText": "Eh? Doc or...? Oh, yeah, yeah, the kid was good. I remember him talkin' about his life, his little brother. Both of them were dealt some really bad cards right from the start o' their lives, but the kid was a survivor, he was tough, that's what he was. Shame.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 827,
         "description": "n/a",
         "originalText": "Damn shame, though. Damn shame.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 833,
         "description": "n/a",
         "originalText": "So... can I have it now? ",
-        "translatedText": "それで……時計は返してくれるんだよね？"
+        "translatedText": "それで……時計は返してくれるんだよね？",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 836,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tanner_prologTaskListCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 837,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lastQ2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 839,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 840,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldjonas_askedAboutBlaine",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 842,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_jonas_toldChancers",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 843,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_jonas_toldChancers",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 844,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_jonas_toldSecondChance",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 848,
         "description": "n/a",
         "originalText": "Which are?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 852,
         "description": "n/a",
         "originalText": "::Nod.:: Let me ask you something else now.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 856,
         "description": "n/a",
         "originalText": "Heh. Pretty common stuff in Junkyard, as you'd expect. Hence the bay's name - the Chancer's Bay.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 861,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_retakingOldOutposts_state",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 863,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jonasWatch_state",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 869,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_directions",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 871,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_directions",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 872,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lastQ2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 874,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_toldAboutMutagentTanks",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 875,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_askedJonasAboutDeepCaverns",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 879,
         "description": "n/a",
         "originalText": "Well, maybe I'll tell you more over a drink sometime.",
-        "translatedText": "うーん、話の続きは酒でも飲んだ時にしよう。"
+        "translatedText": "うーん、話の続きは酒でも飲んだ時にしよう。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 882,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_toldAboutMutagentTanks",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 883,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_askedJonasAboutDeepCaverns",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PIIAC.PIIAC:AN",
+        "classInfo": "(PIIAC).PIIAC:AN",
         "objectId": 884,
         "description": "n/a",
         "originalText": "l5",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 885,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_willNotTalkAboutDC",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 886,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_finalCouncil_toldTchort",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 888,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_willNotTalkAboutDC",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 892,
         "description": "n/a",
         "originalText": "You can't remember it?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 896,
         "description": "n/a",
         "originalText": "I understand.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 897,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_toldCouncilDeepCaverns",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 901,
         "description": "n/a",
         "originalText": "Maybe we can compare experiences.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 905,
         "description": "n/a",
         "originalText": "I guess you're right.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 910,
         "description": "n/a",
         "originalText": "Heck yes.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 914,
         "description": "n/a",
         "originalText": "Not right now, no.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 915,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lastQ2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 917,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 921,
         "description": "n/a",
         "originalText": "The passage to the lake is clear, though, if you're up for some fishin' or somethin'.",
-        "translatedText": "湖方面の道は崩れてないから、あっちに用事があるぶんには問題ないだろうね。釣りとか。"
+        "translatedText": "湖方面の道は崩れてないから、あっちに用事があるぶんには問題ないだろうね。釣りとか。",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 936,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.critQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 940,
         "description": "n/a",
         "originalText": "Some say that they have a huge city in the middle of the Deep Caverns that you can reach if you follow the longest of their tunnels.",
-        "translatedText": "::Deep Cavern::の中心にはTunnelerの巨大な都市があって、洞窟をずっと辿ればたどり着くことができるという噂もあるね。"
+        "translatedText": "::Deep Cavern::の中心にはTunnelerの巨大な都市があって、洞窟をずっと辿ればたどり着くことができるという噂もあるね。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 943,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldjonas_rudeWhenAskingAboutBlaine",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 947,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldjonas_toldYouWhereBlaineIs",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 949,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.area_lupa1_blaineShopPassword",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 952,
         "description": "n/a",
         "originalText": "There're a few special items I can offer you for it. ::He rummages through his backpack:: I've got this here powerful submachine gun; perfect working condition... I've got a set of healin' hypos... these are good for ya; and I've got these here fine lookin' boots. Look at 'em. They are fine.\r\n\r\nSo what's it gonna be?",
-        "translatedText": "ご褒美にすごいものを沢山用意してるよ。::彼はバックパックの中を漁り始める::まずこの強力なサブマシンガン。コンディションも完璧。あとは回復薬、これは必要でしょ。それから、このいい感じのブーツ。選ぶ前によく見てね。どれも一級品だ。\r\n\r\nどれにする？"
+        "translatedText": "ご褒美にすごいものを沢山用意してるよ。::彼はバックパックの中を漁り始める::まずこの強力なサブマシンガン。コンディションも完璧。あとは回復薬、これは必要でしょ。それから、このいい感じのブーツ。選ぶ前によく見てね。どれも一級品だ。\r\n\r\nどれにする？",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 964,
         "description": "n/a",
         "originalText": "Yup.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 968,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_jonas_toldSecondChance",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 972,
         "description": "n/a",
         "originalText": "Are there third chance goods?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 976,
         "description": "n/a",
         "originalText": "Oh, if you are heading there, could you do me a favor? I was scavengin' near those outposts a while back and I think I lost my old digital watch there. It was about this big and made of metal. It doesn't have a strap so I keep it in my pocket.",
-        "translatedText": "そうだ、もしそのあたりに行くのなら、お願いを聴いてくれないかな？　その前哨のあたりで物資集めをしていた時、腕時計をなくしたのよ。デジタルで、これくらいの大きさで、材質は金属。腕時計って言ったけどベルトはついてなくて、時計の部分だけポケットに入れてたんだよね。"
+        "translatedText": "そうだ、もしそのあたりに行くのなら、お願いを聴いてくれないかな？　その前哨のあたりで物資集めをしていた時、腕時計をなくしたのよ。デジタルで、これくらいの大きさで、材質は金属。腕時計って言ったけどベルトはついてなくて、時計の部分だけポケットに入れてたんだよね。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 982,
         "description": "n/a",
         "originalText": "Anything else?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 988,
         "description": "n/a",
         "originalText": "I don't want to talk about it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 994,
         "description": "n/a",
         "originalText": "Thank you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1000,
         "description": "n/a",
         "originalText": "I'd rather not. You know, there are some parts of my \"experience,\" as you say, that I don't remember and probably for the best. I don't want your own story to help me remember.\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1006,
         "description": "n/a",
         "originalText": "::He nods.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PIIAC.PIIAC:AN",
+        "classInfo": "(PIIAC).PIIAC:AN",
         "objectId": 1009,
         "description": "n/a",
         "originalText": "l5",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1014,
         "description": "n/a",
         "originalText": "It happened a long time ago, and my memory's a bit... fuzzy, but here goes: I was young, strong and handsome - a strappin' young lad, hehe. I was a scavenger at heart, still am, a spelunker that explored nearly all caves in South Underrail. One day I got the opportunity to go deeper - into Deep Caverns.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1020,
         "description": "n/a",
         "originalText": "Suit yourself.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1028,
         "description": "n/a",
         "originalText": "Tell me about cave hoppers.",
-        "translatedText": "Cave Hopperについて。"
+        "translatedText": "Cave Hopperについて。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1034,
         "description": "n/a",
         "originalText": "What do you know about mole crickets?",
-        "translatedText": "Mole Cricketについて。"
+        "translatedText": "Mole Cricketについて。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1040,
         "description": "n/a",
         "originalText": "What are rathounds?",
-        "translatedText": "Rathoundっていうのは？"
+        "translatedText": "Rathoundっていうのは？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1046,
         "description": "n/a",
         "originalText": "Psi beetles.",
-        "translatedText": "::PSI Beetle::っていうのは？"
+        "translatedText": "::PSI Beetle::っていうのは？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1052,
         "description": "n/a",
         "originalText": "What are these shadow crawlers?",
-        "translatedText": "Shadow Crawlerとは？"
+        "translatedText": "Shadow Crawlerとは？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1056,
         "description": "n/a",
         "originalText": "Never mind. Let me ask you something else.",
-        "translatedText": "いや、別の話題にしよう。"
+        "translatedText": "いや、別の話題にしよう。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1059,
         "description": "n/a",
         "originalText": "Some also call them \"the Faceless\" because they believe that under their huge masks they have no face. Superstitious folk don't like people sayin' that word though; they say it can draw their attention to you.",
-        "translatedText": "あと、::Faceless::という呼び名で呼ぶ人もいる。彼らが被ってる大きなマスクを取ると、そこには顔がないんだってさ。こっちの呼び名は迷信深い人は使わない。その言葉を使うと目をつけられてしまうって信じてるみたいでね。"
+        "translatedText": "あと、::Faceless::という呼び名で呼ぶ人もいる。彼らが被ってる大きなマスクを取ると、そこには顔がないんだってさ。こっちの呼び名は迷信深い人は使わない。その言葉を使うと目をつけられてしまうって信じてるみたいでね。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1066,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldjonas_gaveWatchForFree",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1070,
         "description": "n/a",
         "originalText": "That's alright, Jonas. You can just have it.",
-        "translatedText": "お礼なんていいんだ、Jonas。"
+        "translatedText": "お礼なんていいんだ、Jonas。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1074,
         "description": "n/a",
         "originalText": "I'll have the submachine gun.",
-        "translatedText": "サブマシンガンをもらおう。"
+        "translatedText": "サブマシンガンをもらおう。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1078,
         "description": "n/a",
         "originalText": "Give me those hypos; can never have too many of those.",
-        "translatedText": "回復薬だ。いくつあっても足りない。"
+        "translatedText": "回復薬だ。いくつあっても足りない。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1082,
         "description": "n/a",
         "originalText": "I needed a new pair of boots anyway.",
-        "translatedText": "この新品のブーツにしよう。"
+        "translatedText": "この新品のブーツにしよう。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1087,
         "description": "n/a",
         "originalText": "I'll trade it for all of it.",
-        "translatedText": "全部だ。"
+        "translatedText": "全部だ。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1091,
         "description": "n/a",
         "originalText": "You know, this is a nice looking watch. I think I'll keep it for myself.",
-        "translatedText": "あれだ、この時計気に入ったよ。返さないことにする。"
+        "translatedText": "あれだ、この時計気に入ったよ。返さないことにする。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1094,
         "description": "n/a",
         "originalText": "Now you're overthinkin' it. They're second chance goods no matter how many chances they get. Dig?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1100,
         "description": "n/a",
         "originalText": "It must have fallen out somewhere. Could you keep an eye out for it? If you bring it back I'll make you a good bargain for it.",
-        "translatedText": "多分そのへんに落ちてると思うんだよね。落ちてないかだけ意識しといてくれない？　もし見つけてくれたら、いいものあげるからさ。"
+        "translatedText": "多分そのへんに落ちてると思うんだよね。落ちてないかだけ意識しといてくれない？　もし見つけてくれたら、いいものあげるからさ。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1110,
         "description": "n/a",
         "originalText": "There used to be a workin' elevator that would take you down there. It's still there next to the Hangin' Rat, down in the caves, but it ain't workin' anymore.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1114,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_toldAboutMutagentTanks",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 1115,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.critQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1120,
         "description": "n/a",
         "originalText": "They are harmless little critters; quite tasty if cooked properly too. You'll generally find them near lakes and other wet caves 'cause that's where their favorite food, lake mushroom, grows.",
-        "translatedText": "小さくておとなしい動物で、肉はちゃんと調理すればすごくうまい。生息地は湖とか湧き水のある洞窟だね。そういう場所では鉱物のキノコが生えやすい。"
+        "translatedText": "小さくておとなしい動物で、肉はちゃんと調理すればすごくうまい。生息地は湖とか湧き水のある洞窟だね。そういう場所では鉱物のキノコが生えやすい。",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 1124,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.critQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 1125,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.critQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1130,
         "description": "n/a",
         "originalText": "They're probably the smallest of the big insects. They are aggressive and will attack you if you come close, but they are not that dangerous. Usually you can just stomp them out or smash them with a crowbar or something.",
-        "translatedText": "巨大昆虫の中では最小の種だろうね。すごく好戦的で、近づけば襲ってくるけど、そんなに危険じゃない。踏めば死ぬし、バールか何かを持っていれば簡単に叩き潰せるんじゃないかな。"
+        "translatedText": "巨大昆虫の中では最小の種だろうね。すごく好戦的で、近づけば襲ってくるけど、そんなに危険じゃない。踏めば死ぬし、バールか何かを持っていれば簡単に叩き潰せるんじゃないかな。",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 1134,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.critQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 1135,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.critQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1140,
         "description": "n/a",
         "originalText": "Rathounds are ugly, smelly, mangy, disease ridden dog-sized rats. You can find them anywhere and if you can't find them somewhere, know that they'll get there too eventually. ",
-        "translatedText": "::Rathound::というのは、汚くて、臭くて、不潔で、病気を媒介する、犬くらいに巨大化したネズミさ。どこにでもいるし、仮にいない場所を見つけたとしても、多分住み着くのは時間の問題だろうね。それほどに数が多い。"
+        "translatedText": "::Rathound::というのは、汚くて、臭くて、不潔で、病気を媒介する、犬くらいに巨大化したネズミさ。どこにでもいるし、仮にいない場所を見つけたとしても、多分住み着くのは時間の問題だろうね。それほどに数が多い。",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 1144,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.critQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 1145,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.critQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1150,
         "description": "n/a",
         "originalText": "Now that's a critter you just want to steer clear of.",
-        "translatedText": "あいつらは……君がこの探索で避けた方がいい生物だね。"
+        "translatedText": "あいつらは……君がこの探索で避けた方がいい生物だね。",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 1154,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.critQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 1155,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.critQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1160,
         "description": "n/a",
         "originalText": "Vile, awful insects that crawl around them cave walls, all quiet and sneaky. They surprise their victims by injectin' them with a good, healthy dose of paralyzin' venom, then retreat to the shadows until the poison makes you stiff as a rail. And then they eat you!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 1164,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.critQ",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1168,
         "description": "n/a",
         "originalText": "Yeah?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1174,
         "description": "n/a",
         "originalText": "Are they dangerous?",
-        "translatedText": "危険な奴らなのか？"
+        "translatedText": "危険な奴らなのか？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1178,
         "description": "n/a",
         "originalText": "You mean like: Faceless, Faceless, Faceless...?",
-        "translatedText": "こういう風にか？　Faceless、Faceless、Faceless……"
+        "translatedText": "こういう風にか？　Faceless、Faceless、Faceless……",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1182,
         "description": "n/a",
         "originalText": "Ok, thanks for the info.",
-        "translatedText": "情報をありがとう。"
+        "translatedText": "情報をありがとう。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1191,
         "description": "n/a",
         "originalText": "::He smiles.:: Thank you, youngster. That watch has sentimental value you know.\r\n\r\nFrom now on you're gettin' only the best deals for whatever item I scavenge.",
-        "translatedText": "ありがとう、若人よ。この時計には思い入れがあるんだよ。\r\n\r\nこれから君には集めた中で一番いい物資を売ると約束するよ。"
+        "translatedText": "ありがとう、若人よ。この時計には思い入れがあるんだよ。\r\n\r\nこれから君には集めた中で一番いい物資を売ると約束するよ。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1200,
         "description": "n/a",
         "originalText": "Here you go. May it serve you well.",
-        "translatedText": "はいどうぞ。役に立つといいんだけど。"
+        "translatedText": "はいどうぞ。役に立つといいんだけど。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1207,
         "description": "n/a",
         "originalText": "A wise decision. Here you go.",
-        "translatedText": "賢い選択だ、どうぞ。"
+        "translatedText": "賢い選択だ、どうぞ。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1214,
         "description": "n/a",
         "originalText": "You're in luck then. May they serve you for many miles.",
-        "translatedText": "運がよかったね、このブーツはかなり長持ちするはずだ。"
+        "translatedText": "運がよかったね、このブーツはかなり長持ちするはずだ。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1217,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.whatAllJustKidding",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1220,
         "description": "n/a",
         "originalText": "What now!?",
-        "translatedText": "なんだって！？"
+        "translatedText": "なんだって！？",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1232,
         "description": "n/a",
         "originalText": "::His face darkens.:: Get out of my sight!",
-        "translatedText": "::彼の表情が陰鬱に変わる。::二度とワシの前に姿を現すな！"
+        "translatedText": "::彼の表情が陰鬱に変わる。::二度とワシの前に姿を現すな！",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1242,
         "description": "n/a",
         "originalText": "You mean like this one?",
-        "translatedText": "もしかしてこれのことか？"
+        "translatedText": "もしかしてこれのことか？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1249,
         "description": "n/a",
         "originalText": "Metal detectors on! I'll have your watch back in no time.",
-        "translatedText": "よし、自分は人間金属探知機だ！　すぐに時計を見つけてくるよ。"
+        "translatedText": "よし、自分は人間金属探知機だ！　すぐに時計を見つけてくるよ。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1256,
         "description": "n/a",
         "originalText": "I'll keep a look out, but I can't promise anything.",
-        "translatedText": "わかった、注意はしよう。だが約束はできない。"
+        "translatedText": "わかった、注意はしよう。だが約束はできない。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1262,
         "description": "n/a",
         "originalText": "Sorry but I've got more important things to do than look for your watch.",
-        "translatedText": "すまない、時計探しよりもっと大事な仕事がたくさんあるんだ。"
+        "translatedText": "すまない、時計探しよりもっと大事な仕事がたくさんあるんだ。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1266,
         "description": "n/a",
         "originalText": "Anyway, I took a ride down and soon enough I arrived to an old ruined Biocorp compound that was built inside a series of large caverns.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1272,
         "description": "n/a",
         "originalText": "They can be hard to hunt down sometimes because they are fast little buggers and can crawl through small crevices you wouldn't think they would ever fit in.",
-        "translatedText": "ただ小さくてすばしっこいし、信じられないほど狭い隙間を通れたりするから、捕まえるのに苦労することもあるね。"
+        "translatedText": "ただ小さくてすばしっこいし、信じられないほど狭い隙間を通れたりするから、捕まえるのに苦労することもあるね。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1278,
         "description": "n/a",
         "originalText": "Their bites are weak and you should be fine as long as you have *some* armor on you, but they are also acidic so don't let them nibble away on you too long or you will feel the burn.",
-        "translatedText": "噛みつく力も弱いから、怪我をすることもほとんどないんじゃないかな。*何のアーマーも着てない*とかでない限り。あと奴らの唾液には酸が含まれているから、あまり長時間かじられていると肉が焼けるかもね。"
+        "translatedText": "噛みつく力も弱いから、怪我をすることもほとんどないんじゃないかな。*何のアーマーも着てない*とかでない限り。あと奴らの唾液には酸が含まれているから、あまり長時間かじられていると肉が焼けるかもね。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1284,
         "description": "n/a",
         "originalText": "Individually they are not so tough, but they usually move around in packs, sometimes hordes. They are very good pack hunters, so don't let them surround you.",
-        "translatedText": "単独ならそれほど脅威でもないけど、だいたいは群れで行動しているし、その群れが巨大な場合もある。集団での狩りが得意な生物だから、絶対に囲まれないようにね。"
+        "translatedText": "単独ならそれほど脅威でもないけど、だいたいは群れで行動しているし、その群れが巨大な場合もある。集団での狩りが得意な生物だから、絶対に囲まれないようにね。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1290,
         "description": "n/a",
         "originalText": "Scientists call them azure-something, because of their blue stripes, but the rest of us just call them psi beetles or psi bugs for obvious reasons: They are bugs that can sling all kinds of psionics at you.",
-        "translatedText": "確か正式名称は::PSI虫::じゃなくて、なんだったか、::Azure-ナントカ::みたいな名前で、学者はそう呼ぶけど、大体の人はPSI虫って呼んでる。名前の通り、あらゆるPSI攻撃を投げつけてくる生物だ。"
+        "translatedText": "確か正式名称は::PSI虫::じゃなくて、なんだったか、::Azure-ナントカ::みたいな名前で、学者はそう呼ぶけど、大体の人はPSI虫って呼んでる。名前の通り、あらゆるPSI攻撃を投げつけてくる生物だ。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1296,
         "description": "n/a",
         "originalText": "::He chuckles.:: Don't start quakin' yet, 'cause they are rarely seen in close vicinity to SGS, but out there...\r\n\r\nIn case you notice things are gettin' a bit too quiet - be on the lookout.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1302,
         "description": "n/a",
         "originalText": "Very, but they are not always hostile.",
-        "translatedText": "危険なんてもんじゃない力を持っているね。ただ、誰に対しても敵対的ってわけじゃないみたいだ。"
+        "translatedText": "危険なんてもんじゃない力を持っているね。ただ、誰に対しても敵対的ってわけじゃないみたいだ。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1307,
         "description": "n/a",
         "originalText": "Haha, yes, but I think that's just silly.",
-        "translatedText": "はは、それだとただの馬鹿に見えるだけだと思うよ。"
+        "translatedText": "はは、それだとただの馬鹿に見えるだけだと思うよ。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1315,
         "description": "n/a",
         "originalText": "No problem, but you owe me a drink.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RIFPA.RIFPA:IC",
+        "classInfo": "(RIFPA).RIFPA:IC",
         "objectId": 1319,
         "description": "n/a",
         "originalText": "JonasWatch",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 1321,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jonasWatch_state",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".MNLA.MNLA:NN",
+        "classInfo": "(MNLA).MNLA:NN",
         "objectId": 1323,
         "description": "n/a",
         "originalText": "oldJonas",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1325,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_barter",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 1327,
         "description": "n/a",
         "originalText": "JonasWatch",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1329,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldjonas_gaveWatchForFree",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1333,
         "description": "n/a",
         "originalText": "Now, there was something I wanted to ask you.",
-        "translatedText": "それで、質問があるんだった。"
+        "translatedText": "それで、質問があるんだった。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1354,
         "description": "n/a",
         "originalText": "You heard me. It's all or nothing.",
-        "translatedText": "言った通りだ。全部よこせ。"
+        "translatedText": "言った通りだ。全部よこせ。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1359,
         "description": "n/a",
         "originalText": "::[Mercantile]:: Well it's only fair. This is a pretty good watch and what things do you offer me in return: an old rusty submachine gun, pair of worn out boots or health hypos - which I have plenty of anyways.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1364,
         "description": "n/a",
         "originalText": "Just kidding. What were my choices again?",
-        "translatedText": "冗談だよ。で、何があるんだっけ？"
+        "translatedText": "冗談だよ。で、何があるんだっけ？",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 1366,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jonasWatch_state",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".MNLA.MNLA:NN",
+        "classInfo": "(MNLA).MNLA:NN",
         "objectId": 1368,
         "description": "n/a",
         "originalText": "oldJonas",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 1370,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_watchConflict",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".C34.C34:QN",
+        "classInfo": "(C34).C34:QN",
         "objectId": 1372,
         "description": "n/a",
         "originalText": "JonasWatch",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1375,
         "description": "n/a",
         "originalText": "See you around, old man.",
-        "translatedText": "じゃあな、爺さん。"
+        "translatedText": "じゃあな、爺さん。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1378,
         "description": "n/a",
         "originalText": "::Leave without saying a word.::",
-        "translatedText": "::無言で去る::"
+        "translatedText": "::無言で去る::",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 1379,
         "description": "n/a",
         "originalText": "JonasWatch",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 1381,
         "description": "n/a",
         "originalText": "JonasWatch",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1385,
         "description": "n/a",
         "originalText": "I'm not gettin' my hopes up, but good huntin'.",
-        "translatedText": "そんなに期待はしてないけど、まあお仕事頑張ってね。"
+        "translatedText": "そんなに期待はしてないけど、まあお仕事頑張ってね。",
+        "ignore": false
     },
     {
-        "classInfo": ".SQA.BA:N",
+        "classInfo": "(SQA).BA:N",
         "objectId": 1388,
         "description": "n/a",
         "originalText": "Start quest",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 1389,
         "description": "n/a",
         "originalText": "JonasWatch",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.BA:N",
+        "classInfo": "(SIFV).BA:N",
         "objectId": 1390,
         "description": "n/a",
         "originalText": "Quest state",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 1391,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jonasWatch_state",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".MNLA.BA:N",
+        "classInfo": "(MNLA).BA:N",
         "objectId": 1392,
         "description": "n/a",
         "originalText": "Modify affection",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MNLA.MNLA:NN",
+        "classInfo": "(MNLA).MNLA:NN",
         "objectId": 1393,
         "description": "n/a",
         "originalText": "oldJonas",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1397,
         "description": "n/a",
         "originalText": "That's all I ask.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SQA.BA:N",
+        "classInfo": "(SQA).BA:N",
         "objectId": 1400,
         "description": "n/a",
         "originalText": "Start quest",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 1401,
         "description": "n/a",
         "originalText": "JonasWatch",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.BA:N",
+        "classInfo": "(SIFV).BA:N",
         "objectId": 1402,
         "description": "n/a",
         "originalText": "Set quest state",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 1403,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jonasWatch_state",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".MNLA.BA:N",
+        "classInfo": "(MNLA).BA:N",
         "objectId": 1404,
         "description": "n/a",
         "originalText": "Set affection",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MNLA.MNLA:NN",
+        "classInfo": "(MNLA).MNLA:NN",
         "objectId": 1405,
         "description": "n/a",
         "originalText": "oldJonas",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1409,
         "description": "n/a",
         "originalText": "::Sighs a bit.:: I suppose you do.",
-        "translatedText": "::(微かなためいき)::まあ、そうだろうね。"
+        "translatedText": "::(微かなためいき)::まあ、そうだろうね。",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 1413,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jonasWatch_state",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".MNLA.MNLA:NN",
+        "classInfo": "(MNLA).MNLA:NN",
         "objectId": 1415,
         "description": "n/a",
         "originalText": "oldJonas",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1419,
         "description": "n/a",
         "originalText": "For days I explored it, avoidin' burrowers, slimes, and other mutated monsters too horrible to describe. Grabbing all the valuable doohickeys that I could fit in my backpack.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1425,
         "description": "n/a",
         "originalText": "If you're looking to catch or kill one, best tactic is to hide near a patch of lake mushrooms and ambush them when they come to feed.",
-        "translatedText": "Cave Hopper狩りをしたいなら一番いいのは、キノコのそばで隠れて、奴らが食べに来たところを奇襲することだね。"
+        "translatedText": "Cave Hopper狩りをしたいなら一番いいのは、キノコのそばで隠れて、奴らが食べに来たところを奇襲することだね。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1431,
         "description": "n/a",
         "originalText": "If you are in a pinch, throw flares, they are deathly afraid of fire.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1437,
         "description": "n/a",
         "originalText": "If you bump into one, you might be able to take it, but it'll literally give you a headache.",
-        "translatedText": "まあ、1体ならなんとか対処できるだろう。けど奴と戦わされるのは頭が痛い話だ。文字通りの意味でね。"
+        "translatedText": "まあ、1体ならなんとか対処できるだろう。けど奴と戦わされるのは頭が痛い話だ。文字通りの意味でね。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1442,
         "description": "n/a",
         "originalText": "From my experience it's the smaller groups or individual Tunnelers that you should be most wary of. Larger groups generally leave other Underrail folks alone as long as they ain't botherin' them.",
-        "translatedText": "一番気をつけた方がいいのは小規模なTunnelerの集団だろうね。もっとデカい規模のやつらは邪魔されない限り特に何もしてこないらしいから。"
+        "translatedText": "一番気をつけた方がいいのは小規模なTunnelerの集団だろうね。もっとデカい規模のやつらは邪魔されない限り特に何もしてこないらしいから。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1450,
         "description": "n/a",
         "originalText": "Are they dangerous?",
-        "translatedText": "危険な奴らなのか？"
+        "translatedText": "危険な奴らなのか？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1454,
         "description": "n/a",
         "originalText": "Ok, thanks for the info.",
-        "translatedText": "情報をありがとう。"
+        "translatedText": "情報をありがとう。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1458,
         "description": "n/a",
         "originalText": "Sure, youngster.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 1462,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jonasWatch_state",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".MNLA.MNLA:NN",
+        "classInfo": "(MNLA).MNLA:NN",
         "objectId": 1464,
         "description": "n/a",
         "originalText": "oldJonas",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RIFPA.RIFPA:IC",
+        "classInfo": "(RIFPA).RIFPA:IC",
         "objectId": 1466,
         "description": "n/a",
         "originalText": "JonasWatch",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 1468,
         "description": "n/a",
         "originalText": "JonasWatch",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1486,
         "description": "n/a",
         "originalText": "::His face darkens.:: Then it's gonna be nothin'! Get out of my sight.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1499,
         "description": "n/a",
         "originalText": "You drive a hard bargain, $(context.player.Name). ::He sighs.:: Well, alright, I guess I don't have much of a choice. Here you go.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1505,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.whatAllJustKidding",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1509,
         "description": "n/a",
         "originalText": "Should've seen me back in those days. I was at the top of my game.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1515,
         "description": "n/a",
         "originalText": "If you run into two of them, you better start retreatin' while you can. At least they are not that fast, so you should be able to evade them.",
-        "translatedText": "もし2匹以上に出会ったら、撤退できるうちに撤退した方がいい。奴らの足は少なくとも早くはないから、逃げ切ることはできるはずだ。"
+        "translatedText": "もし2匹以上に出会ったら、撤退できるうちに撤退した方がいい。奴らの足は少なくとも早くはないから、逃げ切ることはできるはずだ。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1521,
         "description": "n/a",
         "originalText": "So you've met some personally?",
-        "translatedText": "実際に見たことがある？"
+        "translatedText": "実際に見たことがある？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1525,
         "description": "n/a",
         "originalText": "Ok, thanks for the info.",
-        "translatedText": "情報をありがとう。"
+        "translatedText": "情報をありがとう。",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 1530,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jonasWatch_state",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".MNLA.MNLA:NN",
+        "classInfo": "(MNLA).MNLA:NN",
         "objectId": 1532,
         "description": "n/a",
         "originalText": "oldJonas",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 1534,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_watchConflict",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".C34.C34:QN",
+        "classInfo": "(C34).C34:QN",
         "objectId": 1540,
         "description": "n/a",
         "originalText": "JonasWatch",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 1542,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jonasWatch_state",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".MNLA.MNLA:NN",
+        "classInfo": "(MNLA).MNLA:NN",
         "objectId": 1544,
         "description": "n/a",
         "originalText": "oldJonas",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RIFPA.RIFPA:IC",
+        "classInfo": "(RIFPA).RIFPA:IC",
         "objectId": 1548,
         "description": "n/a",
         "originalText": "JonasWatch",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 1550,
         "description": "n/a",
         "originalText": "JonasWatch",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1554,
         "description": "n/a",
         "originalText": "One day I went very far into the facility, farther than I've ever been before. And, as I mentioned, I got to the mutagen tanks. The *real* ones.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1560,
         "description": "n/a",
         "originalText": "If you run into three, it's probably already too late.",
-        "translatedText": "3匹以上に出会ったら……うん、それはもう手遅れだろうね。"
+        "translatedText": "3匹以上に出会ったら……うん、それはもう手遅れだろうね。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1565,
         "description": "n/a",
         "originalText": "Don't think there's much to this underground world I haven't seen yet, but that's a story for another time.",
-        "translatedText": "この地下世界で遭遇したことがないものなんてほとんどないよ。まあ、その話はまたにしよう。"
+        "translatedText": "この地下世界で遭遇したことがないものなんてほとんどないよ。まあ、その話はまたにしよう。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1585,
         "description": "n/a",
         "originalText": "And they are not just a myth as some say, they are *very* real. Bunch of big silos connected all about the place with large pipes. They were empty though. You could even walk inside some of them on account of them being broken open.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1591,
         "description": "n/a",
         "originalText": "You see, the weird thing is, not only do they hit you harder when they are in a group, they also start throwin' crazier and crazier stuff your way the more of them join the fight. And if there's also a goliath around, then you're in psionic hell.",
-        "translatedText": "これ大事なんだけど、なぜだか、奴らは数が増えるほどPSIの威力が強くなっていくけど、同時に数が増えるほどPSIの*種類*も増えて、より厄介な攻撃をしてくるようなんだ。もし::Goliath::がいたら、PSI地獄を味わえるだろうね。"
+        "translatedText": "これ大事なんだけど、なぜだか、奴らは数が増えるほどPSIの威力が強くなっていくけど、同時に数が増えるほどPSIの*種類*も増えて、より厄介な攻撃をしてくるようなんだ。もし::Goliath::がいたら、PSI地獄を味わえるだろうね。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1597,
         "description": "n/a",
         "originalText": "Dang it, old man, you always hold back on the important parts.",
-        "translatedText": "クソ、じいさん、あんたいつも一番大事なところを話す前に切り上げるな。"
+        "translatedText": "クソ、じいさん、あんたいつも一番大事なところを話す前に切り上げるな。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1601,
         "description": "n/a",
         "originalText": "Ok, thanks for the info.",
-        "translatedText": "情報をありがとう。"
+        "translatedText": "情報をありがとう。",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>MI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>MI#-).LIDP:P",
         "objectId": 1602,
         "description": "n/a",
         "originalText": "consumables\\medicine\\healthhypo",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1609,
         "description": "n/a",
         "originalText": "I was lookin' around the place when I noticed this hatch with a big ol' biohazard sign on it. Now, I've seen these before down there so I didn' think much about it before I opened it and got down the ladder.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1615,
         "description": "n/a",
         "originalText": "If you absolutely must fight them, try to get close and personal. They are not comfortable with exposing their massive brains to sling psionics while people are near them - not even the goliaths. Instead, they will either try to gain some distance or will just bite you; and their bite is far less dangerous than their psionics. Goliaths have big horns, however, and those can easily go through a man.",
-        "translatedText": "どうしても戦わなければならない状況になったら、出来る限り一体ずつ分断して近接戦を挑むのがいいね。奴らはPSI能力を使う時に脳ミソの殻が開くんだけど、その状態で敵に近寄られるのが嫌いなようなんだ。たとえそいつが::Goliath::だったとしてもね。だから脳ミソが露出した状態で近づくと、攻撃する代わりに距離を取ろうとするか、噛みついてくる。奴らの噛みつきはPSI能力に比べればそんなに厄介じゃない。ただGoliathは巨大な角を持ってるから危険だ。あれは人間の身体くらいは簡単に貫くだろうね。"
+        "translatedText": "どうしても戦わなければならない状況になったら、出来る限り一体ずつ分断して近接戦を挑むのがいいね。奴らはPSI能力を使う時に脳ミソの殻が開くんだけど、その状態で敵に近寄られるのが嫌いなようなんだ。たとえそいつが::Goliath::だったとしてもね。だから脳ミソが露出した状態で近づくと、攻撃する代わりに距離を取ろうとするか、噛みついてくる。奴らの噛みつきはPSI能力に比べればそんなに厄介じゃない。ただGoliathは巨大な角を持ってるから危険だ。あれは人間の身体くらいは簡単に貫くだろうね。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1621,
         "description": "n/a",
         "originalText": "Haha, a good storyteller always leaves his public wantin' for more.",
-        "translatedText": "はは、いい語り手とは、聴衆にもっと聞きたいって思わせられる人のことだからね。"
+        "translatedText": "はは、いい語り手とは、聴衆にもっと聞きたいって思わせられる人のことだからね。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1634,
         "description": "n/a",
         "originalText": "They usually led down to small rooms with nothin' special in them. This time, however, it led me to somethin' that scared the living bejesus out of me.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1642,
         "description": "n/a",
         "originalText": "The psi beetles usually hang around mindshrooms, so if you're in an area where those're plentiful, be on your guard.",
-        "translatedText": "奴らはマインドシュルーム(::Mindshrooms::)というキノコに集まる習性があるから、もし沢山生えている場所を見つけたら、警戒した方がいいね。"
+        "translatedText": "奴らはマインドシュルーム(::Mindshrooms::)というキノコに集まる習性があるから、もし沢山生えている場所を見つけたら、警戒した方がいいね。",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>MI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>MI#-).LIDP:P",
         "objectId": 1645,
         "description": "n/a",
         "originalText": "consumables\\medicine\\healthhypo",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1649,
         "description": "n/a",
         "originalText": "What was it?!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1653,
         "description": "n/a",
         "originalText": "::Listen intently.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1657,
         "description": "n/a",
         "originalText": "I...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1662,
         "description": "n/a",
         "originalText": "I don't actually remember what I saw there, though.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1669,
         "description": "n/a",
         "originalText": "I have no idea.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1678,
         "description": "n/a",
         "originalText": "::[Intelligence]:: The trauma made you forget?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1682,
         "description": "n/a",
         "originalText": "...What?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1687,
         "description": "n/a",
         "originalText": "I guess so, and I'm glad for it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1693,
         "description": "n/a",
         "originalText": "I don't remember what I saw there.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1699,
         "description": "n/a",
         "originalText": "The next thing I knew I was runnin' back to the elevator. I never went back down there again.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1715,
         "description": "n/a",
         "originalText": "The thing you saw was probably Tchort, a mutated giant pile of flesh with one big eyeball and tentacles, claiming to be a god.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1719,
         "description": "n/a",
         "originalText": "That's one crazy story, old geezer.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1723,
         "description": "n/a",
         "originalText": "An interesting story, though I expected more.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1727,
         "description": "n/a",
         "originalText": "That's one lame story, old geezer.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1728,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_TchortDefeated",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1733,
         "description": "n/a",
         "originalText": "::You can see Jonas going through a whole array of expressions, from dismissiveness, through surprise, fear, and confusion, and finally settling on something that can only be interpreted as \"deeply disturbed.\"::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1739,
         "description": "n/a",
         "originalText": "But it's all true.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1745,
         "description": "n/a",
         "originalText": "::He shrugs.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1751,
         "description": "n/a",
         "originalText": "Meh, you wouldn't be sayin' that if it happened to you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1756,
         "description": "n/a",
         "originalText": "I think I need another drink.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1760,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_oldJonas_toldHimAboutTchort",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

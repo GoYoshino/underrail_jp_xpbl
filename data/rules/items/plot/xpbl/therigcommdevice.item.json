@@ -1,51 +1,109 @@
 [
     {
-        "className": "TI",
+        "classInfo": "(TI).I:C",
         "objectId": 3,
         "description": "n/a",
         "originalText": "plot.xpbl_theRigCommDevice",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "TI",
+        "classInfo": "(TI).I:N",
         "objectId": 4,
         "description": "n/a",
         "originalText": "The Rig Comm Device",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "TI",
+        "classInfo": "(TI).I:D",
         "objectId": 6,
         "description": "n/a",
         "originalText": "It's a Coretech CT R2WP-4 two-way, four-channel, waterproof radio. As the preferred communication device of Underrail ferrymen and jetters it has earned itself the nickname floatie-talkie due to its useful inability to sink. This one has the Black Eel insignia on the back side.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "TI",
+        "classInfo": "(TI).I:VM",
         "objectId": 7,
         "description": "n/a",
         "originalText": "xpbl_Plot.44",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "CR",
+        "classInfo": "(CR).CR:CFTN",
         "objectId": 17,
         "description": "n/a",
         "originalText": "startInterfacing",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "P",
+        "classInfo": "(P).P:N",
         "objectId": 18,
         "description": "n/a",
         "originalText": "InterfaceActorId",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "P",
+        "classInfo": "(P).P:V",
         "objectId": 19,
         "description": "n/a",
         "originalText": "interface",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:N",
+        "objectId": 20,
+        "description": "n/a",
+        "originalText": "InterfaceActorName",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:V",
+        "objectId": 21,
+        "description": "n/a",
+        "originalText": "Rig Comm",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:N",
+        "objectId": 22,
+        "description": "n/a",
+        "originalText": "InterfaceCommandText",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:V",
+        "objectId": 23,
+        "description": "n/a",
+        "originalText": "Activate the device.",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:N",
+        "objectId": 24,
+        "description": "n/a",
+        "originalText": "InterfaceDialog",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:V",
+        "objectId": 25,
+        "description": "n/a",
+        "originalText": "interfacing\\xpbl\\rig_comm",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "jsonVersion": "0.3"
     }
 ]

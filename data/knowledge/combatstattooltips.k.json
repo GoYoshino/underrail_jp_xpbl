@@ -1,800 +1,860 @@
 [
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Key",
         "objectId": 3,
-        "description": "n/a",
-        "originalText": "HP",
-        "translatedText": ""
+        "description": "key='health'",
+        "originalText": "health",
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Value",
         "objectId": 4,
         "description": "n/a",
         "originalText": "Shows current and maximum health points. When your current health points reach zero, you die.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Key",
         "objectId": 5,
-        "description": "n/a",
+        "description": "key='healingeffectiveness'",
         "originalText": "healingeffectiveness",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Value",
         "objectId": 6,
         "description": "n/a",
         "originalText": "Shows the number by which any incoming healing will be modified.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Key",
         "objectId": 7,
-        "description": "n/a",
+        "description": "key='shield'",
         "originalText": "shield",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Value",
         "objectId": 8,
         "description": "n/a",
         "originalText": "Shows current and maximum shield points. Whenever you're hit, the shield will absorb certain amount of damage depending on the impact speed of the attack as long as you have shield points left. Shield will also slowly deplete on their own while turned on.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:3:Key",
         "objectId": 9,
-        "description": "n/a",
+        "description": "key='psi'",
         "originalText": "psi",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:3:Value",
         "objectId": 10,
         "description": "n/a",
         "originalText": "Shows current and maximum psi points, as well as psi regeneration per turn. Psi is used to invoke psionic abilities.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:4:Key",
         "objectId": 11,
-        "description": "n/a",
+        "description": "key='psireserve'",
         "originalText": "psireserve",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:4:Value",
         "objectId": 12,
         "description": "n/a",
         "originalText": "Shows current and maximum psi point reserves. These points are used to naturally regenerate regular psi points over time.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:5:Key",
         "objectId": 13,
-        "description": "n/a",
+        "description": "key='dodge'",
         "originalText": "dodge",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:5:Value",
         "objectId": 14,
         "description": "n/a",
         "originalText": "Increases your chance to avoid melee attacks.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:6:Key",
         "objectId": 15,
-        "description": "n/a",
+        "description": "key='evasion'",
         "originalText": "evasion",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:6:Value",
         "objectId": 16,
         "description": "n/a",
         "originalText": "Increases your chance to avoid ranged weapon attacks and also decreases the damage taken from area of effect attacks.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:7:Key",
         "objectId": 17,
-        "description": "n/a",
+        "description": "key='fortitude'",
         "originalText": "fortitude",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:7:Value",
         "objectId": 18,
         "description": "n/a",
         "originalText": "Increases the chance to resist some negative status effects, such as stun and incapacitation, caused by direct physical trauma. Also increases poison resistance.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:8:Key",
         "objectId": 19,
-        "description": "n/a",
+        "description": "key='resolve'",
         "originalText": "resolve",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:8:Value",
         "objectId": 20,
         "description": "n/a",
         "originalText": "Increases the chance to resist some negative status effects, such as stun and incapacitation, caused by mental stress and also reduces damage or duration of certain psionic attacks that target the mind directly.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:9:Key",
         "objectId": 21,
-        "description": "n/a",
+        "description": "key='togetweaponcritchancemod'",
         "originalText": "togetweaponcritchancemod",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:9:Value",
         "objectId": 22,
         "description": "n/a",
         "originalText": "Modifies the chance you'll get critically hit with weapons and unarmed attacks.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:10:Key",
         "objectId": 23,
-        "description": "n/a",
+        "description": "key='togetpsicritchancemod'",
         "originalText": "togetpsicritchancemod",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:10:Value",
         "objectId": 24,
         "description": "n/a",
         "originalText": "Modifies the chance you'll get critically hit with psi abilities.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:11:Key",
         "objectId": 25,
-        "description": "n/a",
+        "description": "key='armorpenalty'",
         "originalText": "armorpenalty",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:11:Value",
         "objectId": 26,
         "description": "n/a",
         "originalText": "Reduces dodge, evasion, stealth and movement points.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:12:Key",
         "objectId": 27,
-        "description": "n/a",
+        "description": "key='shieldcapacity'",
         "originalText": "shieldcapacity",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:12:Value",
         "objectId": 28,
         "description": "n/a",
         "originalText": "The total amount of damage the shield can absorb when fully charged.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:13:Key",
         "objectId": 29,
-        "description": "n/a",
+        "description": "key='shieldingdescription'",
         "originalText": "shieldingdescription",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:13:Value",
         "objectId": 30,
         "description": "n/a",
         "originalText": "Keep in mind that certain attacks can ignore a percentage of the shielding amount, or even ignore the shielding altogether.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:14:Key",
         "objectId": 31,
-        "description": "n/a",
+        "description": "key='shieldingverylow'",
         "originalText": "shieldingverylow",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:14:Value",
         "objectId": 32,
         "description": "n/a",
         "originalText": "Maximum amount of damage that the shield can absorb per attack from very low impact speed attacks (such as melee weapon attacks).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:15:Key",
         "objectId": 33,
-        "description": "n/a",
+        "description": "key='shieldinglow'",
         "originalText": "shieldinglow",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:15:Value",
         "objectId": 34,
         "description": "n/a",
         "originalText": "Maximum amount of damage that the shield can absorb per attack from low impact speed attacks (such as crossbow bolts).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:16:Key",
         "objectId": 35,
-        "description": "n/a",
+        "description": "key='shieldingmedium'",
         "originalText": "shieldingmedium",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:16:Value",
         "objectId": 36,
         "description": "n/a",
         "originalText": "Maximum amount of damage that the shield can absorb per attack from medium impact speed attacks (such as regular firearms).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:17:Key",
         "objectId": 37,
-        "description": "n/a",
+        "description": "key='shieldinghigh'",
         "originalText": "shieldinghigh",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:17:Value",
         "objectId": 38,
         "description": "n/a",
         "originalText": "Maximum amount of damage that the shield can absorb per attack from high impact speed attacks (such as sniper rifles).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:18:Key",
         "objectId": 39,
-        "description": "n/a",
+        "description": "key='shieldingveryhigh'",
         "originalText": "shieldingveryhigh",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:18:Value",
         "objectId": 40,
         "description": "n/a",
         "originalText": "Maximum amount of damage that the shield can absorb per attack from very high impact speed attacks (such as energy weapons).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:19:Key",
         "objectId": 41,
-        "description": "n/a",
+        "description": "key='resistancedescription'",
         "originalText": "resistancedescription",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:19:Value",
         "objectId": 42,
         "description": "n/a",
         "originalText": "The armor either absorbs the amount indicated by the percentage OR the flat number, whichever will result in more damage being absorbed. Keep in mind that certain damages (such as poison or direct mind damage, completely ignore armor).\r\n\r\nThe number in the brackets is the percentage by which the damage that goes through the shield and the resistance is modified.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:20:Key",
         "objectId": 43,
-        "description": "n/a",
+        "description": "key='resistancemechanical'",
         "originalText": "resistancemechanical",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:20:Value",
         "objectId": 44,
         "description": "n/a",
         "originalText": "The amount of mechanical damage your armor can absorb.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:21:Key",
         "objectId": 45,
-        "description": "n/a",
+        "description": "key='resistanceheat'",
         "originalText": "resistanceheat",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:21:Value",
         "objectId": 46,
         "description": "n/a",
         "originalText": "The amount of heat damage your armor can absorb.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:22:Key",
         "objectId": 47,
-        "description": "n/a",
+        "description": "key='resistancecold'",
         "originalText": "resistancecold",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:22:Value",
         "objectId": 48,
         "description": "n/a",
         "originalText": "The amount of cold damage your armor can absorb.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:23:Key",
         "objectId": 49,
-        "description": "n/a",
+        "description": "key='resistanceelectricity'",
         "originalText": "resistanceelectricity",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:23:Value",
         "objectId": 50,
         "description": "n/a",
         "originalText": "The amount of electrical damage your armor can absorb.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:24:Key",
         "objectId": 51,
-        "description": "n/a",
+        "description": "key='resistanceacid'",
         "originalText": "resistanceacid",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:24:Value",
         "objectId": 52,
         "description": "n/a",
         "originalText": "The amount of acid damage your armor can absorb.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:25:Key",
         "objectId": 53,
-        "description": "n/a",
+        "description": "key='resistanceenergy'",
         "originalText": "resistanceenergy",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:25:Value",
         "objectId": 54,
         "description": "n/a",
         "originalText": "The amount of energy damage your armor can absorb.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:26:Key",
         "objectId": 55,
-        "description": "n/a",
+        "description": "key='resistancebio'",
         "originalText": "resistancebio",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:26:Value",
         "objectId": 56,
         "description": "n/a",
         "originalText": "The amount of bio damage your armor can absorb.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:27:Key",
         "objectId": 57,
-        "description": "n/a",
+        "description": "key='stealth'",
         "originalText": "stealth",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:27:Value",
         "objectId": 58,
         "description": "n/a",
         "originalText": "Indicates how well you can move undetected. The higher your stealth rating is in comparison to enemy's the longer it will take for you to be discovered. If your stealth is much too lower than the detection rating, you will be discovered instantly at maximum range.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:28:Key",
         "objectId": 59,
-        "description": "n/a",
+        "description": "key='detection'",
         "originalText": "detection",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:28:Value",
         "objectId": 60,
         "description": "n/a",
         "originalText": "Indicates how quickly you discover hidden characters.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:29:Key",
         "objectId": 61,
-        "description": "n/a",
+        "description": "key='trapdetection'",
         "originalText": "trapdetection",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:29:Value",
         "objectId": 62,
         "description": "n/a",
         "originalText": "Indicates how well you discover traps. It's derived from your detection rating and traps skill.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:30:Key",
         "objectId": 63,
-        "description": "n/a",
+        "description": "key='weapondamage'",
         "originalText": "weapondamage",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:30:Value",
         "objectId": 64,
         "description": "n/a",
         "originalText": "Current weapon normal attack damage range. Only includes bonuses from skill level and strength (for melee weapons).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:31:Key",
         "objectId": 65,
-        "description": "n/a",
+        "description": "key='weaponactionpointcost'",
         "originalText": "weaponactionpointcost",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:31:Value",
         "objectId": 66,
         "description": "n/a",
         "originalText": "Action points required to perform a normal attack with the current weapon.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:32:Key",
         "objectId": 67,
-        "description": "n/a",
+        "description": "key='weaponimpactspeed'",
         "originalText": "weaponimpactspeed",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:32:Value",
         "objectId": 68,
         "description": "n/a",
         "originalText": "Impact speed of the weapon attack.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:33:Key",
         "objectId": 69,
-        "description": "n/a",
+        "description": "key='weaponcritchance'",
         "originalText": "weaponcritchance",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:33:Value",
         "objectId": 70,
         "description": "n/a",
         "originalText": "Chance to score a critical hit with a normal attack of the current weapon.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:34:Key",
         "objectId": 71,
-        "description": "n/a",
+        "description": "key='weaponcritbonus'",
         "originalText": "weaponcritbonus",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:34:Value",
         "objectId": 72,
         "description": "n/a",
         "originalText": "Damage bonus applied when the current weapon scores a critical hit.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:35:Key",
         "objectId": 73,
-        "description": "n/a",
+        "description": "key='initiative'",
         "originalText": "initiative",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:35:Value",
         "objectId": 74,
         "description": "n/a",
         "originalText": "Influences how quickly you'll get your turn when the combat starts.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:36:Key",
         "objectId": 75,
-        "description": "n/a",
+        "description": "key='weaponmaxrange'",
         "originalText": "weaponmaxrange",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:36:Value",
         "objectId": 76,
         "description": "n/a",
         "originalText": "Maximum range of the current weapon.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:37:Key",
         "objectId": 77,
-        "description": "n/a",
+        "description": "key='weaponoptimalrange'",
         "originalText": "weaponoptimalrange",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:37:Value",
         "objectId": 78,
         "description": "n/a",
         "originalText": "Optimal range of the current weapon. Beyond this point the precision starts dropping more quickly.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:38:Key",
         "objectId": 79,
-        "description": "n/a",
+        "description": "key='metathermicsskill'",
         "originalText": "metathermicsskill",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:38:Value",
         "objectId": 80,
         "description": "n/a",
         "originalText": "Effective skill level when invoking metathermic psionic abilities.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:39:Key",
         "objectId": 81,
-        "description": "n/a",
+        "description": "key='metathermicscritchance'",
         "originalText": "metathermicscritchance",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:39:Value",
         "objectId": 82,
         "description": "n/a",
         "originalText": "Chance to score a critical hit when invoking metathermic psionic abilities.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:40:Key",
         "objectId": 83,
-        "description": "n/a",
+        "description": "key='metathermicscritbonus'",
         "originalText": "metathermicscritbonus",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:40:Value",
         "objectId": 84,
         "description": "n/a",
         "originalText": "Damage bonus applied when you score a critical hit with a metathermic psionic ability.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:41:Key",
         "objectId": 85,
-        "description": "n/a",
+        "description": "key='metathermicspsicost'",
         "originalText": "metathermicspsicost",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:41:Value",
         "objectId": 86,
         "description": "n/a",
         "originalText": "Base psi point cost modifier for metathermic psi abilities.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:42:Key",
         "objectId": 87,
-        "description": "n/a",
+        "description": "key='psychokinesisskill'",
         "originalText": "psychokinesisskill",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:42:Value",
         "objectId": 88,
         "description": "n/a",
         "originalText": "Effective skill level when invoking psychokinetic psionic abilities.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:43:Key",
         "objectId": 89,
-        "description": "n/a",
+        "description": "key='psychokinesiscritchance'",
         "originalText": "psychokinesiscritchance",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:43:Value",
         "objectId": 90,
         "description": "n/a",
         "originalText": "Chance to score a critical hit when invoking psychokinetic psionic abilities.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:44:Key",
         "objectId": 91,
-        "description": "n/a",
+        "description": "key='psychokinesiscritbonus'",
         "originalText": "psychokinesiscritbonus",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:44:Value",
         "objectId": 92,
         "description": "n/a",
         "originalText": "Damage bonus applied when you score a critical hit with a psychokinetic psionic ability.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:45:Key",
         "objectId": 93,
-        "description": "n/a",
+        "description": "key='psychokinesispsicost'",
         "originalText": "psychokinesispsicost",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:45:Value",
         "objectId": 94,
         "description": "n/a",
         "originalText": "Base psi point cost modifier for psychokinetic psi abilities.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:46:Key",
         "objectId": 95,
-        "description": "n/a",
+        "description": "key='thoughtcontrolskill'",
         "originalText": "thoughtcontrolskill",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:46:Value",
         "objectId": 96,
         "description": "n/a",
         "originalText": "Effective skill level when invoking thought control psionic abilities.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:47:Key",
         "objectId": 97,
-        "description": "n/a",
+        "description": "key='thoughtcontrolcritchance'",
         "originalText": "thoughtcontrolcritchance",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:47:Value",
         "objectId": 98,
         "description": "n/a",
         "originalText": "Chance to score a critical hit when invoking thought control psionic abilities.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:48:Key",
         "objectId": 99,
-        "description": "n/a",
+        "description": "key='thoughtcontrolcritbonus'",
         "originalText": "thoughtcontrolcritbonus",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:48:Value",
         "objectId": 100,
         "description": "n/a",
         "originalText": "Damage bonus applied when you score a critical hit with a thought control psionic ability.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:49:Key",
         "objectId": 101,
-        "description": "n/a",
+        "description": "key='thoughtcontrolpsicost'",
         "originalText": "thoughtcontrolpsicost",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:49:Value",
         "objectId": 102,
         "description": "n/a",
         "originalText": "Base psi point cost modifier for thought control psi abilities.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:50:Key",
         "objectId": 103,
-        "description": "n/a",
+        "description": "key='temporalmanipulationskill'",
         "originalText": "temporalmanipulationskill",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:50:Value",
         "objectId": 104,
         "description": "n/a",
         "originalText": "Effective skill level when invoking temporal manipulation psionic abilities.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:51:Key",
         "objectId": 105,
-        "description": "n/a",
+        "description": "key='temporalmanipulationcritchance'",
         "originalText": "temporalmanipulationcritchance",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:51:Value",
         "objectId": 106,
         "description": "n/a",
         "originalText": "Chance to score a critical hit when invoking temporal manipulation psionic abilities.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:52:Key",
         "objectId": 107,
-        "description": "n/a",
+        "description": "key='temporalmanipulationcritbonus'",
         "originalText": "temporalmanipulationcritbonus",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:52:Value",
         "objectId": 108,
         "description": "n/a",
         "originalText": "Damage bonus applied when you score a critical hit with a temporal manipulation psionic ability.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:53:Key",
         "objectId": 109,
-        "description": "n/a",
+        "description": "key='temporalmanipulationpsicost'",
         "originalText": "temporalmanipulationpsicost",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:53:Value",
         "objectId": 110,
         "description": "n/a",
         "originalText": "Base psi point cost modifier for temporal manipulation psi abilities.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:54:Key",
         "objectId": 111,
-        "description": "n/a",
+        "description": "key='specialattackbonusdamage'",
         "originalText": "specialattackbonusdamage",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:54:Value",
         "objectId": 112,
         "description": "n/a",
         "originalText": "Increases the damage done by special weapon or unarmed attacks. This does not affect unconditional special attacks.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:55:Key",
         "objectId": 113,
-        "description": "n/a",
+        "description": "key='actionpoints'",
         "originalText": "actionpoints",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:55:Value",
         "objectId": 114,
         "description": "n/a",
         "originalText": "Number of action points the character has at the beginning of their turn. These points can be used for performing any kind of action, including movement.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:56:Key",
         "objectId": 115,
-        "description": "n/a",
+        "description": "key='movementpoints'",
         "originalText": "movementpoints",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:56:Value",
         "objectId": 116,
         "description": "n/a",
         "originalText": "Number of movement points the character has at the beginning of their turn. These points can only be used for movement.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "jsonVersion": "0.3"
     }
 ]

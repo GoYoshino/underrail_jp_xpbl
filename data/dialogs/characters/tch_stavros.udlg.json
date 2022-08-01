@@ -1,2469 +1,2715 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 62,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 63,
-        "description": "n/a",
-        "originalText": "stavros",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 64,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 68,
         "description": "n/a",
         "originalText": "Out.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 75,
         "description": "n/a",
         "originalText": "::A man wearing an intricately decorated Preservation uniform stands behind the large desk. Immediately, your eyes are drawn to a symbol on his robe - an all-familiar eye surrounded with equidistant tentacles; four in this instance. A hulking guard in the room stands still in silence - silence which consumes the room as His Excellency patiently awaits your salutation.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 86,
         "description": "n/a",
         "originalText": "::Harmost Stavros spits out a torrent of words as soon as you enter his office.:: \r\n\r\nAre you out of your vestigial mind, $(context.player.Name)!? Didn't I specifically instruct you to take extreme care when speaking with Rassophore Prevlic? You are not supposed to upset my men to the point of near-uselessness!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 97,
         "description": "n/a",
         "originalText": "Excellent work, $(context.player.Name). ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 103,
         "description": "n/a",
         "originalText": "Tchort is evolution, $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 106,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_expelled",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 107,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 109,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 114,
         "description": "n/a",
         "originalText": "::Place your hand on your chest and bow down slightly.:: Tchort is Evolution, Your Excellency.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 118,
         "description": "n/a",
         "originalText": "I come straight from the Institute of Tchort, Your Excellency.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 122,
         "description": "n/a",
         "originalText": "I notice you are silent, Your Excellency. I wonder if you can maintain it when start ripping your heart out of your squirming body! ::Attack!::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 123,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_prevlic_traumatized",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 128,
         "description": "n/a",
         "originalText": "::He takes a moment to calm down.:: \r\n\r\nI know you have done a lot since you arrived here, but I would like to make myself clear now, $(context.player.Name), and you better listen carefully: I need everyone in Cytosine Outpost to be as capable and as ready as they can possibly be - and you are stomping all over my efforts. However, precisely because I need *everyone* is the same reason why you will not be punished right now. Should you do anything similar to this again... well...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 134,
         "description": "n/a",
         "originalText": "::He takes a moment to calm down.:: \r\n\r\nI would like to make myself clear now, $(context.player.Name), and you better listen carefully: I need everyone in Cytosine Outpost to be as capable and as ready as they can possibly be - and you are stomping all over my efforts. However, precisely because I need *everyone* is the same reason why you will not be punished right now. Should you do anything similar to this again... well...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 143,
         "description": "n/a",
         "originalText": "The rassophores which you have rescued have made it back to Cytosine Outpost.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 150,
         "description": "n/a",
         "originalText": "The rassophore which you have rescued made it back to Cytosine Outpost. Sadly, the other two captives weren't able to make it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 154,
         "description": "n/a",
         "originalText": "dc_tchortistCaptives",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 156,
         "description": "n/a",
         "originalText": "dc_tchortistCaptives",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 158,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_rescueCaptivesCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 183,
         "description": "n/a",
         "originalText": "::Harmost Stavros answers in a confident, booming voice of a middle-aged man.::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 187,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_regularSalute",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 194,
         "description": "n/a",
         "originalText": "Am I clear enough, $(context.player.Name)?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 201,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_tchortistsEscaped",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 203,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_rescueCaptivesCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 204,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_tchortistsEscaped",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 213,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_tchortistsEscaped",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 219,
         "description": "n/a",
         "originalText": "I think I've proven to be of much assistance since my arrival. I'm going to need supplies and some better equipment if you want me to remain effective.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 224,
         "description": "n/a",
         "originalText": "Can you tell me more about Tchort's minions?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 230,
         "description": "n/a",
         "originalText": "Do you have any tasks for me, Your Excellency?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 235,
         "description": "n/a",
         "originalText": "About those captives...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 241,
         "description": "n/a",
         "originalText": "I'm here for a reconnaissance report.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 245,
         "description": "n/a",
         "originalText": "I've been experiencing this aching sensation in my head ever since I came to this place. Why is that so?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 249,
         "description": "n/a",
         "originalText": "What can you tell me about the Faceless invasion?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 253,
         "description": "n/a",
         "originalText": "What can you tell me about Cytosine Outpost?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 257,
         "description": "n/a",
         "originalText": "What can you tell me about the surrounding areas?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 261,
         "description": "n/a",
         "originalText": "How can I get to Nucleus?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 266,
         "description": "n/a",
         "originalText": "Have you ever seen Tchort?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 271,
         "description": "n/a",
         "originalText": "Why do you think the Faceless invaded half of Underrail at this particular time?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 275,
         "description": "n/a",
         "originalText": "Tchort guide you, Your Excellency.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 279,
         "description": "n/a",
         "originalText": "Goodbye.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 291,
         "description": "n/a",
         "originalText": "Evolution is Tchort. I am Harmost Stavros. Welcome to Cytosine Outpost. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 297,
         "description": "n/a",
         "originalText": "Tchort is Evolution. I've already been informed where you're from. I am Harmost Stavros. Welcome to Cytosine Outpost.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 302,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_rescueCaptivesCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 303,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_ReconCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 307,
         "description": "n/a",
         "originalText": "Yes, Your Excellency.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 311,
         "description": "n/a",
         "originalText": "Crystal clear.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 315,
         "description": "n/a",
         "originalText": "I have had enought of this! Time to show you who's the boss around here! ::Attack!::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 320,
         "description": "n/a",
         "originalText": "No one tells me - the Invictus - what to do! I will raze this place to the ground for your insolence! ::Attack!::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 325,
         "description": "n/a",
         "originalText": "They have armed themselves and are ready to face the Faceless... ::He stops briefly.:: once more.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 332,
         "description": "n/a",
         "originalText": "Despite that, the rassophore is armed and ready to face the Faceless... ::He stops briefly.:: once more.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 340,
         "description": "n/a",
         "originalText": "You are correct about that. And you do seem to find your way around Deep Caverns very well. ::He pauses.:: The storage building right outside my office - the keycode is 778901. I cannot give you ammo or weapons, for we are low ourselves, but there are some thing in that storage which you might find useful. Take anything you wish from it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 345,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_knowMinions",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 349,
         "description": "n/a",
         "originalText": "Certainly. Tchort's minions are the physical manifestation of Tchort's will. To explain: As you already know, Tchort is capable of developing traits most appropriate for the environment it is in, the ones that are most likely to secure its survival. Some of these traits are only expressed once the physical form underwent a complete regeneration cycle; others, however, related to Tchort's mental capacity and will are always present.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 358,
         "description": "n/a",
         "originalText": "You have already helped us enough. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 363,
         "description": "n/a",
         "originalText": "What are you good at doing?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 373,
         "description": "n/a",
         "originalText": "Yes?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 384,
         "description": "n/a",
         "originalText": "There is no need for that now. I have already been told everything I need to know about the Faceless.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 389,
         "description": "n/a",
         "originalText": "I'm listening.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 397,
         "description": "n/a",
         "originalText": "I see. I presume you haven't been prepared for your descent, so I understand why you've been feeling these sensations. It takes some time for Tchort to probe the minds of those who wander into its domain, and the process might feel uncomfortable for the untrained Tchortists such as yourself. However, for *others* - those whom Tchort perceives as threats, or as simply unwanted - for those the effects would be much more severe.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 404,
         "description": "n/a",
         "originalText": "First of all, we haven't had contact with the inbreds in decades, so hearing about their invasion of Core City lifted a few eyebrows in Preservation. When I discussed the matter with Eidein, we came to a decision that it is best if I descend to Deep Caverns with - initially - several more rassophore combat units in order to make sure Cytosine Outpost and Nucleus are well defended.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 411,
         "description": "n/a",
         "originalText": "Its purpose is to provide a base of operations for all Preservation Forces in Deep Caverns, and serves as a connection to the Institute of Tchort building. We are well equipped for the time being, but we cannot afford to be wasteful during this crisis.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 417,
         "description": "n/a",
         "originalText": "The most I can tell you is about the Hollow Earth research complex. Outside of it is mostly Faceless territory now, but there are a few points of interest, like the warehouse block, Caerus residential block and Arke Power Station. Everything else is, to our knowledge, wild territory.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 422,
         "description": "n/a",
         "originalText": "It is to the north, but all entrances are sealed at the moment.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 426,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_knowMinions",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 431,
         "description": "n/a",
         "originalText": "No. Tchort only allows Eidein near it, no one else.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 434,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_toldInvasionStory",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 437,
         "description": "n/a",
         "originalText": "One might argue that they have finally grown strong enough to do so, but there is one little detail which explains it, and had I been aware of it earlier, things would've turned out differently.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 444,
         "description": "n/a",
         "originalText": "Tchort guide you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 447,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_tchortistsEscaped",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 454,
         "description": "n/a",
         "originalText": "Evolution is Tchort. I am Harmost Stavros. I've already been informed where you're from and that you're the one brave enough to free our rassophores from the clutches of the inbreds. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 461,
         "description": "n/a",
         "originalText": "Tchort is evolution. I am Harmost Stavros. I've already been informed that you're the one brave enough to free our rassophores from the clutches of the inbreds. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 464,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_regularSalute",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 468,
         "description": "n/a",
         "originalText": "I'm $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 472,
         "description": "n/a",
         "originalText": "Excellent. Now, tell me what you needed of me?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 477,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_arenaFinished",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 480,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_tchortistsEscaped",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 482,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_tchortistsEscaped",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 484,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc-tch_knowStorageCode",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 485,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_ReconCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 487,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc-tch_knowStorageCode",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 491,
         "description": "n/a",
         "originalText": "778901. Got it. I'll go check it out.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 495,
         "description": "n/a",
         "originalText": "Understood. But I've got a few more questions.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 498,
         "description": "n/a",
         "originalText": "We aren't yet sure when did Tchort develop the ability to manipulate organic matter and mold it into living creatures - it could've been a recent trend, for all we know - and we have only scratched the surface of the exact mechanisms whereby the process is being accomplished. What we do know is that it is an extremely effective device for Tchort's preservation, making it yet another proof of its magnificence.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 503,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_ReconStarted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 504,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_rescueCaptivesCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 509,
         "description": "n/a",
         "originalText": "I had considered sending you on a recon mission, but the rassophores you rescued gave me enough information regarding Faceless positioning, personnel and available equipment.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 516,
         "description": "n/a",
         "originalText": "I had considered sending you on a recon mission, but the rassophore you rescued gave me enough information regarding Faceless positioning, personnel and available equipment.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 522,
         "description": "n/a",
         "originalText": "I am a skilled individual. I can deal with a lot of difficult situations.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 526,
         "description": "n/a",
         "originalText": "Everything.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 530,
         "description": "n/a",
         "originalText": "Cooking and killing! That's the best combo!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 531,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_rescueCaptivesStarted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 532,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_rescueCaptivesCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 537,
         "description": "n/a",
         "originalText": "I'm afraid I wasn't able to rescue the rassophores. They are all dead.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 541,
         "description": "n/a",
         "originalText": "Actually, nothing.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 542,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_ReconStarted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 543,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_ReconCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 544,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_tchortistsEscaped",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 549,
         "description": "n/a",
         "originalText": "Excellent work so far, $(context.player.Name). At least we now have a better idea what we are up against, even if the current situation does not allow us much room to act. The important thing is that they are outside of Hollow Earth, at least for now.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 556,
         "description": "n/a",
         "originalText": "I have been to the Faceless base.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 561,
         "description": "n/a",
         "originalText": "I have scouted the areas outside of Hollow Earth.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 565,
         "description": "n/a",
         "originalText": "I have nothing to report.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 569,
         "description": "n/a",
         "originalText": "Can you tell me more about Tchort?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 573,
         "description": "n/a",
         "originalText": "Actually, I had other questions.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 577,
         "description": "n/a",
         "originalText": "If you were prepared, how did they manage to overwhelm you?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 581,
         "description": "n/a",
         "originalText": "Other than that, there isn't much I can or wish to tell you about Cytosine Outpost.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 598,
         "description": "n/a",
         "originalText": "Sealed?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 603,
         "description": "n/a",
         "originalText": "His death makes everything much more complicated now. But, we will adapt and overcome, as the saying goes. Tchort must be preserved, that is our top priority. We will have to postpone our worries until after we drive the Faceless off.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 609,
         "description": "n/a",
         "originalText": "And I am sure he well come here with reinforcements as soon as possible, as soon as he's able.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 615,
         "description": "n/a",
         "originalText": "The artifact.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 619,
         "description": "n/a",
         "originalText": "What is it?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 620,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_regularSalute",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 624,
         "description": "n/a",
         "originalText": "Sadly, only one rassophore returned. But, it is still better than none, and is a good thing for the morale, if only a bit.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 630,
         "description": "n/a",
         "originalText": "They have all made it back safely and are ready for action.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 637,
         "description": "n/a",
         "originalText": "Pleased to meet you. Now, $(context.player.Name), I would like you to tell me what in Tchort's magnificence is happening at the Institute building?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 645,
         "description": "n/a",
         "originalText": "I'm listening.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 651,
         "description": "n/a",
         "originalText": "Where does Tchort get the organic matter to produce such a number of minions?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 655,
         "description": "n/a",
         "originalText": "I had other questions.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 656,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_tchortistsEscaped",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 658,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_tchortistsEscaped",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 663,
         "description": "n/a",
         "originalText": "My rassophores are demoralized, tired, and some even traumatized by the recent events. On the other hand, you seem rather enthusiastic and capable. I might just have the perfect assignment for you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 669,
         "description": "n/a",
         "originalText": "A bold statement, $(context.player.Name). ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 675,
         "description": "n/a",
         "originalText": "Interesting. Rassophore Jeremy, our best cook was killed recently, but let's ignore that for a moment; I have something else in mind. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 686,
         "description": "n/a",
         "originalText": "Magnificent Tchort, that is sad news. It would've been a great boost to morale had you managed to rescued them, but that is how things are. Well done for trying, $(context.player.Name), but what you just told me cannot leave this room. Am I clear?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 692,
         "description": "n/a",
         "originalText": "::He says nothing.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 708,
         "description": "n/a",
         "originalText": "You have? Excellent work, $(context.player.Name). I am interested in its location, defenses, manpower. Everything you can tell me.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 717,
         "description": "n/a",
         "originalText": "And?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 724,
         "description": "n/a",
         "originalText": "Is this a joke, $(context.player.Name)? Return to me only if you have something useful to say. Am I clear?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 731,
         "description": "n/a",
         "originalText": "Tchort is formless, you know that, but not mindless. It can exert its mental influence over this whole area of Deep Caverns - Cytosine Outpost, whole Hollow Earth and of course Nucleus - and does so by controlling its minions, who follow its will and, in this case, helped us fight the Faceless; you have probably encountered some already, they are everywhere. It is the same ability it uses to speak to Eidein, who is most attuned to Tchort's mind, and understands it the best.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 737,
         "description": "n/a",
         "originalText": "Then ask, $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 743,
         "description": "n/a",
         "originalText": "Sadly, it seems we greatly underestimated their forces. Decades ago Faceless were as far off from being a match for us, as history has shown. Now, they outnumber us not only in armed personnel but in mechanization as well, as their tunneling machines allow such mobility and support that we were unable to match them. Their tactics are - and I'm not glad to admit this - but they proved to be extremely effective.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 749,
         "description": "n/a",
         "originalText": "Tell me about the Hollow Earth complex.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 753,
         "description": "n/a",
         "originalText": "Tell me about the warehouse block.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 757,
         "description": "n/a",
         "originalText": "Tell me about the Caerus Residential Block.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 761,
         "description": "n/a",
         "originalText": "Tell me about Arke Power Station.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 765,
         "description": "n/a",
         "originalText": "Are there any more exits out of Deep Caverns other than Cytosine Outpost elevator?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 769,
         "description": "n/a",
         "originalText": "I'd like to ask you something else.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 772,
         "description": "n/a",
         "originalText": "Yes, the gate leading to Tchort is closed. Thankfully, the Faceless haven't even managed to come anywhere near it, let alone breach it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 777,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stvaros_tellEideinDead",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 780,
         "description": "n/a",
         "originalText": "Artifact? You know about that?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 786,
         "description": "n/a",
         "originalText": "It is some sort of a strange object which was brought down to Deep Caverns just recently.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 790,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_tchortistsEscaped",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 799,
         "description": "n/a",
         "originalText": "Glad to hear so. Anyway, my name is $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 812,
         "description": "n/a",
         "originalText": "It is easily obtainable from local sources: wildlife, fungus and even - but rarely due to their scarcity - plants. As I said, we haven't yet investigated these mechanisms completely, but just imagine the applications if we could-- ::He stops abruptly.:: I won't proceed. There are more important matters to attend to right now, $(context.player.Name). Let's leave these dreams for after we've gotten ourselves safely out this mess.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 818,
         "description": "n/a",
         "originalText": "::He nods.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 824,
         "description": "n/a",
         "originalText": "The situation is, as you are perfectly aware, very grim. We need every man, woman, turret, rifle and bullet if we're going to overcome what fell upon us. But, even all that won't help us unless we have the right information. Knowing the whereabouts of your enemy and planning for his next move can turn the tide of any conflict. So, this is what I need you to do.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 827,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc-flo_captivesDied",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 832,
         "description": "n/a",
         "originalText": "Good work in any case, $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 836,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_rescueCaptivesCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 838,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_rescueCaptivesStarted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 840,
         "description": "n/a",
         "originalText": "dc_tchortistCaptives",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".C34.C34:QN",
+        "classInfo": "(C34).C34:QN",
         "objectId": 842,
         "description": "n/a",
         "originalText": "dc_tchortistCaptives",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 844,
         "description": "n/a",
         "originalText": "dc_tchortistRecon",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 846,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_ReconStarted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 848,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_ReconCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 849,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_tellFirstPartOfReport",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 850,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_flo_seenBase",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 855,
         "description": "n/a",
         "originalText": "It is the only base I was able to find so far. It lies to the far east, behind the warehouse block and is heavily defended by turrets and a large number of troops. Based on what I saw, and which matches what you suspected, it is their main base of operations in the area.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 860,
         "description": "n/a",
         "originalText": "It is the only base I was able to find so far. It lies to the far east, behind the warehouse block and is heavily defended by turrets and a large number of troops. Based on what I saw, and which matches what you suspected, it is their main base of operations in the area. Ehm... it was until I took care of it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 861,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_enteredFacelessTerritory",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 862,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_tellFirstPartOfReport",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 866,
         "description": "n/a",
         "originalText": "The Faceless have numerous heavily-armed patrols just outside of the edge of the complex.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 870,
         "description": "n/a",
         "originalText": "The sole reason why Eidein is the *only* one allowed to enter the Nucleus is because Tchort simply wouldn't let anyone else so close to itself; it is its will, and we must abide. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 874,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_knowMinions",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 878,
         "description": "n/a",
         "originalText": "Simultaneous flanking attacks made sure the outside perimeter was quickly breached. Their initial push might've even allowed them to reach Cytosine Outpost itself, but our minefields were enough to slow them down, allowing our forces to regroup and form another line of defense, which proved effective for a time; however, no matter how many inbreds we culled, their troops just kept receiving reinforcements.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 884,
         "description": "n/a",
         "originalText": "Hollow Earth used to be a secret Biocorp research complex. Scientists specialized in numerous fields worked here, and the vast complex was protected by the most elite soldiers. The area just outside Cytosine Outpost used to be where most of the laboratories were located, now nothing but ruin. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 890,
         "description": "n/a",
         "originalText": "Eight years ago there were two warehouse blocks east of here, currently under Faceless control. However, a cave-in buried one of them, Warehouse Block 1, while leaving Warehouse Block 2 intact.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 895,
         "description": "n/a",
         "originalText": "It is where Biocorp scientists and other personnel resided up until the Hollow Earth Incident. It consists of four large buildings and sits just past the SE3 checkpoint; that's Hollow Earth's south-eastern exit.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 901,
         "description": "n/a",
         "originalText": "It lies to the north of Warehouse Block 2. It is a gas turbine power station that used to power the whole Hollow Earth complex. As you saw on your way here, the complex is dark.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 909,
         "description": "n/a",
         "originalText": "There are two more elevators, but both are out of order.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 917,
         "description": "n/a",
         "originalText": "I'm listening.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 923,
         "description": "n/a",
         "originalText": "Can it be opened?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 927,
         "description": "n/a",
         "originalText": "I heard about it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 931,
         "description": "n/a",
         "originalText": "What can you tell me about this artifact?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 933,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_rescueCaptivesStarted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 935,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_rescueCaptivesCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 937,
         "description": "n/a",
         "originalText": "dc_tchortistCaptives",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 939,
         "description": "n/a",
         "originalText": "dc_tchortistCaptives",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 943,
         "description": "n/a",
         "originalText": "The Faceless attacked the Institute, but, while it might've been sudden, it was nothing our brave brothers and sisters couldn't handle. The Faceless advance has been halted, for now.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 947,
         "description": "n/a",
         "originalText": "The Faceless launched a full-scale attack on the Institute. Battle was still raging during the time of my descent, so I'm unsure of its outcome.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 952,
         "description": "n/a",
         "originalText": "The Faceless attack on the Institute of Tchort was devastating. They left no one alive.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 956,
         "description": "n/a",
         "originalText": "Hell.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 960,
         "description": "n/a",
         "originalText": "I need you to move out of Cytosine Outpost as soon as you are able and perform reconnaissance of the Hollow Earth complex as well as the areas east of it; that is the direction where all major Faceless attacks have come from and I would presume that they have set up a base of operations from which they are launching these attacks.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 963,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc-flo_killedFaceless",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 966,
         "description": "n/a",
         "originalText": "Excellent work so far, $(context.player.Name). At least we now have a better idea what we are up against, even if current situation does not allow us much room to act. The important thing is that they are outside of Hollow Earth, at least for now.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 970,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc-flo_killedFaceless",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 973,
         "description": "n/a",
         "originalText": "Can you... repeat that last part? You \"took care of it\"?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 981,
         "description": "n/a",
         "originalText": "Just as I suspected, but it doesn't take a good strategist to figure that out. Tchort is what is keeping them away, and I only hope they don't discover a way to shield themselves from its influence. \r\nHave you managed to reach any of their bases yet? That's what interests me the most.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 989,
         "description": "n/a",
         "originalText": "All this shows the magnificence of Tchort: Even in its most vulnerable phase, during its regeneration, it has a way to defend itself, to influence all that is around it. There were traitors in the past who spoke of Tchort as if it is a mere fabrication, and told that a trip to Deep Caverns would only prove their claims. Ironically for them, it proves exactly the opposite - it proves Tchort's magnificence.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 994,
         "description": "n/a",
         "originalText": "A combination of excellent maneuvering and overwhelming numbers meant that eventually they were going to breach our defensive lines. And so they did. They made it to our final defensive position, as you can see by their corpses just beyond the base walls.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1001,
         "description": "n/a",
         "originalText": "Of course, over the years we, Institute of Tchort, have managed to extract useful research data which accelerated our own efforts.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1008,
         "description": "n/a",
         "originalText": "Preservation Forces during the early years of the Institute of Tchort retrieved much of the Warehouse Block 1 supplies, all left over from Biocorp. The other block we've left largely intact, but I have no doubt that the Faceless have scavenged through it by now. Whatever the case, both blocks were loaded with weapons, ammo and various other supplies.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1014,
         "description": "n/a",
         "originalText": "What else can you tell me about it?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1018,
         "description": "n/a",
         "originalText": "How do you get your power?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1022,
         "description": "n/a",
         "originalText": "Has anyone ever been there?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1026,
         "description": "n/a",
         "originalText": "I'd like to ask you about some other location.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1030,
         "description": "n/a",
         "originalText": "Can you tell me where to find them?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1034,
         "description": "n/a",
         "originalText": "That's good enough for me. I'd like to ask you something else now.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1037,
         "description": "n/a",
         "originalText": "Only by Tchort.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1044,
         "description": "n/a",
         "originalText": "Regardless, I believe this object is the reason for everything that had happened starting with Core City invasion up until now. And had I made that connection earlier, we might've been more prepared to deal with the Faceless.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1051,
         "description": "n/a",
         "originalText": "It is a strange polyhedron with even stranger markings; one of the investigators only showed it to me, but I know of its use very little.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1057,
         "description": "n/a",
         "originalText": "Sadly, their attack here was devastating in comparison. What you see here is almost everything left of active Preservation Forces in Deep Caverns.\r\n\r\nI presume Eidein is safe?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1062,
         "description": "n/a",
         "originalText": "::He stops for moment before resuming with an unchanged tone of voice.::\r\n\r\nNo one? Eidein?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1067,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_InstituteBad",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1070,
         "description": "n/a",
         "originalText": "::He pauses.::\r\n\r\nIs it really that grim?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1079,
         "description": "n/a",
         "originalText": "This base - or bases - should be your primary reconnaissance targets if possible. The Battle of the Nucleus, despite happening nearly sixty years ago, taught us that the Faceless are capable of performing brutal cybernetic augmentation procedures on captives in order to turn them into corrupted, mindless war machines. I doubt that doctrine has changed since. If you encounter any captured rassophores - do try and save them from such fate.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1087,
         "description": "n/a",
         "originalText": "There is one more thing I have to report.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1092,
         "description": "n/a",
         "originalText": "Yes. I eliminated the base commander and all his troops. All of them.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1096,
         "description": "n/a",
         "originalText": "I just murdered everyone I could find. It was easy - like skinning a cave hopper.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1098,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_tellFirstPartOfReport",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1103,
         "description": "n/a",
         "originalText": "Indeed, I was able to get close enough to one of their bases.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1107,
         "description": "n/a",
         "originalText": "Not yet, but I am working on it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1112,
         "description": "n/a",
         "originalText": "Wait, didn't Tchort's minions help you fight the Faceless?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1116,
         "description": "n/a",
         "originalText": "How did you drive them off?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1120,
         "description": "n/a",
         "originalText": "Anything else you can tell me about it?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1124,
         "description": "n/a",
         "originalText": "Not much else, I'm afraid, other than the fact that the last time our recon units scouted the buildings they had been infested with coil spiders. It was thirty years ago, but I doubt much has changed.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1129,
         "description": "n/a",
         "originalText": "We have our own generators. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1136,
         "description": "n/a",
         "originalText": "Long ago, before I was even born. Eidein's Library contained several rassophore reports regarding their recon of the area. As far as I remember, the plant was heavily defended by automated security systems at the time, preventing further advance. Our forces managed to retreat without casualties, luckily, but no further attempts were made at penetrating the defenses and entering the building.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1142,
         "description": "n/a",
         "originalText": "::He nods.:: One is to the north of here, just past the vehicle park; you passed through the park on your way here. The other is south-west from Caerus. The first one collapsed decades ago, while the second remains mostly intact.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1150,
         "description": "n/a",
         "originalText": "You mean, Tchort can control the gate?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1154,
         "description": "n/a",
         "originalText": "How so?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1166,
         "description": "n/a",
         "originalText": "No one, not even Eidein.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1171,
         "description": "n/a",
         "originalText": "Everything is destroyed, everyone killed - including Eidein. So yes, I'd say it's grim.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1176,
         "description": "n/a",
         "originalText": "I am asking a lot of you and know that it is a tremendously difficult task, but our options are limited. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1185,
         "description": "n/a",
         "originalText": "Yes?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1192,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_ReconCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 1194,
         "description": "n/a",
         "originalText": "dc_tchortistRecon",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1195,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_flcom_died",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1198,
         "description": "n/a",
         "originalText": "Your words sound almost unreal. Magnificent Tchort! How can one $(#man/woman) be such a force of destruction?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1205,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_flo_seenBase",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1209,
         "description": "n/a",
         "originalText": "Good work so far. Report back when you have more information.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1212,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_knowMinions",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1216,
         "description": "n/a",
         "originalText": "Tchort's minions were one of the reasons we are still alive, as their numbers, if nothing else, matched that of the Faceless. What secured our victory was the fact that the Faceless ultimately couldn't withstand the magnificence of Tchort's mind. I saw the effects myself: Some of them were dropping their weapons and falling to the ground, shaking and rolling until finally coming to eternal rest. Soon after these incidents began to occur, and naturally reduced their combat effectiveness, they retreated.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1222,
         "description": "n/a",
         "originalText": "Not much you'll find immediately useful. This section of the complex is the only location that is under the control of Preservation Forces, and is probably the safest, outside a few shelters scattered throughout the complex which you can use in case the Faceless make another push.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1228,
         "description": "n/a",
         "originalText": "Why not? It seems like an important location to have under one's control.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1232,
         "description": "n/a",
         "originalText": "Have you ever used it?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1235,
         "description": "n/a",
         "originalText": "You can say that. In fact, Tchort's influence is the reason we have successfully resisted all the recent Faceless attacks, even if just barely.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1241,
         "description": "n/a",
         "originalText": "I wasn't aware where the artifact came from. I was only told by the investigators that Eidein ordered it sent to Nucleus. One single bit of information was necessary for me to realize that an object, that technologically advanced, existing in Core City at the time of the Faceless invasion, was as far from a coincidence as it can be possible. \r\n\r\nI wonder why Eidein hasn't made that same connection, but what happened, happened.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1248,
         "description": "n/a",
         "originalText": "I have bad news. Eidein seem to have been their primary target, and, sadly, they managed to reach him and take his life.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1252,
         "description": "n/a",
         "originalText": "I am sad to inform you that Eidein was killed by the Faceless. He was involved in the combat and, despite him fighting the invaders bravely, did not make it out alive.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1256,
         "description": "n/a",
         "originalText": "Don't worry, Eidein is alive and well.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1261,
         "description": "n/a",
         "originalText": "::Harmost Stavros lowers his head slightly.::\r\n\r\nNo...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1265,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_InstituteBad",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 1267,
         "description": "n/a",
         "originalText": "dc_tchortistRecon",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1269,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_ReconStarted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1274,
         "description": "n/a",
         "originalText": "I have already been to one of these bases.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1278,
         "description": "n/a",
         "originalText": "I'm on the job.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1282,
         "description": "n/a",
         "originalText": "I understand everything, Your Excellency.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1286,
         "description": "n/a",
         "originalText": "I have some questions for you before I leave.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1291,
         "description": "n/a",
         "originalText": "I failed to find any captured rassophores.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1296,
         "description": "n/a",
         "originalText": "I have found a few captured rassophores held inside the base, but I haven't found a way to help them out.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1301,
         "description": "n/a",
         "originalText": "I found a few captured rassophores, but sadly I wasn't able to get them out alive.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1305,
         "description": "n/a",
         "originalText": "It was simply a matter of quality over quantity, Your Excellency.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1309,
         "description": "n/a",
         "originalText": "All it took was some skill, some luck, and most importantly - a lot of guts.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1313,
         "description": "n/a",
         "originalText": "You haven't seen anything yet.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1318,
         "description": "n/a",
         "originalText": "This is all I'm going to say: I am Invictus!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1322,
         "description": "n/a",
         "originalText": "They haven't made any advances since then.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1330,
         "description": "n/a",
         "originalText": "Also know that, even though Tchort's minions will not harm Tchortist, as its will dictates, be careful if moving to the north, close to Nucleus, as that is where they are most numerous. In these abnormal conditions, and you being unfamiliar to Tchort, you might risk getting attacked.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1336,
         "description": "n/a",
         "originalText": "We were able to provide power to all critical locations in Deep Caverns even without the power station. Most of our generators are situated in the Nucleus. They are safest there, and that is also where the power is most necessary.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1342,
         "description": "n/a",
         "originalText": "No. We never had the need to, although if I'm not mistaken, many decades ago it was attached to our power grid. As far as I am aware, it leads to Lower Underrail, but I cannot confirm it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1348,
         "description": "n/a",
         "originalText": "What exactly do you mean?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1352,
         "description": "n/a",
         "originalText": "But you do know it came from Core City, you just said it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1356,
         "description": "n/a",
         "originalText": "That is excellent news, $(context.player.Name). The situation was looking very grim up to this point, but now things have changed. Thank you for this excellent news. I will be sure to inform our rassophores of this, maybe it'll help the weak morale.\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1362,
         "description": "n/a",
         "originalText": "::He turns toward the only guard in the room, and their stares meet. Then, he looks directly at you.::\r\n\r\nThe information regarding Eidein's death must *not* leave this room. Are we clear? Morale is already too low for us to further bury it into the ground. If anyone asks you - Eidein is still alive and is resisting the Faceless with the rest of Preservation Forces.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1366,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stvaros_tellEideinDead",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1367,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_flo_seenBase",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1370,
         "description": "n/a",
         "originalText": "Good luck and Tchort guide you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1373,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_flo_foundTchortistCaptives",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1377,
         "description": "n/a",
         "originalText": "You did excellent in any case. It would've been a great boost to morale had you found, and even possibly rescued them, but that is how things are. Well done, $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1380,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_flo_foundTchortistCaptives",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1385,
         "description": "n/a",
         "originalText": "You did? Excellent. In that case, I have another task for you - find a way to get those rassophores out of the clutches of the corrupted. Every man counts, but if you do manage to rescue the captives, a boost in moral will increase our effectiveness even more.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1394,
         "description": "n/a",
         "originalText": "I am nothing short of amazed by your actions. You have tipped the odds in our favor completely. While we are not out of the depths yet, you have demonstrated that the Faceless are not as superior as we had originally thought. Excellent work!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1398,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_arenaFinished",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1400,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_toldInvasionStory",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1404,
         "description": "n/a",
         "originalText": "I have some other questions for you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1407,
         "description": "n/a",
         "originalText": "I realized that far too late once I've spoken to one of the surviving investigators. Magnificent Tchort, had I only paid more attention. We wouldn't have moved everyone to Deep Caverns; Preservation Forces as a single whole could've repelled the Faceless, but we were split.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1414,
         "description": "n/a",
         "originalText": "When can we expect reinforcements? I am perfectly aware the elevator was badly damaged by the Faceless and that it's out of action, but I expect you were sent here with some information, at least?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1422,
         "description": "n/a",
         "originalText": "Again, are we clear on that, $(context.player.Name)?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1429,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_tch_rescueCaptivesStarted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 1431,
         "description": "n/a",
         "originalText": "dc_tchortistCaptives",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1435,
         "description": "n/a",
         "originalText": "Yes, Your Excellency.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1439,
         "description": "n/a",
         "originalText": "Got it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1440,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_flo_foundTchortistCaptives",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 1441,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc-flo_captivesDied",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1446,
         "description": "n/a",
         "originalText": "Why was the artifact brought to Tchort?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1450,
         "description": "n/a",
         "originalText": "One single detail changes everything. I need to ask you something else.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1454,
         "description": "n/a",
         "originalText": "Very soon, Your Excellency. As soon as the elevator becomes operational again.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1458,
         "description": "n/a",
         "originalText": "I can't tell you anything yet. We can only hope that reinforcements will come soon.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1462,
         "description": "n/a",
         "originalText": "As you said, the elevator is badly damaged, so I wouldn't expect reinforcements very soon.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1466,
         "description": "n/a",
         "originalText": "Yes, Your Excellency.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1470,
         "description": "n/a",
         "originalText": "::Nod.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1474,
         "description": "n/a",
         "originalText": "Don't they deserve to know the truth?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1478,
         "description": "n/a",
         "originalText": "That you would need to ask Eidein. I know nothing other than it is something... exceptional. I can only assume that it is something worthy of Tchort's attention. Many such objects have found their way to the Nucleus, and if we preserve it, many more will.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1484,
         "description": "n/a",
         "originalText": "Excellent, $(context.player.Name). That is good news indeed.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1490,
         "description": "n/a",
         "originalText": "I understand. We are in no position to repair the elevator from here; therefore, all depends on what mechanics can accomplish up there before we can get our hopes up.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1497,
         "description": "n/a",
         "originalText": "Very well. Very well...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1502,
         "description": "n/a",
         "originalText": "Not yet if we all wish to survive. Again, are we clear?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1509,
         "description": "n/a",
         "originalText": "One more question, $(context.player.Name), before we are finished. How did you manage to get down here, and are you alone?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1520,
         "description": "n/a",
         "originalText": "Still, your arrival at least came with some illumination regarding this whole situation.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1526,
         "description": "n/a",
         "originalText": "So, to summarize: Eidein is dead, and we can expect no reinforcements, no one to relieve us. Basically, we are... alone.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1534,
         "description": "n/a",
         "originalText": "While Eidein's death is a serious blow to the Institute of Tchort, at least you bear us some good news. Hopefully our brothers and sisters will find a way to reinforce us, because we are unable to repair the elevator from here.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1542,
         "description": "n/a",
         "originalText": "I was sent down here by Eidein to help with Tchort's defense. And I am alone. The elevator stopped working during the descent, but a lucky opening in the wall saved me.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1547,
         "description": "n/a",
         "originalText": "Eidein sent a group of us to go down using the elevator, but the elevator's failure mid-descent as well as the subsequent death of others left me as the only survivor.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1553,
         "description": "n/a",
         "originalText": "Before his death, Eidein sent me to help with Tchort's defense. And I am alone. The elevator stopped working during the descent, but a lucky opening in the wall saved me.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1558,
         "description": "n/a",
         "originalText": "Before his death, Eidein instructed a group of us to go down using the elevator, but the elevator's failure mid-descent as well as the subsequent death of others left me as the only survivor.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1563,
         "description": "n/a",
         "originalText": "I fled the Institute during the fighting.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1564,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_InstituteBad",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1568,
         "description": "n/a",
         "originalText": "Yes.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1572,
         "description": "n/a",
         "originalText": "Sad to say so.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1573,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stvaros_tellEideinDead",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1579,
         "description": "n/a",
         "originalText": "I see. The Faceless must've disabled the elevator in order to cut us off. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1583,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_tellComeAlone",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1584,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stvaros_tellEideinDead",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1585,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stvaros_tellEideinDead",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1587,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_tellComeAlone",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1588,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stvaros_tellEideinDead",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 1589,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_tchortistsEscaped",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1594,
         "description": "n/a",
         "originalText": "::Several long seconds pass before you get a reply.::\r\n\r\nI knew there was something odd about you, $(context.player.Name), and know I know what it was. And to state your treacherousness so calmly... a true Evdok you are.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1600,
         "description": "n/a",
         "originalText": "Fine. We will then have deal with the situation to the best of our abilities. Adapt and overcome.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1606,
         "description": "n/a",
         "originalText": "However, who are you to earn yourself Eidein's trust enough for him to send you alone? I've never seen you before, so you must've joined the Institute of Tchort during my - relatively short - absence, and I've too never seen Eidein so favorable toward a novitiate?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1614,
         "description": "n/a",
         "originalText": "Now, did Eidein make any attempts at coming down with you? According to emergency plan we had, he was supposed to go to Tchort, but from what you told me I somehow draw a conclusion that he didn't make any such attempts.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1620,
         "description": "n/a",
         "originalText": "Still, why didn't Eidein himself come to the Nucleus? According to my knowledge, that was the emergency plan?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1627,
         "description": "n/a",
         "originalText": "You are not worthy of calling yourself a Tchortist, and no matter how valuable every man and woman are right now, a traitor once - a traitor always. I cannot take any risk, so I order you to leave Cytosine Outpost. Resistance will be met with forceful removal.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1632,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_tellComeAlone",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1636,
         "description": "n/a",
         "originalText": "A lot has happened during your absence. Let's leave it at that.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1637,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stvaros_tellEideinDead",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1649,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stavros_expelled",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1655,
         "description": "n/a",
         "originalText": "Allow me to explain...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1659,
         "description": "n/a",
         "originalText": "I will leave.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1664,
         "description": "n/a",
         "originalText": "::He looks at you for a few quiet moments before continuing.::\r\n\r\nA lot *has* happened... that I cannot deny, $(context.player.Name). ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1670,
         "description": "n/a",
         "originalText": "I really don't know. I suppose the plan has changed. What I've already told you is all I know.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1675,
         "description": "n/a",
         "originalText": "I'm sure Eidein knows why he acted like he did.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1680,
         "description": "n/a",
         "originalText": "No, not as far as I know.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1685,
         "description": "n/a",
         "originalText": "He did, but he never made it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1690,
         "description": "n/a",
         "originalText": "I'm sure he'll have an explanation once the Faceless have been dealt with.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q0.Q0:L",
+        "classInfo": "(Q0).Q0:L",
         "objectId": 1691,
         "description": "n/a",
         "originalText": "dc-tch",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1695,
         "description": "n/a",
         "originalText": "::He interrupts you.::\r\n\r\nOut!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1700,
         "description": "n/a",
         "originalText": "::He does not reply. Instead, he simply stands still and waits for you to leave.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1706,
         "description": "n/a",
         "originalText": "Right... ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1709,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stvaros_tellEideinDead",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1710,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stvaros_tellEideinDead",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1714,
         "description": "n/a",
         "originalText": "In the end, I suppose that is the least relevant thing now. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1717,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stvaros_tellEideinDead",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1718,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_stvaros_tellEideinDead",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1725,
         "description": "n/a",
         "originalText": "::He sighs.:: Alright, $(context.player.Name), you have earned yourself some rest. Should you need supplies, speak to Rassophore Prevlic in the armory. A word of caution, though: He had been injured during the battle with the devolved, and is still severely traumatized. He is very unstable, so do *not* speak with him about the current events so not to upset him. Am I clear? Keep the talk minimal and watch what you say.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1731,
         "description": "n/a",
         "originalText": "And also remember: The official word is that Eidein is alive and well and that the situation at the Institute of Tchort is stable. If that is clear, you are free to leave unless you have further questions.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1737,
         "description": "n/a",
         "originalText": "You are free to leave unless you have further questions.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1741,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_harmost_armoryPass",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".U01.U01:S",
+        "classInfo": "(U01).U01:S",
         "objectId": 1744,
         "description": "n/a",
         "originalText": "tchortists_deepCaverns",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".U01.U01:T",
+        "classInfo": "(U01).U01:T",
         "objectId": 1745,
         "description": "n/a",
         "originalText": "player",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

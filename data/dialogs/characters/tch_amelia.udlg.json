@@ -1,2154 +1,2403 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 80,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 81,
-        "description": "n/a",
-        "originalText": "amelia",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 82,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 90,
         "description": "n/a",
         "originalText": "Congratulations, postulant - or should I say novitiate - you have been selected. Therefore, you have been granted membership to the Institute of Tchort.\r\n\r\nI suspect you are tired; it was a long and challenging day for you I'm sure, so I will give you a very brief rundown of what awaits you within the Institute.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 98,
         "description": "n/a",
         "originalText": "::The room you are in made you claustrophobic and uneasy from the start - not necessarily by the fact that the room is indeed small, but by how small your pool of options becomes should something unwelcome occur. You had prepared yourself for the worst, knowing that you will be in an unfamiliar place where anything is possible and can go awry. Well, seeing this beautiful woman dressed in a black robe which almost inappropriately flows over her feminine features, accenting them enough even for the blind to see was most certainly not what you were expecting.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 104,
         "description": "n/a",
         "originalText": "$(context.player.Name), I am very pleased to see you. What can I do for you?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 112,
         "description": "n/a",
         "originalText": "As of now you are a novitiate - a new member of the Institute of Tchort whose first task is to familiarize $(#himself/herself) with Tchortism, obtain necessary knowledge and find $(#his/her) place within the institution. We offer many means to do so, but we will get to that later. The next thing I must tell you is about the three main divisions of Institute of Tchort: Preservation, Investigation and Propagation.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 116,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_tchortists_joined",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 118,
         "description": "n/a",
         "originalText": "tch_getInterviewd",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 120,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_tch_allowedPassage",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 121,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 125,
         "description": "n/a",
         "originalText": "::The deathly robe envelops her arresting face like black oil being spilled over a shiny lump of gold. Her striking olivine-colored eyes immediately meet yours; her smooth face free of imperfections seems like it has been crafted out of marble by several of the finest artists in existence working together. Her golden hair, mostly concealed by the sinister hood, still manages to gently flow out of it and present its luxuriance.\r\n\r\nHer voice is much akin to her appearance, it too has a distinct, seductive charm; it resonates with appeal and warmth, and while being mostly level it never becomes monotone nor boring.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 129,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 142,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_leavesForABit",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 143,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_tchortists_joined",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 149,
         "description": "n/a",
         "originalText": "Each of these three divisions has a specific purpose: Preservation exists to protect - or preserve - Tchort, Eidein, the Institute and all of its members, and prides itself with its highly-trained and well-equipped individuals. Investigation on the other hand concerns itself with obtaining, organizing and applying knowledge, studying Tchort and the world around us with the ultimate goal of driving - directing - human evolution towards a better future. Finally, Propagation exists to educate, or propagate said knowledge both within the Institute of Tchort, as well as beyond.\r\n\r\nI hope you're following me so far, $(context.player.Name). Mm-hmm?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 155,
         "description": "n/a",
         "originalText": "Tchort is evolution. I would like to welcome you to the Institute of Tchort, postulant. My name is Amelia, and I am the Institute's praepostor. Your name is $(context.player.Name), if I am not mistaken?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 164,
         "description": "n/a",
         "originalText": "Can you tell me more about the West Wing?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 170,
         "description": "n/a",
         "originalText": "What can you tell me about yourself?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 174,
         "description": "n/a",
         "originalText": "I am interested in some directions.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 180,
         "description": "n/a",
         "originalText": "What does a cell about to undergo mitosis say to an interested investigator? \"I hope I have your divided attention!\"",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 185,
         "description": "n/a",
         "originalText": "Tchort guide you, praepostor.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 190,
         "description": "n/a",
         "originalText": "See you later, Amelia.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 195,
         "description": "n/a",
         "originalText": "That is all I needed to know for now.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 199,
         "description": "n/a",
         "originalText": "Novitiates are free to select what suits them best; after they have studied enough and made up their mind, they can select anything they like and perform their part within the Institute of Tchort. Currently, since Propagation is undergoing an internal restructuring phase, becoming an acolyte at this stage is highly improbable - so Investigation or Preservation are divisions I would direct you to for the time being. Of course, if you are really patient and willing, Propagation too will open its doors to you at some point.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 203,
         "description": "n/a",
         "originalText": "tch_joinInvestigation",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 205,
         "description": "n/a",
         "originalText": "tch_joinPreservation",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 207,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 211,
         "description": "n/a",
         "originalText": "That is correct. It's a pleasure to meet you, Praepostor.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 216,
         "description": "n/a",
         "originalText": "It is whatever you say it is! Damn, with such enchanting looks even if you were death itself coming to take me - I'd let you do it without a second thought!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 221,
         "description": "n/a",
         "originalText": "It is $(context.player.Name) alright. By the way, what do you use to have your skin so soft and smooth?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 225,
         "description": "n/a",
         "originalText": "The West Wing was in ruins long before the existence of the Institute of Tchort and was always sealed off from the rest of the building. When the Great Earthquake of year twenty-four struck and demolished the library, refectory and a good part of the main hall, a discussion took place about whether to restore the West Wing together with everything else. Since the Institute building is very large - and especially back when the number of members was smaller - there was no need to rebuild the severely damaged West Wing. It would take away too many resources from other, more important things.\r\n\r\nTherefore, the entrance to it was sealed again while other damaged sections were repaired.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 228,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_askPersonal",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 232,
         "description": "n/a",
         "originalText": "I am sorry, $(context.player.Name), but I would rather not speak of myself. The only thing I am willing to tell you is that I am institute-born and that I have been a dedicated Tchortist for the entirety of my life.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 236,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_askPersonal",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 240,
         "description": "n/a",
         "originalText": "Where do you need to go, $(context.player.Name)?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 248,
         "description": "n/a",
         "originalText": "Ah. ::She laughs lightly and responds with the smile still on her face.:: Wonderful. I have to admit, I did not expect you to come here and make me laugh with a mitosis joke. I see that you are socializing quite well with our investigators.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 252,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_toldJoke",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PIIAC.PIIAC:AN",
+        "classInfo": "(PIIAC).PIIAC:AN",
         "objectId": 253,
         "description": "n/a",
         "originalText": "tch-off",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 256,
         "description": "n/a",
         "originalText": "Tchort guide you, $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PIIAC.PIIAC:AN",
+        "classInfo": "(PIIAC).PIIAC:AN",
         "objectId": 259,
         "description": "n/a",
         "originalText": "tch-off",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PIIAC.PIIAC:AN",
+        "classInfo": "(PIIAC).PIIAC:AN",
         "objectId": 260,
         "description": "n/a",
         "originalText": "tch-entry",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 263,
         "description": "n/a",
         "originalText": "Well then, welcome to the Institute of Tchort, $(#brother/sister), and Tchort guide you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 270,
         "description": "n/a",
         "originalText": "A few more principal things before I finally let you go and rest. As a member you are granted your own bed in the Institute's sleeping quarters and a personal locker for your belongings; also, your medallion and your robe have already been placed in it. Now, you can find the quarters by going down the right set of stairs, just after entering the main hall. Opposite of that - left from the entrance - is the refectory; I think you might be more familiar with the term \"canteen.\"",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 276,
         "description": "n/a",
         "originalText": "::She gives you a soft smile.:: The pleasure is mutual, $(context.player.Name). Despite the current situation you have somehow managed to find yourself before me, mm-hmm.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 283,
         "description": "n/a",
         "originalText": "::She answers without breaking eye contact.:: \r\n\r\nWhat if I am?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 290,
         "description": "n/a",
         "originalText": "::She smiles while still maintaining eye contact.:: Some things are unique to the Institute of Tchort. If you end up being accepted as a member, you might just find out.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 296,
         "description": "n/a",
         "originalText": "As years passed, various creatures found their homes in the darkness of the West Wing. People began complaining about scratching sounds coming from the walls, hearing strange voices calling them. Some even mentioned seeing the Faceless looking at them from the ventilation grates or other lightless openings. Of course, some of these were just wild exaggerations and outstanding interpretations conjured up by petrified minds - but the fact that the West Wing wildlife had expanded was a real, proven issue.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 302,
         "description": "n/a",
         "originalText": "Do you have any other questions, novitiate?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 318,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_tch_learnMitosisJoke",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 319,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_toldJoke",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 323,
         "description": "n/a",
         "originalText": "Novitiates are often slow to fit in upon arrival, not to mention to come into a praepostor's office to tell her a joke. ::She smiles.:: Rare to witness. You are, on the other hand, different - more adaptable. And that is something we Tchortists value highly, $(context.player.Name). Remember that.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 332,
         "description": "n/a",
         "originalText": "::Wait for her to leave.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 335,
         "description": "n/a",
         "originalText": "The Institute library - Eidein's Library - is at the second floor to the left, and is probably the most important place for novitiates: That is where you can read about our history, scientific works and most importantly - read the Original Report.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 342,
         "description": "n/a",
         "originalText": "The efreitor was very convincing when he spoke to the rest of us about your deeds. Know that we are making an exception for you - just for you - for I'm sure the efreitor told you our institution is not accepting new members. Now, I'd like to ask you several preliminary questions - general in nature - before we advance this interview.\r\n\r\nSo, you are interested in joining the Institute of Tchort and becoming a Tchortist. Is that correct?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 351,
         "description": "n/a",
         "originalText": "::After a brief pause she smiles and continues.:: Relax, $(context.player.Name). I appreciate the compliment, although being compared to death is slightly concerning. ::She smiles again.:: But, we are here to talk about something else, mm-hmm?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 357,
         "description": "n/a",
         "originalText": "In year sixty-seven, more than forty years after the West Wing had been demolished - a rassophore expedition led by Efreitor Gromis was dispatched to cull the overpopulated wildlife. The operation was a success... for a time. Culling was going as planned for two days. It was slow and methodical due to the West Wing's size and danger factor. Then, after two days contact was lost with the whole expedition. Only one rassophore returned - mutilated beyond recognition. The poor man dragged the upper half of his severed body back to the checkpoint - but only just. He died moments after seeing his brothers and sisters watching him in horror. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 363,
         "description": "n/a",
         "originalText": "Sleeping quarters.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 367,
         "description": "n/a",
         "originalText": "Eidein's Library.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 371,
         "description": "n/a",
         "originalText": "Refectory.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 375,
         "description": "n/a",
         "originalText": "Medical office.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 379,
         "description": "n/a",
         "originalText": "Are there any merchants around here?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 383,
         "description": "n/a",
         "originalText": "Where should I go if I'm interested in working for Preservation?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 387,
         "description": "n/a",
         "originalText": "Where should I go if I'm interested in working for Investigation?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 391,
         "description": "n/a",
         "originalText": "Let me ask you something else.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 395,
         "description": "n/a",
         "originalText": "Was there anything else you needed?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PCA1.PCA1:WP",
+        "classInfo": "(PCA1).PCA1:WP",
         "objectId": 399,
         "description": "n/a",
         "originalText": "Tch_AmeliaLeavesSecondTime",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 409,
         "description": "n/a",
         "originalText": "The Original Report?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 413,
         "description": "n/a",
         "originalText": "That sounds really important.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 417,
         "description": "n/a",
         "originalText": "Yes, that is correct.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 421,
         "description": "n/a",
         "originalText": "Ever since I heard about your organization I've been dying to become a part of it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 425,
         "description": "n/a",
         "originalText": "That is correct, Praepostor. I would be delighted to join your organization if you'd be willing to accept me.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 429,
         "description": "n/a",
         "originalText": "The cut that severed his body in half was astoundingly clean, and to this day no one is sure what creature was capable of managing something like that. The West Wing was closed and remained closed for thirty more years until it was reopened recently.\r\n\r\nEidein pardon me, I suppose I should have shortened the story, but there is something fascinating about it, something mysterious.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 435,
         "description": "n/a",
         "originalText": "Going from the direction of the main gate, take the right set of stairs from the main hall and you will be there. Next, if you follow a long corridor you will get to the room you are situated in, which is also shared with other members. It is the only room with double doors in that area.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 441,
         "description": "n/a",
         "originalText": "Second floor, just as you step into the western section of Institute of Tchort.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 447,
         "description": "n/a",
         "originalText": "Going from the main entrance, take the stairs to the left. Very easy to find.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 453,
         "description": "n/a",
         "originalText": "It is in the same section as the sleeping quarters, at the very end of one of the corridors near the room you are residing in. You cannot miss it, $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 459,
         "description": "n/a",
         "originalText": "Mm-hmm. Food and drink can be purchased in the refectory; weapons and ammo in Preservation armory - east wing, second floor; for medicine and other medical equipment talk to our protophysician, Investigator of Medicine Jerre Franz. Also, one of the three Investigation departments might also help you with more specialized equipment should you need any of that.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 465,
         "description": "n/a",
         "originalText": "Second floor, east wing; once you enter it through the main hall you will arrive to a central area with a fountain. Once there, take the only stairs up and you will soon come up to His Notability, Mediant Samuel's office. Seek him if you are interested in learning more about Preservation and becoming a rassophore.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 471,
         "description": "n/a",
         "originalText": "Investigation consists of three departments: genetics, chemistry and physics. All three departments have their laboratories and offices located in the east wing. Each department is overseen by a principal investigator; they can help you if you are interested in any of the mentioned fields, or seek work.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 477,
         "description": "n/a",
         "originalText": "Mm-hmm.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SCGLJ.SCGLJ:A",
+        "classInfo": "(SCGLJ).SCGLJ:A",
         "objectId": 481,
         "description": "n/a",
         "originalText": "tch-entry",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SCGLJ.SCGLJ:A",
+        "classInfo": "(SCGLJ).SCGLJ:A",
         "objectId": 484,
         "description": "n/a",
         "originalText": "tch-entry",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".UOP.UOP:A",
+        "classInfo": "(UOP).UOP:A",
         "objectId": 488,
         "description": "n/a",
         "originalText": "tch-entry",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 500,
         "description": "n/a",
         "originalText": "Mm-hmm, it describes Eidein's first encounter with Tchort, his thoughts and impressions, and documents the beginning of his research. It is an essential read for every Tchortist. Again, Eidein's Library should be one of your first stops.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 505,
         "description": "n/a",
         "originalText": "Mm-hmm. Tell me something of yourself, $(context.player.Name). Where are you from?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 517,
         "description": "n/a",
         "originalText": "Well, did you have any more questions?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SP.SP:WN",
+        "classInfo": "(SP).SP:WN",
         "objectId": 522,
         "description": "n/a",
         "originalText": "guard_recombinant1",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SP.SP:WN",
+        "classInfo": "(SP).SP:WN",
         "objectId": 524,
         "description": "n/a",
         "originalText": "guard_pirophore1",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 528,
         "description": "n/a",
         "originalText": "While we are on the subject of the library, I must add this: The old, destroyed section of the West Wing has recently been reopened by Preservation Forces; a rassophore expedition was dispatched there. It is extremely dangerous and, while it is guarded by rassophores, I must still warn you to avoid it until after it has been sealed again.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 536,
         "description": "n/a",
         "originalText": "South Gate Station.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 540,
         "description": "n/a",
         "originalText": "Core City.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 544,
         "description": "n/a",
         "originalText": "Rail Crossing.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 548,
         "description": "n/a",
         "originalText": "Junkyard.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 552,
         "description": "n/a",
         "originalText": "Foundry.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 556,
         "description": "n/a",
         "originalText": "I don't live in a single place. I roam South Underrail and sleep wherever I find a comfortable place.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 560,
         "description": "n/a",
         "originalText": "Is that everything I should know?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 564,
         "description": "n/a",
         "originalText": "My head is going to explode from all that information.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 567,
         "description": "n/a",
         "originalText": "Can you tell me what guides you through life, what motivates you? Try to give me a concise answer.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 579,
         "description": "n/a",
         "originalText": "One more thing and we are done: Official greetings and manner of address. When first starting a conversation with any members of the Institute of Tchort, it is a custom for the first speaker to say, \"Tchort is evolution,\" to which the other party replies, \"Evolution is Tchort.\" The meaning of the greeting is clear, I hope. Commonly, you may refer to Tchortists as \"brother\" or \"sister,\" based on their gender; but if they hold a higher title - a certain notability - then you should address them appropriately. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 586,
         "description": "n/a",
         "originalText": "My unquenchable thirst for knowledge guides me through life. I live to know more - and knowing more allows me to live on. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 591,
         "description": "n/a",
         "originalText": "I surrender myself to life and let it lead me. I am a $(#man/woman) of the moment, of the present... Past brings tears - future brings fears.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 596,
         "description": "n/a",
         "originalText": "I have dedicated my life to protecting all that is good and beautiful. I believe one $(#man/woman), whoever $(#he/she) may be and from wherever $(#he/she) comes from, can influence the world and change the world for the better.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 601,
         "description": "n/a",
         "originalText": "I only care about myself and fulfilling my own desires. I won't crawl through life upon my knees, but stride proudly on my very own feet. I am my own universe.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 606,
         "description": "n/a",
         "originalText": "When someone strikes me - I strike them back. When someone loves me - I love back. My actions are reactions. That is my philosophy.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 611,
         "description": "n/a",
         "originalText": "Loot is life. Life is loot.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 614,
         "description": "n/a",
         "originalText": "This is already too much information for you - in time you will learn everything. You are free to go and get some rest, $(#brother/sister). If you have more questions - ask now, or find me in my office at the top level. I would be glad to answer all the questions you may have about the Institute of Tchort.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 622,
         "description": "n/a",
         "originalText": "Mm-hmm... Interesting... And you feel that - with that philosophy in mind - joining the Institute of Tchort is the right decision?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 626,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_sayKnowledgeInterview",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 628,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_sayMomentInterview",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 630,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_sayMomentInterview",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 632,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_saySelfishInterview",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 634,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_sayReactionInterview",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 637,
         "description": "n/a",
         "originalText": "::Her left eyebrow raises in reaction to your reply.:: Care to elaborate?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 643,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_sayLootInterview",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 647,
         "description": "n/a",
         "originalText": "I had some questions for you before you leave.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 660,
         "description": "n/a",
         "originalText": "Well, I have devised a looting potential scale. If we define the median score as being exactly one hundred, then by my calculations the Institute of Tchort scores approximately one hundred fifty-five points! Of course, I was basing this on limited information - but a number of that magnitude is something that simply cannot be ignored!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 664,
         "description": "n/a",
         "originalText": "I believe it's self-explanatory.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 668,
         "description": "n/a",
         "originalText": "Mm-hmm.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 674,
         "description": "n/a",
         "originalText": "Not just right - perfect!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 678,
         "description": "n/a",
         "originalText": "I believe so.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 682,
         "description": "n/a",
         "originalText": "I sincerely hope so.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 683,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_sayLootInterview",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 687,
         "description": "n/a",
         "originalText": "::She gives you a confused look.:: I don't think I understand... perhaps the terminology is foreign to me or... ::She shrugs.:: Well in any case, you feel that - with those words in mind - joining the Institute of Tchort is the right decision?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 693,
         "description": "n/a",
         "originalText": "Perhaps so... In any case, you feel that - with those words in mind - joining the Institute of Tchort is the right decision?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 699,
         "description": "n/a",
         "originalText": "Perfect... Mm-hmm...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 705,
         "description": "n/a",
         "originalText": "You believe so? Mm-hmm...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 711,
         "description": "n/a",
         "originalText": "You hope so? Mm-hmm...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 716,
         "description": "n/a",
         "originalText": "And how much exactly do you know about the Institute of Tchort and the general ideology of Tchortism?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 725,
         "description": "n/a",
         "originalText": "Um... actually, I know only the bare minimum. But I feel it is enough for me to make a choice. So far nothing I've witnessed here made me second-guess my original decision.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 729,
         "description": "n/a",
         "originalText": "I've had previous encounters with Tchortists and, therefore, Tchortism. I have learned quite a few things which made me interested in it and ultimately come here.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 734,
         "description": "n/a",
         "originalText": "I had attended one of Minister Percival's lectures in Core City and was fascinated by what I heard during it. That was one of the main reasons I decided to come here.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 738,
         "description": "n/a",
         "originalText": "You have seen very little, $(context.player.Name). In any case, allow me to elaborate on our ideology. Afterwards, you will have to make one final choice of joining our institution or not, if you are still willing.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 744,
         "description": "n/a",
         "originalText": "I see. Unfortunately, efforts to propagate Tchortist ideology are hampered by many factors, so it is no surprise that knowledge of it is very limited and out of reach for the general population. In any case, allow me to elaborate our ideology. Afterwards, you will have to make one final choice of joining our institution or not, if you are still willing.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 747,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.cc_npc_percival_heldLecture",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 751,
         "description": "n/a",
         "originalText": "Mm-hmm. Very good, $(context.player.Name). Minister Percival is one of our finest propagators and I'm sure his lecture was very insightful. Still, allow me to elaborate our ideology, just to make sure you are familiar with - at least for now - it's main principles. Afterwards, you will have to make one final choice of joining our institution or not, if you are still willing.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 757,
         "description": "n/a",
         "originalText": "The Institute of Tchort is an institution dedicated to the study and celebration of Tchort - a primordial being that was discovered in Deep Caverns nearly a hundred years ago by Eidein, the founder of this institution as well as Tchortism. What he had discovered then and there was magnificent: The creature had been undergoing a unique cycle of regeneration; it was completely formless, changing and adapting to the current environment. Since Eidein was - and still is - the only person that can communicate with Tchort, he was able to study it and uncover what secrets it holds within its magnificent genome.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 763,
         "description": "n/a",
         "originalText": "He learned that Tchort holds the key to evolving the human race to new heights; one day perhaps, through directed evolution - as Eidein originally named it - humankind will hopefully find a way to adapt to the life on the Surface and escape this gloomy underworld. Principally, Tchort represents two things: The physical being and the knowledge it holds. Consequently, Tchortism, being guided by Tchort, aims to direct human evolution with its help.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 768,
         "description": "n/a",
         "originalText": "In essence, that is who Tchortists are and what we stand for. Which brings us to the next question. Tell me, $(context.player.Name): Do you still stand by your previous decision? Do you still wish to become a member of the Institute of Tchort?\r\n\r\nIf your answer is positive, then we can finally start with the second phase of the interview.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 777,
         "description": "n/a",
         "originalText": "I have to say, I got even more excited about Tchortism after what you've told me. I'm more than ready!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 781,
         "description": "n/a",
         "originalText": "I haven't changed my mind. We can proceed.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 785,
         "description": "n/a",
         "originalText": "I'm having some second thoughts. I need time to think. Can we continue later?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 789,
         "description": "n/a",
         "originalText": "::She smiles.:: Very good. I'm pleased to hear that, even though that is the answer I expected from you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 794,
         "description": "n/a",
         "originalText": "Mm-hmm... I'm sorry, $(context.player.Name), but there might not be \"later.\" The situation had been explained to you already, so you have to make your decision now... or else the Institute gate might be closed to you forever.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 802,
         "description": "n/a",
         "originalText": "Now, allow me to explain what happens next: I am going to be asking you a set of questions, simple questions that require no hard thinking - only honesty. You will answer these questions and any subquestions that might arise during the process.\r\n\r\nDon't worry, this won't take long.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 808,
         "description": "n/a",
         "originalText": "When you put it that way... I do want to join Insititute of Tchort.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 814,
         "description": "n/a",
         "originalText": "If that's the case, then I'm going to say no. I don't want to join the Institute of Tchort.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 817,
         "description": "n/a",
         "originalText": "Let us begin with the first question... ::She takes a single piece of paper containing the questions, clears her throat and begins.::\r\n\r\nHave you been sent here knowingly to injure Tchortism?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 822,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.debug",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 826,
         "description": "n/a",
         "originalText": "I am very surprised; you seemed so enthusiastic about joining, and taken into account the trouble you went through to retrieve the anniversary figurine I find your change of heart very peculiar. But, if that's what you wish... ::Shrugs.::\r\n\r\nIn any case, $(context.player.Name), this means goodbye. Rassophores will lead you out. Tchort guide you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 830,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_declineJoining",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 834,
         "description": "n/a",
         "originalText": "No.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 838,
         "description": "n/a",
         "originalText": "I came here to find the mysterious Cube your fellow Tchortists stole from Coretech research facility.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 849,
         "description": "n/a",
         "originalText": "Mm-hmm... ::She looks at you a bit longer than usual, after which she writes something on the paper.:: \r\n\r\nNext question: How do you feel about Tchortism?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 857,
         "description": "n/a",
         "originalText": "::Her eyes widen in response to your reckless statement, but then she instantly reverts to a neutral expression.::\r\n\r\nThat is quite *unexpected*... Can you repeat that?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 862,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_declineQuestioning",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 867,
         "description": "n/a",
         "originalText": "I said I don't want to join. That doesn't mean I'm going back out, Praepostor.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 871,
         "description": "n/a",
         "originalText": "::Let them lead you out.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 875,
         "description": "n/a",
         "originalText": "Let's put it this way: I wouldn't be here if I didn't think it was worth my time.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 879,
         "description": "n/a",
         "originalText": "I think it makes a lot of sense and that it's the path I want to take.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 883,
         "description": "n/a",
         "originalText": "Rubbish. Don't believe a word of it. In fact, I'm here just to find out about the mysterious Cube the Tchortist stole from Core City.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 887,
         "description": "n/a",
         "originalText": "Whoops, maybe I shouldn't have said that.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 891,
         "description": "n/a",
         "originalText": "::Attack!::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 895,
         "description": "n/a",
         "originalText": "::[Perception] She smiles, but you notice that this time there was something in that smile that was different; a nearly microscopic difference screams at you that things are about to become ugly.::\r\n\r\nThis is quite *unexpected*... I don't understand what you mean?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 902,
         "description": "n/a",
         "originalText": "::She smiles.:: This is quite *unexpected*... I don't understand what you mean?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PCA1.PCA1:WP",
+        "classInfo": "(PCA1).PCA1:WP",
         "objectId": 908,
         "description": "n/a",
         "originalText": "Tch_OutOfTchortists",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 911,
         "description": "n/a",
         "originalText": "Very good. \r\n\r\nNext question: Do you think there is anything wrong with having your privacy invaded?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 919,
         "description": "n/a",
         "originalText": "::A sound of echoing footsteps coming from the hallway outside interrupts your sentence. Praepostor Amelia, despite her relaxed, calm stare seems to be prepared for what is about to happen.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 929,
         "description": "n/a",
         "originalText": "The meaning is literal - I'm not leaving this place. In fact, I might just use your help to get me what I want from this place.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 933,
         "description": "n/a",
         "originalText": "Yes, I oppose the idea.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 937,
         "description": "n/a",
         "originalText": "Depends on the situation. If it's for the greater good, then no, I do not think it is wrong. Otherwise, I'm not too keen on the concept.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 941,
         "description": "n/a",
         "originalText": "No, I don't think it is wrong.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 951,
         "description": "n/a",
         "originalText": "::Fight!::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 955,
         "description": "n/a",
         "originalText": "Why?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 962,
         "description": "n/a",
         "originalText": "Interesting...\r\n\r\nNext question: Have you ever been a drug addict?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 985,
         "description": "n/a",
         "originalText": "I just don't like anyone invading my privacy. Simple as that.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 989,
         "description": "n/a",
         "originalText": "I feel that invading one's privacy creates a base for exploitation and control by a more powerful entity.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 993,
         "description": "n/a",
         "originalText": "No.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 997,
         "description": "n/a",
         "originalText": "I had some drug-related, um, experiences in the past, but I'm clean now.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1001,
         "description": "n/a",
         "originalText": "I don't even go to answer nature's call without bringing some chemicals with me - just in case I need it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ATJ.ATJ:DW",
+        "classInfo": "(ATJ).ATJ:DW",
         "objectId": 1003,
         "description": "n/a",
         "originalText": "security1",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ATJ.ATJ:A",
+        "classInfo": "(ATJ).ATJ:A",
         "objectId": 1005,
         "description": "n/a",
         "originalText": "tch-entry",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ATJ.ATJ:DW",
+        "classInfo": "(ATJ).ATJ:DW",
         "objectId": 1006,
         "description": "n/a",
         "originalText": "security2",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ATJ.ATJ:A",
+        "classInfo": "(ATJ).ATJ:A",
         "objectId": 1008,
         "description": "n/a",
         "originalText": "tch-entry",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ATJ.ATJ:DW",
+        "classInfo": "(ATJ).ATJ:DW",
         "objectId": 1009,
         "description": "n/a",
         "originalText": "security3",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ATJ.ATJ:A",
+        "classInfo": "(ATJ).ATJ:A",
         "objectId": 1011,
         "description": "n/a",
         "originalText": "tch-entry",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SCGLJ.SCGLJ:A",
+        "classInfo": "(SCGLJ).SCGLJ:A",
         "objectId": 1013,
         "description": "n/a",
         "originalText": "tch-entry",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SCGLJ.SCGLJ:A",
+        "classInfo": "(SCGLJ).SCGLJ:A",
         "objectId": 1016,
         "description": "n/a",
         "originalText": "tch-entry",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SCGLJ.SCGLJ:A",
+        "classInfo": "(SCGLJ).SCGLJ:A",
         "objectId": 1019,
         "description": "n/a",
         "originalText": "tch-entry",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1023,
         "description": "n/a",
         "originalText": "Next question: Have you ever killed anyone?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1032,
         "description": "n/a",
         "originalText": "Mm-hmm... ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SP.SP:WN",
+        "classInfo": "(SP).SP:WN",
         "objectId": 1036,
         "description": "n/a",
         "originalText": "securityAttack1",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SP.SP:WN",
+        "classInfo": "(SP).SP:WN",
         "objectId": 1038,
         "description": "n/a",
         "originalText": "securityAttack2",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SP.SP:WN",
+        "classInfo": "(SP).SP:WN",
         "objectId": 1040,
         "description": "n/a",
         "originalText": "securityAttack3",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1044,
         "description": "n/a",
         "originalText": "Never!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1048,
         "description": "n/a",
         "originalText": "Only when it was necessary.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1052,
         "description": "n/a",
         "originalText": "PFFFFFFFFFT! Hell yeah!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1055,
         "description": "n/a",
         "originalText": "Never?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1063,
         "description": "n/a",
         "originalText": "Mm-hmm...\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1069,
         "description": "n/a",
         "originalText": "You seem very pleased about taking other people's lives I see. In any case, I'll mark that as a yes...\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1075,
         "description": "n/a",
         "originalText": "Okay, yes I did.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1079,
         "description": "n/a",
         "originalText": "Never.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1082,
         "description": "n/a",
         "originalText": "Next question: Are you upset by this questioning? ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1090,
         "description": "n/a",
         "originalText": "Why did you lie that you haven't?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1098,
         "description": "n/a",
         "originalText": "So how did you manage to abtain the stolen figurine from the Lunatics, hmm?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1107,
         "description": "n/a",
         "originalText": "Very much so!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1111,
         "description": "n/a",
         "originalText": "Just a tiny bit...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1115,
         "description": "n/a",
         "originalText": "No, why would I be?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1119,
         "description": "n/a",
         "originalText": "I really don't know.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1123,
         "description": "n/a",
         "originalText": "I guess I didn't want to be seen as a heartless murderer.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1127,
         "description": "n/a",
         "originalText": "I panicked... Sorry.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1131,
         "description": "n/a",
         "originalText": "I was clever.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1135,
         "description": "n/a",
         "originalText": "I'm a sneaky person - like a shadow. I was in and out before they even realized I took the figurine.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1139,
         "description": "n/a",
         "originalText": "Okay, okay, I killed the bastards.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1142,
         "description": "n/a",
         "originalText": "And why is that?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1151,
         "description": "n/a",
         "originalText": "Just a tiny bit? Mm-hmm... I'll write that down.\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1156,
         "description": "n/a",
         "originalText": "Next question: Do you hope you won't be found out?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1165,
         "description": "n/a",
         "originalText": "Interesting... very interesting... \r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1171,
         "description": "n/a",
         "originalText": "Clever you say... alright. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1177,
         "description": "n/a",
         "originalText": "I feel it's a waste of time!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1181,
         "description": "n/a",
         "originalText": "You are asking me strange questions and it's making me feel uncomfortable.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1185,
         "description": "n/a",
         "originalText": "I just don't like revealing so much information about myself.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1189,
         "description": "n/a",
         "originalText": "What do you mean by that?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1193,
         "description": "n/a",
         "originalText": "I have nothing to hide. That's my answer.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1197,
         "description": "n/a",
         "originalText": "Damn it, I've been busted! ::Attack!::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1201,
         "description": "n/a",
         "originalText": "Mm-hmm... ::She writes down your answer.::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1206,
         "description": "n/a",
         "originalText": "Just answer the question you were asked.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1213,
         "description": "n/a",
         "originalText": "::She crosses her arms and observes you, occasionally moving her head from left to right and vice-versa. Before you get a chance to break the silence she un-crosses her hands and asks the next question.::\r\n\r\nNext question: Have you ever smothered a baby?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1223,
         "description": "n/a",
         "originalText": "What? *No*! What kind of a sick person would do something like that?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1227,
         "description": "n/a",
         "originalText": "Well, there was this ugly little-- Uh, never mind.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1231,
         "description": "n/a",
         "originalText": "You'd be surprised what different breeds of people come here.\r\n\r\nNext question: Have you ever eaten human flesh?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1239,
         "description": "n/a",
         "originalText": "::She leans back and gives you a long stare before speaking.::\r\n\r\nNext question: Have you ever eaten a human body?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1248,
         "description": "n/a",
         "originalText": "Yes.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1252,
         "description": "n/a",
         "originalText": "Not knowingly.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1256,
         "description": "n/a",
         "originalText": "No.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1259,
         "description": "n/a",
         "originalText": "When was that and why?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1268,
         "description": "n/a",
         "originalText": "Next question: Would you be willing to sacrifice the lives of several innocent people to save one dear to you?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1277,
         "description": "n/a",
         "originalText": "A long time ago... I'd rather not talk about it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1281,
         "description": "n/a",
         "originalText": "It happened just recently. It was out of food and... it was the only way for me to survive.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1285,
         "description": "n/a",
         "originalText": "I wanted to know what it tastes like.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1289,
         "description": "n/a",
         "originalText": "Oh sorry... I, um, misheard the question. My answer is no.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1293,
         "description": "n/a",
         "originalText": "No.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1297,
         "description": "n/a",
         "originalText": "Yes.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1301,
         "description": "n/a",
         "originalText": "Without hesitation.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1305,
         "description": "n/a",
         "originalText": "Mm-hmm... alright.\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1311,
         "description": "n/a",
         "originalText": "::She pauses for a few moments, looking at you. Then she moves on to the next question.::\r\n\r\n\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1316,
         "description": "n/a",
         "originalText": "Mm-hmm... interesting. And how was the taste?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1324,
         "description": "n/a",
         "originalText": "I see...\r\n\r\nNext question: Have you ever felt that there is another creature in your body?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1333,
         "description": "n/a",
         "originalText": "Disgusting!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1337,
         "description": "n/a",
         "originalText": "Nothing special.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1341,
         "description": "n/a",
         "originalText": "I really liked it to tell you the truth.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1345,
         "description": "n/a",
         "originalText": "Like... Tchort? Yes, yes...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1349,
         "description": "n/a",
         "originalText": "No.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1353,
         "description": "n/a",
         "originalText": "A tapeworm once, but other than that nothing.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1357,
         "description": "n/a",
         "originalText": "::The familiar look falls upon you once again. It is brief and gets quickly interrupted by the next question.::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1362,
         "description": "n/a",
         "originalText": "Next question: Did you ever hurt yourself?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1371,
         "description": "n/a",
         "originalText": "Yes, it has happened in the past...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1375,
         "description": "n/a",
         "originalText": "No.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1379,
         "description": "n/a",
         "originalText": "Only if my own grenades land too close. Otherwise no.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1382,
         "description": "n/a",
         "originalText": "Why?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1391,
         "description": "n/a",
         "originalText": "Last question: Have you ever been a spy for anybody?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1400,
         "description": "n/a",
         "originalText": "::A barely visible quirk appears in the corner of her mouth, threatening to manifest itself into a real, honest smile. Sadly, it lasts but a fraction of a second.::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1406,
         "description": "n/a",
         "originalText": "Suffocating depression.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1410,
         "description": "n/a",
         "originalText": "Uncontrollable rage.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1414,
         "description": "n/a",
         "originalText": "Twisted urges.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1418,
         "description": "n/a",
         "originalText": "Clumsiness.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1422,
         "description": "n/a",
         "originalText": "No.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1427,
         "description": "n/a",
         "originalText": "I have done some work for Oculus.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1432,
         "description": "n/a",
         "originalText": "I worked for one of the Core City Oligarchs in the past, if that counts.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1436,
         "description": "n/a",
         "originalText": "Mm-hmm... I'll take note of that.\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1442,
         "description": "n/a",
         "originalText": "::Praepostor Amelia looks at the paper, inspecting all the notes she took during the interview. Afterwards, she puts it away and gives you the familiar too-long-for-comfort stare. Luckily, it ends with a pleasant smile.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1445,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_azif_agreedToJoin",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1448,
         "description": "n/a",
         "originalText": "Mm-hmm... I have never heard of Oculus?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1458,
         "description": "n/a",
         "originalText": "Mm-hmm... Which one?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1467,
         "description": "n/a",
         "originalText": "Very good, $(context.player.Name), very good. Those were all the questions I had for you. Now I'd just like to ask you to give me a sample of your blood and wait patiently for me to return.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1473,
         "description": "n/a",
         "originalText": "It's a very secret organization; most haven't heard of it. Don't worry.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1477,
         "description": "n/a",
         "originalText": "Forget I said anything.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1478,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_Preatorian_joined",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1479,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_Coretech_joined",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1480,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_JKK_joined",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1485,
         "description": "n/a",
         "originalText": "JKK.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1490,
         "description": "n/a",
         "originalText": "Praetorian Security.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1495,
         "description": "n/a",
         "originalText": "Coretech.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1506,
         "description": "n/a",
         "originalText": "::She puts the paper down and looks you straight in the eye.::\r\n\r\nWhy are you really here, $(context.player.Name)?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1511,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_JKK_joined",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1512,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_Preatorian_joined",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1513,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_Coretech_joined",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1519,
         "description": "n/a",
         "originalText": "What for?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1523,
         "description": "n/a",
         "originalText": "Okay, I have no objections to that.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1527,
         "description": "n/a",
         "originalText": "I am not letting anyone take my blood from me.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1531,
         "description": "n/a",
         "originalText": "To join the Institute of Tchort.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1532,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_askWhyGiveBlood",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1536,
         "description": "n/a",
         "originalText": "It is something all novitiates must undergo; consider it a kind of initiation. There are two primary reasons for this: First, it's a tradition that has a symbolic meaning: You give but a small part of yourself to Tchort, and in turn Tchort will give you means to adapt and evolve to a whole new height; second, we test blood of all postulants for health related reasons. We don't wish for any surprises.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1540,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_askWhyGiveBlood",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1544,
         "description": "n/a",
         "originalText": "::Praepostor Amelia pulls out a strange device; it looks like a large black, ornamented syringe with a see-through tube and has tiny metal tentacles climbing towards the needle, twisting around the device. She inserts the needle into your flesh; externally, you feel but a little sting; internally, you feel your heart pounding faster and faster. Fortunately, the procedure is over quickly: She pulls out the needle with a smile, and the syringe is now full of your blood. She places a gauze on the wound before stepping away.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1549,
         "description": "n/a",
         "originalText": "It is mandatory for all postulants, $(context.player.Name). We consider it a form of initiation to the institution. There are two primary reasons for this: first, it's a tradition that has a symbolic meaning; you give but a small part of yourself to Tchort, and in turn Tchort will give you means to adapt and evolve to a whole new height; second, we test blood of all postulants for health related reasons. I hope you understand",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1558,
         "description": "n/a",
         "originalText": "Mm-hmm... That seems quite... *unexpected.*",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1564,
         "description": "n/a",
         "originalText": "The process is simple and quick. You will only feel a little sting.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1569,
         "description": "n/a",
         "originalText": "Mm-hmm... that is all I need. Please wait for me while I return, $(context.player.Name). It won't take long.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1576,
         "description": "n/a",
         "originalText": "I guess it's not such a big deal after all. I'll let you extract my blood.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1580,
         "description": "n/a",
         "originalText": "I've had enough of this - $(context.player.Name) is going to murder you all! ::Attack!::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1585,
         "description": "n/a",
         "originalText": "::[Debug]:: You know what, I'm already sick and tired of you people. I want nothing to do with you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1590,
         "description": "n/a",
         "originalText": "::Wait.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1593,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.debug",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1596,
         "description": "n/a",
         "originalText": "::For an instant you see surprise in your eyes. The next, it is already gone.::\r\n\r\nSuch a poor decision, $(context.player.Name); you went through all this only to change your mind now. Magnificent Tchort, I don't think I have ever seen anything like it before.\r\n\r\nThe rassophores will lead you out now, $(context.player.Name). Tchort guide you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1601,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_amelia_leavesForABit",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PCA1.PCA1:WP",
+        "classInfo": "(PCA1).PCA1:WP",
         "objectId": 1603,
         "description": "n/a",
         "originalText": "Tch_AmeliaLeavesFirstTime",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

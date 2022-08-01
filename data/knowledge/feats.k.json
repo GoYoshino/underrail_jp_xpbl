@@ -1,3376 +1,3621 @@
 [
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Key",
         "objectId": 3,
-        "description": "n/a",
+        "description": "key='generalinfo'",
         "originalText": "generalinfo",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Value",
         "objectId": 4,
         "description": "n/a",
         "originalText": "Feats are special traits or tricks of the trade your character has learned over time.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Key",
         "objectId": 5,
-        "description": "n/a",
+        "description": "key='s2'",
         "originalText": "s2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Value",
         "objectId": 6,
         "description": "n/a",
         "originalText": "You can activate the Sprint ability which grants you {0} additional movement points for {1}. Only effective while not in stealth.\r\n\r\nCooldown: {2}.",
-        "translatedText": "{1}の間 MPが{1}増加する。 ステルス状態では効果がない。\r\n\r\nクールダウン: {2}"
+        "translatedText": "{1}の間 MPが{1}増加する。 ステルス状態では効果がない。\r\n\r\nクールダウン: {2}",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Key",
         "objectId": 7,
-        "description": "n/a",
+        "description": "key='as'",
         "originalText": "as",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Value",
         "objectId": 8,
         "description": "n/a",
         "originalText": "You can perform an aimed shot with any single-target ranged weapon for a guaranteed critical hit.\r\n\r\nCooldown: {0}.",
-        "translatedText": "単体攻撃武器を装備中に使用できる。 必ずクリティカルヒットする。\r\n\r\nクールダウン: {0}."
+        "translatedText": "単体攻撃武器を装備中に使用できる。 必ずクリティカルヒットする。\r\n\r\nクールダウン: {0}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:3:Key",
         "objectId": 9,
-        "description": "n/a",
+        "description": "key='s-old'",
         "originalText": "s-old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:3:Value",
         "objectId": 10,
         "description": "n/a",
         "originalText": "Grants you a special attack with a crossbow or sniper rifle that deals additional damage per stealth skill point. Can only be used in stealth. This attack cannot critically hit.\r\n\r\nCooldown: {0}.",
-        "translatedText": "クロスボウか スナイパーライフルを 装備中に使用できる。 Stealthスキルに応じた 追加ダメージを与える。 ステルス中しか使用できない。 このアビリティはクリティカルヒットしない。\r\n\r\nクールダウン: {0}"
+        "translatedText": "クロスボウか スナイパーライフルを 装備中に使用できる。 Stealthスキルに応じた 追加ダメージを与える。 ステルス中しか使用できない。 このアビリティはクリティカルヒットしない。\r\n\r\nクールダウン: {0}",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:4:Key",
         "objectId": 11,
-        "description": "n/a",
+        "description": "key='s'",
         "originalText": "s",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:4:Value",
         "objectId": 12,
         "description": "n/a",
         "originalText": "Grants you a special attack with a crossbow or sniper rifle that deals {0}% weapon damage plus additional {1}% damage per stealth skill point. Can only be used in stealth. This attack cannot critically hit.\r\n\r\nCooldown: {2}.",
-        "translatedText": "クロスボウか スナイパーライフルを 装備中に 使用できる。 武器ダメージの100%を与え、Stealthスキル 1ポイントにつき {1}%のダメージを与える。 このアビリティはクリティカルヒットしない。\r\n\r\nクールダウン: {2}."
+        "translatedText": "クロスボウか スナイパーライフルを 装備中に 使用できる。 武器ダメージの100%を与え、Stealthスキル 1ポイントにつき {1}%のダメージを与える。 このアビリティはクリティカルヒットしない。\r\n\r\nクールダウン: {2}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:5:Key",
         "objectId": 13,
-        "description": "n/a",
+        "description": "key='cookedshot'",
         "originalText": "cookedshot",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:5:Value",
         "objectId": 14,
         "description": "n/a",
         "originalText": "Grants you a special attack with chemical blob pistols that launches a big blob at the targeted location, dealing normal weapon damage to everything in a small radius. This attack costs {0}% of regular attack action points.\r\n\r\nCooldown: {1}.",
-        "translatedText": "毒液ピストルを装備中に使用できる。 目標地点に巨大なスライムを撃ち出し、 小範囲内のすべての敵に 通常の武器ダメージを与える。 APコストは通常攻撃の{0}%。\r\n\r\nクールダウン: {1}"
+        "translatedText": "毒液ピストルを装備中に使用できる。 目標地点に巨大なスライムを撃ち出し、 小範囲内のすべての敵に 通常の武器ダメージを与える。 APコストは通常攻撃の{0}%。\r\n\r\nクールダウン: {1}",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:6:Key",
         "objectId": 15,
-        "description": "n/a",
+        "description": "key='a'",
         "originalText": "a",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:6:Value",
         "objectId": 16,
         "description": "n/a",
         "originalText": "If your snipe attack deals over {0}% of the target's remaining health it will be instantly killed. Target must be unaware of your presence prior to the attack.\r\n\r\nOnly works on biological targets.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:7:Key",
         "objectId": 17,
-        "description": "n/a",
+        "description": "key='kcs-old'",
         "originalText": "kcs-old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:7:Value",
         "objectId": 18,
         "description": "n/a",
         "originalText": "An attack with a pistol, crossbow or SMG that does normal damage and applies a bleeding wound that deals additional {0}% of the original damage over {2} plus additional {1}% for every point in perception and removes all movement points from the target for {2} (target can still move using action points).\r\n\r\nOnly works on living targets (that have knees). Cooldown: {3}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:8:Key",
         "objectId": 19,
-        "description": "n/a",
+        "description": "key='kcs'",
         "originalText": "kcs",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:8:Value",
         "objectId": 20,
         "description": "n/a",
         "originalText": "An attack with a pistol, crossbow or SMG that does normal damage and applies a bleeding wound that deals additional {0}% of the original damage over {1} and removes all movement points for the same duration.\r\n\r\nOnly works on living targets (that have knees).\r\n\r\nCooldown: {2}.",
-        "translatedText": "ピストル、クロスボウ、サブマシンガンの いずれかを装備中に使用できる。 敵を出血状態にし、 {1}の間 ダメージを与える。 出血ダメージは攻撃ダメージの{0}%。 出血中の敵はMPが0になる。 (APは残るので行動することはできる)\r\n\r\nかかとの ある 生命体に しか 効果が ない。\r\n\r\nクールダウン: {2}."
+        "translatedText": "ピストル、クロスボウ、サブマシンガンの いずれかを装備中に使用できる。 敵を出血状態にし、 {1}の間 ダメージを与える。 出血ダメージは攻撃ダメージの{0}%。 出血中の敵はMPが0になる。 (APは残るので行動することはできる)\r\n\r\nかかとの ある 生命体に しか 効果が ない。\r\n\r\nクールダウン: {2}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:9:Key",
         "objectId": 21,
-        "description": "n/a",
+        "description": "key='kcs-xpbl'",
         "originalText": "kcs-xpbl",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:9:Value",
         "objectId": 22,
         "description": "n/a",
         "originalText": "An attack with a pistol, crossbow, SMG or shotgun that does normal damage and applies a bleeding wound that deals additional {0}% of the original damage over {1} and removes all movement points for the same duration.\r\n\r\nOnly works on living targets (that have knees).\r\n\r\nCooldown: {2}.",
-        "translatedText": "ピストル、クロスボウ、サブマシンガンの いずれかを装備中に使用できる。 敵を出血状態にし、 {1}の間ダメージを与える。 出血ダメージは攻撃ダメージの{0}%で、 出血中の敵はMPが0になる。\r\n\r\nかかとの ある 生命体にしか 効果が ない。 クールダウン: {2}"
+        "translatedText": "ピストル、クロスボウ、サブマシンガンの いずれかを装備中に使用できる。 敵を出血状態にし、 {1}の間ダメージを与える。 出血ダメージは攻撃ダメージの{0}%で、 出血中の敵はMPが0になる。\r\n\r\nかかとの ある 生命体にしか 効果が ない。 クールダウン: {2}",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:10:Key",
         "objectId": 23,
-        "description": "n/a",
+        "description": "key='ss-old'",
         "originalText": "ss-old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:10:Value",
         "objectId": 24,
         "description": "n/a",
         "originalText": "Increases your weapon critical bonuses when fully focused:\r\n\r\nPistols +{0}%\r\nCrossbows +{1}%\r\nSniper Rifles +{2}%",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:11:Key",
         "objectId": 25,
-        "description": "n/a",
+        "description": "key='ss'",
         "originalText": "ss",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:11:Value",
         "objectId": 26,
         "description": "n/a",
         "originalText": "Increases your critical damage bonus with pistols, crossbows and sniper rifles when fully focused by {0}%. Firearm pistols receive this bonus at all times, regardless of focus.",
-        "translatedText": "静止集中／Focusedバフが 最大である限り、 ピストル・クロスボウ・スナイパーライフルによる クリティカルダメージが {0}%増加する。 装備が火薬ピストルならば、 無条件にこの効果を受ける。"
+        "translatedText": "静止集中／Focusedバフが 最大である限り、 ピストル・クロスボウ・スナイパーライフルによる クリティカルダメージが {0}%増加する。 装備が火薬ピストルならば、 無条件にこの効果を受ける。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:12:Key",
         "objectId": 27,
-        "description": "n/a",
+        "description": "key='o'",
         "originalText": "o",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:12:Value",
         "objectId": 28,
         "description": "n/a",
         "originalText": "Increases damage against rooted, stunned and incapacitated targets by {0}% and against slowed targets by {1}% with weapons, unarmed attacks and throwing knives.\r\n\r\nOnly works on living targets.",
-        "translatedText": "束縛／Rooted、スタン／Stunned、 無力化／Incapacitated状態の相手には{0}%、 スロウ状態の相手には{1}%、 素手・ 武器・投げナイフのダメージが増加する。 \r\n\r\n生命体にしか効果がない。"
+        "translatedText": "束縛／Rooted、スタン／Stunned、 無力化／Incapacitated状態の相手には{0}%、 スロウ状態の相手には{1}%、 素手・ 武器・投げナイフのダメージが増加する。 \r\n\r\n生命体にしか効果がない。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:13:Key",
         "objectId": 29,
-        "description": "n/a",
+        "description": "key='g'",
         "originalText": "g",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:13:Value",
         "objectId": 30,
         "description": "n/a",
         "originalText": "Reduces the amount of action points required to fire pistols by {0} and increases initiative by {1} while wielding one. Only applies to firearms.",
-        "translatedText": "ピストルを発射する際の消費APが{0}減少する。 ピストルを装備しているとき、イニシアティブが{1}増加する。 火薬武器にしか効果がない。"
+        "translatedText": "ピストルを発射する際の消費APが{0}減少する。 ピストルを装備しているとき、イニシアティブが{1}増加する。 火薬武器にしか効果がない。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:14:Key",
         "objectId": 31,
-        "description": "n/a",
+        "description": "key='qr'",
         "originalText": "qr",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:14:Value",
         "objectId": 32,
         "description": "n/a",
         "originalText": "Increases attack speed with crossbows by 20%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:15:Key",
         "objectId": 33,
-        "description": "n/a",
+        "description": "key='pe'",
         "originalText": "pe",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:15:Value",
         "objectId": 34,
         "description": "n/a",
         "originalText": "Allows the character to learn and invoke psi abilities, but their base health is reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:16:Key",
         "objectId": 35,
-        "description": "n/a",
+        "description": "key='ci'",
         "originalText": "ci",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:16:Value",
         "objectId": 36,
         "description": "n/a",
         "originalText": "Increases the duration of all cold effects of your psi abilities by {0} and allows you to shatter targets caught in your cryostasis if the attack deals over {1}% of target's remaining health (only mechanical and cold damage dealt is considered).\r\n\r\nAlso increases the health of cryogenic barrier by {2}%.",
-        "translatedText": "PSIアビリティによる冷気系状態異常の持続時間が{0}増加する。 Cryostatsisの使用時、 対象の残りHPの{1}%以上のダメージを与えることで 対象を粉砕する能力を得る (物理／Mechanical、冷気／Cold ダメージの合計で判定する)。\r\n\r\nCryogenic Barrierの 耐久力が {2}% 増加する。"
+        "translatedText": "PSIアビリティによる冷気系状態異常の持続時間が{0}増加する。 Cryostatsisの使用時、 対象の残りHPの{1}%以上のダメージを与えることで 対象を粉砕する能力を得る (物理／Mechanical、冷気／Cold ダメージの合計で判定する)。\r\n\r\nCryogenic Barrierの 耐久力が {2}% 増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:17:Key",
         "objectId": 37,
-        "description": "n/a",
+        "description": "key='im'",
         "originalText": "im",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:17:Value",
         "objectId": 38,
         "description": "n/a",
         "originalText": "Grants you a special close range attack with the pistol that deals {0}% weapon damage against stunned and incapacitated targets. Does not work with pistols that deal their primary damage to multiple targets. Costs 5 action points more than a regular attack.\r\n\r\nCooldown: {1}.",
-        "translatedText": "Executeアビリティを習得する。 ピストルで近接距離の相手に使用でき、 対象がスタン／Stunned状態か無力化／Incapacitated状態ならば 通常攻撃の{0}%のダメージを与える。 範囲攻撃のピストルには適用されない。 APコストは通常攻撃のAP+5。\r\n\r\nクールダウン: {1}."
+        "translatedText": "Executeアビリティを習得する。 ピストルで近接距離の相手に使用でき、 対象がスタン／Stunned状態か無力化／Incapacitated状態ならば 通常攻撃の{0}%のダメージを与える。 範囲攻撃のピストルには適用されない。 APコストは通常攻撃のAP+5。\r\n\r\nクールダウン: {1}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:18:Key",
         "objectId": 39,
-        "description": "n/a",
+        "description": "key='h'",
         "originalText": "h",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:18:Value",
         "objectId": 40,
         "description": "n/a",
         "originalText": "Your cold based metathermic psi abilities also reduce target's constitution by {0}. This effect stacks up to {1} times and lasts up to {2}.\r\n\r\nCan be mitigated with cold resistance and targets that are immune to chilling and freezing effects are also immune to hypothermia.",
-        "translatedText": "冷気系のPSIアビリティに、{1}ターンの間 対象の持久／Constitutionを{0}低下させる効果を付与する。 この効果は{1}回まで重複する。\r\n\r\nこの効果は冷気耐性によって軽減でき、 冷気が効かない対象には効果がない。"
+        "translatedText": "冷気系のPSIアビリティに、{1}ターンの間 対象の持久／Constitutionを{0}低下させる効果を付与する。 この効果は{1}回まで重複する。\r\n\r\nこの効果は冷気耐性によって軽減でき、 冷気が効かない対象には効果がない。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:19:Key",
         "objectId": 41,
-        "description": "n/a",
+        "description": "key='i'",
         "originalText": "i",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:19:Value",
         "objectId": 42,
         "description": "n/a",
         "originalText": "Lowers the stealth movement speed penalty to {0}% and allows you to retain up to {1} movement points in combat while stealthed.",
-        "translatedText": "ステルス中の移動速度ペナルティを {0}%に軽減する。 ステルス状態で戦闘に入ってもMPが{1}残る。"
+        "translatedText": "ステルス中の移動速度ペナルティを {0}%に軽減する。 ステルス状態で戦闘に入ってもMPが{1}残る。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:20:Key",
         "objectId": 43,
-        "description": "n/a",
+        "description": "key='st'",
         "originalText": "st",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:20:Value",
         "objectId": 44,
         "description": "n/a",
         "originalText": "If you spend more than {0} seconds in stealth, you will gain {1}% displacement. This effect will persist for the duration of the stealth mode and {2} seconds afterwards.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:21:Key",
         "objectId": 45,
-        "description": "n/a",
+        "description": "key='ct-old'",
         "originalText": "ct-old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:21:Value",
         "objectId": 46,
         "description": "n/a",
         "originalText": "Increases the base damage of your Neural Overload psi ability by {0}%. Also, whenever it lands it reduces all target's psi point gains by {1}% for {2} turns. This effect stacks {3} times.",
-        "translatedText": "Neural Overloadの基本ダメージが{0}% 上昇する。 また命中時、対象のPSIポイントの自然回復を{1}%低下させる 効果を{2}ターン発生させる。 この効果は{3}つまで重複する。"
+        "translatedText": "Neural Overloadの基本ダメージが{0}% 上昇する。 また命中時、対象のPSIポイントの自然回復を{1}%低下させる 効果を{2}ターン発生させる。 この効果は{3}つまで重複する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:22:Key",
         "objectId": 47,
-        "description": "n/a",
+        "description": "key='ct'",
         "originalText": "ct",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:22:Value",
         "objectId": 48,
         "description": "n/a",
         "originalText": "Increases the base damage of your Neural Overload psi ability by {0}%. Also, whenever it lands it reduces target's psi point reserves by {1}% of their maximum psi points.",
-        "translatedText": "PSIアビリティ Neural Overload の基本ダメージが{0}%上昇する。 また、Neural Overloadを命中させるたび、 対象はPSIプールから 最大PSIポイントの{1}%のPSIポイントを失う。"
+        "translatedText": "PSIアビリティ Neural Overload の基本ダメージが{0}%上昇する。 また、Neural Overloadを命中させるたび、 対象はPSIプールから 最大PSIポイントの{1}%のPSIポイントを失う。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:23:Key",
         "objectId": 49,
-        "description": "n/a",
+        "description": "key='ms'",
         "originalText": "ms",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:23:Value",
         "objectId": 50,
         "description": "n/a",
         "originalText": "Each offensive mind affecting psi ability you land on the target reduces its resolve by a small percentage, but can ultimately stack up to {0}%.",
-        "translatedText": "敵に攻撃系のPSIアビリティが 命中したとき、 対象の不屈性／Resolveを わずかに低下させる。 効果は重複するが、 最大で{0}%まで。"
+        "translatedText": "敵に攻撃系のPSIアビリティが 命中したとき、 対象の不屈性／Resolveを わずかに低下させる。 効果は重複するが、 最大で{0}%まで。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:24:Key",
         "objectId": 51,
-        "description": "n/a",
+        "description": "key='co'",
         "originalText": "co",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:24:Value",
         "objectId": 52,
         "description": "n/a",
         "originalText": "Reduces all mechanical, heat and cold damage taken by {0}% plus {1}% for every point in constitution above {2}.",
-        "translatedText": "自分が受けるすべての 物理・熱・冷気ダメージを{0}% 軽減する。 CONが{2}を超えている場合、 超えている1ポイントにつき さらに{1}% 軽減する。"
+        "translatedText": "自分が受けるすべての 物理・熱・冷気ダメージを{0}% 軽減する。 CONが{2}を超えている場合、 超えている1ポイントにつき さらに{1}% 軽減する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:25:Key",
         "objectId": 53,
-        "description": "n/a",
+        "description": "key='ds-old'",
         "originalText": "ds-old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:25:Value",
         "objectId": 54,
         "description": "n/a",
         "originalText": "Increases precision with the crossbow when firing special bolts and removes additional action point cost.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:26:Key",
         "objectId": 55,
-        "description": "n/a",
+        "description": "key='ds'",
         "originalText": "ds",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:26:Value",
         "objectId": 56,
         "description": "n/a",
         "originalText": "Removes additional action point cost when firing special bolts.",
-        "translatedText": "特殊ボルトを撃つ際の 追加APコストが なくなる。"
+        "translatedText": "特殊ボルトを撃つ際の 追加APコストが なくなる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:27:Key",
         "objectId": 57,
-        "description": "n/a",
+        "description": "key='td-old'",
         "originalText": "td-old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:27:Value",
         "objectId": 58,
         "description": "n/a",
         "originalText": "After invoking heat based psi ability you gain thermodynamicity which reduces the psi cost of your next cold based psi ability by {0}% and vice versa.\r\n\r\nIf unused, the bonus expires after {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:28:Key",
         "objectId": 59,
-        "description": "n/a",
+        "description": "key='td'",
         "originalText": "td",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:28:Value",
         "objectId": 60,
         "description": "n/a",
         "originalText": "After invoking heat based psi ability you gain thermodynamicity which reduces the action point cost of your next cold based psi ability by {0}% and vice versa.\r\n\r\nIf unused, the bonus expires after {1}.",
-        "translatedText": "熱／冷却系のPSIアビリティを 発動した際、 {1}の間 Thermodynamicity状態になる。 この状態では、 前回使用したのと反対の属性 (熱を使ったなら冷気、 冷気を使ったなら熱) のPSIアビリティのAPコストが {0}%減少する。"
+        "translatedText": "熱／冷却系のPSIアビリティを 発動した際、 {1}の間 Thermodynamicity状態になる。 この状態では、 前回使用したのと反対の属性 (熱を使ったなら冷気、 冷気を使ったなら熱) のPSIアビリティのAPコストが {0}%減少する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:29:Key",
         "objectId": 61,
-        "description": "n/a",
+        "description": "key='pm-old'",
         "originalText": "pm-old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:29:Value",
         "objectId": 62,
         "description": "n/a",
         "originalText": "Whenever you deal damage with your fire based psi abilities you have a {0}% chance to set the target on fire, dealing {1}% of that damage again over {2} turns.\r\n\r\nSetting living targets on fire will put them in state of extreme panic.",
-        "translatedText": "炎系のPSIアビリティで ダメージを与えた際、 一定確率で 対象を{1}の間 炎上状態にする。 炎上のダメージは 炎上を引き起こした攻撃の ダメージの{0}%。\r\n\r\n生命体の敵が 炎上状態になると 極度の混乱に陥る。"
+        "translatedText": "炎系のPSIアビリティで ダメージを与えた際、 一定確率で 対象を{1}の間 炎上状態にする。 炎上のダメージは 炎上を引き起こした攻撃の ダメージの{0}%。\r\n\r\n生命体の敵が 炎上状態になると 極度の混乱に陥る。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:30:Key",
         "objectId": 63,
-        "description": "n/a",
+        "description": "key='pm'",
         "originalText": "pm",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:30:Value",
         "objectId": 64,
         "description": "n/a",
         "originalText": "Whenever you deal damage with your fire based psi abilities you have a chance to set the target on fire, dealing {0}% of that damage again over {1} turns.\r\n\r\nSetting living targets on fire will put them in state of extreme panic.",
-        "translatedText": "炎系のPSIアビリティでダメージを与えた際、 一定確率で対象を{1}ターンの間 炎上状態にする。 炎上のダメージは 炎上を引き起こした攻撃の ダメージの{0}%。\r\n\r\n生命体の敵が 炎上状態になると 極度の混乱に陥る。"
+        "translatedText": "炎系のPSIアビリティでダメージを与えた際、 一定確率で対象を{1}ターンの間 炎上状態にする。 炎上のダメージは 炎上を引き起こした攻撃の ダメージの{0}%。\r\n\r\n生命体の敵が 炎上状態になると 極度の混乱に陥る。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:31:Key",
         "objectId": 65,
-        "description": "n/a",
+        "description": "key='fullauto'",
         "originalText": "fullauto",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:31:Value",
         "objectId": 66,
         "description": "n/a",
         "originalText": "You can fire two extra rounds during your assault rifle and SMG burst attack if you are strong enough to take the kickback.",
-        "translatedText": "アサルトライフルか サブマシンガンの バースト射撃の 発射数が2増える。ただし、 Strength／筋力が 装備条件を満たしていない場合は 発動しない。"
+        "translatedText": "アサルトライフルか サブマシンガンの バースト射撃の 発射数が2増える。ただし、 Strength／筋力が 装備条件を満たしていない場合は 発動しない。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:32:Key",
         "objectId": 67,
-        "description": "n/a",
+        "description": "key='fullauto-xpbl'",
         "originalText": "fullauto-xpbl",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:32:Value",
         "objectId": 68,
         "description": "n/a",
         "originalText": "You can fire two extra rounds during your assault rifle and SMG burst attack and one extra shell during shotgun bursts if you are strong enough to take the kickback.",
-        "translatedText": "バースト射撃の射撃数が増える。 アサルトライフルかサブマシンガンなら+2、ショットガンなら+1。 ただし、Strength／筋力が装備条件を満たしていない場合は 発動しない。"
+        "translatedText": "バースト射撃の射撃数が増える。 アサルトライフルかサブマシンガンなら+2、ショットガンなら+1。 ただし、Strength／筋力が装備条件を満たしていない場合は 発動しない。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:33:Key",
         "objectId": 69,
-        "description": "n/a",
+        "description": "key='ambush'",
         "originalText": "ambush",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:33:Value",
         "objectId": 70,
         "description": "n/a",
         "originalText": "When attacking an illuminated target from out of the darkness with a single-target ranged weapon you ignore half the target's evasion and your critical chance is increased by {0}% plus {1}% for each stealth skill point.",
-        "translatedText": "自分が暗いタイルにいるときに 明るいタイルにいる敵に対して 単体遠隔武器で攻撃したとき、 対象のEvasionスキルの半分を無視し、 クリティカル率を ({0}%+自身のStealthスキル1につき{1})% する。"
+        "translatedText": "自分が暗いタイルにいるときに 明るいタイルにいる敵に対して 単体遠隔武器で攻撃したとき、 対象のEvasionスキルの半分を無視し、 クリティカル率を ({0}%+自身のStealthスキル1につき{1})% する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:34:Key",
         "objectId": 71,
-        "description": "n/a",
+        "description": "key='forceuser'",
         "originalText": "forceuser",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:34:Value",
         "objectId": 72,
         "description": "n/a",
         "originalText": "Telekinesis is strong with you.\r\n\r\nDamage from your telekinetic punch is increased by {0}%, your force field has {1}% more health and lasts {2} additional turns, and your force emission costs {3} less psi point.",
-        "translatedText": "テレキネシス系の能力を強化する。\r\n\r\nTelekinetic Punchのダメージが {0}%増加する。 Force FieldのHPが{1}%増加し、 持続時間が{2}ターン増加する。 Forse Emissionの PSIポイントコストが {3}減少する。"
+        "translatedText": "テレキネシス系の能力を強化する。\r\n\r\nTelekinetic Punchのダメージが {0}%増加する。 Force FieldのHPが{1}%増加し、 持続時間が{2}ターン増加する。 Forse Emissionの PSIポイントコストが {3}減少する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:35:Key",
         "objectId": 73,
-        "description": "n/a",
+        "description": "key='locusofcontrol'",
         "originalText": "locusofcontrol",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:35:Value",
         "objectId": 74,
         "description": "n/a",
         "originalText": "You are the master of your own fate.\r\n\r\nActivate this ability to remove and gain immunity to stun, fear, incapacitation, and mind control for {0}.\r\n\r\nWhile this effect is active you can invoke any thought control psi ability as an area of effect ability, but that will end the effect.\r\n\r\nCooldown: {1}.",
-        "translatedText": "自らの運命を決めるのは自分自身だ。\r\n\r\n使用すると{0}ターンの間、 スタン／Stunned、恐慌／Fear、無力化／Incapacitation 状態にならなくなり、 精神操作を受け付けなくなる。　\r\n\r\nこのバフの効果中に精神操作／Thought Control系統の PSIアビリティを 使用すると、 範囲攻撃に変化するかわりに、 即座にバフが終了する。\r\n\r\nクールダウン: {1}."
+        "translatedText": "自らの運命を決めるのは自分自身だ。\r\n\r\n使用すると{0}ターンの間、 スタン／Stunned、恐慌／Fear、無力化／Incapacitation 状態にならなくなり、 精神操作を受け付けなくなる。　\r\n\r\nこのバフの効果中に精神操作／Thought Control系統の PSIアビリティを 使用すると、 範囲攻撃に変化するかわりに、 即座にバフが終了する。\r\n\r\nクールダウン: {1}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:36:Key",
         "objectId": 75,
-        "description": "n/a",
+        "description": "key='tranquility-old'",
         "originalText": "tranquility-old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:36:Value",
         "objectId": 76,
         "description": "n/a",
         "originalText": "Reduces the psi point cost of all psi abilities by {0}%, but increases the action point cost by the same percentage.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:37:Key",
         "objectId": 77,
-        "description": "n/a",
+        "description": "key='tranquility'",
         "originalText": "tranquility",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:37:Value",
         "objectId": 78,
         "description": "n/a",
         "originalText": "Reduces the action point cost of all psi abilities by {0} while at full health.",
-        "translatedText": "HPが満タンのとき、全てのPSIアビリティのAPコストが{0}減少する。"
+        "translatedText": "HPが満タンのとき、全てのPSIアビリティのAPコストが{0}減少する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:38:Key",
         "objectId": 79,
-        "description": "n/a",
+        "description": "key='psychosis'",
         "originalText": "psychosis",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:38:Value",
         "objectId": 80,
         "description": "n/a",
         "originalText": "Increases critical chance of all psi abilities by {0}%, but also increases their psi point cost by {1}%.",
-        "translatedText": "すべてのPSIアビリティのクリティカル率が{0}%増加するが、PSIポイントコストも{1}%増加する。"
+        "translatedText": "すべてのPSIアビリティのクリティカル率が{0}%増加するが、PSIポイントコストも{1}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:39:Key",
         "objectId": 81,
-        "description": "n/a",
+        "description": "key='premeditation-old'",
         "originalText": "premeditation-old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:39:Value",
         "objectId": 82,
         "description": "n/a",
         "originalText": "When activated this ability will make your next psi ability cost no psi points and have its range increased by {0}.\r\n\r\nCooldown: {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:40:Key",
         "objectId": 83,
-        "description": "n/a",
+        "description": "key='premeditation'",
         "originalText": "premeditation",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:40:Value",
         "objectId": 84,
         "description": "n/a",
         "originalText": "When activated this ability will reduce the psi cost of your next psi ability by {0}%, its action point cost by {1}% and increase its range by {2}. The range is not increased for channeled abilities.\r\n\r\nCooldown: {3}.",
-        "translatedText": "Premeditationアビリティを習得する。次に使用するPSIアビリティはPSIポイントコストが{0}%軽減され、APコストが{1}%軽減され、さらに射程が{2}伸びる。ただしChannelling系のアビリティは射程が伸びない。\r\n\r\nクールダウン: {3}"
+        "translatedText": "Premeditationアビリティを習得する。次に使用するPSIアビリティはPSIポイントコストが{0}%軽減され、APコストが{1}%軽減され、さらに射程が{2}伸びる。ただしChannelling系のアビリティは射程が伸びない。\r\n\r\nクールダウン: {3}",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:41:Key",
         "objectId": 85,
-        "description": "n/a",
+        "description": "key='cutthroat'",
         "originalText": "cutthroat",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:41:Value",
         "objectId": 86,
         "description": "n/a",
         "originalText": "You can perform a powerful knife stealth attack from behind the target that bypasses all resistances and shields, applies a bleeding wound that deals extra {0}% damage over {1} and stuns the target for the same duration.\r\n\r\nYou must either be hidden from your target through stealth or the target needs to be incapacitated. Only works on humanoids.\r\n\r\nAction point cost: {2}. Cooldown: {3}.",
-        "translatedText": "Cut Throatアビリティを習得する。ナイフを装備時に使用できる。このアビリティのダメージは対象の防御力やシールドをすべて無視する。さらに{1}で{0}%の追加の出血ダメージを与え、{1}の間対象をスタン／Stunned状態にする。\r\n\r\nこのアビリティを使用するためには対象から完全にステルス状態になっているか、対象が無力化されている必要がある。また人型生物にしか使えない。\r\n\r\nAPコスト: {2} クールダウン: {3}."
+        "translatedText": "Cut Throatアビリティを習得する。ナイフを装備時に使用できる。このアビリティのダメージは対象の防御力やシールドをすべて無視する。さらに{1}で{0}%の追加の出血ダメージを与え、{1}の間対象をスタン／Stunned状態にする。\r\n\r\nこのアビリティを使用するためには対象から完全にステルス状態になっているか、対象が無力化されている必要がある。また人型生物にしか使えない。\r\n\r\nAPコスト: {2} クールダウン: {3}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:42:Key",
         "objectId": 87,
-        "description": "n/a",
+        "description": "key='doctor'",
         "originalText": "doctor",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:42:Value",
         "objectId": 88,
         "description": "n/a",
         "originalText": "You can heal any wound with bandages. You also gain {0}% more health from health restoring medications.",
-        "translatedText": "残りHP割合による包帯の使用制限がなくなる。また、薬によるHP回復が{0}%増加する。"
+        "translatedText": "残りHP割合による包帯の使用制限がなくなる。また、薬によるHP回復が{0}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:43:Key",
         "objectId": 89,
-        "description": "n/a",
+        "description": "key='powermanagement'",
         "originalText": "powermanagement",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:43:Value",
         "objectId": 90,
         "description": "n/a",
         "originalText": "Electronic devices you craft have {0}% greater energy capacity.",
-        "translatedText": "電子デバイスのクラフト時、電池容量が{0}%増加する。"
+        "translatedText": "電子デバイスのクラフト時、電池容量が{0}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:44:Key",
         "objectId": 91,
-        "description": "n/a",
+        "description": "key='lightningpunches-old'",
         "originalText": "lightningpunches-old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:44:Value",
         "objectId": 92,
         "description": "n/a",
         "originalText": "Reduces the action point cost of your unarmed attack by {0} while your armor penalty is below {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:45:Key",
         "objectId": 93,
-        "description": "n/a",
+        "description": "key='lightningpunches'",
         "originalText": "lightningpunches",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:45:Value",
         "objectId": 94,
         "description": "n/a",
         "originalText": "Reduces the action point cost of your unarmed and fist weapon attacks by {0} while your armor penalty is below {1}%.",
-        "translatedText": "重装ペナルティが{1}%より低いとき、素手・拳武器による攻撃のAPコストが{0}減少する。"
+        "translatedText": "重装ペナルティが{1}%より低いとき、素手・拳武器による攻撃のAPコストが{0}減少する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:46:Key",
         "objectId": 95,
-        "description": "n/a",
+        "description": "key='deflection'",
         "originalText": "deflection",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:46:Value",
         "objectId": 96,
         "description": "n/a",
         "originalText": "While unarmed or wielding fist weapons, your dodge is increased by {0}% of your melee skill.",
-        "translatedText": "素手か拳武器の装備中、Meleeスキルの{0}%をDodgeスキルに加算する。"
+        "translatedText": "素手か拳武器の装備中、Meleeスキルの{0}%をDodgeスキルに加算する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:47:Key",
         "objectId": 97,
-        "description": "n/a",
+        "description": "key='--chuckattack'",
         "originalText": "--chuckattack",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:47:Value",
         "objectId": 98,
         "description": "n/a",
         "originalText": "You can perform a powerful roundhouse kick that deals {0}% unarmed weapon damage and has a chance of breaking target's ribs (humans only), reducing their action points by {1} for {2}.\r\n\r\nYou also gain a small amount of fame and infamy first time you perform this attack.\r\n\r\nCooldown: {3}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:48:Key",
         "objectId": 99,
-        "description": "n/a",
+        "description": "key='burglar'",
         "originalText": "burglar",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:48:Value",
         "objectId": 100,
         "description": "n/a",
         "originalText": "Reduces the time it takes to pick and hack locks by {0}%. Also grants you +{1} bonus to stealth skill when in controlled areas.",
-        "translatedText": "ロックピッキング・ハッキングの解錠に要する時間を{0}%軽減する。いずれかの勢力が支配するエリアにいるとき、Stealthスキルが+{1}増加する。"
+        "translatedText": "ロックピッキング・ハッキングの解錠に要する時間を{0}%軽減する。いずれかの勢力が支配するエリアにいるとき、Stealthスキルが+{1}増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:49:Key",
         "objectId": 101,
-        "description": "n/a",
+        "description": "key='ninjalooter'",
         "originalText": "ninjalooter",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:49:Value",
         "objectId": 102,
         "description": "n/a",
         "originalText": "Reduces pickpocketing time by {0}%. Also reduces suspicion raised when pickpocketing by {1}% when hidden from the target.",
-        "translatedText": "Pickpocketの所要時間が{0}%減少する。また、対象から見てステルス状態ならば警戒度の上昇を{1}%軽減する。"
+        "translatedText": "Pickpocketの所要時間が{0}%減少する。また、対象から見てステルス状態ならば警戒度の上昇を{1}%軽減する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:50:Key",
         "objectId": 103,
-        "description": "n/a",
+        "description": "key='quickpockets'",
         "originalText": "quickpockets",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:50:Value",
         "objectId": 104,
         "description": "n/a",
         "originalText": "Provides you with an extra utility slot and reduces the action point cost of equipping items during combat by {0}%.",
-        "translatedText": "ユーティリティスロットが1つ増える。戦闘中にアイテムを装備するAPコストが{0}%軽減される。"
+        "translatedText": "ユーティリティスロットが1つ増える。戦闘中にアイテムを装備するAPコストが{0}%軽減される。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:51:Key",
         "objectId": 105,
-        "description": "n/a",
+        "description": "key='snooping'",
         "originalText": "snooping",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:51:Value",
         "objectId": 106,
         "description": "n/a",
         "originalText": "Increases perception by {0} for the purpose of detecting hidden passages and other secrets.",
-        "translatedText": "隠されたオブジェクトを発見する際、PER+{0}で判定を行う。"
+        "translatedText": "隠されたオブジェクトを発見する際、PER+{0}で判定を行う。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:52:Key",
         "objectId": 107,
-        "description": "n/a",
+        "description": "key='recklessness'",
         "originalText": "recklessness",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:52:Value",
         "objectId": 108,
         "description": "n/a",
         "originalText": "Increases your chance to critically hit with weapons and unarmed attacks by {0}%, but also increases your chance to get critically hit by weapon and unarmed attacks and psi abilities by {1}%.",
-        "translatedText": "武器および素手攻撃の クリティカル率を {0}% 向上させるが、 武器攻撃・ 素手攻撃・ PSI能力によって 敵から クリティカルを 受ける 確率も {1}% 増加する。"
+        "translatedText": "武器および素手攻撃の クリティカル率を {0}% 向上させるが、 武器攻撃・ 素手攻撃・ PSI能力によって 敵から クリティカルを 受ける 確率も {1}% 増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:53:Key",
         "objectId": 109,
-        "description": "n/a",
+        "description": "key='nimble'",
         "originalText": "nimble",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:53:Value",
         "objectId": 110,
         "description": "n/a",
         "originalText": "Reduces armor penalty by {0}% and grants {1}% bonus to dodge and evasion if your armor penalty is at zero.",
-        "translatedText": "重装ペナルティを{0}%軽減する。もし重装ペナルティが0なら、近接回避／Dodgeスキルと遠隔回避／Evasionスキルに{1}%のボーナスを得る。"
+        "translatedText": "重装ペナルティを{0}%軽減する。もし重装ペナルティが0なら、近接回避／Dodgeスキルと遠隔回避／Evasionスキルに{1}%のボーナスを得る。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:54:Key",
         "objectId": 111,
-        "description": "n/a",
+        "description": "key='specialtactics'",
         "originalText": "specialtactics",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:54:Value",
         "objectId": 112,
         "description": "n/a",
         "originalText": "Grants you an ability that when activated will remove the action point cost of your next special bolt attack. This ability can only be activated while out of combat.\r\n\r\nCooldown: {0} seconds.",
-        "translatedText": "Special Tacticsアビリティを習得する。次の特殊ボルトによる攻撃のAPコストが0になる。戦闘中以外しか発動できない。\r\n\r\nクールダウン: {0}秒"
+        "translatedText": "Special Tacticsアビリティを習得する。次の特殊ボルトによる攻撃のAPコストが0になる。戦闘中以外しか発動できない。\r\n\r\nクールダウン: {0}秒",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:55:Key",
         "objectId": 113,
-        "description": "n/a",
+        "description": "key='pummel'",
         "originalText": "pummel",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:55:Value",
         "objectId": 114,
         "description": "n/a",
         "originalText": "You can perform a special attack with a sledgehammer that deals {0}% weapon damage and does not ignore damage threshold, but puts living targets off balance for {1} if it lands and costs only {2} action points.\r\n\r\nOff-balanced characters have their dodge and evasion reduced to zero.\r\n\r\nCooldown: {3}",
-        "translatedText": "スレッジハンマーを装備中のみ使用できる。武器ダメージの{0}%を与え(装甲は有効)、対象が生命体ならば、{1}ターンの間転倒状態にする。この攻撃が命中した場合、この攻撃の消費APは{2}になる。\r\n\r\n転倒状態の敵は近接回避・遠隔回避が0になる。\r\n\r\nクールダウン: {3}"
+        "translatedText": "スレッジハンマーを装備中のみ使用できる。武器ダメージの{0}%を与え(装甲は有効)、対象が生命体ならば、{1}ターンの間転倒状態にする。この攻撃が命中した場合、この攻撃の消費APは{2}になる。\r\n\r\n転倒状態の敵は近接回避・遠隔回避が0になる。\r\n\r\nクールダウン: {3}",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:56:Key",
         "objectId": 115,
-        "description": "n/a",
+        "description": "key='shroomhead-old'",
         "originalText": "shroomhead-old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:56:Value",
         "objectId": 116,
         "description": "n/a",
         "originalText": "You regenerate psi points in presence of mindshrooms when below {0}% of your psi point capacity.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:57:Key",
         "objectId": 117,
-        "description": "n/a",
+        "description": "key='shroomhead'",
         "originalText": "shroomhead",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:57:Value",
         "objectId": 118,
         "description": "n/a",
         "originalText": "Your subconscious is tuned into the fungal surroundings so well that you recover {0} psi points when picking up mindshrooms.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:58:Key",
         "objectId": 119,
-        "description": "n/a",
+        "description": "key='yell'",
         "originalText": "yell",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:58:Value",
         "objectId": 120,
         "description": "n/a",
         "originalText": "You can issue an intimidating shout in an attempt to reduce combat readiness of surrounding enemies and remove them from stealth . All affected enemies will have their offensive skills reduced by an amount equal to {0}% of your intimidation skill for {1}.\r\n\r\nCooldown: {2}.",
-        "translatedText": "恐ろしい雄たけびを発する。周辺のすべての敵は{1}ターンの間威圧状態になり、ステルス状態の敵はステルスが解除される。威圧状態の敵の攻撃スキルはプレイヤーのIntimidationスキルの{0}%と同じ数値だけ減少する。\r\n\r\nクールダウン: {2}."
+        "translatedText": "恐ろしい雄たけびを発する。周辺のすべての敵は{1}ターンの間威圧状態になり、ステルス状態の敵はステルスが解除される。威圧状態の敵の攻撃スキルはプレイヤーのIntimidationスキルの{0}%と同じ数値だけ減少する。\r\n\r\nクールダウン: {2}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:59:Key",
         "objectId": 121,
-        "description": "n/a",
+        "description": "key='hitandrun'",
         "originalText": "hitandrun",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:59:Value",
         "objectId": 122,
         "description": "n/a",
         "originalText": "Every time you kill an enemy with your melee or ranged weapon your movement points are reset to {0} (cannot exceed your maximum) if they were below that number.",
-        "translatedText": "近接武器か遠隔武器で敵を倒すたび、MPが{0}まで回復する。(ただし、最大MPを超えることはない)"
+        "translatedText": "近接武器か遠隔武器で敵を倒すたび、MPが{0}まで回復する。(ただし、最大MPを超えることはない)",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:60:Key",
         "objectId": 123,
-        "description": "n/a",
+        "description": "key='dirtykick-old'",
         "originalText": "dirtykick-old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:60:Value",
         "objectId": 124,
         "description": "n/a",
         "originalText": "You can perform a special unarmed attack that deals normal damage and stuns living targets for {0}. If the target is human male, it's stunned for {1} instead.\r\n\r\nCooldown: {2}.",
-        "translatedText": "特別な近接攻撃アビリティを習得する。APコストは{3}で、対象が生命体ならば、{0}ターンの間スタンする。もし対象が人型の生命体かつ男ならば、スタンは{1}ターンに伸びる。\r\n\r\nこのアビリティは装備中の武器にかかわらず使える。基本ダメージは素手攻撃の威力によって決まる。\r\n\r\nクールダウン: {2}."
+        "translatedText": "特別な近接攻撃アビリティを習得する。APコストは{3}で、対象が生命体ならば、{0}ターンの間スタンする。もし対象が人型の生命体かつ男ならば、スタンは{1}ターンに伸びる。\r\n\r\nこのアビリティは装備中の武器にかかわらず使える。基本ダメージは素手攻撃の威力によって決まる。\r\n\r\nクールダウン: {2}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:61:Key",
         "objectId": 125,
-        "description": "n/a",
+        "description": "key='dirtykick'",
         "originalText": "dirtykick",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:61:Value",
         "objectId": 126,
         "description": "n/a",
         "originalText": "You can perform a special melee attack for {3} action points that deals increased unarmed damage and stuns living targets for {0}. If the target is humanoid male, it's stunned for {1} instead.\r\n\r\nThis attack can be performed regardless of the currently equipped weapon. The damage scales up with your unarmed attack damage.\r\n\r\nCooldown: {2}.",
-        "translatedText": "素手か拳武器でのみ使用できる。通常攻撃の{1}%のAPを消費し、{0}%のダメージを与える。"
+        "translatedText": "素手か拳武器でのみ使用できる。通常攻撃の{1}%のAPを消費し、{0}%のダメージを与える。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:62:Key",
         "objectId": 127,
-        "description": "n/a",
+        "description": "key='heavypunch'",
         "originalText": "heavypunch",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:62:Value",
         "objectId": 128,
         "description": "n/a",
         "originalText": "You can perform an unconditional unarmed or fist weapon attack that deals {0}% damage at {1}% action point cost.",
-        "translatedText": "素手か拳武器でのみ使用できる。通常攻撃の{1}%のAPを消費し、{0}%のダメージを与える。"
+        "translatedText": "素手か拳武器でのみ使用できる。通常攻撃の{1}%のAPを消費し、{0}%のダメージを与える。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:63:Key",
         "objectId": 129,
-        "description": "n/a",
+        "description": "key='cripplingstrike'",
         "originalText": "cripplingstrike",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:63:Value",
         "objectId": 130,
         "description": "n/a",
         "originalText": "An unarmed, fist weapon or knife attack that deals {0}% damage and reduces the target's strength by {1} if it penetrates armor. Lasts {2}. Stacks {3} times.\r\n\r\nOnly works on living targets.\r\n\r\nCooldown: {4}.",
-        "translatedText": "素手・拳武器・ナイフを装備中のみ使用できる。通常攻撃の{0}%のダメージを与え、もし装甲によって0ダメージにならないならば、{2}ターンの間、対象のSTRを{1}減少させる。この効果は{3}つまで重複する。\r\n\r\n生命体にのみ有効。\r\n\r\nクールダウン: {4}。"
+        "translatedText": "素手・拳武器・ナイフを装備中のみ使用できる。通常攻撃の{0}%のダメージを与え、もし装甲によって0ダメージにならないならば、{2}ターンの間、対象のSTRを{1}減少させる。この効果は{3}つまで重複する。\r\n\r\n生命体にのみ有効。\r\n\r\nクールダウン: {4}。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:64:Key",
         "objectId": 131,
-        "description": "n/a",
+        "description": "key='bonebreaker'",
         "originalText": "bonebreaker",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:64:Value",
         "objectId": 132,
         "description": "n/a",
         "originalText": "Critical hits from your blunt melee attacks break ribs if they deal at least {0}% of target's maximal health through mechanical damage. Targets with broken ribs receive additional {1}% mechanical damage from all sources. \r\n\r\nThis effect lasts {2} and stacks up to {3} times. Only works on targets that actually have ribs.",
-        "translatedText": "鈍器でクリティカルヒットを発生させたとき、その物理ダメージが対象の最大HPの{0}%以上ならば、対象のあばら骨を砕き、Broken Ribs状態にする。この状態の敵は全ての物理ダメージを{1}%多く受ける。\r\n\r\n{2}持続し、{3}回までスタックする。あばら骨のない相手には発動しない。"
+        "translatedText": "鈍器でクリティカルヒットを発生させたとき、その物理ダメージが対象の最大HPの{0}%以上ならば、対象のあばら骨を砕き、Broken Ribs状態にする。この状態の敵は全ての物理ダメージを{1}%多く受ける。\r\n\r\n{2}持続し、{3}回までスタックする。あばら骨のない相手には発動しない。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:65:Key",
         "objectId": 133,
-        "description": "n/a",
+        "description": "key='bonebreaker_cleave'",
         "originalText": "bonebreaker_cleave",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:65:Value",
         "objectId": 134,
         "description": "n/a",
         "originalText": "If the attack deals at least {0}% of target's maximal health through mechanical damage, it will break their ribs. Targets with broken ribs receive additional {1}% mechanical damage from all sources. \r\n\r\nThis effect lasts {2} and stacks up to {3} times. Only works on targets that actually have ribs.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:66:Key",
         "objectId": 135,
-        "description": "n/a",
+        "description": "key='cheapshots'",
         "originalText": "cheapshots",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:66:Value",
         "objectId": 136,
         "description": "n/a",
         "originalText": "Increases critical damage bonus of your melee attacks by {0}% and gives your melee attacks {1}% chance to incapacitate the target for {2}.",
-        "translatedText": "近接攻撃のクリティカルダメージボーナスが{0}%増加する。また、近接攻撃に対象を{2}の間無力化／Incapacitate状態にする追加効果を付与する。"
+        "translatedText": "近接攻撃のクリティカルダメージボーナスが{0}%増加する。また、近接攻撃に対象を{2}の間無力化／Incapacitate状態にする追加効果を付与する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:67:Key",
         "objectId": 137,
-        "description": "n/a",
+        "description": "key='paranoia'",
         "originalText": "paranoia",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:67:Value",
         "objectId": 138,
         "description": "n/a",
         "originalText": "Everyone is out to get you and you know it. Detection increased by {0}%, initiative by {1} and chance to get critically hit by weapon and unarmed attacks reduced by {2}%. Also your weapon and unarmed damage is increased by {3}% against stealthed targets.",
-        "translatedText": "この世の中はあなたを殺そうとしている狂人ばかりだ。発見力が{0}%増加する。イニシアティブが{1}増加する。武器・素手によるクリティカルを受ける確率が{2}%減少する。また、ステルス状態の相手に対する武器・素手ダメージが{3}%増加する。"
+        "translatedText": "この世の中はあなたを殺そうとしている狂人ばかりだ。発見力が{0}%増加する。イニシアティブが{1}増加する。武器・素手によるクリティカルを受ける確率が{2}%減少する。また、ステルス状態の相手に対する武器・素手ダメージが{3}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:68:Key",
         "objectId": 139,
-        "description": "n/a",
+        "description": "key='uncannydodge'",
         "originalText": "uncannydodge",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:68:Value",
         "objectId": 140,
         "description": "n/a",
         "originalText": "Grants you an ability that when activated will cause you to dodge the next {0} regular or special melee attacks targeted against you, plus an additional attack for each {1} points in dodge.\r\n\r\nCooldown: {2}.",
-        "translatedText": "Uncanny Dodgeアビリティを習得する。近接攻撃である限り、通常／特殊攻撃を{0}回だけ回避する。Dodgeスキル{1}ポイントにつき回避回数が+1される。\r\n\r\nクールダウン: {2}."
+        "translatedText": "Uncanny Dodgeアビリティを習得する。近接攻撃である限り、通常／特殊攻撃を{0}回だけ回避する。Dodgeスキル{1}ポイントにつき回避回数が+1される。\r\n\r\nクールダウン: {2}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:69:Key",
         "objectId": 141,
-        "description": "n/a",
+        "description": "key='evasivemaneuvers'",
         "originalText": "evasivemaneuvers",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:69:Value",
         "objectId": 142,
         "description": "n/a",
         "originalText": "Grants you an ability that when activated converts all remaining movement points into thrice the evasion for {0}.\r\n\r\nCooldown: {1}.",
-        "translatedText": "Evasive Maneuversアビリティを習得する。MPを全て消費するかわり、その3倍の値を{0}ターンの間Evasionスキルに加算する。\r\n\r\nクールダウン: {1}."
+        "translatedText": "Evasive Maneuversアビリティを習得する。MPを全て消費するかわり、その3倍の値を{0}ターンの間Evasionスキルに加算する。\r\n\r\nクールダウン: {1}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:70:Key",
         "objectId": 143,
-        "description": "n/a",
+        "description": "key='grenadier'",
         "originalText": "grenadier",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:70:Value",
         "objectId": 144,
         "description": "n/a",
         "originalText": "Reduces the cooldown of fragmentation, high explosive, and incendiary grenades by {0} and special grenades by {1}.",
-        "translatedText": "グレネードのクールダウンを軽減する。フラグ／HE/焼夷グレネードは{0}、特別なグレネードは{1}。"
+        "translatedText": "グレネードのクールダウンを軽減する。フラグ／HE/焼夷グレネードは{0}、特別なグレネードは{1}。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:71:Key",
         "objectId": 145,
-        "description": "n/a",
+        "description": "key='trapexpert'",
         "originalText": "trapexpert",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:71:Value",
         "objectId": 146,
         "description": "n/a",
         "originalText": "Reduces time required to arm and disarm traps by {0}% and increases the detection difficulty of the traps you set by {1}%.",
-        "translatedText": "罠を解除するのに必要な時間が{0}%短縮される。自分が設置した罠の発見難易度を{1}%増加させる。"
+        "translatedText": "罠を解除するのに必要な時間が{0}%短縮される。自分が設置した罠の発見難易度を{1}%増加させる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:72:Key",
         "objectId": 147,
-        "description": "n/a",
+        "description": "key='threepointer-old'",
         "originalText": "threepointer-old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:72:Value",
         "objectId": 148,
         "description": "n/a",
         "originalText": "Gives your damage dealing grenades {0}% chance to critically hit. This chance is increased by {1}% for each point in dexterity above {2}.",
-        "translatedText": "攻撃系のグレネードが{0}%の確率でクリティカルヒットするようになる。このクリティカル率は器用／Dexterityが{2}を超えていると、1ポイントごとに{1}%増加する。"
+        "translatedText": "攻撃系のグレネードが{0}%の確率でクリティカルヒットするようになる。このクリティカル率は器用／Dexterityが{2}を超えていると、1ポイントごとに{1}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:73:Key",
         "objectId": 149,
-        "description": "n/a",
+        "description": "key='threepointer'",
         "originalText": "threepointer",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:73:Value",
         "objectId": 150,
         "description": "n/a",
         "originalText": "Gives your damage dealing grenades {0}% chance to critically hit. This chance is increased by {1}% for each 10 points in throwing skill above {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:74:Key",
         "objectId": 151,
-        "description": "n/a",
+        "description": "key='vileweaponry'",
         "originalText": "vileweaponry",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:74:Value",
         "objectId": 152,
         "description": "n/a",
         "originalText": "Whenever you cause a bleeding wound with a cold weapon, armor enhancement or trap you also apply infected wound which increases the damage taken from all sources by {0}% and reduces healing effects by {1}%. Stacks {2} times.",
-        "translatedText": "(高温ではない)武器・アーマーオプションパーツ・罠によって出血状態を与えたとき、追加で感染創状態にする。感染創状態の敵は全ての被ダメージが{0}%増加し、受ける回復効果が{1}%低下する。この効果は{2}つまで重複する。"
+        "translatedText": "(高温ではない)武器・アーマーオプションパーツ・罠によって出血状態を与えたとき、追加で感染創状態にする。感染創状態の敵は全ての被ダメージが{0}%増加し、受ける回復効果が{1}%低下する。この効果は{2}つまで重複する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:75:Key",
         "objectId": 153,
-        "description": "n/a",
+        "description": "key='exposeweakness'",
         "originalText": "exposeweakness",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:75:Value",
         "objectId": 154,
         "description": "n/a",
         "originalText": "You can perform a special melee attack that deals normal damage and reduces target's mechanical resistance and threshold by {0}% for {1} if it lands.\r\n\r\nCooldown: {2}.",
-        "translatedText": "Expose weaknessアビリティを習得する。APコスト{0}の近接攻撃で、命中したならば、{1}の間対象の物理耐性と物理装甲を50%低下させる。\r\n\r\nクールダウン: {2}."
+        "translatedText": "Expose weaknessアビリティを習得する。APコスト{0}の近接攻撃で、命中したならば、{1}の間対象の物理耐性と物理装甲を50%低下させる。\r\n\r\nクールダウン: {2}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:76:Key",
         "objectId": 155,
-        "description": "n/a",
+        "description": "key='steadfastaim'",
         "originalText": "steadfastaim",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:76:Value",
         "objectId": 156,
         "description": "n/a",
         "originalText": "Increases critical hit chance with a pistol by {0}% for each base action point required to fire it above {1}.",
-        "translatedText": "ピストルで攻撃時、APが余っているほどクリティカル率が増加する。(攻撃に必要なAP)+10を超えた分1ポイントにつきクリティカル率+{0}%。"
+        "translatedText": "ピストルで攻撃時、APが余っているほどクリティカル率が増加する。(攻撃に必要なAP)+10を超えた分1ポイントにつきクリティカル率+{0}%。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:77:Key",
         "objectId": 157,
-        "description": "n/a",
+        "description": "key='specops'",
         "originalText": "specops",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:77:Value",
         "objectId": 158,
         "description": "n/a",
         "originalText": "Reduces action point cost modifier for burst attack from {0}% to {1}% when using SMGs. Also reduces cooldown of flashbangs and similar tactical grenades by {2}.",
-        "translatedText": "サブマシンガンのみ有効。バースト射撃／Burst AttackのAPコストが通常攻撃の{0}%から{1}%になる。フラッシュバン／Flashbangs系のグレネードのクールダウンが{2}減少する。"
+        "translatedText": "サブマシンガンのみ有効。バースト射撃／Burst AttackのAPコストが通常攻撃の{0}%から{1}%になる。フラッシュバン／Flashbangs系のグレネードのクールダウンが{2}減少する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:78:Key",
         "objectId": 159,
-        "description": "n/a",
+        "description": "key='suppressivefire'",
         "originalText": "suppressivefire",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:78:Value",
         "objectId": 160,
         "description": "n/a",
         "originalText": "Enemies caught in your assault rifle or SMG burst attack cone (regardless of whether they've been shot) have their ranged chance to hit reduced by {0}%, action points reduced by {1} and movement points reduced by {2} for {3}.",
-        "translatedText": "アサルトライフル・サブマシンガン・ショットガンでバーストアタックを行った際、(狭い扇状の)攻撃範囲にいる敵すべては{3}の間制圧状態になる(攻撃が命中する必要はない)。制圧状態の敵は遠隔武器の命中率が{0}%低下し、APが{1}減少する。"
+        "translatedText": "アサルトライフル・サブマシンガン・ショットガンでバーストアタックを行った際、(狭い扇状の)攻撃範囲にいる敵すべては{3}の間制圧状態になる(攻撃が命中する必要はない)。制圧状態の敵は遠隔武器の命中率が{0}%低下し、APが{1}減少する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:79:Key",
         "objectId": 161,
-        "description": "n/a",
+        "description": "key='suppressivefire-xpbl'",
         "originalText": "suppressivefire-xpbl",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:79:Value",
         "objectId": 162,
         "description": "n/a",
         "originalText": "Enemies caught in your assault rifle, SMG or shotgun burst attack cone (regardless of whether they've been shot) have their ranged chance to hit reduced by {0}%, action points reduced by {1} and movement points reduced by {2} for {3}.",
-        "translatedText": "アサルトライフル・サブマシンガン・ショットガンでバーストアタックを行った際、(狭い扇状の)攻撃範囲にいる敵すべては{3}の間制圧状態になる(攻撃が命中する必要はない)。制圧状態の敵は遠隔攻撃の命中率が{0}%低下し、APが{1}減少し、MPが{2}低下する。"
+        "translatedText": "アサルトライフル・サブマシンガン・ショットガンでバーストアタックを行った際、(狭い扇状の)攻撃範囲にいる敵すべては{3}の間制圧状態になる(攻撃が命中する必要はない)。制圧状態の敵は遠隔攻撃の命中率が{0}%低下し、APが{1}減少し、MPが{2}低下する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:80:Key",
         "objectId": 163,
-        "description": "n/a",
+        "description": "key='quicktinkering-old'",
         "originalText": "quicktinkering-old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:80:Value",
         "objectId": 164,
         "description": "n/a",
         "originalText": "Grants you an ability that when activated will allow you to arm your next trap instantly, even in combat in which case it will cost no action points.\r\n\r\nCooldown: {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:81:Key",
         "objectId": 165,
-        "description": "n/a",
+        "description": "key='quicktinkering'",
         "originalText": "quicktinkering",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:81:Value",
         "objectId": 166,
         "description": "n/a",
         "originalText": "Grants you an ability that when activated will allow you to arm your next trap instantly, even in combat in which case it will cost {0} action points.\r\n\r\nCooldown: {1}.",
-        "translatedText": "Quick Tinkeringのアビリティを習得する。戦闘中でも罠を即座に設置することができる。APコストは{0}。\r\n\r\nクールダウン: {1}."
+        "translatedText": "Quick Tinkeringのアビリティを習得する。戦闘中でも罠を即座に設置することができる。APコストは{0}。\r\n\r\nクールダウン: {1}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:82:Key",
         "objectId": 167,
-        "description": "n/a",
+        "description": "key='fancyfootwork'",
         "originalText": "fancyfootwork",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:82:Value",
         "objectId": 168,
         "description": "n/a",
         "originalText": "When you land a melee attack you gain up to {0} movement points, depending on your armor penalty. This cannot raise your movement points beyond twice your normal maximum.",
-        "translatedText": "近接攻撃を命中させるたび、最大{0}のMPを回復する。回復量は重装ペナルティに依存する。もともとの最大MPの2倍を超えては回復しない。"
+        "translatedText": "近接攻撃を命中させるたび、最大{0}のMPを回復する。回復量は重装ペナルティに依存する。もともとの最大MPの2倍を超えては回復しない。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:83:Key",
         "objectId": 169,
-        "description": "n/a",
+        "description": "key='tasteforblood-old'",
         "originalText": "tasteforblood-old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:83:Value",
         "objectId": 170,
         "description": "n/a",
         "originalText": "Whenever you attack a bleeding target with a melee weapon or an unarmed attack, you increase your melee damage by {0}% and reduce action point cost of melee weapons by {1} for each bleeding wound the target has. This can stack up to {2} times. Killing blows against living targets will also grant a single stack regardless of the number of bleeding wounds.\r\n\r\nExpires after {3} if not refreshed.",
-        "translatedText": "近接武器か素手で敵を出血させるたび、近接攻撃のダメージが{0}%増加する。この効果は最大で10回までスタックする。近接攻撃でとどめを刺すことでもスタックが1増加する。\r\n\r\n更新しない限り、この効果は{3}ターンで失われる。"
+        "translatedText": "近接武器か素手で敵を出血させるたび、近接攻撃のダメージが{0}%増加する。この効果は最大で10回までスタックする。近接攻撃でとどめを刺すことでもスタックが1増加する。\r\n\r\n更新しない限り、この効果は{3}ターンで失われる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:84:Key",
         "objectId": 171,
-        "description": "n/a",
+        "description": "key='tasteforblood'",
         "originalText": "tasteforblood",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:84:Value",
         "objectId": 172,
         "description": "n/a",
         "originalText": "Whenever you attack a bleeding target with a melee weapon, you increase your melee damage by {0}% for each bleeding wound the target has. This can stack up to {1} times. Killing blows against living targets will also grant a single stack regardless of the number of bleeding wounds.\r\n\r\nExpires after {2} if not refreshed.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:85:Key",
         "objectId": 173,
-        "description": "n/a",
+        "description": "key='eviscerate'",
         "originalText": "eviscerate",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:85:Value",
         "objectId": 174,
         "description": "n/a",
         "originalText": "Grants you a special knife attack that removes all bleeding wounds from the target and deals {0}% bonus damage for each bleeding wound removed. \r\n\r\nCooldown: {1}.",
-        "translatedText": "Eviscerateアビリティを習得する。ナイフを装備中に使用可能。対象の出血スタックをすべて解除するが、解除された出血スタック1につき{0}%の追加ダメージを与える。\r\n\r\nクールダウン: {1}"
+        "translatedText": "Eviscerateアビリティを習得する。ナイフを装備中に使用可能。対象の出血スタックをすべて解除するが、解除された出血スタック1につき{0}%の追加ダメージを与える。\r\n\r\nクールダウン: {1}",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:86:Key",
         "objectId": 175,
-        "description": "n/a",
+        "description": "key='hypertoxicity'",
         "originalText": "hypertoxicity",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:86:Value",
         "objectId": 176,
         "description": "n/a",
         "originalText": "Increases damage done by poisons you apply by {0}%.",
-        "translatedText": "自身の与えた毒によるダメージが{0}%増加する。"
+        "translatedText": "自身の与えた毒によるダメージが{0}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:87:Key",
         "objectId": 177,
-        "description": "n/a",
+        "description": "key='hunter'",
         "originalText": "hunter",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:87:Value",
         "objectId": 178,
         "description": "n/a",
         "originalText": "Increases damage dealt to critters with crossbows and knives by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:88:Key",
         "objectId": 179,
-        "description": "n/a",
+        "description": "key='hunter-xpbl'",
         "originalText": "hunter-xpbl",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:88:Value",
         "objectId": 180,
         "description": "n/a",
         "originalText": "Increases damage dealt to critters with crossbows, knives and spears by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:89:Key",
         "objectId": 181,
-        "description": "n/a",
+        "description": "key='wrestling'",
         "originalText": "wrestling",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:89:Value",
         "objectId": 182,
         "description": "n/a",
         "originalText": "When you strike a living target with fist weapon or unarmed attack you have {0}% chance to reduce target's movement points by {1}, action points by {2} and chance to hit with all ranged weapons by {3}%. Stacks {4} times.",
-        "translatedText": "拳武器か素手で生命体を攻撃したとき、{0}%の確率で対象のMPを{1}、APを{2}減らし、すべての遠隔攻撃の命中率を{3}%低下させる。この効果は{4}回まで重複する。"
+        "translatedText": "拳武器か素手で生命体を攻撃したとき、{0}%の確率で対象のMPを{1}、APを{2}減らし、すべての遠隔攻撃の命中率を{3}%低下させる。この効果は{4}回まで重複する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:90:Key",
         "objectId": 183,
-        "description": "n/a",
+        "description": "key='combo'",
         "originalText": "combo",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:90:Value",
         "objectId": 184,
         "description": "n/a",
         "originalText": "If you land three consecutive damage dealing unarmed or fist weapon attacks against a single target in a single turn, the third attack will deal {0}% bonus damage and have {1}% chance to stun the target for {2}.",
-        "translatedText": "素手か拳武器による攻撃を同じ対象に1ターンで3回連続で命中させると、3回目の攻撃はダメージが{0}%上昇し、{1}%の確率で{2}ターンの間対象をスタン／Stunned状態にする。"
+        "translatedText": "素手か拳武器による攻撃を同じ対象に1ターンで3回連続で命中させると、3回目の攻撃はダメージが{0}%上昇し、{1}%の確率で{2}ターンの間対象をスタン／Stunned状態にする。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:91:Key",
         "objectId": 185,
-        "description": "n/a",
+        "description": "key='packrathound'",
         "originalText": "packrathound",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:91:Value",
         "objectId": 186,
         "description": "n/a",
         "originalText": "Increases carry capacity by {0}.",
-        "translatedText": "最大所持重量が{0}増加する。"
+        "translatedText": "最大所持重量が{0}増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:92:Key",
         "objectId": 187,
-        "description": "n/a",
+        "description": "key='laststand-old'",
         "originalText": "laststand-old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:92:Value",
         "objectId": 188,
         "description": "n/a",
         "originalText": "Grants you an ability that when activated will provide your character with additional {0} health immediately and reduce damage taken from all sources by {1}% for {2}. After this effect expires, the character will lose this extra health but this event cannot kill them.\r\n\r\nCooldown: {3}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:93:Key",
         "objectId": 189,
-        "description": "n/a",
+        "description": "key='laststand'",
         "originalText": "laststand",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:93:Value",
         "objectId": 190,
         "description": "n/a",
         "originalText": "Grants you an ability that when activated will temporarily reset your health to your maximum for {0}. After the effect expires, your health will be reduced to 1.\r\n\r\nCooldown: {1}.",
-        "translatedText": "Last Standアビリティを習得する。起動時、一時的にHPが最大値に戻るが、{0}ターンが経過するとHPが1になる。\r\n\r\nクールダウン: {1}."
+        "translatedText": "Last Standアビリティを習得する。起動時、一時的にHPが最大値に戻るが、{0}ターンが経過するとHPが1になる。\r\n\r\nクールダウン: {1}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:94:Key",
         "objectId": 191,
-        "description": "n/a",
+        "description": "key='salesman'",
         "originalText": "salesman",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:94:Value",
         "objectId": 192,
         "description": "n/a",
         "originalText": "Increases the amount of goods merchants will buy from you by {0}% per mercantile skill.",
-        "translatedText": "Merchantileスキル1につき、商人が買い取ってくれるアイテムの個数が{0}%増加する。"
+        "translatedText": "Merchantileスキル1につき、商人が買い取ってくれるアイテムの個数が{0}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:95:Key",
         "objectId": 193,
-        "description": "n/a",
+        "description": "key='disassemble'",
         "originalText": "disassemble",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:95:Value",
         "objectId": 194,
         "description": "n/a",
         "originalText": "Grants you a blueprint that enables you to disassemble items that are marked as disassemble-able, obtaining the components from which it was constructed. The retreived components have {0}% of the original quality.",
-        "translatedText": "「分解」レシピを習得する。分解可能なすべてのアイテムを分解することができ、材料をすべて回収することができる。ただし回収された素材の品質は元の{0}%になる。"
+        "translatedText": "「分解」レシピを習得する。分解可能なすべてのアイテムを分解することができ、材料をすべて回収することができる。ただし回収された素材の品質は元の{0}%になる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:96:Key",
         "objectId": 195,
-        "description": "n/a",
+        "description": "key='thickskull'",
         "originalText": "thickskull",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:96:Value",
         "objectId": 196,
         "description": "n/a",
         "originalText": "Whenever you should be stunned, you're dazed instead which reduces your action points by {0} and movement points by {1} but still allows you to act.",
-        "translatedText": "スタンを無効化し、行動不能になる代わりにめまい／Dazed状態になる(APが{0}低下し、MPが{1}低下する)。"
+        "translatedText": "スタンを無効化し、行動不能になる代わりにめまい／Dazed状態になる(APが{0}低下し、MPが{1}低下する)。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:97:Key",
         "objectId": 197,
-        "description": "n/a",
+        "description": "key='concentratedfire'",
         "originalText": "concentratedfire",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:97:Value",
         "objectId": 198,
         "description": "n/a",
         "originalText": "Each hit from assault rifle burst attack increases the damage from further burst hits by {0}%. Stacks {1} times and lasts until the end of the turn.",
-        "translatedText": "アサルトライフルのバースト射撃／Burst Attackが命中するたび、バースト射撃の攻撃力が{0}%増加する。この効果は{1}回まで重複し、ターン終了時まで続く。"
+        "translatedText": "アサルトライフルのバースト射撃／Burst Attackが命中するたび、バースト射撃の攻撃力が{0}%増加する。この効果は{1}回まで重複し、ターン終了時まで続く。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:98:Key",
         "objectId": 199,
-        "description": "n/a",
+        "description": "key='commando'",
         "originalText": "commando",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:98:Value",
         "objectId": 200,
         "description": "n/a",
         "originalText": "Killing an opponent using assault rifle or SMG burst attack will grant you an extra free burst attack that can be performed in the same turn. This can only happen once every turn.",
-        "translatedText": "アサルトライフルかサブマシンガンのバースト射撃／Burst Attackで敵を倒すと、そのターンの間バースト射撃の消費APが一度だけ0になる。1ターンに1回しか発動しない。"
+        "translatedText": "アサルトライフルかサブマシンガンのバースト射撃／Burst Attackで敵を倒すと、そのターンの間バースト射撃の消費APが一度だけ0になる。1ターンに1回しか発動しない。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:99:Key",
         "objectId": 201,
-        "description": "n/a",
+        "description": "key='pinning'",
         "originalText": "pinning",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:99:Value",
         "objectId": 202,
         "description": "n/a",
         "originalText": "Your throwing knives have {0}% chance to pin living targets to the ground for one turn.",
-        "translatedText": "投げナイフによる攻撃が{0}%の確率で相手を地面に拘束するようになる。生命体にしか効果がない。"
+        "translatedText": "投げナイフによる攻撃が{0}%の確率で相手を地面に拘束するようになる。生命体にしか効果がない。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:100:Key",
         "objectId": 203,
-        "description": "n/a",
+        "description": "key='fatalthrow'",
         "originalText": "fatalthrow",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:100:Value",
         "objectId": 204,
         "description": "n/a",
         "originalText": "Throwing knives always critically hit against targets below {0}% health. Killing a target with a knife throw will refund {1} action points (this can only happen once per turn).",
-        "translatedText": "残りHPが{0}%未満の相手に対し、投げナイフが必ずクリティカルヒットするようになる。 投げナイフで敵を倒すと、APが{1}回復する(1ターンに1回まで)。"
+        "translatedText": "残りHPが{0}%未満の相手に対し、投げナイフが必ずクリティカルヒットするようになる。 投げナイフで敵を倒すと、APが{1}回復する(1ターンに1回まで)。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:101:Key",
         "objectId": 205,
-        "description": "n/a",
+        "description": "key='splitspare'",
         "originalText": "splitspare",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:101:Value",
         "objectId": 206,
         "description": "n/a",
-        "originalText": "投げナイフを投げた際、+1本の追加の投げナイフを投げる。 対象は1発目を投げた方向の 狭い扇形範囲に入っている敵のどれか。",
-        "translatedText": ""
+        "originalText": "When throwing knives you throw an extra one at a nearby target that's within the attack cone.",
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:102:Key",
         "objectId": 207,
-        "description": "n/a",
+        "description": "key='ripper'",
         "originalText": "ripper",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:102:Value",
         "objectId": 208,
         "description": "n/a",
         "originalText": "Critical hit damage with knives and throwing knives increased by {0}% for each {1}% of the target's missing health. Applied multiplicatively to regular critical damage bonus.",
-        "translatedText": "攻撃対象の減った体力{1}%ごとに、ナイフまたは投げナイフのクリティカルダメージが{0}%増加する。他のクリティカルダメージボーナスと累積する。"
+        "translatedText": "攻撃対象の減った体力{1}%ごとに、ナイフまたは投げナイフのクリティカルダメージが{0}%増加する。他のクリティカルダメージボーナスと累積する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:103:Key",
         "objectId": 209,
-        "description": "n/a",
+        "description": "key='ripper-xpbl'",
         "originalText": "ripper-xpbl",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:103:Value",
         "objectId": 210,
         "description": "n/a",
         "originalText": "Critical hit damage with knives, swords and throwing knives increased by {0}% for each {1}% of the target's missing health. Applied multiplicatively to regular critical damage bonus.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:104:Key",
         "objectId": 211,
-        "description": "n/a",
+        "description": "key='criticalpower'",
         "originalText": "criticalpower",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:104:Value",
         "objectId": 212,
         "description": "n/a",
         "originalText": "For each {0}% of weapon or unarmed attack critical damage bonus above {1}%, you gain an additional {2}% critical damage bonus.",
-        "translatedText": "武器または素手によるクリティカルダメージボーナスが{1}%を超えているならば、{0}%につきさらに{2}%のボーナスを得る。"
+        "translatedText": "武器または素手によるクリティカルダメージボーナスが{1}%を超えているならば、{0}%につきさらに{2}%のボーナスを得る。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:105:Key",
         "objectId": 213,
-        "description": "n/a",
+        "description": "key='expertise'",
         "originalText": "expertise",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:105:Value",
         "objectId": 214,
         "description": "n/a",
         "originalText": "Your non-critical crossbow, melee, and bullet-based firearm attacks deal additional mechanical damage equal to your level, up to maximum {0} bonus damage.",
-        "translatedText": "クロスボウ、近接武器、弾薬火器がクリティカルヒットしなかった場合のみ、レベルと同じ値の物理ダメージを追加で与える。ただし最大で+{0}まで。"
+        "translatedText": "クロスボウ、近接武器、弾薬火器がクリティカルヒットしなかった場合のみ、レベルと同じ値の物理ダメージを追加で与える。ただし最大で+{0}まで。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:106:Key",
         "objectId": 215,
-        "description": "n/a",
+        "description": "key='blitz'",
         "originalText": "blitz",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:106:Value",
         "objectId": 216,
         "description": "n/a",
         "originalText": "Grants you an ability that when invoked will instantly convert all your movement points to action points, granting you 1 action point for each {0} movement points, up to maximum of {1} action points.\r\n\r\nCooldown: {2}.",
-        "translatedText": "Blitzアビリティを習得する。MPを全て消費してAPを回復する。変換率はMP{0}につきAP1で、AP{1}を超えては変換できない。\r\n\r\nクールダウン: {2}."
+        "translatedText": "Blitzアビリティを習得する。MPを全て消費してAPを回復する。変換率はMP{0}につきAP1で、AP{1}を超えては変換できない。\r\n\r\nクールダウン: {2}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:107:Key",
         "objectId": 217,
-        "description": "n/a",
+        "description": "key='pointshot'",
         "originalText": "pointshot",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:107:Value",
         "objectId": 218,
         "description": "n/a",
         "originalText": "Grants you the ability to perform a quick pistol, SMG or assault rifle attack that costs {0}% of the standard action point cost but has reduced precision.\r\n\r\nCooldown: {1}.",
-        "translatedText": "早撃ちのアビリティを習得する。ピストル、サブマシンガン、アサルトライフルを装備時に使用でき、APコストが通常攻撃の{0}%になる代わりに精度が低下する。\r\n\r\nクールダウン: {1}."
+        "translatedText": "早撃ちのアビリティを習得する。ピストル、サブマシンガン、アサルトライフルを装備時に使用でき、APコストが通常攻撃の{0}%になる代わりに精度が低下する。\r\n\r\nクールダウン: {1}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:108:Key",
         "objectId": 219,
-        "description": "n/a",
+        "description": "key='survivalinstincts'",
         "originalText": "survivalinstincts",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:108:Value",
         "objectId": 220,
         "description": "n/a",
         "originalText": "Increases the chance to critically hit with weapons, unarmed attacks and psi abilities by {0}% while under {1}% health.",
-        "translatedText": "HPが{1}%未満のとき、武器・素手・PSIによるクリティカル率が{0}%上昇する。"
+        "translatedText": "HPが{1}%未満のとき、武器・素手・PSIによるクリティカル率が{0}%上昇する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:109:Key",
         "objectId": 221,
-        "description": "n/a",
+        "description": "key='stoicism'",
         "originalText": "stoicism",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:109:Value",
         "objectId": 222,
         "description": "n/a",
         "originalText": "You receive {0}% less damage from all sources for each {1}% health missing.",
-        "translatedText": "失ったHP{1}%につき、受ける全てのダメージを{0}%軽減する。"
+        "translatedText": "失ったHP{1}%につき、受ける全てのダメージを{0}%軽減する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:110:Key",
         "objectId": 223,
-        "description": "n/a",
+        "description": "key='juggernaut'",
         "originalText": "juggernaut",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:110:Value",
         "objectId": 224,
         "description": "n/a",
         "originalText": "Total health increased by {0}% while wearing armor suit with (unmodified) armor penalty of {1}% or higher.",
-        "translatedText": "重装ペナルティが{1}%以上のアーマーを胴体に装備していると、HPが{0}%増加する。"
+        "translatedText": "重装ペナルティが{1}%以上のアーマーを胴体に装備していると、HPが{0}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:111:Key",
         "objectId": 225,
-        "description": "n/a",
+        "description": "key='fastmetabolism'",
         "originalText": "fastmetabolism",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:111:Value",
         "objectId": 226,
         "description": "n/a",
         "originalText": "All healing increased by {0}% and psi boosters restore extra {1} psi.",
-        "translatedText": "全ての回復効果が{0}%増加する。PSIブースターを使用した際に{1}psiを追加で回復する。"
+        "translatedText": "全ての回復効果が{0}%増加する。PSIブースターを使用した際に{1}psiを追加で回復する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:112:Key",
         "objectId": 227,
-        "description": "n/a",
+        "description": "key='escapeartist'",
         "originalText": "escapeartist",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:112:Value",
         "objectId": 228,
         "description": "n/a",
         "originalText": "Grants you the ability to remove all immobilization effects.\r\n\r\nCooldown: {0}.",
-        "translatedText": "自身にかかった行動阻害系のデバフを全て解除するアビリティを習得する。\r\n\r\nクールダウン: {0}"
+        "translatedText": "自身にかかった行動阻害系のデバフを全て解除するアビリティを習得する。\r\n\r\nクールダウン: {0}",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:113:Key",
         "objectId": 229,
-        "description": "n/a",
+        "description": "key='rapidfire'",
         "originalText": "rapidfire",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:113:Value",
         "objectId": 230,
         "description": "n/a",
         "originalText": "Grants you the ability to rapidly fire {0} bullets from firearm pistols, SMGs, and assault rifles at reduced precision for {1}% action point cost of a regular attack.\r\n\r\nCooldown: {2}.",
-        "translatedText": "Rapid Fireアビリティを習得する。ピストル・サブマシンガン・アサルトライフルを装備中に使用でき、命中率が低下する代わりに{0}発の弾丸を発射する。APコストは通常攻撃の{1}%。\r\n\r\nクールダウン: {2}."
+        "translatedText": "Rapid Fireアビリティを習得する。ピストル・サブマシンガン・アサルトライフルを装備中に使用でき、命中率が低下する代わりに{0}発の弾丸を発射する。APコストは通常攻撃の{1}%。\r\n\r\nクールダウン: {2}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:114:Key",
         "objectId": 231,
-        "description": "n/a",
+        "description": "key='heavyweight'",
         "originalText": "heavyweight",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:114:Value",
         "objectId": 232,
         "description": "n/a",
         "originalText": "You add your total armor penalty to the critical damage bonus of sledgehammer, fist weapon and unarmed attacks.",
-        "translatedText": "スレッジハンマー・拳武器・素手の クリティカルダメージボーナスに、 重装ペナルティを加算する。"
+        "translatedText": "スレッジハンマー・拳武器・素手の クリティカルダメージボーナスに、 重装ペナルティを加算する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:115:Key",
         "objectId": 233,
-        "description": "n/a",
+        "description": "key='surestep'",
         "originalText": "surestep",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:115:Value",
         "objectId": 234,
         "description": "n/a",
         "originalText": "You can safely navigate caltrops and puddles of acid.",
-        "translatedText": "まきびし／Caltrops、 酸溜まり／Acid Entanglement の影響を受けなくなる。"
+        "translatedText": "まきびし／Caltrops、 酸溜まり／Acid Entanglement の影響を受けなくなる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:116:Key",
         "objectId": 235,
-        "description": "n/a",
+        "description": "key='superslam'",
         "originalText": "superslam",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:116:Value",
         "objectId": 236,
         "description": "n/a",
         "originalText": "Grants you a special attack with the sledgehammer that does normal damage plus {0}% of attacker's maximum health as additional mechanical damage.\r\n\r\nCooldown: {1}.",
-        "translatedText": "Super Slamアビリティを習得する。スレッジハンマーを装備中に使用可能。通常攻撃のダメージに加え、攻撃者の最大HPの{0}%の物理ダメージを追加で与える。\r\n\r\nクールダウン: {1}"
+        "translatedText": "Super Slamアビリティを習得する。スレッジハンマーを装備中に使用可能。通常攻撃のダメージに加え、攻撃者の最大HPの{0}%の物理ダメージを追加で与える。\r\n\r\nクールダウン: {1}",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:117:Key",
         "objectId": 237,
-        "description": "n/a",
+        "description": "key='guard'",
         "originalText": "guard",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:117:Value",
         "objectId": 238,
         "description": "n/a",
         "originalText": "You have {0}% chance to block melee mechanical damage equal to twice your strength. Does not work if stunned or otherwise fully disabled.",
-        "translatedText": "{0}%の確率で、筋力／Strengthの2倍に等しい近接物理ダメージをブロックするようになる。スタン／Stunned状態のときやその他の行動不能状態の時は発動しない。"
+        "translatedText": "{0}%の確率で、筋力／Strengthの2倍に等しい近接物理ダメージをブロックするようになる。スタン／Stunned状態のときやその他の行動不能状態の時は発動しない。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:118:Key",
         "objectId": 239,
-        "description": "n/a",
+        "description": "key='deadlysnares'",
         "originalText": "deadlysnares",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:118:Value",
         "objectId": 240,
         "description": "n/a",
         "originalText": "Your crossbow attacks always critically hit against the targets caught in bear traps and acidic entanglements.",
-        "translatedText": "とらばさみ／Bear Trapか酸溜まり／Acidic Entanglementに囚われた敵に対し、クロスボウによる攻撃が常にクリティカルするようになる。"
+        "translatedText": "とらばさみ／Bear Trapか酸溜まり／Acidic Entanglementに囚われた敵に対し、クロスボウによる攻撃が常にクリティカルするようになる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:119:Key",
         "objectId": 241,
-        "description": "n/a",
+        "description": "key='gunnut'",
         "originalText": "gunnut",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:119:Value",
         "objectId": 242,
         "description": "n/a",
         "originalText": "Increases the upper damage range of all firearms you craft by {0}%.",
-        "translatedText": "クラフト時、完成品の火器の最大ダメージが{0}%増加する。"
+        "translatedText": "クラフト時、完成品の火器の最大ダメージが{0}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:120:Key",
         "objectId": 243,
-        "description": "n/a",
+        "description": "key='skinner'",
         "originalText": "skinner",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:120:Value",
         "objectId": 244,
         "description": "n/a",
         "originalText": "The quality of leathers counts as if {0}% higher in all your crafts.",
-        "translatedText": "クラフト時、革素材の品質が{0}%増加する。"
+        "translatedText": "クラフト時、革素材の品質が{0}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:121:Key",
         "objectId": 245,
-        "description": "n/a",
+        "description": "key='armorsloping'",
         "originalText": "armorsloping",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:121:Value",
         "objectId": 246,
         "description": "n/a",
         "originalText": "Reduces the armor penalty originating from metal plates when crafting armor by {0}% (multiplicative).",
-        "translatedText": "アーマーをクラフトする際、金属板を素材に使用した場合に追加される重装ペナルティを{0}%下げる。(累積)."
+        "translatedText": "アーマーをクラフトする際、金属板を素材に使用した場合に追加される重装ペナルティを{0}%下げる。(累積).",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:122:Key",
         "objectId": 247,
-        "description": "n/a",
+        "description": "key='clothier'",
         "originalText": "clothier",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:122:Value",
         "objectId": 248,
         "description": "n/a",
         "originalText": "The quality of fabrics counts as if {0}% higher in all your crafts.",
-        "translatedText": "クラフト時、繊維素材の品質が{0}%増加する。"
+        "translatedText": "クラフト時、繊維素材の品質が{0}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:123:Key",
         "objectId": 249,
-        "description": "n/a",
+        "description": "key='madchemist'",
         "originalText": "madchemist",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:123:Value",
         "objectId": 250,
         "description": "n/a",
         "originalText": "On-hit effects of chemical pistols you craft are twice as strong.",
-        "translatedText": "化学ピストルをクラフトすると、完成品の命中時追加効果が2倍になる。"
+        "translatedText": "化学ピストルをクラフトすると、完成品の命中時追加効果が2倍になる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:124:Key",
         "objectId": 251,
-        "description": "n/a",
+        "description": "key='weaponsmith'",
         "originalText": "weaponsmith",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:124:Value",
         "objectId": 252,
         "description": "n/a",
         "originalText": "Non-fist melee weapons that you craft have {0}% higher critical hit chance.",
-        "translatedText": "拳武器以外の近接武器をクラフトしたとき、クラフトした武器のクリティカル率が{0}%増加する。"
+        "translatedText": "拳武器以外の近接武器をクラフトしたとき、クラフトした武器のクリティカル率が{0}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:125:Key",
         "objectId": 253,
-        "description": "n/a",
+        "description": "key='practicalphysicist'",
         "originalText": "practicalphysicist",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:125:Value",
         "objectId": 254,
         "description": "n/a",
         "originalText": "Critical damage bonus of energy weapons you craft is increased by {0}% (additive).",
-        "translatedText": "エネルギー武器をクラフトすると、完成品のクリティカルダメージボーナスが{0}%増加する(累加)。"
+        "translatedText": "エネルギー武器をクラフトすると、完成品のクリティカルダメージボーナスが{0}%増加する(累加)。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:126:Key",
         "objectId": 255,
-        "description": "n/a",
+        "description": "key='ballistics'",
         "originalText": "ballistics",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:126:Value",
         "objectId": 256,
         "description": "n/a",
         "originalText": "Carrier vests give additional {0} mechanical damage threshold when used in crafting.",
-        "translatedText": "クラフト時、素材として使用したCarrier Vestごとに完成品の物理装甲が{0}上昇する。"
+        "translatedText": "クラフト時、素材として使用したCarrier Vestごとに完成品の物理装甲が{0}上昇する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:127:Key",
         "objectId": 257,
-        "description": "n/a",
+        "description": "key='neurology'",
         "originalText": "neurology",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:127:Value",
         "objectId": 258,
         "description": "n/a",
         "originalText": "Psi headbands you craft also provide additional {0} maximum psi points.",
-        "translatedText": "PSIヘッドバンドをクラフトした際、最大PSIポイントが{0}増加する効果を付与する。"
+        "translatedText": "PSIヘッドバンドをクラフトした際、最大PSIポイントが{0}増加する効果を付与する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:128:Key",
         "objectId": 259,
-        "description": "n/a",
+        "description": "key='elementalbolts'",
         "originalText": "elementalbolts",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:128:Value",
         "objectId": 260,
         "description": "n/a",
         "originalText": "Increases electrical, acid and heat damage of all special bolts by {0}%.",
-        "translatedText": "特殊ボルトによる電撃／Electrical、酸／Acid、熱／Heatダメージが{0}%増加する。"
+        "translatedText": "特殊ボルトによる電撃／Electrical、酸／Acid、熱／Heatダメージが{0}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:129:Key",
         "objectId": 261,
-        "description": "n/a",
+        "description": "key='concussiveshots'",
         "originalText": "concussiveshots",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:129:Value",
         "objectId": 262,
         "description": "n/a",
         "originalText": "When you deal mechanical damage with your crossbow bolts you have {0}% chance to daze living targets, reducing their action points by {1} and movement points by {2} for {3}.",
-        "translatedText": "クロスボウによる物理ダメージを与えたとき、相手が生命体ならば、{0}%の確率で{3}の間対象をめまい状態にする。めまい状態の敵はAPが{1}、MPが{2}低下する。"
+        "translatedText": "クロスボウによる物理ダメージを与えたとき、相手が生命体ならば、{0}%の確率で{3}の間対象をめまい状態にする。めまい状態の敵はAPが{1}、MPが{2}低下する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:130:Key",
         "objectId": 263,
-        "description": "n/a",
+        "description": "key='meditation'",
         "originalText": "meditation",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:130:Value",
         "objectId": 264,
         "description": "n/a",
         "originalText": "Maximum psi points increased by {0}.",
-        "translatedText": "PSIポイントの最大値が{0}増加する。"
+        "translatedText": "PSIポイントの最大値が{0}増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:131:Key",
         "objectId": 265,
-        "description": "n/a",
+        "description": "key='neuraloverclocking'",
         "originalText": "neuraloverclocking",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:131:Value",
         "objectId": 266,
         "description": "n/a",
         "originalText": "Critical damage bonus of all psi abilities increased by {0}%.",
-        "translatedText": "全てのPSIアビリティのクリティカルダメージが{0}%増加する。"
+        "translatedText": "全てのPSIアビリティのクリティカルダメージが{0}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:132:Key",
         "objectId": 267,
-        "description": "n/a",
+        "description": "key='psionicmania'",
         "originalText": "psionicmania",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:132:Value",
         "objectId": 268,
         "description": "n/a",
         "originalText": "Grants you an ability that when activated makes your next offensive psi ability an automatic critical hit. Activating this ability will also remove up to {0}% of your maximum health, but cannot kill you.\r\n\r\nCooldown: {1}.",
-        "translatedText": "Psionic Maniaアビリティを習得する。使用時、次のPSIアビリティが必ずクリティカルヒットするが、代償として最大HPの{0}%のダメージを受ける(この効果で死ぬことはない)。\r\n\r\nクールダウン: {1}"
+        "translatedText": "Psionic Maniaアビリティを習得する。使用時、次のPSIアビリティが必ずクリティカルヒットするが、代償として最大HPの{0}%のダメージを受ける(この効果で死ぬことはない)。\r\n\r\nクールダウン: {1}",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:133:Key",
         "objectId": 269,
-        "description": "n/a",
+        "description": "key='telekineticundulation'",
         "originalText": "telekineticundulation",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:133:Value",
         "objectId": 270,
         "description": "n/a",
         "originalText": "When you damage a living target by moving your telekinetic proxy, there's {0}% chance it will be dazed for {1}.",
-        "translatedText": "Telekinetic Proxyアビリティで 生命体を攻撃したとき、 {0}%の確率で 対象を{1}の間 めまい状態／Dazedにする。"
+        "translatedText": "Telekinetic Proxyアビリティで 生命体を攻撃したとき、 {0}%の確率で 対象を{1}の間 めまい状態／Dazedにする。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:134:Key",
         "objectId": 271,
-        "description": "n/a",
+        "description": "key='corporealprojection'",
         "originalText": "corporealprojection",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:134:Value",
         "objectId": 272,
         "description": "n/a",
         "originalText": "All telekinetic damage increased by {0}% for each point of strength above {1}.",
-        "translatedText": "筋力／Strengthが5を超えていれば、超えている分の1ポイントにつき全てのテレキネシスダメージが{0}%増加する。"
+        "translatedText": "筋力／Strengthが5を超えていれば、超えている分の1ポイントにつき全てのテレキネシスダメージが{0}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:135:Key",
         "objectId": 273,
-        "description": "n/a",
+        "description": "key='psychostaticelectricity'",
         "originalText": "psychostaticelectricity",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:135:Value",
         "objectId": 274,
         "description": "n/a",
         "originalText": "When you damage a target with your electrical psionics you apply a debuff that increases the chance for the target to be critically hit by weapon and unarmed attacks and psi abilities by {0}% for {1}. Stacks {2} times.",
-        "translatedText": "電気系のPSIアビリティで敵を攻撃した際、武器・素手・PSIアビリティによる被クリティカル率を{0}%上昇させるデバフを{1}ターンの間付与する追加効果を得る。デバフは{2}回まで重複する。"
+        "translatedText": "電気系のPSIアビリティで敵を攻撃した際、武器・素手・PSIアビリティによる被クリティカル率を{0}%上昇させるデバフを{1}ターンの間付与する追加効果を得る。デバフは{2}回まで重複する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:136:Key",
         "objectId": 275,
-        "description": "n/a",
+        "description": "key='echoingsoliloquy'",
         "originalText": "echoingsoliloquy",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:136:Value",
         "objectId": 276,
         "description": "n/a",
         "originalText": "Slows down the rate at which the unspeakable things penetrate your mind.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:137:Key",
         "objectId": 277,
-        "description": "n/a",
+        "description": "key='fisherman'",
         "originalText": "fisherman",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:137:Value",
         "objectId": 278,
         "description": "n/a",
         "originalText": "You never fail to reel the catch in.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:138:Key",
         "objectId": 279,
-        "description": "n/a",
+        "description": "key='temperedheat'",
         "originalText": "temperedheat",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:138:Value",
         "objectId": 280,
         "description": "n/a",
         "originalText": "Reduces all heat damage taken by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:139:Key",
         "objectId": 281,
-        "description": "n/a",
+        "description": "key='temperedcold'",
         "originalText": "temperedcold",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:139:Value",
         "objectId": 282,
         "description": "n/a",
         "originalText": "Reduces all cold damage taken by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:140:Key",
         "objectId": 283,
-        "description": "n/a",
+        "description": "key='temperedacid'",
         "originalText": "temperedacid",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:140:Value",
         "objectId": 284,
         "description": "n/a",
         "originalText": "Reduces all acid damage taken by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:141:Key",
         "objectId": 285,
-        "description": "n/a",
+        "description": "key='temperedelectricity'",
         "originalText": "temperedelectricity",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:141:Value",
         "objectId": 286,
         "description": "n/a",
         "originalText": "Reduces all electrical damage taken by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:142:Key",
         "objectId": 287,
-        "description": "n/a",
+        "description": "key='advancedpsiempathy'",
         "originalText": "advancedpsiempathy",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:142:Value",
         "objectId": 288,
         "description": "n/a",
         "originalText": "Base health reduced by additional {0}% (additive to the original penalty) and psi cost of invoking psionic abilities reduced by {1}% (multiplicative).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:143:Key",
         "objectId": 289,
-        "description": "n/a",
+        "description": "key='bodybuilding'",
         "originalText": "bodybuilding",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:143:Value",
         "objectId": 290,
         "description": "n/a",
         "originalText": "Health increased by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:144:Key",
         "objectId": 291,
-        "description": "n/a",
+        "description": "key='improveddodging'",
         "originalText": "improveddodging",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:144:Value",
         "objectId": 292,
         "description": "n/a",
         "originalText": "Increases the chance you'll dodge a melee attack by {0}% (additive).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:145:Key",
         "objectId": 293,
-        "description": "n/a",
+        "description": "key='improvedevasion'",
         "originalText": "improvedevasion",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:145:Value",
         "objectId": 294,
         "description": "n/a",
         "originalText": "Increases the chance you'll evade a ranged attack by {0}% (additive).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:146:Key",
         "objectId": 295,
-        "description": "n/a",
+        "description": "key='improvedthrowing'",
         "originalText": "improvedthrowing",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:146:Value",
         "objectId": 296,
         "description": "n/a",
         "originalText": "Increases throwing precision by {0}% (additive).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:147:Key",
         "objectId": 297,
-        "description": "n/a",
+        "description": "key='serialkiller'",
         "originalText": "serialkiller",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:147:Value",
         "objectId": 298,
         "description": "n/a",
         "originalText": "Unarmed and weapon damage increased by {0}% against humanoids.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:148:Key",
         "objectId": 299,
-        "description": "n/a",
+        "description": "key='monsterslayer'",
         "originalText": "monsterslayer",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:148:Value",
         "objectId": 300,
         "description": "n/a",
         "originalText": "Unarmed and weapon damage increased by {0}% against creatures.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:149:Key",
         "objectId": 301,
-        "description": "n/a",
+        "description": "key='decommissioner'",
         "originalText": "decommissioner",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:149:Value",
         "objectId": 302,
         "description": "n/a",
         "originalText": "Unarmed and weapon damage increased by {0}% against machines.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:150:Key",
         "objectId": 303,
-        "description": "n/a",
+        "description": "key='fightresponse'",
         "originalText": "fightresponse",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:150:Value",
         "objectId": 304,
         "description": "n/a",
         "originalText": "When starting a turn below {0}% of maximum health, your action points are increased by {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:151:Key",
         "objectId": 305,
-        "description": "n/a",
+        "description": "key='flightresponse'",
         "originalText": "flightresponse",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:151:Value",
         "objectId": 306,
         "description": "n/a",
         "originalText": "When starting a turn below {0}% of maximum health, your movement points are increased by up to {1} (depending on your armor penalty).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:152:Key",
         "objectId": 307,
-        "description": "n/a",
+        "description": "key='stuntman'",
         "originalText": "stuntman",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:152:Value",
         "objectId": 308,
         "description": "n/a",
         "originalText": "Reduces the damage taken from area of effect attacks by 20% (additive to regular evasion).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:153:Key",
         "objectId": 309,
-        "description": "n/a",
+        "description": "key='bodyweighttraining'",
         "originalText": "bodyweighttraining",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:153:Value",
         "objectId": 310,
         "description": "n/a",
         "originalText": "Reduces armor penalty by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:154:Key",
         "objectId": 311,
-        "description": "n/a",
+        "description": "key='majorsupplier'",
         "originalText": "majorsupplier",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:154:Value",
         "objectId": 312,
         "description": "n/a",
         "originalText": "Increases the amount of money the merchants are willing to use when trading with you by {0}% per mercantile skill.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:155:Key",
         "objectId": 313,
-        "description": "n/a",
+        "description": "key='mantra'",
         "originalText": "mantra",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:155:Value",
         "objectId": 314,
         "description": "n/a",
         "originalText": "Increases psi regeneration by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:156:Key",
         "objectId": 315,
-        "description": "n/a",
+        "description": "key='shootingspree'",
         "originalText": "shootingspree",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:156:Value",
         "objectId": 316,
         "description": "n/a",
         "originalText": "Grants you an ability that when activated will cause your next sniper rifle attack to refund 100% of its action point cost if it kills the target. This will expire at the end of the turn if unused.\r\n\r\nCooldown: {1}.\r\n\r\nAlso, killing a target with a sniper rifle reduces the cooldown of Shooting Spree and Aimed Shot by {0}.",
-        "translatedText": "Shooting Spreeアビリティを習得する。使用したターンのうちにスナイパーライフルによる攻撃で敵を倒したとき、一度だけその攻撃のAPの100%を回復する。\r\n\r\nクールダウン: {1}.\r\n\r\nさらに、スナイパーライフルで敵を倒すたびに、Shooting SpreeとAimed Shotのクールダウンが{0}短縮される。"
+        "translatedText": "Shooting Spreeアビリティを習得する。使用したターンのうちにスナイパーライフルによる攻撃で敵を倒したとき、一度だけその攻撃のAPの100%を回復する。\r\n\r\nクールダウン: {1}.\r\n\r\nさらに、スナイパーライフルで敵を倒すたびに、Shooting SpreeとAimed Shotのクールダウンが{0}短縮される。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:157:Key",
         "objectId": 317,
-        "description": "n/a",
+        "description": "key='shootingspree-old'",
         "originalText": "shootingspree-old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:157:Value",
         "objectId": 318,
         "description": "n/a",
         "originalText": "Killing a target with a sniper rifle reduces the cooldown of Aimed Shot by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:158:Key",
         "objectId": 319,
-        "description": "n/a",
+        "description": "key='strafe'",
         "originalText": "strafe",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:158:Value",
         "objectId": 320,
         "description": "n/a",
         "originalText": "Reduces move and shoot penalty by {0}%.",
-        "translatedText": "移動射撃ペナルティ／Move and shoot penaltyを{0}%軽減する。"
+        "translatedText": "移動射撃ペナルティ／Move and shoot penaltyを{0}%軽減する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:159:Key",
         "objectId": 321,
-        "description": "n/a",
+        "description": "key='bowyer'",
         "originalText": "bowyer",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:159:Value",
         "objectId": 322,
         "description": "n/a",
         "originalText": "Crossbows that you craft have their critical damage bonus increased by {0}% (additive).",
-        "translatedText": "クロスボウをクラフトすると、 完成品のクリティカルダメージボーナスが{0}%高くなる。"
+        "translatedText": "クロスボウをクラフトすると、 完成品のクリティカルダメージボーナスが{0}%高くなる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:160:Key",
         "objectId": 323,
-        "description": "n/a",
+        "description": "key='brutality'",
         "originalText": "brutality",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:160:Value",
         "objectId": 324,
         "description": "n/a",
         "originalText": "When you kill a target with a melee attack, there's a {0}% chance to instill fear in each nearby enemy for {1}.",
-        "translatedText": "近接攻撃で敵を倒すと、{0}%の確率で近くの敵が{1}ターンの間恐慌／Fear状態になる。"
+        "translatedText": "近接攻撃で敵を倒すと、{0}%の確率で近くの敵が{1}ターンの間恐慌／Fear状態になる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:161:Key",
         "objectId": 325,
-        "description": "n/a",
+        "description": "key='shieldarm'",
         "originalText": "shieldarm",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:161:Value",
         "objectId": 326,
         "description": "n/a",
         "originalText": "Increases the chance to block with shields by {0}% (additive) and the amount blocked by {1}%.",
-        "translatedText": "盾のブロック率が{0}%増加し(累加)、ブロックダメージ量が{1}%増加する。"
+        "translatedText": "盾のブロック率が{0}%増加し(累加)、ブロックダメージ量が{1}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:162:Key",
         "objectId": 327,
-        "description": "n/a",
+        "description": "key='triggerhappy'",
         "originalText": "triggerhappy",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:162:Value",
         "objectId": 328,
         "description": "n/a",
         "originalText": "Initiative increased by {0}.",
-        "translatedText": "イニシアティブが常に{0}増加する。"
+        "translatedText": "イニシアティブが常に{0}増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:163:Key",
         "objectId": 329,
-        "description": "n/a",
+        "description": "key='hemopsychosis'",
         "originalText": "hemopsychosis",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:163:Value",
         "objectId": 330,
         "description": "n/a",
         "originalText": "Grants you an ability that when activated will make all your psi abilities cost health instead of psi until the end of the turn.\r\n\r\nCooldown: {0}.",
-        "translatedText": "Hemopsychosisアビリティを習得する。発動すると、ターン終了時までPSIポイントの代わりにHPを消費してPSIアビリティを使用できる。\r\n\r\nクールダウン: {0}."
+        "translatedText": "Hemopsychosisアビリティを習得する。発動すると、ターン終了時までPSIポイントの代わりにHPを消費してPSIアビリティを使用できる。\r\n\r\nクールダウン: {0}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:164:Key",
         "objectId": 331,
-        "description": "n/a",
+        "description": "key='blindsiding'",
         "originalText": "blindsiding",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:164:Value",
         "objectId": 332,
         "description": "n/a",
         "originalText": "Increases unarmed and weapon attack damage by {0}% while in stealth and one turn after exiting stealth.",
-        "translatedText": "ステルス中、素手あるいは武器によるダメージを{0}%増加させる。この効果はステルス状態が解除されても1ターン継続する。"
+        "translatedText": "ステルス中、素手あるいは武器によるダメージを{0}%増加させる。この効果はステルス状態が解除されても1ターン継続する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:165:Key",
         "objectId": 333,
-        "description": "n/a",
+        "description": "key='continuumripple'",
         "originalText": "continuumripple",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:165:Value",
         "objectId": 334,
         "description": "n/a",
         "originalText": "When your temporal distortion triggers, it has {0}% chance to be applied to each nearby enemy. Distortions that came about in this way can now themselves trigger further distortions.",
-        "translatedText": "Temporal Distortionが発動したとき、 近くの敵それぞれに対して個別に{0}%の判定を行う。 判定が成功したとき、 追加のTemporal Distortionデバフが 発生する。"
+        "translatedText": "Temporal Distortionが発動したとき、 近くの敵それぞれに対して個別に{0}%の判定を行う。 判定が成功したとき、 追加のTemporal Distortionデバフが 発生する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:166:Key",
         "objectId": 335,
-        "description": "n/a",
+        "description": "key='psychotemporalacceleration'",
         "originalText": "psychotemporalacceleration",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:166:Value",
         "objectId": 336,
         "description": "n/a",
         "originalText": "Increases action point modification of all psycho-temporal effects by {0} and increases their duration by {1}.",
-        "translatedText": "すべての時空操作PSIアビリティのAPPに対する効果量が{0}増加し、持続時間が{1}増加する。"
+        "translatedText": "すべての時空操作PSIアビリティのAPPに対する効果量が{0}増加し、持続時間が{1}増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:167:Key",
         "objectId": 337,
-        "description": "n/a",
+        "description": "key='futureorientation'",
         "originalText": "futureorientation",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:167:Value",
         "objectId": 338,
         "description": "n/a",
         "originalText": "Reduces cooldowns of all temporal manipulation psi abilities that have cooldown by {0}, and increases action point cost for those psi abilities by {1}, providing they have action point cost.",
-        "translatedText": "時空操作／Temporal Manipulation系統のPSIアビリティのクールダウンが{0}減少するかわり、APコストが{1}増加する(APコスト0のアビリティを除く)。"
+        "translatedText": "時空操作／Temporal Manipulation系統のPSIアビリティのクールダウンが{0}減少するかわり、APコストが{1}増加する(APコスト0のアビリティを除く)。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:168:Key",
         "objectId": 339,
-        "description": "n/a",
+        "description": "key='fend'",
         "originalText": "fend",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:168:Value",
         "objectId": 340,
         "description": "n/a",
         "originalText": "Grants you an ability to immediately gain Spear Guard that can block {0}% more damage than normal for {1}% of the action point cost of a regular attack.\r\n\r\nCooldown: {2}.",
-        "translatedText": "Spear Guardのアビリティを習得する。通常より{0}%多くのダメージをブロックでき、消費APは通常攻撃の{1}%。\r\n\r\nクールダウン: {2}."
+        "translatedText": "Spear Guardのアビリティを習得する。通常より{0}%多くのダメージをブロックでき、消費APは通常攻撃の{1}%。\r\n\r\nクールダウン: {2}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:169:Key",
         "objectId": 341,
-        "description": "n/a",
+        "description": "key='spearguardian'",
         "originalText": "spearguardian",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:169:Value",
         "objectId": 342,
         "description": "n/a",
         "originalText": "Increases the block chance of Spear Guard by {0}%.",
-        "translatedText": "Spear Guardのブロック率が{0}%増加する。"
+        "translatedText": "Spear Guardのブロック率が{0}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:170:Key",
         "objectId": 343,
-        "description": "n/a",
+        "description": "key='impale'",
         "originalText": "impale",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:170:Value",
         "objectId": 344,
         "description": "n/a",
         "originalText": "Grants you a special attack with the spear that automatically critically hits if it lands.\r\n\r\nCooldown: {0}.",
-        "translatedText": "Impaleアビリティを習得する。槍を装備中のみ使用でき、命中すればかならずクリティカルになる。\r\n\r\nクールダウン: {0}"
+        "translatedText": "Impaleアビリティを習得する。槍を装備中のみ使用でき、命中すればかならずクリティカルになる。\r\n\r\nクールダウン: {0}",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:171:Key",
         "objectId": 345,
-        "description": "n/a",
+        "description": "key='flurry'",
         "originalText": "flurry",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:171:Value",
         "objectId": 346,
         "description": "n/a",
         "originalText": "Grants you an ability to launch {0} consecutive attacks with a sword. Each attack reduces the action point cost of further Flurry activations by {1} action points (this stacks {2} times) until the end of next turn. \r\n\r\nIf any of the attacks misses or deals no damage, the flurry will stop and be put on cooldown for {3} and the cost reduction will be removed.",
-        "translatedText": "Flurryアビリティを習得する。剣を装備中のみ使用でき、{0}回の連続攻撃を行う。連続攻撃が命中するたび、次のターンの終了時まで、FlurryのAPコストが{1}軽減される。(この効果は{2}回まで重複する) times)。\r\n\r\n攻撃が外れた、もしくは0ダメージだったとき、このAP軽減効果は即座に消滅し、Flurryアビリティは{3}のクールダウン待ち状態になる。"
+        "translatedText": "Flurryアビリティを習得する。剣を装備中のみ使用でき、{0}回の連続攻撃を行う。連続攻撃が命中するたび、次のターンの終了時まで、FlurryのAPコストが{1}軽減される。(この効果は{2}回まで重複する) times)。\r\n\r\n攻撃が外れた、もしくは0ダメージだったとき、このAP軽減効果は即座に消滅し、Flurryアビリティは{3}のクールダウン待ち状態になる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:172:Key",
         "objectId": 347,
-        "description": "n/a",
+        "description": "key='flurry-old'",
         "originalText": "flurry-old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:172:Value",
         "objectId": 348,
         "description": "n/a",
         "originalText": "Grants you an ability to launch {0} consecutive attacks with a sword with reduced precision. Each attack reduces the action point cost of further Flurry activations by {1} action points (this stacks {2} times) until the end of next turn. \r\n\r\nIf any of the attacks misses or deals no damage, the flurry will stop and be put on cooldown for {3} and the cost reduction will be removed.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:173:Key",
         "objectId": 349,
-        "description": "n/a",
+        "description": "key='spearthrow'",
         "originalText": "spearthrow",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:173:Value",
         "objectId": 350,
         "description": "n/a",
         "originalText": "Grants you the ability to throw a spear at the target, dealing {0}%, plus additional {1}% per unit of range, of normal weapon damage. The precision of this attack is dependent on throwing skill. Costs {2} action points.\r\n\r\nCooldown: {3}.\r\n\r\nYou will usually be able to retrieve the thrown spear afterwards, as it lands nearby the target, at no action point cost.",
-        "translatedText": "槍投げのアビリティを習得する。槍投げは武器ダメージの{0}%を基本威力とし、対象との距離1マスにつき{1}%増加する。消費APは{2}。\r\n\r\nクールダウン: {3}.\r\n\r\n投げた後の槍はAPコストなしで回収することができる。"
+        "translatedText": "槍投げのアビリティを習得する。槍投げは武器ダメージの{0}%を基本威力とし、対象との距離1マスにつき{1}%増加する。消費APは{2}。\r\n\r\nクールダウン: {3}.\r\n\r\n投げた後の槍はAPコストなしで回収することができる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:174:Key",
         "objectId": 351,
-        "description": "n/a",
+        "description": "key='onslaught'",
         "originalText": "onslaught",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:174:Value",
         "objectId": 352,
         "description": "n/a",
         "originalText": "Your successful sword attacks increase the damage of further sword attacks by {0}% for {1}. Stacks {2} times. This bonus will be removed if a sword attack misses or does no damage.",
-        "translatedText": "剣による攻撃でダメージを与えると、{1}の間剣による攻撃のダメージが{0}%増加する。この効果は{2}回までスタックする。攻撃を外すか、0ダメージになると効果は終了する。"
+        "translatedText": "剣による攻撃でダメージを与えると、{1}の間剣による攻撃のダメージが{0}%増加する。この効果は{2}回までスタックする。攻撃を外すか、0ダメージになると効果は終了する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:175:Key",
         "objectId": 353,
-        "description": "n/a",
+        "description": "key='decapitate'",
         "originalText": "decapitate",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:175:Value",
         "objectId": 354,
         "description": "n/a",
         "originalText": "Grants you a special sword attack that deals {0}% of normal weapon damage and can instantly kill a living target if it deals more than {1}% of its remaining health (providing the target has an exposed head).\r\n\r\nCooldown: {2}.",
-        "translatedText": "Decapitateアビリティを習得する。剣を装備中のみ使用可能。通常攻撃の{0}%のダメージを与える。対象が生命体かつ頭部が保護されていないならば、このアビリティで残りHPの{1}%以上のダメージを与えたとき、一定確率で即死させる。\r\n\r\nクールダウン: {2}."
+        "translatedText": "Decapitateアビリティを習得する。剣を装備中のみ使用可能。通常攻撃の{0}%のダメージを与える。対象が生命体かつ頭部が保護されていないならば、このアビリティで残りHPの{1}%以上のダメージを与えたとき、一定確率で即死させる。\r\n\r\nクールダウン: {2}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:176:Key",
         "objectId": 355,
-        "description": "n/a",
+        "description": "key='riposte'",
         "originalText": "riposte",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:176:Value",
         "objectId": 356,
         "description": "n/a",
         "originalText": "When you block any damage while holding a sword, you can perform a special sword attack with increased chance to hit that deals normal weapon damage at no action point cost.",
-        "translatedText": "剣を装備中にブロックが発動したとき、特殊な反撃アビリティをAPコストなしで使えるようになる。威力は通常攻撃と同じで、命中率は通常攻撃より高い。"
+        "translatedText": "剣を装備中にブロックが発動したとき、特殊な反撃アビリティをAPコストなしで使えるようになる。威力は通常攻撃と同じで、命中率は通常攻撃より高い。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:177:Key",
         "objectId": 357,
-        "description": "n/a",
+        "description": "key='leadingshot'",
         "originalText": "leadingshot",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:177:Value",
         "objectId": 358,
         "description": "n/a",
         "originalText": "Your shotgun attacks ignore {0}% of target's evasion as long as there are no enemies in melee range to disrupt you.",
-        "translatedText": "敵に隣接されていない限り、このキャラクターのショットガンの攻撃は対象のEvasionスキルの{0}%を無視する。"
+        "translatedText": "敵に隣接されていない限り、このキャラクターのショットガンの攻撃は対象のEvasionスキルの{0}%を無視する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:178:Key",
         "objectId": 359,
-        "description": "n/a",
+        "description": "key='barrelstare'",
         "originalText": "barrelstare",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:178:Value",
         "objectId": 360,
         "description": "n/a",
         "originalText": "Increases the damage done by your shotgun attacks to targets at close (near-melee) range by {0}%.",
-        "translatedText": "対象が近接しているとき、ショットガンのダメージが{0}%増加する。"
+        "translatedText": "対象が近接しているとき、ショットガンのダメージが{0}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:179:Key",
         "objectId": 361,
-        "description": "n/a",
+        "description": "key='perfectscattering'",
         "originalText": "perfectscattering",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:179:Value",
         "objectId": 362,
         "description": "n/a",
         "originalText": "Each shotgun pellet you fire does additional {0} to {1} points of mechanical damage.",
-        "translatedText": "ショットガンの各ペレットが与えるダメージが{0}～{1}増加する。"
+        "translatedText": "ショットガンの各ペレットが与えるダメージが{0}～{1}増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:180:Key",
         "objectId": 363,
-        "description": "n/a",
+        "description": "key='fragmentedchaos'",
         "originalText": "fragmentedchaos",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:180:Value",
         "objectId": 364,
         "description": "n/a",
         "originalText": "Increases critical damage bonus of your shotgun attacks by {0}% divided by number of pellets fired.",
-        "translatedText": "ショットガンによるクリティカルダメージが({0}/ペレット数)%増加する。"
+        "translatedText": "ショットガンによるクリティカルダメージが({0}/ペレット数)%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:181:Key",
         "objectId": 365,
-        "description": "n/a",
+        "description": "key='pelletmayhem'",
         "originalText": "pelletmayhem",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:181:Value",
         "objectId": 366,
         "description": "n/a",
         "originalText": "Your shotgun attacks grant you additional {0}% critical chance for each target you hit for the next shotgun shot.",
-        "translatedText": "ショットガンを命中させると、次のショットガンによる攻撃はその相手に対して追加の{0}%のクリティカル率を得る。"
+        "translatedText": "ショットガンを命中させると、次のショットガンによる攻撃はその相手に対して追加の{0}%のクリティカル率を得る。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:182:Key",
         "objectId": 367,
-        "description": "n/a",
+        "description": "key='philosophy1'",
         "originalText": "philosophy1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:182:Value",
         "objectId": 368,
         "description": "n/a",
         "originalText": "Dipping your feet into philosophy has given you a fresh outlook on life.\r\n\r\nIncreases resolve by {0} and maximum psi points by {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:183:Key",
         "objectId": 369,
-        "description": "n/a",
+        "description": "key='philosophy2'",
         "originalText": "philosophy2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:183:Value",
         "objectId": 370,
         "description": "n/a",
         "originalText": "You might not be a fully trained philosopher, but you have a good grasp of the essentials.\r\n\r\nIncreases resolve by {0} and maximum psi points by {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:184:Key",
         "objectId": 371,
-        "description": "n/a",
+        "description": "key='philosophy3'",
         "originalText": "philosophy3",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:184:Value",
         "objectId": 372,
         "description": "n/a",
         "originalText": "You are starting to put the pieces together... There might yet be some meaning behind this wretched existence.\r\n\r\nIncreases resolve by {0} and maximum psi points by {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:185:Key",
         "objectId": 373,
-        "description": "n/a",
+        "description": "key='hightechnicalities'",
         "originalText": "hightechnicalities",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:185:Value",
         "objectId": 374,
         "description": "n/a",
         "originalText": "Increases damage done by energy pistols by {0}% for each intelligence point above {1}.",
-        "translatedText": "INTが{1}を超えている場合、超えている1ポイントにつきエネルギーピストルのダメージが{0}%上昇する。"
+        "translatedText": "INTが{1}を超えている場合、超えている1ポイントにつきエネルギーピストルのダメージが{0}%上昇する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:186:Key",
         "objectId": 375,
-        "description": "n/a",
+        "description": "key='parry'",
         "originalText": "parry",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:186:Value",
         "objectId": 376,
         "description": "n/a",
         "originalText": "While holding a sword or a knife, the character has {0}% plus {1}% per point of dexterity above {2} chance to block a melee attack. The amount blocked is equal to the average base mechanical damage of the current weapon in case of swords and twice that for knives.",
-        "translatedText": "剣かナイフを装備しているとき、一定確率で敵の近接攻撃をブロックする。基本ブロック率は{0}%で、DEXが{2}を超えているぶん1ポイントにつき{1}%上昇する。ブロックできるダメージ量は装備中の近接武器の平均物理ダメージで、ナイフの場合は2倍で計算する。"
+        "translatedText": "剣かナイフを装備しているとき、一定確率で敵の近接攻撃をブロックする。基本ブロック率は{0}%で、DEXが{2}を超えているぶん1ポイントにつき{1}%上昇する。ブロックできるダメージ量は装備中の近接武器の平均物理ダメージで、ナイフの場合は2倍で計算する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:187:Key",
         "objectId": 377,
-        "description": "n/a",
+        "description": "key='navalcombat'",
         "originalText": "navalcombat",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:187:Value",
         "objectId": 378,
         "description": "n/a",
         "originalText": "Increases effective stability by {0}% and maneuverability by {1}% when piloting jet skis. Reduces action point cost of disembarking by {2}. Also increases precision of mounted jet ski weapons for those unproficient with guns.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:188:Key",
         "objectId": 379,
-        "description": "n/a",
+        "description": "key='improvednavalcombat'",
         "originalText": "improvednavalcombat",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:188:Value",
         "objectId": 380,
         "description": "n/a",
         "originalText": "Further increases effective stability by {0}% and maneuverability by {1}% when piloting jet skis. Further reduces action point cost of disembarking by {2}. Also increases precision of mounted jet ski weapons for those unproficient with guns.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:189:Key",
         "objectId": 381,
-        "description": "n/a",
+        "description": "key='jetandjab'",
         "originalText": "jetandjab",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:189:Value",
         "objectId": 382,
         "description": "n/a",
         "originalText": "Removes the additional {0}% precision penalty with knife, fist weapon and unarmed attacks when riding jet skis.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:190:Key",
         "objectId": 383,
-        "description": "n/a",
+        "description": "key='navaljousting'",
         "originalText": "navaljousting",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:190:Value",
         "objectId": 384,
         "description": "n/a",
         "originalText": "Increases damage with spears when riding jet skis by 30%",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:191:Key",
         "objectId": 385,
-        "description": "n/a",
+        "description": "key='seadog'",
         "originalText": "seadog",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:191:Value",
         "objectId": 386,
         "description": "n/a",
         "originalText": "Increases unarmed and weapon damage by {0}% and effective stability and maneuverability by {1}% when attacking from a jet ski.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:192:Key",
         "objectId": 387,
-        "description": "n/a",
+        "description": "key='versatility'",
         "originalText": "versatility",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:192:Value",
         "objectId": 388,
         "description": "n/a",
         "originalText": "Your effective Guns, Crossbows and Melee skill value is brought up to {0}% of the effective value of the highest of those skills.",
-        "translatedText": "銃・クロスボウ・近接スキルのうち、最も高いものの{0}%まで他のスキルを底上げする。"
+        "translatedText": "銃・クロスボウ・近接スキルのうち、最も高いものの{0}%まで他のスキルを底上げする。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:193:Key",
         "objectId": 389,
-        "description": "n/a",
+        "description": "key='scrutinous'",
         "originalText": "scrutinous",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:193:Value",
         "objectId": 390,
         "description": "n/a",
         "originalText": "Increases critical chance of unarmed and weapon attacks by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:194:Key",
         "objectId": 391,
-        "description": "n/a",
+        "description": "key='expertsprint'",
         "originalText": "expertsprint",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:194:Value",
         "objectId": 392,
         "description": "n/a",
         "originalText": "Sprint now also grants you {0} action points.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:195:Key",
         "objectId": 393,
-        "description": "n/a",
+        "description": "key='increasedbaseability'",
         "originalText": "increasedbaseability",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:195:Value",
         "objectId": 394,
         "description": "n/a",
         "originalText": "{0} increased by {1}. This feat increases the base value of {2} and will count towards other feat requirements.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:196:Key",
         "objectId": 395,
-        "description": "n/a",
+        "description": "key='strider'",
         "originalText": "strider",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:196:Value",
         "objectId": 396,
         "description": "n/a",
         "originalText": "Increase unstealthed movement points by {0} and out of combat unstealthed movement speed by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:197:Key",
         "objectId": 397,
-        "description": "n/a",
+        "description": "key='ironwill'",
         "originalText": "ironwill",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:197:Value",
         "objectId": 398,
         "description": "n/a",
         "originalText": "Increases resolve by {0}%.",
-        "translatedText": "不屈性／Resolveが{0}%増加する。"
+        "translatedText": "不屈性／Resolveが{0}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:198:Key",
         "objectId": 399,
-        "description": "n/a",
+        "description": "key='improvedunarmedcombat'",
         "originalText": "improvedunarmedcombat",
+        "ignore": true,
         "translatedText": "素手攻撃のダメージが{0}%増加し、{1}%の確率で{2}ターンの間対象をめまい状態にする追加効果を得る。"
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:198:Value",
         "objectId": 400,
         "description": "n/a",
         "originalText": "Increases unarmed damage by {0}% and gives your unarmed attack {1}% chance to daze the target for {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:199:Key",
         "objectId": 401,
-        "description": "n/a",
+        "description": "key='expertunarmedcombat'",
         "originalText": "expertunarmedcombat",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:199:Value",
         "objectId": 402,
         "description": "n/a",
         "originalText": "Further increases unarmed damage by {0}% and gives your unarmed attack {1}% chance to stun the organic target target for {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:200:Key",
         "objectId": 403,
-        "description": "n/a",
+        "description": "key='empoweredinvocation'",
         "originalText": "empoweredinvocation",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:200:Value",
         "objectId": 404,
         "description": "n/a",
         "originalText": "Grants you the empowered invocation ability that increases the {0} skill by {1}% until the end of the turn, but drains away all the remaining psi points afterwards.\r\n\r\nCooldown: {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:201:Key",
         "objectId": 405,
-        "description": "n/a",
+        "description": "key='shieldbash'",
         "originalText": "shieldbash",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:201:Value",
         "objectId": 406,
         "description": "n/a",
         "originalText": "Grants you a melee attack that deals mechanical damage equal to {0}%-{1}% of the amount blocked by the carried riot shield and dazes the target for {2}.\r\n\r\nCooldown: {3}.",
-        "translatedText": "アビリティを習得する。ライオットシールドを装備中のみ使用可能な近接攻撃で、シールドによってブロックしたダメージの{0}%-{1}%に等しい物理ダメージを与え、対象を{2}ターンの間めまい状態にする。\r\n\r\nクールダウン: {3}."
+        "translatedText": "アビリティを習得する。ライオットシールドを装備中のみ使用可能な近接攻撃で、シールドによってブロックしたダメージの{0}%-{1}%に等しい物理ダメージを与え、対象を{2}ターンの間めまい状態にする。\r\n\r\nクールダウン: {3}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:202:Key",
         "objectId": 407,
-        "description": "n/a",
+        "description": "key='boardingup'",
         "originalText": "boardingup",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:202:Value",
         "objectId": 408,
         "description": "n/a",
         "originalText": "Landing a melee attack while wearing a riot shield increases the amount blocked by the riot shield by {0}% for {1}. Stacks up to {2} times.",
-        "translatedText": "ライオットシールドを装備しているときに近接攻撃を命中させると、{1}の間ライオットシールドによるダメージブロック量を{0}%増加させる。この効果は{2}回までスタックする。"
+        "translatedText": "ライオットシールドを装備しているときに近接攻撃を命中させると、{1}の間ライオットシールドによるダメージブロック量を{0}%増加させる。この効果は{2}回までスタックする。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:203:Key",
         "objectId": 409,
-        "description": "n/a",
+        "description": "key='sweep'",
         "originalText": "sweep",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:203:Value",
         "objectId": 410,
         "description": "n/a",
         "originalText": "Grants you a special spear attack with deals {0}% of normal weapon damage to all enemies adjacent to you and puts living targets off balance for {1} if they are hit.\r\n\r\nOff-balanced characters have their dodge and evasion reduced to zero.\r\n\r\nCooldown: {2}.",
-        "translatedText": "Sweepアビリティを習得する。槍を装備中に使用でき、隣のタイルにいる敵すべてに通常攻撃の{0}%のダメージを与え、さらに{1}ターンの間よろめき／Off Balance状態にする。\r\n\r\nよろめき／Off-balanced状態のキャラクターはDodge／近接回避とEvasion／遠隔回避のスキルが0になる。\r\n\r\nクールダウン: {2}."
+        "translatedText": "Sweepアビリティを習得する。槍を装備中に使用でき、隣のタイルにいる敵すべてに通常攻撃の{0}%のダメージを与え、さらに{1}ターンの間よろめき／Off Balance状態にする。\r\n\r\nよろめき／Off-balanced状態のキャラクターはDodge／近接回避とEvasion／遠隔回避のスキルが0になる。\r\n\r\nクールダウン: {2}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:204:Key",
         "objectId": 411,
-        "description": "n/a",
+        "description": "key='bodyhorror'",
         "originalText": "bodyhorror",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:204:Value",
         "objectId": 412,
         "description": "n/a",
         "originalText": "After what you have seen, you'll never look at the fleshly form the same again.\r\n\r\nCritical hit chance with weapons and unarmed attacks against humanoids and non-insectoid critters increased by {0}%. Resolve reduced by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:205:Key",
         "objectId": 413,
-        "description": "n/a",
+        "description": "key='outervisions'",
         "originalText": "outervisions",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:205:Value",
         "objectId": 414,
         "description": "n/a",
         "originalText": "You've seen the wonderous possibilities of the Outer Expanses, both the beautiful and the abominable, and you're now less inclined to believe in the necessity of the limits of this particular physical world.\r\n\r\nRange of all psi abilities increased by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:206:Key",
         "objectId": 415,
-        "description": "n/a",
+        "description": "key='irongrip'",
         "originalText": "irongrip",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:206:Value",
         "objectId": 416,
         "description": "n/a",
         "originalText": "Allows you to wield spears in one hand when wearing a suit of armor with a riot shield, but at {0}% penalty to weapon damage.",
-        "translatedText": "シールド付きライオットアーマーを装備しているとき、槍を片手持ちすることができる。ただし片手持ち時は武器ダメージが{0}%低下する。"
+        "translatedText": "シールド付きライオットアーマーを装備しているとき、槍を片手持ちすることができる。ただし片手持ち時は武器ダメージが{0}%低下する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:207:Key",
         "objectId": 417,
-        "description": "n/a",
+        "description": "key='sixthshell'",
         "originalText": "sixthshell",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:207:Value",
         "objectId": 418,
         "description": "n/a",
         "originalText": "Each shotgun shot will grant {0}% bonus damage to shotgun attacks. When stacked up to 5, this damage bonus will change to {1}% and after the sixth attack the bonus will reset.",
-        "translatedText": "ショットガンで攻撃するたび、自身にショットガンの攻撃力を+{0}%する能力を付与する。この能力は5つまで重複し、5つ重複したときに{1}%になる。その次の攻撃(6回目)で能力は解除される。"
+        "translatedText": "ショットガンで攻撃するたび、自身にショットガンの攻撃力を+{0}%する能力を付与する。この能力は5つまで重複し、5つ重複したときに{1}%になる。その次の攻撃(6回目)で能力は解除される。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:208:Key",
         "objectId": 419,
-        "description": "n/a",
+        "description": "key='forcefullinnervation'",
         "originalText": "forcefullinnervation",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:208:Value",
         "objectId": 420,
         "description": "n/a",
         "originalText": "You conditioned your mind for psionic powers the raw way and it left its mark on you. You use your Will base ability instead of Intelligence to determine the number of psi slots, but your max psi points are reduced by {0}.\r\n\r\nYou obtained the rare golden pill that might undo this, but you are not sure if you should use it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:209:Key",
         "objectId": 421,
-        "description": "n/a",
+        "description": "key='psychoneuraloptimization'",
         "originalText": "psychoneuraloptimization",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:209:Value",
         "objectId": 422,
         "description": "n/a",
         "originalText": "While having only one psi school innervated, the psi cost of all abilities is reduced by {0}%.",
-        "translatedText": "PSIアビリティを1系統しか装備していないとき、全てのPSIアビリティのPSIポイントコストが{0}%減少する。"
+        "translatedText": "PSIアビリティを1系統しか装備していないとき、全てのPSIアビリティのPSIポイントコストが{0}%減少する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:210:Key",
         "objectId": 423,
-        "description": "n/a",
+        "description": "key='psychoneuralflexibility'",
         "originalText": "psychoneuralflexibility",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:210:Value",
         "objectId": 424,
         "description": "n/a",
         "originalText": "One psi school is ignored when determining the multi-school innervation psi cost penalty.",
-        "translatedText": "複数系統のPSIアビリティを装備するとき、1系統分だけペナルティを緩和する。"
+        "translatedText": "複数系統のPSIアビリティを装備するとき、1系統分だけペナルティを緩和する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:211:Key",
         "objectId": 425,
-        "description": "n/a",
+        "description": "key='expandedpsicapacitance'",
         "originalText": "expandedpsicapacitance",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:211:Value",
         "objectId": 426,
         "description": "n/a",
         "originalText": "Psi reserves increased by {0}%.",
-        "translatedText": "PSIストック／PSI reservesが{0}%増加する。"
+        "translatedText": "PSIストック／PSI reservesが{0}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:212:Key",
         "objectId": 427,
-        "description": "n/a",
+        "description": "key='tattooprotectorate'",
         "originalText": "tattooprotectorate",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:212:Value",
         "objectId": 428,
         "description": "n/a",
         "originalText": "At ease, Corporal.\r\n\r\nIncreases health by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:213:Key",
         "objectId": 429,
-        "description": "n/a",
+        "description": "key='tattoojkk'",
         "originalText": "tattoojkk",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:213:Value",
         "objectId": 430,
         "description": "n/a",
         "originalText": "You are one tactful operative.\r\n\r\nIncreases persuasion skill by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:214:Key",
         "objectId": 431,
-        "description": "n/a",
+        "description": "key='tattooanarchy'",
         "originalText": "tattooanarchy",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:214:Value",
         "objectId": 432,
         "description": "n/a",
         "originalText": "You bow to no authority.\r\n\r\nIncreases chance to critically hit with weapon and unarmed attacks by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:215:Key",
         "objectId": 433,
-        "description": "n/a",
+        "description": "key='tattoocoretech'",
         "originalText": "tattoocoretech",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:215:Value",
         "objectId": 434,
         "description": "n/a",
         "originalText": "State-of-the-art equipment amounts to a state-of-the-art agent.\r\n\r\nIncreases mechanics and electronics skills by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:216:Key",
         "objectId": 435,
-        "description": "n/a",
+        "description": "key='tattoopraetoriansecurity'",
         "originalText": "tattoopraetoriansecurity",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:216:Value",
         "objectId": 436,
         "description": "n/a",
         "originalText": "Order through strength.\r\n\r\nDecreases chance to get critically hit by weapon and unarmed attacks by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:217:Key",
         "objectId": 437,
-        "description": "n/a",
+        "description": "key='tattooaegisincorporated'",
         "originalText": "tattooaegisincorporated",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:217:Value",
         "objectId": 438,
         "description": "n/a",
         "originalText": "You will go anywhere, provided it be forward.\r\n\r\nIncreases all offensive skills by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:218:Key",
         "objectId": 439,
-        "description": "n/a",
+        "description": "key='tattoomagnarghost'",
         "originalText": "tattoomagnarghost",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:218:Value",
         "objectId": 440,
         "description": "n/a",
         "originalText": "The king is dead, long live the king!\r\n\r\nIncreases dodge and evasion by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:219:Key",
         "objectId": 441,
-        "description": "n/a",
+        "description": "key='tattooshadowlith'",
         "originalText": "tattooshadowlith",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:219:Value",
         "objectId": 442,
         "description": "n/a",
         "originalText": "The monoliths malicious influence has been removed, but not from your skin.\r\n\r\nIncreases psi regeneration by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:220:Key",
         "objectId": 443,
-        "description": "n/a",
+        "description": "key='tattoothebeast'",
         "originalText": "tattoothebeast",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:220:Value",
         "objectId": 444,
         "description": "n/a",
         "originalText": "To be Man is to fight monsters.\r\n\r\nUnarmed and weapon damage increased by {0}% against creatures.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:221:Key",
         "objectId": 445,
-        "description": "n/a",
+        "description": "key='tattootchort'",
         "originalText": "tattootchort",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:221:Value",
         "objectId": 446,
         "description": "n/a",
         "originalText": "Whether it was a monster or a god, it's dead now.\r\n\r\nIncreases resolve by {0}%, but reduces detection by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:222:Key",
         "objectId": 447,
-        "description": "n/a",
+        "description": "key='tattootchortinstitute'",
         "originalText": "tattootchortinstitute",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:222:Value",
         "objectId": 448,
         "description": "n/a",
         "originalText": "Tchort is evolution. Evolution is Tchort.\r\n\r\nIncreases biology and chemistry skills by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:223:Key",
         "objectId": 449,
-        "description": "n/a",
+        "description": "key='tattoobalorseye'",
         "originalText": "tattoobalorseye",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:223:Value",
         "objectId": 450,
         "description": "n/a",
         "originalText": "The only thing this electric eye couldn't see is Balor's untimely demise.\r\n\r\nIncreases detection by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:224:Key",
         "objectId": 451,
-        "description": "n/a",
+        "description": "key='tattoosgs'",
         "originalText": "tattoosgs",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:224:Value",
         "objectId": 452,
         "description": "n/a",
         "originalText": "There's no station like home station.\r\n\r\nIncreases all skills by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:225:Key",
         "objectId": 453,
-        "description": "n/a",
+        "description": "key='tattoopirate'",
         "originalText": "tattoopirate",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:225:Value",
         "objectId": 454,
         "description": "n/a",
         "originalText": "Sometimes you just have to hoist the black flag and start slitting throats.\r\n\r\nIncreases all offensive and defensive skills by {0}% while riding a jet ski.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:226:Key",
         "objectId": 455,
-        "description": "n/a",
+        "description": "key='tattoodrifter'",
         "originalText": "tattoodrifter",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:226:Value",
         "objectId": 456,
         "description": "n/a",
         "originalText": "You can't seem to settle anywhere. Just as soon as you get involved with a faction or a place, something urges you to move on.\r\n\r\nIncreases movement speed by {0}% and movement points by {1} when not in stealth.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:227:Key",
         "objectId": 457,
-        "description": "n/a",
+        "description": "key='tattoojeteater'",
         "originalText": "tattoojeteater",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:227:Value",
         "objectId": 458,
         "description": "n/a",
         "originalText": "The caustic stench of the vile fluid is ever with you and your skin tingles with memories of pain.\r\n\r\nIncreases acid damage threshold by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:228:Key",
         "objectId": 459,
-        "description": "n/a",
+        "description": "key='tattoofatso'",
         "originalText": "tattoofatso",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:228:Value",
         "objectId": 460,
         "description": "n/a",
         "originalText": "Eat and drink your fill. Gorge yourself on the cave's bounty. Become large.\r\n\r\nDuration of food items increased by {0} minutes.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:229:Key",
         "objectId": 461,
-        "description": "n/a",
+        "description": "key='tattooblackcrawler'",
         "originalText": "tattooblackcrawler",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:229:Value",
         "objectId": 462,
         "description": "n/a",
         "originalText": "You can still make out its large red eyes if you stare into the darkest corners of Underrail long enough.\r\n\r\nStealth increased by {0}% of base value.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:230:Key",
         "objectId": 463,
-        "description": "n/a",
+        "description": "key='tattooabomination'",
         "originalText": "tattooabomination",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:230:Value",
         "objectId": 464,
         "description": "n/a",
         "originalText": "Life force - primordial, lasting, potent - twisted into a gruesome form.\r\n\r\nChanges the health percentage above which you receive natural regeneration to {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:231:Key",
         "objectId": 465,
-        "description": "n/a",
+        "description": "key='monstrousyell'",
         "originalText": "monstrousyell",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:231:Value",
         "objectId": 466,
         "description": "n/a",
         "originalText": "Your Yell makes such a disturbing sound that it also has {0}% chance to to instill fear for {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:232:Key",
         "objectId": 467,
-        "description": "n/a",
+        "description": "key='cohesivemucusglands'",
         "originalText": "cohesivemucusglands",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:232:Value",
         "objectId": 468,
         "description": "n/a",
         "originalText": "Allows you to spit acid blobs that damage and entangle your targets.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:233:Key",
         "objectId": 469,
-        "description": "n/a",
+        "description": "key='gunfu'",
         "originalText": "gunfu",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:233:Value",
         "objectId": 470,
         "description": "n/a",
         "originalText": "When attacking with firearm pistols in melee range, your effective attack skill is increased by {0}% of your unmodified melee skill for all purposes, including the damage done.",
-        "translatedText": "隣接する敵に火薬式のピストルで攻撃した際、その攻撃のスキルは近接攻撃スキルの{0}%を足したものとして判定する。"
+        "translatedText": "隣接する敵に火薬式のピストルで攻撃した際、その攻撃のスキルは近接攻撃スキルの{0}%を足したものとして判定する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:234:Key",
         "objectId": 471,
-        "description": "n/a",
+        "description": "key='bullettime'",
         "originalText": "bullettime",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:234:Value",
         "objectId": 472,
         "description": "n/a",
         "originalText": "When activated, reduces action point cost of firing firearm pistols by {0}% until the end of the turn. \r\n\r\nCannot reduce the action point cost below the hard minimum.\r\n\r\nCooldown: {1}.",
-        "translatedText": "Bullet Timeアビリティを習得する。ターン終了時まで、火薬ピストルの射撃APコストが{0}%減少する。\r\n\r\nただし一定値を超えて下がることはない。\r\n\r\nクールダウン: {1}."
+        "translatedText": "Bullet Timeアビリティを習得する。ターン終了時まで、火薬ピストルの射撃APコストが{0}%減少する。\r\n\r\nただし一定値を超えて下がることはない。\r\n\r\nクールダウン: {1}.",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:235:Key",
         "objectId": 473,
-        "description": "n/a",
+        "description": "key='remotesurgeon'",
         "originalText": "remotesurgeon",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:235:Value",
         "objectId": 474,
         "description": "n/a",
         "originalText": "Increases the unresisted damage modifier of throwing knives by additional {0}%.",
-        "translatedText": "投げナイフによる(防御力で減衰した後の)与ダメージが{0}%増加する。"
+        "translatedText": "投げナイフによる(防御力で減衰した後の)与ダメージが{0}%増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:236:Key",
         "objectId": 475,
-        "description": "n/a",
+        "description": "key='psychokineticelasticity'",
         "originalText": "psychokineticelasticity",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:236:Value",
         "objectId": 476,
         "description": "n/a",
         "originalText": "Increases the range of your telekinetic psi abilities, and also the number of links in psychokinetic chains you produce, by one.",
-        "translatedText": "テレキネシス／Telekinetic系統のPSIアビリティの射程が1増加する。Psychokinetic Chainsで発生する環の数が1増加する。"
+        "translatedText": "テレキネシス／Telekinetic系統のPSIアビリティの射程が1増加する。Psychokinetic Chainsで発生する環の数が1増加する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:237:Key",
         "objectId": 477,
-        "description": "n/a",
+        "description": "key='beyondcold'",
         "originalText": "beyondcold",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:237:Value",
         "objectId": 478,
         "description": "n/a",
         "originalText": "You've experienced that terrible feeling that lies on the other side of extreme cold, at the threshold of complete stillness, where the living body is drained of all energy.\r\n\r\nWhen chilled or frozen, you will gain a buff that will increase your will by {4}, reduce all the cold damage taken by {0}% and all the mechanical damage taken by {1}%, and make you immune to further chilling or freezing for {2}. This can occur only once every {3}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:238:Key",
         "objectId": 479,
-        "description": "n/a",
+        "description": "key='motioner'",
         "originalText": "motioner",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:238:Value",
         "objectId": 480,
         "description": "n/a",
         "originalText": "You abused this dangerous substance one too many times and now your brain has suffered long-term damage.\r\n\r\nYour intelligence is reduced by {0} and you occasionally suffer worse acute effects.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:239:Key",
         "objectId": 481,
-        "description": "n/a",
+        "description": "key='shoemaker'",
         "originalText": "shoemaker",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:239:Value",
         "objectId": 482,
         "description": "n/a",
         "originalText": "The quality of leather counts as if {0}% higher when crafting leather boots.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:240:Key",
         "objectId": 483,
-        "description": "n/a",
+        "description": "key='finetuned'",
         "originalText": "finetuned",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:240:Value",
         "objectId": 484,
         "description": "n/a",
         "originalText": "You're starting to develop an ear for the subtle differences in sound. In a world comprised largely of dark caves and metro tunnels, this is no small a boon.\r\n\r\nDetection increased by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "jsonVersion": "0.3"
     }
 ]

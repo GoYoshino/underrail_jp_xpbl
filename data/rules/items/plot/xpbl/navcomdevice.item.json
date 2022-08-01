@@ -1,51 +1,109 @@
 [
     {
-        "className": "TI",
+        "classInfo": "(TI).I:C",
         "objectId": 3,
         "description": "n/a",
         "originalText": "plot.xpbl_navcom",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "TI",
+        "classInfo": "(TI).I:N",
         "objectId": 4,
         "description": "n/a",
         "originalText": "NavCom Device",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "TI",
+        "classInfo": "(TI).I:D",
         "objectId": 6,
         "description": "n/a",
         "originalText": "The Redinger 450 NCD is a rebranded Biocorp Hermes 450 navigation and communication device. It offers a long-range two-way radio as well as receiver capable of acquiring data from the Underrail Positioning Relay System (North Underrail only), or using advanced, but less accurate, integrated algorithms to determine the device's position in three-dimensional space. Supports various map formats and programmable coordinate systems, among many other features.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "TI",
+        "classInfo": "(TI).I:VM",
         "objectId": 7,
         "description": "n/a",
         "originalText": "xpbl_Plot.43",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "CR",
+        "classInfo": "(CR).CR:CFTN",
         "objectId": 17,
         "description": "n/a",
         "originalText": "startInterfacing",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "P",
+        "classInfo": "(P).P:N",
         "objectId": 18,
         "description": "n/a",
         "originalText": "InterfaceDialog",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "P",
+        "classInfo": "(P).P:V",
         "objectId": 19,
         "description": "n/a",
         "originalText": "interfacing\\xpbl\\navcom",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:N",
+        "objectId": 20,
+        "description": "n/a",
+        "originalText": "InterfaceActorName",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:V",
+        "objectId": 21,
+        "description": "n/a",
+        "originalText": "NavCom",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:N",
+        "objectId": 22,
+        "description": "n/a",
+        "originalText": "InterfaceCommandText",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:V",
+        "objectId": 23,
+        "description": "n/a",
+        "originalText": "Activate the device.",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:N",
+        "objectId": 24,
+        "description": "n/a",
+        "originalText": "InterfaceActorId",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:V",
+        "objectId": 25,
+        "description": "n/a",
+        "originalText": "navcom",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "jsonVersion": "0.3"
     }
 ]

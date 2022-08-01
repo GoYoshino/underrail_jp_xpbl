@@ -1,208 +1,205 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 15,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 16,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 17,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 25,
         "description": "n/a",
         "originalText": "::Status: On::\r\n",
-        "translatedText": "::状態: ON::"
+        "translatedText": "::状態: ON::",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 31,
         "description": "n/a",
         "originalText": "::Status: Off::\r\n",
-        "translatedText": "::状態: OFF::"
+        "translatedText": "::状態: OFF::",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.C:N",
+        "classInfo": "(BC).C:N",
         "objectId": 34,
         "description": "n/a",
         "originalText": "Is turned on",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 35,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.local_isTurnedOn",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 43,
         "description": "n/a",
-        "originalText": "::フラックス・コントローラ: Biocorp-Seddar FC-11z::\r\n",
-        "translatedText": ""
+        "originalText": "::Flux controller: Biocorp-Seddar FC-11z::\r\n",
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 49,
         "description": "n/a",
-        "originalText": "::フラックス・コントローラ: なし::\r\n",
-        "translatedText": ""
+        "originalText": "::Flux controller: Missing::\r\n",
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.C:N",
+        "classInfo": "(BC).C:N",
         "objectId": 52,
         "description": "n/a",
         "originalText": "has flux controller",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 53,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.local_hasFluxController",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 66,
         "description": "n/a",
-        "originalText": "::フラックス・コントローラを挿入する::",
-        "translatedText": ""
+        "originalText": "::Insert flux controller.::",
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 71,
         "description": "n/a",
-        "originalText": "::電源を入れる.::",
-        "translatedText": ""
+        "originalText": "::Turn on.::",
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 74,
         "description": "n/a",
-        "originalText": "::操作終了::",
-        "translatedText": ""
+        "originalText": "::Leave.::",
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 84,
         "description": "n/a",
         "originalText": "::Flux controller inserted successfully.::",
-        "translatedText": "::フラックス・コントローラを挿入した。::"
+        "translatedText": "::フラックス・コントローラを挿入した。::",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 96,
         "description": "n/a",
         "originalText": "::Power generator is operational.::",
-        "translatedText": "::発電機が起動した。::"
+        "translatedText": "::発電機が起動した。::",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.C:N",
+        "classInfo": "(PHIC).C:N",
         "objectId": 99,
         "description": "n/a",
         "originalText": "Got FC",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 100,
         "description": "n/a",
         "originalText": "fluxController",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 101,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.local_hasFluxController",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 103,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.local_hasFluxController",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".RIFPA.RIFPA:IC",
+        "classInfo": "(RIFPA).RIFPA:IC",
         "objectId": 109,
         "description": "n/a",
         "originalText": "fluxController",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 110,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.local_hasFluxController",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 111,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.local_isTurnedOn",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 113,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.local_isTurnedOn",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 117,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_retakingOldOutposts_state",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PLSJ.LSJ:CI",
+        "classInfo": "(PLSJ).LSJ:CI",
         "objectId": 121,
         "description": "n/a",
         "originalText": "console",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PLSJ.LSJ:SI",
+        "classInfo": "(PLSJ).LSJ:SI",
         "objectId": 122,
         "description": "n/a",
         "originalText": "DigiAdvance",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PLSJ.LSJ:CI",
+        "classInfo": "(PLSJ).LSJ:CI",
         "objectId": 126,
         "description": "n/a",
         "originalText": "interface",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PLSJ.LSJ:SI",
+        "classInfo": "(PLSJ).LSJ:SI",
         "objectId": 127,
         "description": "n/a",
         "originalText": "PowerGenTurnOn",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

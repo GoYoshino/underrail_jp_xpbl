@@ -1,54 +1,36 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 11,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 12,
-        "description": "n/a",
-        "originalText": "vilmer",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 13,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 18,
         "description": "n/a",
         "originalText": "You chose the wrong house to bust into, $(#jack/sister).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 22,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jyvilmer_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".U01.U01:S",
+        "classInfo": "(U01).U01:S",
         "objectId": 25,
         "description": "n/a",
         "originalText": "jy_house3",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".U01.U01:T",
+        "classInfo": "(U01).U01:T",
         "objectId": 26,
         "description": "n/a",
         "originalText": "player",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

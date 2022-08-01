@@ -1,16 +1,20 @@
 [
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Key",
         "objectId": 3,
-        "description": "n/a",
+        "description": "key='tnt'",
         "originalText": "tnt",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Value",
         "objectId": 4,
         "description": "n/a",
         "originalText": "Plants a TNT charge that will detonate after {0} seconds ({1}), dealing {2} and {3} damage to creatures and machines and removing destructible objects.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "jsonVersion": "0.3"
     }
 ]

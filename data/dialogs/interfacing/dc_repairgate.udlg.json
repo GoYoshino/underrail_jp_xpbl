@@ -1,887 +1,944 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 39,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 40,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 41,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 42,
-        "description": "n/a",
-        "originalText": "bot",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 46,
         "description": "n/a",
         "originalText": "::There is nothing else for you to do here.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 53,
         "description": "n/a",
         "originalText": "::Once the bot finally returns to its station, you take the canisters and pour the fluid into the reservoir. After checking for leaks, of which there were none, you close the panel.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 67,
         "description": "n/a",
         "originalText": "::This large machinery appears to be some sort of a gate opening mechanism. While it is true that corrosion and fungus engulfing the outer shell are a clear sign that the machine hasn't been maintained in decades, looking inside the mechanism would give you a more accurate insight into its condition and potential usability. A panel on the right is already open, as if inviting you to look inside.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 76,
         "description": "n/a",
         "originalText": "::You approach the machine and take a look at it.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 79,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGateCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 80,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_botLeaves",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 89,
         "description": "n/a",
         "originalText": "::The only way to test if all this trouble was worth it is to try to actually open the gate. The gate controls must be above you, near the gate, seeing as there are no controls visible in this room.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 98,
         "description": "n/a",
         "originalText": "::You have observed the little bot perform its work for a generous amount of time, and the only thing that kept you from falling asleep from boredom was the occasional - and notably loud - \"imbecile\" coming from the bot's speaker. Finally, after the long wait, your rude but useful friend retracts its tool extension, rotates itself toward you and addresses you.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 104,
         "description": "n/a",
         "originalText": "::While you were aware from the start that installing life into this decayed piece of machinery is going to be a difficult task; how difficult, however, that you realized only after you finally rolled your sleeves and began working and looking back at your underestimation. Screws getting decapitated as soon as you'd touch them with a screwdriver, tubes full of holes you had to patch up with the super tape and tiny, delicate components turning into black dust are only some of the problems you faced. Yet, you managed it all.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 107,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_gateMachine_firstLook",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 113,
         "description": "n/a",
         "originalText": "::Take a look inside.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 116,
         "description": "n/a",
         "originalText": "::Leave.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 121,
         "description": "n/a",
         "originalText": " ::The hydro-pneumatic accumulator is firmly locked in place;::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 127,
         "description": "n/a",
         "originalText": " ::The hydro-pneumatic accumulator is still missing,::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 131,
         "description": "n/a",
         "originalText": "dc_repairGate",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 133,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGateCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 142,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_repairWithBot",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 143,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_repairManually",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 144,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_repairWithBot",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 147,
         "description": "n/a",
         "originalText": "Report, imbecile;\r\n\r\nThe repairs were completed with an estimated usability rating of three out of possible five, which translates to approximately one hundred continuous working hours.\r\n\r\nYou may now fill the reservoir tank with hydraulic fluid. This unit will now return to its dedicated bay and will leave the imbecile in anticipation that $(#he/she) will not catastrophically mishandle the only task delegated to $(#him/her).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 154,
         "description": "n/a",
         "originalText": "::Now, after the repairs are completed, the last thing left for you to do is to pour the hydraulic fluid into the reservoir and check for any remaining holes, and that is what you do. After making sure that nothing is leaking, you close the panel.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 161,
         "description": "n/a",
         "originalText": "::[Mechanics] You begin thoroughly inspecting the machine. Inside, you see a hydraulic system which drives the actuators responsible for opening and closing the gate above. Corrosion has bitten into the insides quite deeply, but most of the components appear to be functional, or could become so after minor repairs. Others, however, would need replacement parts.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 168,
         "description": "n/a",
         "originalText": "::Armed with a service manual, you begin thoroughly inspecting the machine. Inside, you see a hydraulic system which drives, as the manual states, the actuators responsible for opening and closing of the gate above. Corrosion has bitten into the insides pretty well, but most of the components appear to be functional, or could become so with some minor repairs. Others, however, will need replacement parts.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 173,
         "description": "n/a",
         "originalText": "::You take a look inside, but have difficulties interpreting what you're seeing. It appears to be some sort of a hydraulic system inside, based on a few components you manage to recognize, but that is all you can figure out on your own. If you had a manual or some instructions you could take a look at, it would help you with tackling the problem at hand.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 176,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_gotAccumulator",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSEF1.SSEF1:A",
+        "classInfo": "(SSEF1).SSEF1:A",
         "objectId": 186,
         "description": "n/a",
         "originalText": "dc-door1",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 198,
         "description": "n/a",
         "originalText": "::Wait for the repair bot to leave.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 204,
         "description": "n/a",
         "originalText": "::First, you will need to replace the main control valve with a new one. Second, the drive shaft by which the electric motor drives the axial piston pump has entirely corroded and must be replaced. You take both the valve and the faulty shaft so that you can use them for reference when searching for replacements. Third, the hydraulic fluid reservoir has leaked and will need to be patched up before it can hold any liquid. Looking at the empty canisters just to the right of the machine, you estimate that you will need about three of those to fully fill the reservoir.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 207,
         "description": "n/a",
         "originalText": "plot.dc_gateMechanismManual",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 212,
         "description": "n/a",
         "originalText": " ::the hydraulic control valve has been placed inside the panel and is waiting for installation,::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 218,
         "description": "n/a",
         "originalText": " ::the faulty hydraulic control valve is still waiting for a replacement,::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 222,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_botLeaves",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PCA1.PCA1:WP",
+        "classInfo": "(PCA1).PCA1:WP",
         "objectId": 224,
         "description": "n/a",
         "originalText": "Dc_RepairBotLeaves",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 229,
         "description": "n/a",
         "originalText": "::Fourth, you notice that the system is connected to what appear to be hydro-pneumatic accumulators which connect to the outside of the machine. One is already in place, but the other is missing and will need to be installed.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 233,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_gateMachine_firstLook",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 234,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_gotValve",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 247,
         "description": "n/a",
         "originalText": "::Even with all the necessary components, actually repairing the machinery is going to take a lot of time and effort, but you are confident that you are skilled enough to do the job. The only thing you'd need, if you are to repair it yourself, is to find some tools, preferably a complete set.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 253,
         "description": "n/a",
         "originalText": "::Even with all the necessary components, actually repairing the machinery is going to take a lot of time, effort and skill, the last of which you don't think you have. Even if you were capable of performing the repairs, you'd still need to find some tools, preferably a complete set.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 260,
         "description": "n/a",
         "originalText": " ::the correct hydraulic pump drive shaft is in place and is waiting for installation,::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 266,
         "description": "n/a",
         "originalText": " ::the hydraulic pump drive shaft is still missing,::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 274,
         "description": "n/a",
         "originalText": " ::You check the tool box you have and, based on a quick look, it seems like it contains all the tools you will need.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 293,
         "description": "n/a",
         "originalText": "::On the other hand, what appears to be a repair bot sitting in the corner could prove useful and help you with the repairs.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 296,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_gotDriveShaft",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 306,
         "description": "n/a",
         "originalText": "plot.dc_uniTool",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 319,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_deepCaverns_needBotForGate",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 321,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_gateMachine_firstLook",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 323,
         "description": "n/a",
         "originalText": "dc_repairGate",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 325,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGateStarted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 329,
         "description": "n/a",
         "originalText": "dc_repairBot",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 336,
         "description": "n/a",
         "originalText": " ::and next to the machine you see three hydraulic fluid canisters, which is enough to completely fill the reservoir.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 343,
         "description": "n/a",
         "originalText": " ::and next to the machine you see two hydraulic fluid canisters out of the three needed.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 350,
         "description": "n/a",
         "originalText": " ::and next to the machine you see one hydraulic fluid canister out of the three needed.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 356,
         "description": "n/a",
         "originalText": " ::and the hydraulic fluid reservoir still needs approximately three canisters for a complete fill.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 365,
         "description": "n/a",
         "originalText": "::Attempt to repair the machine.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 371,
         "description": "n/a",
         "originalText": "::Insert the hydraulic pump drive shaft.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 378,
         "description": "n/a",
         "originalText": "::Insert the hydraulic control valve.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 385,
         "description": "n/a",
         "originalText": "::Insert the hydro-pneumatic accumulator.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 392,
         "description": "n/a",
         "originalText": "::Use a hydraulic fluid canister.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 399,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_canistersAcquired",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 401,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_canistersAcquired",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 403,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_canistersAcquired",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 412,
         "description": "n/a",
         "originalText": "::You have all the necessary components ready as well as all the tools you'll need. You can now begin the repairs.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 420,
         "description": "n/a",
         "originalText": "::You have the necessary components ready, but not the necessary tools. If you want to perform the repairs yourself, you will need an appropriate tool set.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 427,
         "description": "n/a",
         "originalText": "::You have the necessary components ready, but you aren't able to perform the complicated repairs yourself. You could use a repair bot to repair the machinery for you.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 440,
         "description": "n/a",
         "originalText": "::The drive shaft you have seems to be correct for this types of pump and electric motor. You set it inside the housing and will install it when you begin the repairs.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 446,
         "description": "n/a",
         "originalText": "::You don't seem to possess a correct drive shaft for this type of pump. You will have to find one that will fit properly between the pump and the motor in order to repair the hydraulic system.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 454,
         "description": "n/a",
         "originalText": "::The control valve you possess seems to be a correct match for this type of hydraulic system. You place the valve inside the panel and will properly install it once the repairs begin.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RIFPA.RIFPA:IC",
+        "classInfo": "(RIFPA).RIFPA:IC",
         "objectId": 458,
         "description": "n/a",
         "originalText": "plot.dc_gateControlValve",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 460,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_gotValve",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 467,
         "description": "n/a",
         "originalText": "::You simply place the hydro-pneumatic accumulator into its slot and gently push it in. After hearing a locking sound you become sure you have done everything correctly.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RIFPA.RIFPA:IC",
+        "classInfo": "(RIFPA).RIFPA:IC",
         "objectId": 471,
         "description": "n/a",
         "originalText": "plot.dc_gateAccumulator",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 473,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_gotAccumulator",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 502,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_gotDriveShaft",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 503,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_gotValve",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 504,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_gotAccumulator",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 505,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_canistersAcquired",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 513,
         "description": "n/a",
         "originalText": "::Begin the repairs.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 520,
         "description": "n/a",
         "originalText": "::Order the bot to perform the repairs.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 521,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_gotDriveShaft",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 526,
         "description": "n/a",
         "originalText": "plot.dc_gateDriveShaftCorrect",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RIFPA.RIFPA:IC",
+        "classInfo": "(RIFPA).RIFPA:IC",
         "objectId": 528,
         "description": "n/a",
         "originalText": "plot.dc_gateDriveShaftCorrect",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 530,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_gotDriveShaft",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 531,
         "description": "n/a",
         "originalText": "plot.dc_gateControlValve",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 532,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_gotValve",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 533,
         "description": "n/a",
         "originalText": "plot.dc_gateAccumulator",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 534,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_gotAccumulator",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 538,
         "description": "n/a",
         "originalText": "plot.dc_hydraulicFluidCanister",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 539,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_canistersAcquired",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 541,
         "description": "n/a",
         "originalText": "plot.dc_hydraulicFluidCanister",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 568,
         "description": "n/a",
         "originalText": "plot.dc_hydraulicFluidCanister",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 569,
         "description": "n/a",
         "originalText": "plot.dc_hydraulicFluidCanister",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 579,
         "description": "n/a",
         "originalText": "plot.dc_uniTool",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 582,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_repairManually",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PCA1.PCA1:WP",
+        "classInfo": "(PCA1).PCA1:WP",
         "objectId": 584,
         "description": "n/a",
         "originalText": "Dc_RepairGateMechanism",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 586,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_repairBot_installedCore",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 588,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_repairWithBot",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PCA1.PCA1:WP",
+        "classInfo": "(PCA1).PCA1:WP",
         "objectId": 590,
         "description": "n/a",
         "originalText": "Dc_RepairGateMechanism",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 591,
         "description": "n/a",
         "originalText": "plot.dc_gateDriveShaftWrong1",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 592,
         "description": "n/a",
         "originalText": "plot.dc_gateDriveShaftWrong2",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 593,
         "description": "n/a",
         "originalText": "plot.dc_gateDriveShaftWrong3",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 594,
         "description": "n/a",
         "originalText": "plot.dc_gateDriveShaftCorrect",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SSEF1.SSEF1:A",
+        "classInfo": "(SSEF1).SSEF1:A",
         "objectId": 596,
         "description": "n/a",
         "originalText": "dc-door1",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 603,
         "description": "n/a",
         "originalText": "::Since the hydraulic fluid reservoir has a hole in it that needs to be patched up, you set the canisters next to the machinery to be used once the repairs are completed.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RIFPA.RIFPA:IC",
+        "classInfo": "(RIFPA).RIFPA:IC",
         "objectId": 607,
         "description": "n/a",
         "originalText": "plot.dc_hydraulicFluidCanister",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 609,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_canistersAcquired",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".RIFPA.RIFPA:IC",
+        "classInfo": "(RIFPA).RIFPA:IC",
         "objectId": 613,
         "description": "n/a",
         "originalText": "plot.dc_hydraulicFluidCanister",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 615,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_canistersAcquired",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 619,
         "description": "n/a",
         "originalText": "::Since the hydraulic fluid reservoir has a hole in it that needs to be patched up, you set the canister next to the machinery to be used once the repairs are completed.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RIFPA.RIFPA:IC",
+        "classInfo": "(RIFPA).RIFPA:IC",
         "objectId": 623,
         "description": "n/a",
         "originalText": "plot.dc_hydraulicFluidCanister",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 625,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_canistersAcquired",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 630,
         "description": "n/a",
         "originalText": "plot.dc_hydraulicFluidCanister",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 631,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_canistersAcquired",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 633,
         "description": "n/a",
         "originalText": "plot.dc_hydraulicFluidCanister",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 634,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGate_canistersAcquired",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".NEI.I:C",
+        "classInfo": "(NEI).I:C",
         "objectId": 636,
         "description": "n/a",
         "originalText": "plot.dc_gateDriveShaftBroken",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:N",
+        "classInfo": "(NEI).I:N",
         "objectId": 637,
         "description": "n/a",
         "originalText": "Corroded Drive Shaft",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:D",
+        "classInfo": "(NEI).I:D",
         "objectId": 639,
         "description": "n/a",
         "originalText": "This drive shaft is in such a bad condition that you could pretty much bite it in half if you wanted to.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:VM",
+        "classInfo": "(NEI).I:VM",
         "objectId": 640,
         "description": "n/a",
         "originalText": "Plot.89",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:C",
+        "classInfo": "(NEI).I:C",
         "objectId": 645,
         "description": "n/a",
         "originalText": "plot.dc_gateControlValveBroken",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:N",
+        "classInfo": "(NEI).I:N",
         "objectId": 646,
         "description": "n/a",
         "originalText": "Faulty Hydraulic Control Valve",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:D",
+        "classInfo": "(NEI).I:D",
         "objectId": 648,
         "description": "n/a",
         "originalText": "This valve is useless for anything other than acting as a reference when searching for a replacement.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:VM",
+        "classInfo": "(NEI).I:VM",
         "objectId": 649,
         "description": "n/a",
         "originalText": "Plot.79",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

@@ -1,2714 +1,2924 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 68,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 69,
-        "description": "n/a",
-        "originalText": "leo",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 70,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 71,
-        "description": "n/a",
-        "originalText": "hole",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 76,
         "description": "n/a",
         "originalText": "You're done for!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 83,
         "description": "n/a",
         "originalText": "GET OUT!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 90,
         "description": "n/a",
         "originalText": "::You stare at a raised crossbow.::\r\n\r\nWhatcha doin' 'ere, intruder!? Eh? Eh!? Move one, ONE finger and I'll launch a bolt through your hollow skull!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 110,
         "description": "n/a",
         "originalText": "::Leo leads you to a hole in the ground. You peek into the void before glancing over to him: He's got a blissful grin on his face and is rubbing his shaking hands with enjoyment. Without a warning his expression solidifies, and he quickly reaches to support his lower back. You hear one disturbingly loud crack, and then he speaks.::\r\n\r\nI shouldn't have came out of that locker so fast. Ow... dang it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 121,
         "description": "n/a",
         "originalText": "::A terrified man leaps out of the locker, his former sanctuary, and pushes you aside. Despite his age, his movements are swift and agile, yet, as it usually comes with old age, this fear-driven overexertion is likely to pain him once he comes to a full rest. He raises his crossbow, taking a shaky aim at your face. Words come out of his mouth as quickly as he did from the locker and are carried by a quivering, chalky voice.::\r\n\r\nWhatcha doin' 'ere, intruder!? Eh? Eh!? Move one, *one* finger and I'll launch a bolt through your hollow skull!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 130,
         "description": "n/a",
         "originalText": "Wh-- Uh, you again? What in the broken stalactite do you want now, eh?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 138,
         "description": "n/a",
         "originalText": "Who's-- Oh, have you found it yet? Eh?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 147,
         "description": "n/a",
         "originalText": "Eh? $(context.player.Name)? $(context.player.Name). *$(context.player.Name)*.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 150,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_lastWarning",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 156,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_lastWarning",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 160,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_metFinalTime",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 165,
         "description": "n/a",
         "originalText": "Leo, it's me. Don't you remember?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 169,
         "description": "n/a",
         "originalText": "Calm down. I am not here to cause trouble. Can you please put the weapon down?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 173,
         "description": "n/a",
         "originalText": "As if you can hit anything, old man. Give me your best shot! ::Fight!::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 184,
         "description": "n/a",
         "originalText": "::[Persuasion] ::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 190,
         "description": "n/a",
         "originalText": "::You spent about an hour conversing with your echo. A long talk indeed, during which you and the Hole of Reason agreed on just about everything, making it effectively the most boring conversation you've ever had. Yet, oddly, not the most useless one, it seems: You feel as if your reasoning is somehow sharper, your memory more reliable; you feel more focused and less likely to be distracted by outside interference - you feel strange. \r\n\r\nOr maybe you're just losing your mind due to the fact that you've spent an hour talking to a bottomless pit.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 194,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_TalkedToHoleOfReason",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 200,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_DiscussHoleOfReason",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 204,
         "description": "n/a",
         "originalText": "Are you okay? You want to sit down?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 208,
         "description": "n/a",
         "originalText": "So, this is the \"Hole of Reason.\" I still fail to understand how was this helping you mitigate the pressure inside your head, as you call it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 212,
         "description": "n/a",
         "originalText": "Oh, quit complaining and tell me what's so important about this hole.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 216,
         "description": "n/a",
         "originalText": "Why did you bring me here, old man?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 217,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 219,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 224,
         "description": "n/a",
         "originalText": "Calm down. I am not here to cause trouble. Can you please put the weapon down?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 229,
         "description": "n/a",
         "originalText": "Damn it, man, you scared me more than I scared you. Put that thing down and let's talk.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 230,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quests_dc_findLeosKnifeStarted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 234,
         "description": "n/a",
         "originalText": "I was wondering if you could help me with some things. You look like you know a lot about Deep Caverns.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 237,
         "description": "n/a",
         "originalText": "Nothing. Goodbye.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 244,
         "description": "n/a",
         "originalText": "I think this is what you were looking for.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 248,
         "description": "n/a",
         "originalText": "Where did you say you lost it?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 252,
         "description": "n/a",
         "originalText": "Not yet.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 275,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_metFinalTime",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 276,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_lastWarning",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 277,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_leftDeepCaverns",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 278,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_metFinalTime",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 279,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 282,
         "description": "n/a",
         "originalText": "Get outta here, intruder! Get out! I swear, I'll nail you to that wall over there if you don't get outta here!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 290,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_TalkedToHoleOfReason",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 291,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_StartHoleOfReason",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 334,
         "description": "n/a",
         "originalText": "Feelin' good, $(context.player.Name)?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".G09.G09:QN",
+        "classInfo": "(G09).G09:QN",
         "objectId": 344,
         "description": "n/a",
         "originalText": "EchoingSoliloquy",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".YE.YE:A",
+        "classInfo": "(YE).YE:A",
         "objectId": 346,
         "description": "n/a",
         "originalText": "dc-he2",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".YE.YE:W",
+        "classInfo": "(YE).YE:W",
         "objectId": 347,
         "description": "n/a",
         "originalText": "leo_hole",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 348,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_DiscussHoleOfReason",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 352,
         "description": "n/a",
         "originalText": "::Are you okay? You want to sit down?::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 358,
         "description": "n/a",
         "originalText": "::So, this is the \"Hole of Reason.\" I still fail to understand how was this helping you mitigate the pressure inside your head, as you call it.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 364,
         "description": "n/a",
         "originalText": "::Oh, quit complaining and tell me what's so important about this hole.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 370,
         "description": "n/a",
         "originalText": "::Why did you bring me here, old man?::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 376,
         "description": "n/a",
         "originalText": "::His face turns pale after finally recognizing the robe that you are wearing.:: Wha-- You, you are one of 'em! Devil! Devil! You will not take me - YOU WILL NOT!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 382,
         "description": "n/a",
         "originalText": "Not so fast, intruder, not so fast! ::He squeezes the crossbow even harder.:: First, I want you to tell me who you are and, and... and what in the echoing words of reason are you doin' in my damn house!?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 391,
         "description": "n/a",
         "originalText": "Why would I wanna help someone who broke into my house? Eh? Eh?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 397,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quests_dc_findLeosKnifeStarted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 398,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quests_dc_findLeosKnifeCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 399,
         "description": "n/a",
         "originalText": "plot.leosKnife",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 406,
         "description": "n/a",
         "originalText": "::His lips stretch into a smile as soon as you show him the knife; his eyes fill with tears of joy.:: \r\n\r\nHA! HA! That's the one! That's the one! I haven't forgotten how it looks. No, no. It's so, so pretty...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 411,
         "description": "n/a",
         "originalText": "Just at the entrance to the complex, west of the storages. You had to walk past those to get here, you know. Remember, eh? Anyway, go there and get my knife.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 417,
         "description": "n/a",
         "originalText": "Go then. I'll forget what I asked you to do by the time you do it!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 426,
         "description": "n/a",
         "originalText": "Do you have anything to trade? ::Barter.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 433,
         "description": "n/a",
         "originalText": "I've activated one of the elevators that leads out of Deep Caverns. Would you like to come with me?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 438,
         "description": "n/a",
         "originalText": "Why are you here, Leo? And for how long?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 443,
         "description": "n/a",
         "originalText": "Why do you repeat your name several times every time you say it?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 448,
         "description": "n/a",
         "originalText": "Do you know of a way out of here?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 453,
         "description": "n/a",
         "originalText": "Why did you go back to the complex if the pressure makes you lose your memory?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 458,
         "description": "n/a",
         "originalText": "So, how far back do you remember about yourself?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 464,
         "description": "n/a",
         "originalText": "Does \"Underrail\" mean anything to you? Core City? Do you remember metro tunnels, trains? Anything of the sort?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 469,
         "description": "n/a",
         "originalText": "I'm trying to open the large gate in the complex, past the tanks.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 474,
         "description": "n/a",
         "originalText": "You mentioned something about resisting the pressure inside your head when you're near the complex. Tell me more about what you meant.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 479,
         "description": "n/a",
         "originalText": "May I see this Hole of Reason?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 485,
         "description": "n/a",
         "originalText": "I changed my mind. I want to talk to this Hole of Reason.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 489,
         "description": "n/a",
         "originalText": "What can you tell me about the Tchortists?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 493,
         "description": "n/a",
         "originalText": "You mentioned the Masked. What can you tell me about them?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 498,
         "description": "n/a",
         "originalText": "I'd like to know more about the surrounding areas.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 501,
         "description": "n/a",
         "originalText": "I gotta go now. See you some other time.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 504,
         "description": "n/a",
         "originalText": "Farewell then, Leo.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 507,
         "description": "n/a",
         "originalText": "::Walk away without saying a word.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 517,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.feat_echoingSoliloquy_persuasionLevel",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 518,
-        "description": "n/a",
-        "originalText": "hole",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 519,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 522,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.feat_echoingSoliloquy_persuasionLevel",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 523,
-        "description": "n/a",
-        "originalText": "hole",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 524,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 527,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.feat_echoingSoliloquy_persuasionLevel",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 528,
-        "description": "n/a",
-        "originalText": "hole",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 529,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 532,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.feat_echoingSoliloquy_persuasionLevel",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 533,
-        "description": "n/a",
-        "originalText": "hole",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 534,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 536,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.feat_echoingSoliloquy_persuasionLevel",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 537,
-        "description": "n/a",
-        "originalText": "hole",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 538,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 543,
         "description": "n/a",
         "originalText": "Feeling persuasive... and persuaded.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 548,
         "description": "n/a",
         "originalText": "Feeling very persuasive... and persuaded.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 553,
         "description": "n/a",
         "originalText": "Feeling highly persuasive... and persuaded.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 558,
         "description": "n/a",
         "originalText": "Feeling particularly persuasive... and persuaded.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 563,
         "description": "n/a",
         "originalText": "Feeling exceptionally persuasive... and persuaded.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 567,
         "description": "n/a",
         "originalText": "For now. Say, I wanted to talk to you about a few things.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 570,
         "description": "n/a",
         "originalText": "I hope. Time to take a stroll and see if this was worth it. See you later, Leo.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 574,
         "description": "n/a",
         "originalText": "::Leo points to the hole and nods a few times. His hands still support his fragile back.::\r\n\r\nThere! You're gettin' the hang of it already.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 584,
         "description": "n/a",
         "originalText": "::Fight!::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 588,
         "description": "n/a",
         "originalText": "I am $(context.player.Name), and I am a member of the Institute of Tchort.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 592,
         "description": "n/a",
         "originalText": "My name is $(context.player.Name), and I have found your, erm, shack by pure accident.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 596,
         "description": "n/a",
         "originalText": "I'm $(context.player.Name), and I'm lost in the Deep Caverns. I have been trying to find a way out, but I suppose I found this shack of yours.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 600,
         "description": "n/a",
         "originalText": "Look, I didn't even know this place was here. Now put that thing away.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 604,
         "description": "n/a",
         "originalText": "Because you are a good man and your knowledge of the area is extensive. I hope.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 608,
         "description": "n/a",
         "originalText": "I did not break in, the front doors were unlocked.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 612,
         "description": "n/a",
         "originalText": "I'm sure an old man like you might need help with something in exchange.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 615,
         "description": "n/a",
         "originalText": "Thank you so much... uh... uh... What did ya say your name was?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 620,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quests_dc_findLeosKnifeCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 622,
         "description": "n/a",
         "originalText": "dc_leosknife",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".T13.T13:IC",
+        "classInfo": "(T13).T13:IC",
         "objectId": 624,
         "description": "n/a",
         "originalText": "plot.leosKnife",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 628,
         "description": "n/a",
         "originalText": "I'm on it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 631,
         "description": "n/a",
         "originalText": "Right...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 634,
         "description": "n/a",
         "originalText": "::Leave without saying anything.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 640,
         "description": "n/a",
         "originalText": "::He stares blankly at you.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 645,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_tellUnderrail",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 647,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_tellElevatorExit",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 648,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_askRepeatName",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 651,
         "description": "n/a",
         "originalText": "::Your question is answered by a confused stare. A spoken reply follows.::\r\n\r\nYou are askin' me questions I can't answer.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 656,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_askRepeatName",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 659,
         "description": "n/a",
         "originalText": "So I won't forget it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 663,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_activatedElevator",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 666,
         "description": "n/a",
         "originalText": "There are elevators, yes, yes, but not a single one of them works. They lead up, I think.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 674,
         "description": "n/a",
         "originalText": "I rarely go there. Right. The pressure, devils - and demons. It is not a good place to be. No. But the diggers - they emerged, so I had to.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 684,
         "description": "n/a",
         "originalText": "I... know I've been 'ere for a long time. I don't remember how I came 'ere, but I know I came from some other place. There are clues that tell me so. Yes, yes. I had some items with me, like the bone knife, things, um... pictures of people! I feel somethin' when I look at those things, yes, yes. I know those people, but I don't remember 'em.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 692,
         "description": "n/a",
         "originalText": "Eh? No... it means nothing to me, I think. You sound like it should, you do. But... I don't remember anything like that. Is that where you're from? You think I'm from there too?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 696,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_tellUnderrail",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 702,
         "description": "n/a",
         "originalText": "Eh? Large gate? Oh, yes, yes. And what do you need me for?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 710,
         "description": "n/a",
         "originalText": "The Hole of Reason.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 719,
         "description": "n/a",
         "originalText": "::He nods with a smile.::\r\n\r\nMhm. Follow me... um, $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 726,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_StartHoleOfReason",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 729,
         "description": "n/a",
         "originalText": "Devils! They roam the complex, I saw 'em before. Yes, in that I'm sure. I remember. Devils want to shoot me. Demons want to eat me. But they never came 'ere. No, no. Never. They guard somethin', somethin' big! It lies behind a large gate.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 737,
         "description": "n/a",
         "originalText": "I don't remember seein' them before. No, no. I *know* they weren't 'ere before the big shake. Then, they started to appear. They had masks of steel and mechanical parts. Legs, arms, bodies - steel. They saw me. I think. I know they saw me, but they didn't hurt me. They let me walk freely around the storage. Yes, yes. They didn't hurt me.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 745,
         "description": "n/a",
         "originalText": "Oh, 'kay, 'kay. As we agreed when you brought me the knife. Bone knife. *Bone* knife. He-he-Ha! Yes.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 751,
         "description": "n/a",
         "originalText": "Eh? Which one?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 758,
         "description": "n/a",
         "originalText": "Eh?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 773,
         "description": "n/a",
         "originalText": "Eh?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 778,
         "description": "n/a",
         "originalText": "::There! You're gettin' the hang of it already.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CHIEC.CHIEC:IC",
+        "classInfo": "(CHIEC).CHIEC:IC",
         "objectId": 783,
         "description": "n/a",
         "originalText": "tchnob",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CHIEC.CHIEC:IC",
+        "classInfo": "(CHIEC).CHIEC:IC",
         "objectId": 784,
         "description": "n/a",
         "originalText": "tchsol",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CHIEC.CHIEC:IC",
+        "classInfo": "(CHIEC).CHIEC:IC",
         "objectId": 785,
         "description": "n/a",
         "originalText": "tchortistRobe",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CHIEC.CHIEC:IC",
+        "classInfo": "(CHIEC).CHIEC:IC",
         "objectId": 786,
         "description": "n/a",
         "originalText": "tchvathos",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 791,
         "description": "n/a",
         "originalText": "::As soon as you utter the word \"Tchort,\" the old man's face turns pale and his hands begin shaking uncontrollably.::\r\n\r\nTch-Tch-Tchort!? TCHORT!? Devil! You will not take me - YOU WILL NOT!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 797,
         "description": "n/a",
         "originalText": "Hey, it's *not* a shack. It-- Forget about that. \r\n\r\nNow you, ugh... you are not one of those devils... uh... Tch... Tchortists, by any chance?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 805,
         "description": "n/a",
         "originalText": "You didn't answer my question! No, NO! Who are you and why did you come 'ere?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 813,
         "description": "n/a",
         "originalText": "He-he-HA! Yeah, right. Listen, if you need somethin' for me, you ought to give somethin' in return. And I already have a thing in mind, intruder.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 821,
         "description": "n/a",
         "originalText": "Liar! What about the traps, eh, intruder? Eh? Are you gonna say I put 'em there as a welcomin' sign? I-- He-he, well, in a way...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 826,
         "description": "n/a",
         "originalText": "He-he. That's my kind of talking, intruder. I do have somethin' in mind for you, he-he.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 833,
         "description": "n/a",
         "originalText": "$(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 834,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_activatedElevator",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 835,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_tellElevatorExit",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 839,
         "description": "n/a",
         "originalText": "I said, would you like to come with me? Get out of here?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 843,
         "description": "n/a",
         "originalText": "Why not?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 847,
         "description": "n/a",
         "originalText": "Can't or won't?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 851,
         "description": "n/a",
         "originalText": "How can one forget his very own name?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 855,
         "description": "n/a",
         "originalText": "Where can I find them?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 856,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_askRepeatName",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 857,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_mentionPressureTraining",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 861,
         "description": "n/a",
         "originalText": "Diggers?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 865,
         "description": "n/a",
         "originalText": "You mean burrowers?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 866,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_askRepeatName",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 867,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_askFriend",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 870,
         "description": "n/a",
         "originalText": "I haven't seen people in... a long time. I know one was 'ere. With me. No. Yes. Yes, he was. There was another man 'ere with me. There *was* another *man* with me. Here. But I don't remember what happened to him. I know he was 'ere.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 875,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_askRepeatName",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 876,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_tellUnderrail",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 879,
         "description": "n/a",
         "originalText": "::His eyes roll back as he grabs his head and lets out a painful cry. He then drops to his knees and begins weeping.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 885,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_receivedMainQuest",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 886,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_gateOpened",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 896,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_mentionPressureTraining",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 897,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_mentionHoleOfReason",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 899,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_mentionHoleOfReason",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 903,
         "description": "n/a",
         "originalText": "The what now?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 907,
         "description": "n/a",
         "originalText": "Where is this \"Hole of Reason\"?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 908,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_mentionHoleOfReason",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 909,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_DiscussHoleOfReason",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 913,
         "description": "n/a",
         "originalText": "::Follow him to the Hole of Reason.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 914,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_DiscussHoleOfReason",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 915,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_TalkedToHoleOfReason",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 919,
         "description": "n/a",
         "originalText": "Are you talking about Tchort?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 923,
         "description": "n/a",
         "originalText": "Where is that \"something\"?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 926,
         "description": "n/a",
         "originalText": "The Masked were fightin' with the Tcho--Tch--Tchortists. Devils! Attacked them from all sides and crushed them! Oughta kill them all, I said. He-he-HA! But, but the pressure, it hurt them too, I think. They retreated, but they're still there, holdin' almost every entrance to the complex.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 931,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_askSurroundingFirstTime",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 935,
         "description": "n/a",
         "originalText": "Where do I start? Right, there's a few areas of interest 'round 'ere: the big complex, the storages, the... the demon breeding ground, the machine plant, the Masked site, the mushroom forest and the four buildings. Yes, I think that's all. What are you interested in knowin' about?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 939,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_askSurroundingFirstTime",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 959,
         "description": "n/a",
         "originalText": "Never mind. I wanted to talk to you about a few things.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 962,
         "description": "n/a",
         "originalText": "I better take a stroll and see if this was worth it. See you later, Leo.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 973,
         "description": "n/a",
         "originalText": "It's an echo.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 977,
         "description": "n/a",
         "originalText": "I knew your marbles were smashed with a hammer and then poured back into your head, but this I didn't expect.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 982,
         "description": "n/a",
         "originalText": "Actually, I am. Why?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 986,
         "description": "n/a",
         "originalText": "No.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 990,
         "description": "n/a",
         "originalText": "NO! Not one of those freaks. Never!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 994,
         "description": "n/a",
         "originalText": "::Sigh.:: I should have seen it coming...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 998,
         "description": "n/a",
         "originalText": "Tell me what you need, old man.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1001,
         "description": "n/a",
         "originalText": "But, that's beside the point. You never said why I would want to help you with anythin'? Eh?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1009,
         "description": "n/a",
         "originalText": "$(context.player.Name). $(context.player.Name). $(context.player.Name). *I* am Leo. I *am* Leo. I am *Leo*. Nice to meet you, uh... $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1014,
         "description": "n/a",
         "originalText": "::A few noiseless moments pass before he shakes his head and answers.:: \r\n\r\nNo.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1022,
         "description": "n/a",
         "originalText": "I can't remember those things. I forgot 'em. I sometimes even... have trouble rememberin' my own name... Leo. Leo. *Leo*.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1029,
         "description": "n/a",
         "originalText": "Can't. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1035,
         "description": "n/a",
         "originalText": "It's the pressure. The pressure in my head makes me forget things, you know. Everytime I go near the complex, the pressure... it makes the edges of my mind fuzzy. Then, it shrinks, and I feel somethin' inside got lost. The devils, Tchortists, they live there with their demons and are resistant to it, I think, but I... I forget.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1043,
         "description": "n/a",
         "originalText": "One is in the big complex, one is, um, near the lake. There might be more, but those are the ones I know of.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1049,
         "description": "n/a",
         "originalText": "Diggers, the critters you must've seen out front. They crawled out of the ground when the big shake opened it. The *big* shake. The big *shake*. Then they came out! Ugly these things are. I set those traps for them, but they got some brains in 'em. Not a single trap was set off!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1055,
         "description": "n/a",
         "originalText": "Burrowers? I mean diggers. You must've seen 'em out front. They came out of the ground when the big shake opened it. The *big* shake. The big *shake*. Then they came out. Ugly these things are. I set those traps for them, but they got some brains in 'em. Not a single trap was set off!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1061,
         "description": "n/a",
         "originalText": "Do you miss him?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1065,
         "description": "n/a",
         "originalText": "I had other questions, if you don't mind.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1069,
         "description": "n/a",
         "originalText": "Stand up, old man. You are stronger than that. You know it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1073,
         "description": "n/a",
         "originalText": "I'm sorry, Leo. Maybe I shouldn't have mentioned any of that.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1077,
         "description": "n/a",
         "originalText": "::Say nothing.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1082,
         "description": "n/a",
         "originalText": "I need to find some mechanical parts for the gate opening mechanism. Do you know the best place to look for those?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1087,
         "description": "n/a",
         "originalText": "There is a large slimy mass covering the gate, preventing me from opening it. Have you ever encountered anything like that or know how to get rid of it?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1092,
         "description": "n/a",
         "originalText": "I need a keycard to open the gate, since I can't bypass it myself. Do you know where I can find such a card?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1096,
         "description": "n/a",
         "originalText": "Actually, let's change the subject.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1099,
         "description": "n/a",
         "originalText": "It's in the back. Yes, yes. When my mind is fuzzy, I go to it. It helps. It clears it up, solidifies the mind.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PCA1.PCA1:WP",
+        "classInfo": "(PCA1).PCA1:WP",
         "objectId": 1105,
         "description": "n/a",
         "originalText": "Dc_LeoLeadsYouToHoleOfReason",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1108,
         "description": "n/a",
         "originalText": "Somethin' big... behind the gate. I don't remember.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1115,
         "description": "n/a",
         "originalText": "Demon breeding grounds. I know it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1122,
         "description": "n/a",
         "originalText": "The Faceless are gone. The area around your home is clear of them.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1127,
         "description": "n/a",
         "originalText": "Do you know why they're still here?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1132,
         "description": "n/a",
         "originalText": "Tell me about the labyrinth.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1136,
         "description": "n/a",
         "originalText": "Tell me about the complex.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1140,
         "description": "n/a",
         "originalText": "Tell me about the storages.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1144,
         "description": "n/a",
         "originalText": "Tell me about the demon breeding grounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1148,
         "description": "n/a",
         "originalText": "Tell me about the machine plant.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1152,
         "description": "n/a",
         "originalText": "Tell me about the Masked site.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1156,
         "description": "n/a",
         "originalText": "Tell me about the mushroom forest.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1160,
         "description": "n/a",
         "originalText": "Tell me about the four buildings.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1165,
         "description": "n/a",
         "originalText": "I need to ask you something else.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1169,
         "description": "n/a",
         "originalText": "Would you listen for a moment!?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1174,
         "description": "n/a",
         "originalText": "::As soon as you utter those words, the old man's face turns pale and his hands begin shaking uncontrollably.::\r\n\r\nDevil! You will not take me - YOU WILL NOT!\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1180,
         "description": "n/a",
         "originalText": "::His tense stare lasts for a few more silent moments before slowly losing intensity. He lowers his weapon as well but still maintains alertness.::\r\n\r\n*I* am Leo. I *am* Leo. I am *Leo*. I'd say \"nice to meet you,\" but I don't know if I'd be honest about it. No, no.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1189,
         "description": "n/a",
         "originalText": "I lost something very important to me... very dear, very valuable. Six days ago I believe it was, or seven... I was scavenging around the complex for supplies when I ran into, uh, Tch... Tchortists, yes, and had to run for my life! Devils! I ran from 'em and, after I got back 'ere, I realized I had dropped my knife somewhere along the way. LOST IT! It was so pretty, had a handle made from bone. BONE - a beauty, yes.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1195,
         "description": "n/a",
         "originalText": "I'll remember you, I will. By the white rat's hair, I will. Now to keep my end of the bargain. Ask me anythin' you wish to know...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1201,
         "description": "n/a",
         "originalText": "Why not? Do you really want to stay here for the rest of your life?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1205,
         "description": "n/a",
         "originalText": "If you ever change your mind, go to the elevator by the lake.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1208,
         "description": "n/a",
         "originalText": "Whatever. I'm off, old man.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1210,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_askRepeatName",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1214,
         "description": "n/a",
         "originalText": "I know what you mean. I was there too and felt a strange sensation in my head, but it gets better as soon as I leave the area.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1218,
         "description": "n/a",
         "originalText": "That's horrible. If you're afraid about forgetting your own name, then I better not ask about other, less important things.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1221,
         "description": "n/a",
         "originalText": "But... I think I remember now. I saw 'em a long time before. Maybe. But not in such numbers, no, no, and it was far away from my home. But this, this is too many...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1227,
         "description": "n/a",
         "originalText": "I do. I do. I don't remember why but I do... I miss him a lot. He was my best friend. We were together until he...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1236,
         "description": "n/a",
         "originalText": "No. I don't. Ask.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1241,
         "description": "n/a",
         "originalText": "::He wipes the tears from his wrinkly cheeks and gets up.::\r\n\r\nDon't tell me about your world any more.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1248,
         "description": "n/a",
         "originalText": "::He wipes the tears from his wrinkly cheeks and gets up.::\r\n\r\nMaybe you shouldn't... $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1252,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_dc_repairGateCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1256,
         "description": "n/a",
         "originalText": "Storages. Yes, storages is a good place to look. It has useful things. But I know nothin' about repairin' any gate mechanisms so I can't help you with it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1259,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_gateSlimeRemoved",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1263,
         "description": "n/a",
         "originalText": "I don't know.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1266,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_sawKeycard",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1269,
         "description": "n/a",
         "originalText": "Four buildings. Yes, yes, I think that's the best place to look.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1277,
         "description": "n/a",
         "originalText": "Interesting. Maybe I'll check it out some time later.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1278,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_TchortDefeated",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1281,
         "description": "n/a",
         "originalText": "They didn't hurt me. It wouldn't hurt me. No, no. Legs, arms, bodies, claw - steel. I felt my mind swirlin'. They left me alone. Eh? Yes, they left me alone.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1287,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_TchortDefeated",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1288,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_tellLabyrinth",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1291,
         "description": "n/a",
         "originalText": "The labyrinth is swarmin' with giant death-worms. They spit acid and will devour anything they come up to - rats, froggers, diggers. Everything. But I evaded them. He-he-Ha! You just ought to carefully observe the ground and avoid them. Tread lightly. Little by little and I was through the labyrinth, I remember.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1298,
         "description": "n/a",
         "originalText": "The complex is vast. Tchorti-- Tchortists live there with their demons. Devils! I was there many times, I know it, and I always felt the pressure inside my head. Yet, besides makin' me forget it also wakes up the demons. They come out of their holes, holes in the ground, so watch for those if you ought to go there. Not that I would recommend it. No, no.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1305,
         "description": "n/a",
         "originalText": "Ah, the storages. It's a place where useful things are. It is a place where *useful* things are. I know that's why I built my home close to it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1311,
         "description": "n/a",
         "originalText": "Demons. I was there, a long time ago. It is past the complex... I think, let me think, I think there are tanks there. Large tanks full of green-- yellow-- green liquid. Yes, tanks. Large *tanks*. I saw horrible things there, sure. But, I know I saw somethin' more there...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1317,
         "description": "n/a",
         "originalText": "It is past the storages. At the intersection follow the road straight. Nor-- North! The diggers are there now. In the yard. I saw them, I remember it. But inside, there I've never been. No, no. But I saw lights turn on, machines come out. The plant is makin' them. It has to be. They clink-clank-clink-clank around it, protectin' whatever is inside. Yes, yes.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1323,
         "description": "n/a",
         "originalText": "You go... *east* from my home, past the storages. Many Masked there. There they keep their diggin' machines, guns - machines. Machine rats. Yes, yes. And imprisoned devils too. Oh, yes, yes. My mind swirled and I remembered it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1329,
         "description": "n/a",
         "originalText": "It is s-south. Far south. Then west. Yes, yes. The mushrooms are tall and high, but the danger lies low. The forest is filled with numerous mushroom beasts... and there is one big. Yes, yes. I never dared comin' closer to it, I don't remember, but I *know* it is dangerous.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1334,
         "description": "n/a",
         "originalText": "The Masked are there now, but only outside. I remember it. Meanwhile, I've been INSIDE. Yes, yes. People lived inside. Maybe I did too, I don't remember it. I don't know it either. Now only electric spiders live there, but they don't always come out. They feed on power, and when the lights are out they retreat into their lairs.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1344,
         "description": "n/a",
         "originalText": "Hold up! I just remembered one more thing: The labyrinth! So-- South of the lake.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1350,
         "description": "n/a",
         "originalText": "Yes, yes.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1356,
         "description": "n/a",
         "originalText": "::Would you listen for a moment!?::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1362,
         "description": "n/a",
         "originalText": "I swear I'm not here to do you any harm, old man. In fact, I might even need your help.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1366,
         "description": "n/a",
         "originalText": "Look, I don't want anything from you at all. I'm just going to leave you to whatever you were doing.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1370,
         "description": "n/a",
         "originalText": "You naive fool! ::Attack him!::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1375,
         "description": "n/a",
         "originalText": "I need it back, so if you can find it I'd be very thankful. I could help you. I know stuff. Only if you help me. But you ought to be careful: There's been a lot of fightin' between the Tchorists and the Masked, so watch out. Did I forget something...? Eh... Yes! The place where I ran into the patrol was west of the storages. Yes, yes... west. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1384,
         "description": "n/a",
         "originalText": "...$(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1389,
         "description": "n/a",
         "originalText": "I don't know.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1396,
         "description": "n/a",
         "originalText": "::He quietly nods.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1402,
         "description": "n/a",
         "originalText": "Yes, the pressure lessens once you leave... but there's always somethin' missin' from your mind.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1407,
         "description": "n/a",
         "originalText": "I remember other things... Yes. Yes. Recent things and, and some other if I can focus hard on it, those I remember. But the past, it evaporated! Poof!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1416,
         "description": "n/a",
         "originalText": "You were going to tell me why did the diggers make you go back to the complex.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1420,
         "description": "n/a",
         "originalText": "What did you say?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1424,
         "description": "n/a",
         "originalText": "Best friend? You remember him?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1428,
         "description": "n/a",
         "originalText": "Until he what?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1432,
         "description": "n/a",
         "originalText": "Why not?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1436,
         "description": "n/a",
         "originalText": "Let's change the subject.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1440,
         "description": "n/a",
         "originalText": "Well... I rem-- I think there are a few more similar gates in the complex. Maybe you can, you know, pull out a replacement part from a working mechanism. Yes, that makes sense. I think...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1446,
         "description": "n/a",
         "originalText": "Actually... wait, wait. I remember a machine in the complex. Yes, yes. Near the exit to storages. It had... \"organic\" somethin' written on it. Slime is organic. Maybe there's somethin' to it, but I can't...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1452,
         "description": "n/a",
         "originalText": "I know of it already. I had other questions about the gate.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1456,
         "description": "n/a",
         "originalText": "When my mind is fuzzy, I go to it. Yes. I *go* to it. *I,* Leo. *Leo*.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1463,
         "description": "n/a",
         "originalText": "I said, the Faceless are gone. The area around your home is clear of them.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1468,
         "description": "n/a",
         "originalText": "I said, do you know why they're still here?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1472,
         "description": "n/a",
         "originalText": "Why did you go there in the first place?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1476,
         "description": "n/a",
         "originalText": "Let me ask you something else.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1480,
         "description": "n/a",
         "originalText": "What else can you tell me about the complex? What's it for?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1484,
         "description": "n/a",
         "originalText": "There are weapons there, materials and parts too, ammo. Also, also, there are two large storages that go inside the cave wall. One is open, and has dangerous gases inside and slimy slugs, while the other is sealed. I was never able to open it, but I saw through a crack in the wall that it has more shelves inside, with more useful things. Yes, I saw shelves. I remember seein' *shelves*.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1490,
         "description": "n/a",
         "originalText": "Somethin'... huge. A larger demon. I remember my head was feelin' like it was gonna turn to mush. I... it hurts my brain when I try to rem-- ::He quickly puts his palms on his temples and begins rubbing the area, clenching his eyes and grunting.:: Hnnnnnnnnn... hnnnnnnnnnnn... hnnnnnnnnn...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1496,
         "description": "n/a",
         "originalText": "One attacked me once. I got too close. It spoke to me. Then I destroyed it. I... Leo, *Leo* destroyed it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1502,
         "description": "n/a",
         "originalText": "The buildings are surrounded by high walls. I've been there before the Masked came. I have been there *before* the Masked came. I entered some of the buildings and saw the insides were in ruin. Dead people were all over the place, and so were giant white rats.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1507,
         "description": "n/a",
         "originalText": "The little maggots, watch out for them, they grow into mushroom beasts. They *grow* into mushroom beasts.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1515,
         "description": "n/a",
         "originalText": "Is there anything of interest inside the four buildings?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1519,
         "description": "n/a",
         "originalText": "You mean coil spiders?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1520,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_tellLabyrinth",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1522,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_tellLabyrinth",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1525,
         "description": "n/a",
         "originalText": "::Leo proceeds with a whisper.::\r\n\r\nLook: The Hole of Reason helps your mind work. You talk to it, and it answers. Now, the trick is to talk about all the important stuff, your past, your knowledge. What comes out of the hole will... *stick* to your memory and slow down the, uh, effects of the pressure. It helps, I swear.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1532,
         "description": "n/a",
         "originalText": "Eh, 'kay, 'kay. You better move on now, intruder.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1539,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quests_dc_findLeosKnifeStarted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 1541,
         "description": "n/a",
         "originalText": "dc_leosknife",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1546,
         "description": "n/a",
         "originalText": "Is this your knife? ::Show him the bone knife.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1549,
         "description": "n/a",
         "originalText": "Piece of cake. See you soon, Leo.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1552,
         "description": "n/a",
         "originalText": "I'll see what I can do. Goodbye.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1556,
         "description": "n/a",
         "originalText": "Are you afraid of going up there?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1560,
         "description": "n/a",
         "originalText": "Evaporated?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1564,
         "description": "n/a",
         "originalText": "You forgot your past?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1568,
         "description": "n/a",
         "originalText": "I wouldn't want anything like that to happen to me.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1571,
         "description": "n/a",
         "originalText": "Yes! I needed to find... uh, somethin' it was, somethin' - anythin' to keep 'em away from my home! The complex is rich with... things. I know it is, but I can't remember exactly what. I found things in the past there - useful things. I had to take the risk. I had to try. The diggers were closing in, and the storages, nothin' of use there against 'em.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1577,
         "description": "n/a",
         "originalText": "Eh? No. He was my broth-- No, no, no, no, no. I can't remember anymore! Fuzzy, fuzzy! It...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1585,
         "description": "n/a",
         "originalText": "Until he... no. He was not my friend, but my bro-- No, no, no, no, no. I can't remember! Fuzzy, fuzzy! It...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1593,
         "description": "n/a",
         "originalText": "It's only more things for me to forget.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1601,
         "description": "n/a",
         "originalText": "::He nods.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1607,
         "description": "n/a",
         "originalText": "::He begins rubbing his temples. His teeth are clenched, eyes sporadically twitching during this short pause. Then, he exhales and opens his eyes.::\r\n\r\nI can't do it. It is gone. GONE! Just... find the machine. Start from there.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1613,
         "description": "n/a",
         "originalText": "Eh?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1616,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_TchortDefeated",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1620,
         "description": "n/a",
         "originalText": "I don't remember. Somethin' the Tch-- Tchortists-- *Tchortists* have. Important for everyone, everyone. I don't remember.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1623,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_TchortDefeated",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1627,
         "description": "n/a",
         "originalText": "I was... lookin' for somethin'. I can't remember what, but I know it. I don't think I found it, no, no. ::He looks around the room.:: No, no, I haven't. I've found somethin' else, though...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1633,
         "description": "n/a",
         "originalText": "Eh? $(context.player.Name). *$(context.player.Name)*. Leo. *Leo*.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1638,
         "description": "n/a",
         "originalText": "The complex was the place where people who lived in the four buildings worked. Yes, yes. They were, what's the word, scientists! I remember seein' that in their notes. They were doin' experiments on things. Maybe they created the devils, the demons. Maybe the demons killed them, there are dismembered corpses all throughout the complex. I remember seein' them.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1646,
         "description": "n/a",
         "originalText": "The storages were empty until diggers showed up, but then the Masked drove them off. I can go there, the Masked won't hurt me. They *won't* hurt me.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1652,
         "description": "n/a",
         "originalText": "::The tension dissipates. His eyes remain closed, but not clenched; his breath evens out; his palms still rubbing his temples. As he calms down he slowly lifts his eyelids and tiredly looks at you.::\r\n\r\nI can't tell you more. It hurts.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1657,
         "description": "n/a",
         "originalText": "But there is nothin' of that inside now. The Masked cleaned it up.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1665,
         "description": "n/a",
         "originalText": "What do you mean by \"they grow into mushroom beasts\"?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1669,
         "description": "n/a",
         "originalText": "The people who lived there are connected to the complex. Some doors were locked, but others weren't. I know I read through those people's personal notes... I can't remember how. I didn't bring it with me because their past is not mine. It would confuse me. I know it. But I found some card thingies, keycards that I used to open some doors in the complex. I'd give them to you, but I don't remember where I put them. I don't know if I even have them 'ere anymore.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1674,
         "description": "n/a",
         "originalText": "I mean electric spiders. Don't confuse me.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1681,
         "description": "n/a",
         "originalText": "Okay, okay. Let's give it a shot. Tell me what to do? How do I start?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1685,
         "description": "n/a",
         "originalText": "I'm not interested in this right now. No offense, but forget I even asked you about this, which shouldn't be a problem for you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1688,
         "description": "n/a",
         "originalText": "::Leave.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 1690,
         "description": "n/a",
         "originalText": "plot.leosKnife",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1693,
         "description": "n/a",
         "originalText": "I don't know.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1702,
         "description": "n/a",
         "originalText": "It evaporated - POOF! Some things I know but can't remember... Yes - I know but can't remember. The knife, I know that it's important, but can't remember why. It's... a deep feelin'. Maybe someone gave it to me. Maybe I made it myself. I don't remember. But I feel it to be a part of me, and if I can't, can't keep my memories, then maybe I can keep things that were a part of it. Yes, yes. It's the only option I've left.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1708,
         "description": "n/a",
         "originalText": "Well, did you find anything?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1712,
         "description": "n/a",
         "originalText": "Did he come here with you, perhaps? Do you remember?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1716,
         "description": "n/a",
         "originalText": "We better talk about something else. I see that this is getting to you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1720,
         "description": "n/a",
         "originalText": "This is pointless. Listen up, I had other questions?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1724,
         "description": "n/a",
         "originalText": "Wouldn't you want to get out of here?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1728,
         "description": "n/a",
         "originalText": "Energy rocks. Three of them, but only one was still glowing. I felt tinglin' in my skin, drawin' me to touch it. Yes, yes. I remember touchin' it and, and... it hit my mind with images. But the images hurt me. Fuzzy, fuzzy.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1734,
         "description": "n/a",
         "originalText": "Tell me more.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1738,
         "description": "n/a",
         "originalText": "What do you think of the Masked? Are they good or bad?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1741,
         "description": "n/a",
         "originalText": "Exactly that, $(context.player.Name)... *$(context.player.Name)*. They bore into the mushrooms and grow. If you need to go there, watch out! And watch out for the spores too, 'cause if you inhale them, it makes your head spin and spin and spin. You lose yourself for a time, and I know I once woke up in a place I'd never seen before. Don't remember how I got out. \r\n\r\nIt's dangerous. And in the mushroom forest you ought to be more alert than the beasts that live there.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1749,
         "description": "n/a",
         "originalText": "That's all I can remember right now. I know there is more, *$(context.player.Name),* and I'll think about it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1755,
         "description": "n/a",
         "originalText": "I'm sorry, didn't mean to confuse you. Anyway, is there anything of interest inside the four buildings?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1759,
         "description": "n/a",
         "originalText": "Say anythin' to start off the conversation. Then you ought to let it flow, but remember: Try to direct it toward things that are important to you, that you wanna hold on to. Got it?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1764,
         "description": "n/a",
         "originalText": "::Offense taken, you notice.::\r\n\r\nWell. 'Kay.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1772,
         "description": "n/a",
         "originalText": "Life is better up there. It ain't great, but it's a lot better than it is in this place.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1775,
         "description": "n/a",
         "originalText": "Maybe my mind will become clearer one day and those items will help me remember. Yes, yes.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1784,
         "description": "n/a",
         "originalText": "::He looks around himself, his eyes scanning every corner of his home.:: It appears I haven't. No, I am sure I haven't. I found nothin' there. I found *nothin'* there.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1789,
         "description": "n/a",
         "originalText": "Train.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1799,
         "description": "n/a",
         "originalText": "I don't know. I don't know. And I don't want to speak about this anymore.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1805,
         "description": "n/a",
         "originalText": "I also didn't have much time to look at it - the death-worms were after me! I ran my way out of the labyrinth, somehow rememberin' where I was supposed to go. I'd forgotten it since, but at the time it was clear where I needed to run. It goes without sayin' I never came back there. Ought to be mad to do that again! He-he-HA!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1811,
         "description": "n/a",
         "originalText": "I found useful things there. It is a place of many secrets, and while I've found some of 'em, I reckon there is more do discover. Oh, like the shelters, there are shelters where the demons won't hurt you and the pressure can't reach you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1817,
         "description": "n/a",
         "originalText": "They are good. I know it. I remember they wouldn't hurt me. But I remembered that they killed people too...\r\n\r\nI don't know now... Fuzzy.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1823,
         "description": "n/a",
         "originalText": "Spores? What more do you remember about that place you woke up in?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1833,
         "description": "n/a",
         "originalText": "I wanted to ask you a few things.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1836,
         "description": "n/a",
         "originalText": "See you later.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1840,
         "description": "n/a",
         "originalText": "I believe what you're sayin', but I'm not goin' there. I can't. I just can't. I *just* can't. I don't know. *Here* I know... and I don't. *There* I just... don't. And I don't remember.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1846,
         "description": "n/a",
         "originalText": "I'd like to change the subject now.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1850,
         "description": "n/a",
         "originalText": "Even though I went prepared, I found nothing. I've been training, you see, to prevent the pressure from makin' me forget. It helps. To a degree. $(context.player.Name). *$(context.player.Name)*.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1859,
         "description": "n/a",
         "originalText": "You came together by a train? I haven't seen a railroad anywhere.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1863,
         "description": "n/a",
         "originalText": "I think you got that one wrong. But think, old man, you can do it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1867,
         "description": "n/a",
         "originalText": "That bloody complex. Because of it my memories leaked out of my head. It is evil, I tell you. Why fate came over me, I don't know. And I don't remember.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1873,
         "description": "n/a",
         "originalText": "Remember? That's a tough one. I remember... as I said, I was breathin' in those spores for too long I suppose. I felt my head spin and spin - and then all went dark. Yes. Dark. I thought I was dead. Poof. Ought to be. But then, I felt myself again - my arms, legs, bowels. Heart beatin'. But I was now in a smaller cave. More like... a bunch of tunnels. I know that. Full of beasts. And a big one.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1881,
         "description": "n/a",
         "originalText": "::Speak to the Hole of Reason.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1885,
         "description": "n/a",
         "originalText": "Well. 'Kay.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1890,
         "description": "n/a",
         "originalText": "You go. Go. Don't think of me.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1898,
         "description": "n/a",
         "originalText": "Eh? Alright, Alright. Go ahead then. Ask.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1902,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_mentionPressureTraining",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1906,
         "description": "n/a",
         "originalText": "I'd be glad to clear the burrowers for you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1910,
         "description": "n/a",
         "originalText": "Resist the pressure? Tell me what you mean?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1913,
         "description": "n/a",
         "originalText": "I don't remember. I don't know. It hurts me... Fuzzy!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1921,
         "description": "n/a",
         "originalText": "Heart beatin'... Yes, yes. But how I got out... don't remember. Don't remember.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PCA1.PCA1:WP",
+        "classInfo": "(PCA1).PCA1:WP",
         "objectId": 1926,
         "description": "n/a",
         "originalText": "Dc_LeoLeadsYouToHoleOfReason",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1929,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_StartHoleOfReason",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1933,
         "description": "n/a",
         "originalText": "Diggers - do not confuse me. You can try to slay 'em, but they'll just come back. From the ground. They always do. I know. No, I need somethin' to keep them away. Permanently. That is why I went to the complex. Yes.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1939,
         "description": "n/a",
         "originalText": "Why did you come here, Leo?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1943,
         "description": "n/a",
         "originalText": "I lost my knife there. In the complex. While running from Tchortists. Tchortists. But then you brought it back. Yes. That is what happened.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1949,
         "description": "n/a",
         "originalText": "Leo.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1955,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_leo_askFriend",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1959,
         "description": "n/a",
         "originalText": "Yes, that's your name. Now tell me why'd you come here?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1963,
         "description": "n/a",
         "originalText": "Leo? Are you okay?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1967,
         "description": "n/a",
         "originalText": "*I* am Leo. I *am* Leo. I am *Leo*. Nice to meet you, uh... $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

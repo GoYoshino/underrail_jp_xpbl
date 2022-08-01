@@ -1,600 +1,649 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 48,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 49,
-        "description": "n/a",
-        "originalText": "morgan",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 50,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 54,
         "description": "n/a",
         "originalText": "Goodbye, $(#Mister/Miss) $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 68,
         "description": "n/a",
         "originalText": "Follow me, please.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 76,
         "description": "n/a",
         "originalText": "::Well-dressed and clean shaved, this elegant-looking man switches the suitcase he's carrying from his right to his left hand and moves to shake yours, doing so with a firm grip.::\r\n\r\n$(#Mister/Miss) $(context.player.Name), I'm glad you have finally arrived. My name is Samuel Morgan, and I work for the Core City Housing Corporation as a real estate agent. As you were already informed, I am here to introduce you to your new residence, present you with the keys and answer any questions you might have.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 85,
         "description": "n/a",
         "originalText": "Are you ready to see your new home, $(#Mister/Miss) $(context.player.Name)?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 90,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_coreCity_playerReceivedHouseKeys",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PIIAC.PIIAC:AN",
+        "classInfo": "(PIIAC).PIIAC:AN",
         "objectId": 91,
         "description": "n/a",
         "originalText": "cc_ph1",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 95,
         "description": "n/a",
         "originalText": "Well, here we are. This is the entrance hallway, which you have already seen as evidenced by your earlier comment...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 104,
         "description": "n/a",
         "originalText": "Well, here we are now. First off, this is the entrance hallway...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 111,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_morgan_getInHouse",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 112,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_morgan_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 114,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_morgan_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 116,
         "description": "n/a",
         "originalText": "cc_housing_morgan",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 120,
         "description": "n/a",
         "originalText": "I can't wait to see it, Mister Morgan.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 124,
         "description": "n/a",
         "originalText": "Can we skip the chatter and move on to business?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 128,
         "description": "n/a",
         "originalText": "Whoa, please tell me that this large building is my new house!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 134,
         "description": "n/a",
         "originalText": "I already took a peek to see what's inside.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 140,
         "description": "n/a",
         "originalText": "I'm right behind you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 144,
         "description": "n/a",
         "originalText": "Just one more thing. Be patient.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 145,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_morgan_toldPlayerHasAlreadyBeenInside",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 149,
         "description": "n/a",
         "originalText": "Indeed, but I'm more interested in you explaining the existence of this large pile of debris which implies that the rest of my residence is in similar condition.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 153,
         "description": "n/a",
         "originalText": "Care to explain the debris blocking the entrance?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 157,
         "description": "n/a",
         "originalText": "What the bloody hell...?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 161,
         "description": "n/a",
         "originalText": "Stop being such a smartass and tell me why does my house look like it was used as an explosive test site!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 165,
         "description": "n/a",
         "originalText": "What is the meaning of this!? Why is my house in ruins?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 169,
         "description": "n/a",
         "originalText": "You expect me to live in this dump? I can't even get past the stinking rubble and see the rest of the house. I want answers - NOW!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 173,
         "description": "n/a",
         "originalText": "Yes, your enthusiasm is perfectly understandable, and in that case, I suggest we go inside and continue the conversation there. Follow me, $(#Mister/Miss) $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 179,
         "description": "n/a",
         "originalText": "Um, yes, I see you are in a bit of a rush. Follow me, I will lead you inside.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 185,
         "description": "n/a",
         "originalText": "Why, yes it is! Living in such an enormous space is quite a privilege, I must admit. Since I am certain that you cannot wait to see it from the inside, I suggest we move inside and continue the conversation there.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 188,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_ph_playerEntered",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 191,
         "description": "n/a",
         "originalText": "You... did? But how on earth did you manage to do that?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 197,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_morgan_toldPlayerHasAlreadyBeenInside",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 199,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_morgan_getInHouse",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 206,
         "description": "n/a",
         "originalText": "::He says nothing, but a grumpy stare conveys his thoughts well enough.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 212,
         "description": "n/a",
         "originalText": "Do not be concerned with it - it will be taken care of on city's expense. Please, allow me to explain the whole situation to you before you jump to conclusions...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 218,
         "description": "n/a",
         "originalText": "Please, while I do understand the reasoning behind your frustration, I must firmly ask you to calm down and watch your tone. It is not how it seems, so let's not jump to conclusions here. Allow me to explain everything to you now...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 231,
         "description": "n/a",
         "originalText": "A master never reveals his secrets.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 235,
         "description": "n/a",
         "originalText": "I'm a clever $(#man/gal).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SCGLJ.SCGLJ:A",
+        "classInfo": "(SCGLJ).SCGLJ:A",
         "objectId": 237,
         "description": "n/a",
         "originalText": "cc-res",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SCPJ.SCPJ:A",
+        "classInfo": "(SCPJ).SCPJ:A",
         "objectId": 241,
         "description": "n/a",
         "originalText": "cc-res",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 244,
         "description": "n/a",
         "originalText": "Structurally speaking, the building is in excellent condition; what you see here is only the product of an unfortunate accident caused by the previous owner, Mister Hank Wardell, an aging Northerner with too much time on his hands.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 251,
         "description": "n/a",
         "originalText": "I gotta do something first. I'll be back quickly.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 255,
         "description": "n/a",
         "originalText": "::Your answer seems to confuse him even more.:: I don't know what to say to that... I think it would be wisest if we were to go inside and continue the conversation there.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SP.SP:WN",
+        "classInfo": "(SP).SP:WN",
         "objectId": 261,
         "description": "n/a",
         "originalText": "morgan_goInside",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 266,
         "description": "n/a",
         "originalText": "What did he do, make explosives?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 269,
         "description": "n/a",
         "originalText": "Now? But... Alright, I'll wait here, but please do hurry up.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".P.P:N",
+        "classInfo": "(P).P:N",
         "objectId": 272,
         "description": "n/a",
         "originalText": "DespawnOnGuard",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 276,
         "description": "n/a",
         "originalText": "You can say that; at least, he *was* successful in creating an explosion powerful enough to demolish the whole residence - if you can call that a success. Mister Wardell had a laboratory set up inside and apparently had an interest in, ehm, experimenting with highly volatile substances for reasons unknown to anyone but him. The results were his premature death, of course, and the severe damaging of the building, as you can see. \r\n\r\nNow, considering that he had lived alone and had no known heirs, this building became city property after his unfortunate demise. Now it is being handed over to you, $(#Mister/Miss) $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 281,
         "description": "n/a",
         "originalText": "Now we move to the part that interests you the most, I presume: The renovation of the ground floor will be paid for by the city; you just need to visit Core City Housing Company office so that we can take care of that for you; the floor above and the floor below, however, will have to be funded from your own pocket, I'm afraid. Still, considering that you were gifted a very spacious residence in the most prestigious part of Core City, I believe the deal is indeed fair!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 289,
         "description": "n/a",
         "originalText": "Interesting. Anyway, what can you tell me about the house layout before handing me my keys?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 294,
         "description": "n/a",
         "originalText": "I knew there was some catch! Just gimme the damn keys and get out of my house.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 298,
         "description": "n/a",
         "originalText": "Yes, well, the house, as I already mentioned, has three floors: The ground floor is where the living room, kitchen, dining room as well as several other small rooms are located; the second floor has the main bedroom, gym, work room and a lovely balcony overlooking the entrance to the house.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 304,
         "description": "n/a",
         "originalText": "::He frowns.:: I've never seen such ungratefulness. Here is your key, $(#Mister/Miss) $(context.player.Name). ::He hands you the residence key.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 308,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_morgan_playerRude",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 311,
         "description": "n/a",
         "originalText": "And finally, the basement level provides several rooms which can be arranged to your liking. Perhaps making a workshop if you are the... crafty type, if I am to express myself in that manner. Just please, do not demolish the house like your predecessor did.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 327,
         "description": "n/a",
         "originalText": "I see. Can I have the keys now?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 331,
         "description": "n/a",
         "originalText": "There is nothing else for me to say but - goodbye!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 338,
         "description": "n/a",
         "originalText": "Do you have any further questions before we depart?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".T13.T13:IC",
+        "classInfo": "(T13).T13:IC",
         "objectId": 342,
         "description": "n/a",
         "originalText": "key.playerHouse",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 345,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_coreCity_playerReceivedHouseKeys",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 349,
         "description": "n/a",
         "originalText": "But of course. Here is your key. ::He hands you the residence key.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 352,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_morgan_playerRude",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 357,
         "description": "n/a",
         "originalText": "::End Dialog.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 375,
         "description": "n/a",
         "originalText": "Where can I find Core City Housing Corporation?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 379,
         "description": "n/a",
         "originalText": "What can you tell me about the neighborhood?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 383,
         "description": "n/a",
         "originalText": "What else can you tell me about the previous owner, other than he demolished the whole place?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 387,
         "description": "n/a",
         "originalText": "Why won't the city pay for the whole renovation?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 391,
         "description": "n/a",
         "originalText": "I have no more questions.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SCPJ.SCPJ:A",
+        "classInfo": "(SCPJ).SCPJ:A",
         "objectId": 394,
         "description": "n/a",
         "originalText": "cc_ph1",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SCGLJ.SCGLJ:A",
+        "classInfo": "(SCGLJ).SCGLJ:A",
         "objectId": 396,
         "description": "n/a",
         "originalText": "cc_ph1",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 401,
         "description": "n/a",
         "originalText": "Our office is conveniently located just across the street from here; it is very difficult to miss. You've probably seen the furniture section from outside, that is the building. Now, our company offers numerous housing-related services you'll need in order to revert your residence back to its full glory.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 408,
         "description": "n/a",
         "originalText": "Your residence is situated in Core City's major residential district, and therefore one can expect much higher living conditions than anywhere else: low crime rates, availability and proximity of goods and services providers, high level sanitation... need I go on. The bottom line is - you have nothing to worry about.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 414,
         "description": "n/a",
         "originalText": "I'm afraid I can't reveal any more of his personal details.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 420,
         "description": "n/a",
         "originalText": "While I, unfortunately, don't have an answer to that question, I feel the need to remind you of one thing: You have been given this residence completely free; you suffered no expenses for the property, nor the documentation, nor anything else, and while it is true that it is... mmm, not in the best condition at the moment, it is one of the largest and most prestigious residences in the district, which is also one of the most desirable living location not just in Core City - but in whole South Underrail.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 425,
         "description": "n/a",
         "originalText": "Ah, well in that case, I bid you farewell, $(#Mister/Miss) $(context.player.Name). Trust me, after a bit of tiding up, your residence will look as good as new. And don't forget - Core City Housing Corporation's office is just across the street. \r\n\r\nEnjoy your new home.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SP.SP:WN",
+        "classInfo": "(SP).SP:WN",
         "objectId": 432,
         "description": "n/a",
         "originalText": "morgan_leave",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 436,
         "description": "n/a",
         "originalText": "Is that all the questions you had, $(#Mister/Miss) $(context.player.Name)?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 443,
         "description": "n/a",
         "originalText": "Of course, with the Faceless at our doorstep, nothing is certain anymore. But thankfully our brave defenders will keep us safe from that menace.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 449,
         "description": "n/a",
         "originalText": "Still, recently there have been a few minor reports of, ehm, zoners disturbing public order. I suppose the stand-off with the Faceless allowed for such things to happen. So keep that in mind, but don't concern yourself with it too much.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 455,
         "description": "n/a",
         "originalText": "Any other questions?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 461,
         "description": "n/a",
         "originalText": "I'm sure there were good reasons for the partial renovation. Now, did you have any other questions for me?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".P.P:N",
+        "classInfo": "(P).P:N",
         "objectId": 464,
         "description": "n/a",
         "originalText": "DespawnOnGuard",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 465,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_facelessRetreated",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

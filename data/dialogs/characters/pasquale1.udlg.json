@@ -1,2903 +1,3015 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 112,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 113,
-        "description": "n/a",
-        "originalText": "pasquale",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 114,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 121,
         "description": "n/a",
         "originalText": "::You noticed a suspicious countenance on Pasquale as you were telling him about the murder. But, when he finally returns, you could immediately tell that what you said turned out to be the truth. His expression of doubt is now one of astonishment as well as regret.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 138,
         "description": "n/a",
-        "originalText": "Greetings, $(context.player.Name). First of all let me congratulate you on your admittance to our little station. I'm sure you'll love it here.",
-        "translatedText": "こんにちは、$(context.player.Name)。まずはおめでとうを言わせてください。小さなステーションですが、きっと気に入ると思いますよ。"
+        "originalText": "Ah hello, $(context.player.Name). First of all let me congratulate you on your admittance to our little station. I'm sure you'll love it here.",
+        "translatedText": "こんにちは、$(context.player.Name)。まずはおめでとうを言わせてください。小さなステーションですが、きっと気に入ると思いますよ。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 145,
         "description": "n/a",
         "originalText": "You... you were right. There is a puncture wound going through the nose and right into the brain. That was enough to kill him. I would have never guessed it... I failed, if I had only been more thorough...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 151,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_sgsMurder_discoveredPatsCauseOfDeath",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 153,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_pasquale_patrickInvestigationFadeIn",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 154,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_pasquale_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 159,
         "description": "n/a",
         "originalText": "Ahh, good, you're awake. How are you feeling?",
-        "translatedText": "ああ、よかった。目が覚めたのですね。身体の具合はどうですか？"
+        "translatedText": "ああ、よかった。目が覚めたのですね。身体の具合はどうですか？",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 177,
         "description": "n/a",
         "originalText": "$(context.player.Name), Vera wanted to speak to you. She asked me - and nearly everyone else - to tell you to go to her office should I see you. It's urgent.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 185,
         "description": "n/a",
         "originalText": "Now that I think of it, Tanner never, ever came to my office. He was never ill, never hurt himself despite how much time he spent out. Funny...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 193,
         "description": "n/a",
         "originalText": "We've established the identity of that dead scavenger: ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 201,
         "description": "n/a",
         "originalText": "I hope the Faceless don't get here. I've already got my hands full. ::He chuckles.:: What did you need?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 207,
         "description": "n/a",
         "originalText": "Hello, $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 213,
         "description": "n/a",
         "originalText": "It's good that you came. I actually wanted to talk to you about some of the results from all those tests we did earlier.",
-        "translatedText": "ちょうどいいところに来てくれました。ステーションの加入試験のとき、いくつか検査を受けたでしょう？　その結果についてお話したいことがあったのです。"
+        "translatedText": "ちょうどいいところに来てくれました。ステーションの加入試験のとき、いくつか検査を受けたでしょう？　その結果についてお話したいことがあったのです。",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 219,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_pasquale_met",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 221,
         "description": "n/a",
         "originalText": "drPasquale",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 222,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_pasquale_patrickInvestigationFadeIn",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 223,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_pasquale_patrickInvestigationFadeOut",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 227,
         "description": "n/a",
         "originalText": "Relax, it's understandable. Thank you for your help.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 231,
         "description": "n/a",
         "originalText": "You failed alright. I shouldn't be the one to do your job.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 235,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_pasquale_talkedAfterRecovery",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 239,
         "description": "n/a",
         "originalText": "Ugh, my head hurts... What happened?",
-        "translatedText": "ぐっ、頭が痛い……何が起きたんだ？"
+        "translatedText": "ぐっ、頭が痛い……何が起きたんだ？",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 246,
         "description": "n/a",
         "originalText": "::He speaks after a short pause.:: It's you, $(context.player.Name). Are you here about Ethan?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 254,
         "description": "n/a",
         "originalText": "People have suddenly started asking me about aging - spontaneous and good ol' - after what happened at the bar. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 258,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_pasquale_talkedEthan",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 285,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_pasquale_toldSeeVera",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 289,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_pasquale_talkTanner",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 316,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_pasquale_talkFacelessInvasion",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 318,
         "description": "n/a",
         "originalText": "drPasquale",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 322,
         "description": "n/a",
-        "originalText": "何か異常でも？",
-        "translatedText": ""
+        "originalText": "Is there something wrong with me?",
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 326,
         "description": "n/a",
-        "originalText": "具体的に教えてほしい。",
-        "translatedText": ""
+        "originalText": "What exactly?",
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 329,
         "description": "n/a",
         "originalText": "Yes... But, tell me who did this? I have to report this.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 335,
         "description": "n/a",
         "originalText": "::Pasquale remains silent for ten whole seconds. After that, he speaks again.::\r\n\r\nTell me, who did this? I have to report this!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 339,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_pasquale_talkedAfterRecovery",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 340,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.psi_inhibitorRemoved",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 344,
         "description": "n/a",
         "originalText": "Disabling the inhibitor seems to have caused a psionic surge, but you're alright now.",
-        "translatedText": "阻害器官を突然オフにしたことで、制御できないサイオニック・エネルギーが暴走したようですね。しかし様子を見るに、今は落ち着いているようです。"
+        "translatedText": "阻害器官を突然オフにしたことで、制御できないサイオニック・エネルギーが暴走したようですね。しかし様子を見るに、今は落ち着いているようです。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 347,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_pasquale_talkedEthan",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 348,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 351,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_died_sgs",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 355,
         "description": "n/a",
         "originalText": "Yes. I wanted to see if you've examined his remains.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 359,
         "description": "n/a",
         "originalText": "No.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 363,
         "description": "n/a",
         "originalText": "We live in a world with psionics, yet even a simple illusion such as that one can still induce such confusion and distress. \r\n\r\n::He chuckles.:: The human mind is truly an amazing thing, isn't it?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 366,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_toldTannerGone",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 367,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_TchortDefeated",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 368,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_pasquale_toldSeeVera",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 372,
         "description": "n/a",
-        "originalText": "物資を売買したい。 ::売買::",
-        "translatedText": ""
+        "originalText": "Do you have anything to trade? ::Barter.::",
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 377,
         "description": "n/a",
         "originalText": "Could you take a look at my injuries?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 382,
         "description": "n/a",
         "originalText": "Who's the dead $(context.frag_dun_wasteWater_corpseGender) in the operating room?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 387,
         "description": "n/a",
         "originalText": "Who's the dead $(context.frag_dun_wasteWater_corpseGender) that was in the operating room?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 392,
         "description": "n/a",
         "originalText": "I heard there's a dead $(context.frag_dun_wasteWater_corpseGender) in the operating room.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 398,
         "description": "n/a",
         "originalText": "About the Mushroom Cove scavenger...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 404,
         "description": "n/a",
         "originalText": "What do you know about Patrick Pierce's death?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 410,
         "description": "n/a",
         "originalText": "I know how Patrick Pierce died.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 417,
         "description": "n/a",
         "originalText": "I'd like to have a certain substance tested.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 423,
         "description": "n/a",
         "originalText": "Let's talk about my psionic potential again.",
-        "translatedText": "自分のPSI能力の資質について。"
+        "translatedText": "自分のPSI能力の資質について。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 429,
         "description": "n/a",
         "originalText": "Who are the psionic teachers in this station again?",
-        "translatedText": "PSI能力を教えてくれる人の場所は？"
+        "translatedText": "PSI能力を教えてくれる人の場所は？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 435,
         "description": "n/a",
         "originalText": "Tell me more about innveration.",
-        "translatedText": "イナベーションとは何なのか教えてほしい。"
+        "translatedText": "イナベーションとは何なのか教えてほしい。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 441,
         "description": "n/a",
         "originalText": "How's Newton doing?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 446,
         "description": "n/a",
         "originalText": "How's Lora holding up?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 452,
         "description": "n/a",
         "originalText": "What are your thoughts on the Faceless invasion?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 457,
         "description": "n/a",
         "originalText": "What are your thoughts on the Faceless retreat from Core City?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 460,
         "description": "n/a",
-        "originalText": "用事を思い出した。",
-        "translatedText": ""
+        "originalText": "I have to go.",
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 461,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_finalCouncil",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 462,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_pasquale_talkTanner",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 463,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.gorsky_GMS_Completed",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 464,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_pasquale_toldChester",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 465,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_started",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 466,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_completed",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SC1.CIC:P",
+        "classInfo": "(SC1).CIC:P",
         "objectId": 467,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_corpseGender",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SC1.SC1:V",
+        "classInfo": "(SC1).SC1:V",
         "objectId": 468,
         "description": "n/a",
         "originalText": "man",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 474,
         "description": "n/a",
         "originalText": "$(tempcontext.wasteWater_pronoun3Cap) name was ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SSFV.SFVA:P",
+        "classInfo": "(SSFV).SFVA:P",
         "objectId": 478,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.wasteWater_pronoun1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSFV.SSFV:V",
+        "classInfo": "(SSFV).SSFV:V",
         "objectId": 479,
         "description": "n/a",
         "originalText": "he",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SSFV.SFVA:P",
+        "classInfo": "(SSFV).SFVA:P",
         "objectId": 481,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.wasteWater_pronoun2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSFV.SSFV:V",
+        "classInfo": "(SSFV).SSFV:V",
         "objectId": 482,
         "description": "n/a",
         "originalText": "him",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SSFV.SFVA:P",
+        "classInfo": "(SSFV).SFVA:P",
         "objectId": 484,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.wasteWater_pronoun3Cap",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSFV.SSFV:V",
+        "classInfo": "(SSFV).SSFV:V",
         "objectId": 485,
         "description": "n/a",
         "originalText": "His",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 486,
-        "description": "n/a",
-        "originalText": "pasquale",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 487,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".SSFV.SFVA:P",
+        "classInfo": "(SSFV).SFVA:P",
         "objectId": 489,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.wasteWater_pronoun1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSFV.SSFV:V",
+        "classInfo": "(SSFV).SSFV:V",
         "objectId": 490,
         "description": "n/a",
         "originalText": "she",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SSFV.SFVA:P",
+        "classInfo": "(SSFV).SFVA:P",
         "objectId": 492,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.wasteWater_pronoun2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSFV.SSFV:V",
+        "classInfo": "(SSFV).SSFV:V",
         "objectId": 493,
         "description": "n/a",
         "originalText": "her",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SSFV.SFVA:P",
+        "classInfo": "(SSFV).SFVA:P",
         "objectId": 495,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.wasteWater_pronoun3Cap",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSFV.SSFV:V",
+        "classInfo": "(SSFV).SSFV:V",
         "objectId": 496,
         "description": "n/a",
         "originalText": "Her",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 497,
-        "description": "n/a",
-        "originalText": "pasquale",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 498,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 499,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 500,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_pasquale_talkFacelessInvasion",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 504,
         "description": "n/a",
         "originalText": "No, no, quite the contrary. Sorry if I scared you. ",
-        "translatedText": "いえ、とんでもない。吉報です。不安にさせたなら申し訳ない。"
+        "translatedText": "いえ、とんでもない。吉報です。不安にさせたなら申し訳ない。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 509,
         "description": "n/a",
         "originalText": "You see, test results show that you have certain amounts of *psionic* potential.",
-        "translatedText": "いいですか、心して聞いてください。検査の結果によれば、あなたにはサイオニック(::PSI::)能力の素質があるようです。"
+        "translatedText": "いいですか、心して聞いてください。検査の結果によれば、あなたにはサイオニック(::PSI::)能力の素質があるようです。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 519,
         "description": "n/a",
         "originalText": "I have to investigate this further. Don't say anything to anyone until I have more evidence, or else the murderer might realize we're on his tail.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 525,
         "description": "n/a",
         "originalText": "While you were out I took the liberty of performing some more testing to determine the actual levels of your psionic potential. And",
-        "translatedText": "勝手ながら、あなたが倒れている間、潜在能力を調べるためのさらなる検査をさせていただきました。"
+        "translatedText": "勝手ながら、あなたが倒れている間、潜在能力を調べるためのさらなる検査をさせていただきました。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 528,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_died_sgs",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 534,
         "description": "n/a",
         "originalText": "There is really nothing to examine. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 540,
         "description": "n/a",
         "originalText": "Good. Good. Mostly because I have nothing interesting to tell you about his remains. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 546,
         "description": "n/a",
         "originalText": "Of course, that's why I'm here. We'll have you fixed in no time.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 560,
         "description": "n/a",
         "originalText": "A guard found ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 577,
         "description": "n/a",
         "originalText": "Yes?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 586,
         "description": "n/a",
         "originalText": "Here we go again. Look, I've checked the body and did various tests. I don't know what killed him. The problem with people here is that they think being a doctor means you know everything related to medicine. I am not a forensic pathologist - we don't have one here, unfortunately. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 590,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_pasquale_askPatrickDeath",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 596,
         "description": "n/a",
         "originalText": "And how would you know that?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 602,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_pasquale_didAutopsyAgain",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 607,
         "description": "n/a",
         "originalText": "Sure, I can do that. Please, tell me what's this all about.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 612,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_daniel_didTesting",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".RIFPA.RIFPA:IC",
+        "classInfo": "(RIFPA).RIFPA:IC",
         "objectId": 614,
         "description": "n/a",
         "originalText": "herculesDrug",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 619,
         "description": "n/a",
         "originalText": "Alright. What would you like to know?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 623,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.mark1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 624,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_pasquale_talkedAfterRecovery",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 629,
         "description": "n/a",
         "originalText": "Quinton is well versed in Metathermics, which is the area of psionic development that deals with instigating rapid temperature changes and chemical reactions. He used to be one of Biocorp's researchers working on new applications of psionics.\r\n\r\nYou'll find him on the agronomy level.",
-        "translatedText": "Quintonは温度操作／::Metathermics::に精通しています。元BioCorpの研究者で、サイオニック能力の応用について研究していた人物です。::Metathermics::というのは急激な温度変化であったり、特定の化学反応といったものを引き起こす能力です。\r\n\r\n農学フロアに行けば彼に会えると思います。"
+        "translatedText": "Quintonは温度操作／::Metathermics::に精通しています。元BioCorpの研究者で、サイオニック能力の応用について研究していた人物です。::Metathermics::というのは急激な温度変化であったり、特定の化学反応といったものを引き起こす能力です。\r\n\r\n農学フロアに行けば彼に会えると思います。",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 633,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.mark2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 634,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_pasquale_talkedAfterRecovery",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 638,
         "description": "n/a",
         "originalText": "The word itself can mean several things: to supply with nerves, to stimulate, or to provide nerves with energy. In the context of psionics, in order for psionic invocation to take place, the brain's neural circuit needs to be suited for that specific invocation, fine-tuned even if maximum efficacy is desired. \r\n\r\nInnervation is, thus, the training of the nervous system through stimulation of neural pathways - and focus. It is a taxing but necessary process for anybody who wishes to learn or relearn psionic abilities. Also, certain individuals naturally exhibit increased neurogenesis - creation of new neurons, giving them greater neural capacity, while those with strong dedication can also work to improve themselves in this regard.",
-        "translatedText": "イナベーションという言葉には様々な意味があります。神経科学の文脈では、ニューロンに栄養やエネルギーを補給したり、特定の神経回路を活性化することをいいます。PSI能力の文脈では……前提からお話しますが、あるPSI能力を発動するためには、各PSIに特有のパターンに合わせて特定の神経回路を活性化しないといけません。さらなる出力を望むのならば、神経回路の活性化に関してとても緻密な最適化が必要になります。\r\n\r\nそういう理由で、あるPSIアビリティを覚えるためには、精神を集中させ、特定の神経回路を任意に活性化させる訓練が必要というわけなのです。それをイナベーションと読んでいます。大変な訓練ですが、PSI能力を新しく覚えたり、既に習得しているPSI能力をさらに研ぎ澄ませることを望むのならば、避けては通れない訓練です。またイナベーションを多く行うことで、ニューロンの新生が活発化し、脳の機能自体が向上するというケースも見られます。脳そのものの物理的な強化も望めるわけですね。"
+        "translatedText": "イナベーションという言葉には様々な意味があります。神経科学の文脈では、ニューロンに栄養やエネルギーを補給したり、特定の神経回路を活性化することをいいます。PSI能力の文脈では……前提からお話しますが、あるPSI能力を発動するためには、各PSIに特有のパターンに合わせて特定の神経回路を活性化しないといけません。さらなる出力を望むのならば、神経回路の活性化に関してとても緻密な最適化が必要になります。\r\n\r\nそういう理由で、あるPSIアビリティを覚えるためには、精神を集中させ、特定の神経回路を任意に活性化させる訓練が必要というわけなのです。それをイナベーションと読んでいます。大変な訓練ですが、PSI能力を新しく覚えたり、既に習得しているPSI能力をさらに研ぎ澄ませることを望むのならば、避けては通れない訓練です。またイナベーションを多く行うことで、ニューロンの新生が活発化し、脳の機能自体が向上するというケースも見られます。脳そのものの物理的な強化も望めるわけですね。",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 642,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.innervationMain",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 650,
         "description": "n/a",
         "originalText": "He'll be all right. He wasn't seriously wounded, it'll heal quickly. But, he's been under a lot of stress, so we'll keep him here for a while. Give him a chance to get some rest. Poor kid. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 654,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_pasquale_askNewton",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 659,
         "description": "n/a",
         "originalText": "She is stable. Unconscious, but stable. Her wounds would've been fatal if it not for the Faceless, and I have to admit, their medicine is something out of this world, so to speak. And, besides taking care of here, they even left her a gift.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 669,
         "description": "n/a",
         "originalText": "I must say it's an exciting turn of events. We know so little about the Faceless and how their society works. Rumor has it that they have highly developed psionic abilities and that they communicate through telepathy.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 673,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.askedAboutFacelessInvasion",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 674,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_facelessRetreated",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 678,
         "description": "n/a",
         "originalText": "What is most important is that it ended well for us, and that things are slowly returning to normal. Well, as normal as things are in Underrail.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 681,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.gorsky_GMS_Completed",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 686,
         "description": "n/a",
         "originalText": "Joshua Royce. His brother, ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 692,
         "description": "n/a",
         "originalText": "Jennifer Royce. Her brother, ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 698,
         "description": "n/a",
-        "originalText": "サイ...何だって?",
-        "translatedText": ""
+        "originalText": "The what...?",
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 702,
         "description": "n/a",
         "originalText": "I'm not derailed!",
-        "translatedText": "自分は頭が脱線している奴だというのか？"
+        "translatedText": "自分は頭が脱線している奴だというのか？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 706,
         "description": "n/a",
         "originalText": "You mean, like, I can read people's minds?",
-        "translatedText": "人の心が読めるとかいうあれのことか？"
+        "translatedText": "人の心が読めるとかいうあれのことか？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 710,
         "description": "n/a",
         "originalText": "How much potential?",
-        "translatedText": "どれくらいの素質があるのか教えてほしい。"
+        "translatedText": "どれくらいの素質があるのか教えてほしい。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 714,
         "description": "n/a",
         "originalText": "Alright. I'll keep my mouth shut. This is all insane...",
-        "translatedText": "結果は……言葉もありません。常軌を逸した資質です……"
+        "translatedText": "結果は……言葉もありません。常軌を逸した資質です……",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 721,
         "description": "n/a",
         "originalText": " - it is great! I wholeheartedly suggest that you start your training immediately.",
-        "translatedText": "素晴らしい才能です！ 今すぐ訓練を始めないともったいないほどです。"
+        "translatedText": "素晴らしい才能です！ 今すぐ訓練を始めないともったいないほどです。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 728,
         "description": "n/a",
         "originalText": " you have a decent predispositions for developing psionic powers, and if you train your mind further, you can become quite good at it.",
-        "translatedText": "PSI能力とは相性の良い体質のようです。精神を鍛え続ければ、さらに強力なPSI能力も使えるようになるでしょう。"
+        "translatedText": "PSI能力とは相性の良い体質のようです。精神を鍛え続ければ、さらに強力なPSI能力も使えるようになるでしょう。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 734,
         "description": "n/a",
         "originalText": ", well, the inherent potential is there, but you'll have to train your mind hard before you can really make use of it.",
-        "translatedText": "結果ですが、あー……遺伝はしているようですね。本当に使いこなすためには厳しいトレーニングが必要でしょうが。"
+        "translatedText": "結果ですが、あー……遺伝はしているようですね。本当に使いこなすためには厳しいトレーニングが必要でしょうが。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 737,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_old",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 738,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_angered_sgs",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 742,
         "description": "n/a",
         "originalText": "He's just a psionic who used his abilities to make himself appear different; otherwise he's perfectly normal from a medical perspective.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 749,
         "description": "n/a",
         "originalText": "::Let him treat your wounds.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 750,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_seenBody",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 751,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_started",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 752,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_completed",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 753,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.gorsky_GMS_Completed",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 761,
         "description": "n/a",
         "originalText": "him ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 770,
         "description": "n/a",
         "originalText": "her ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 774,
         "description": "n/a",
         "originalText": "dun_wasteWater_body",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 776,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_started",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 777,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_seenBody",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 778,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_started",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 779,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_completed",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 780,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.gorsky_GMS_Completed",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 781,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_seenBody",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 782,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_started",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 783,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_completed",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 784,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_knowBody",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 785,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_started",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 786,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_completed",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 806,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_SGSMurderStarted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 807,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_SGSMurderCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 808,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_pasquale_askPatrickDeath",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 811,
         "description": "n/a",
         "originalText": "So, I can only do my best to check the body and move on to treating the living. So, unless you have some specific information about his death, we can't really discuss it any further.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 816,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_pasquale_askPatrickDeath",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 817,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_sgsMurder_knowHowSpectresKill",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 818,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_pasquale_didAutopsyAgain",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 822,
         "description": "n/a",
         "originalText": "I did some investigating and believe Patrick was murdered.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 826,
         "description": "n/a",
         "originalText": "That's not important. What is important is that Patrick was murdered.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 827,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_daniel_didTesting",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 828,
         "description": "n/a",
         "originalText": "herculesDrug",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 832,
         "description": "n/a",
         "originalText": "I have a reason to believe this combat drug, called Hercules, has negative effects on the human body. I need to have it tested to be sure.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 833,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.psi_inhibitorRemoved",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 847,
         "description": "n/a",
         "originalText": "Bisson is our martial arts expert. He can teach you psychokinetics and how to effectively use it in unarmed combat if that's something you're interested in.\r\n\r\nHe's usually in the gymnasium across the hall",
-        "translatedText": "::Psychokinetics::(サイコキネシス)分野のPSIは格闘術との相性がいいです。そういう戦い方に興味があれば、Bissonを訪ねるといいでしょう。彼は格闘術そのものの達人でもあります。\r\n\r\n普段ならホールに併設された体育館にいることが多いのですが、いまは駅のプラットフォームでトンネルの復旧作業にあたっているはずです。"
+        "translatedText": "::Psychokinetics::(サイコキネシス)分野のPSIは格闘術との相性がいいです。そういう戦い方に興味があれば、Bissonを訪ねるといいでしょう。彼は格闘術そのものの達人でもあります。\r\n\r\n普段ならホールに併設された体育館にいることが多いのですが、いまは駅のプラットフォームでトンネルの復旧作業にあたっているはずです。",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 851,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_heardOfPsionicTeachers",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 856,
         "description": "n/a",
         "originalText": "One other thing I have to mention is that, just like sprinting and long-tunnel running require different training regimes and body types, so does the neural circuit require different neural infrastructures for different psionic disciplines. Optimizing for one set of abilities will deoptimize for the other, so majority of psionics, especially less experienced ones, stay away from multidisciplinarity due to the increased strain it puts on their mind - and sometimes sanity.",
-        "translatedText": "あともう一つ、忠告として。系統の違うPSI能力は、行使に必要な回路の最適化の様相も異なります。つまり、ある分野のPSI能力のイナベーションに最適化すると、他の分野のPSIに対する適性は低下してしまいます。全ての分野に大して最適な万能の脳というのは存在しません。短距離走者とマラソンランナーが両立できないのと同じようなものです。特に初心者のうちは、様々な系統に手を出すのはやめた方がいいでしょう。脳に負荷がかかりすぎますし、無理をすれば正気を失ってしまうこともあります。"
+        "translatedText": "あともう一つ、忠告として。系統の違うPSI能力は、行使に必要な回路の最適化の様相も異なります。つまり、ある分野のPSI能力のイナベーションに最適化すると、他の分野のPSIに対する適性は低下してしまいます。全ての分野に大して最適な万能の脳というのは存在しません。短距離走者とマラソンランナーが両立できないのと同じようなものです。特に初心者のうちは、様々な系統に手を出すのはやめた方がいいでしょう。脳に負荷がかかりすぎますし、無理をすれば正気を失ってしまうこともあります。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 859,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.findNewtonCompleted",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 860,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_pasquale_askNewton",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 861,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newton_survives",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 862,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 866,
         "description": "n/a",
         "originalText": "All in all, he'll be fine. Is there anything else you wanted to ask me?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 869,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_flo_agreeToReturnLora",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 870,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_returnedCubeToFaceless",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 874,
         "description": "n/a",
         "originalText": "What do you mean?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 875,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.facelessInvaded",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 876,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.askedAboutFacelessInvasion",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 877,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_facelessRetreated",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 881,
         "description": "n/a",
         "originalText": "I wonder if that's true.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 887,
         "description": "n/a",
         "originalText": "As for the Faceless, the only thing we've learned from this, or at least I have, is that we are at their mercy, no matter how highly we think of ourselves. We must be careful.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SC1.CIC:P",
+        "classInfo": "(SC1).CIC:P",
         "objectId": 890,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_corpseGender",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SC1.SC1:V",
+        "classInfo": "(SC1).SC1:V",
         "objectId": 891,
         "description": "n/a",
         "originalText": "man",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 898,
         "description": "n/a",
         "originalText": "Chester Royce, came in recently and collected the body. The two were scavengers; I guess they got separated somehow.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 904,
         "description": "n/a",
         "originalText": "Allow me to explain what psionic potential really is: It's a relatively rare inheritable, complex genetic trait that triggers development of certain, otherwise latent components in the brain.",
-        "translatedText": "サイオニック能力とは何かを厳密に述べるならば、比較的珍しい遺伝形質の類です。その形質が遺伝した者は、複雑な遺伝子的特徴によって脳の発達が影響を受け、本来の人間の脳にはないような特殊な領域、あるいは全体に現れる潜在的な構造という形で異常な発達を遂げます。"
+        "translatedText": "サイオニック能力とは何かを厳密に述べるならば、比較的珍しい遺伝形質の類です。その形質が遺伝した者は、複雑な遺伝子的特徴によって脳の発達が影響を受け、本来の人間の脳にはないような特殊な領域、あるいは全体に現れる潜在的な構造という形で異常な発達を遂げます。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 910,
         "description": "n/a",
         "originalText": "I'm not saying you are. It's not a bad thing. On the contrary, it's a great gift to inherit.\r\n\r\nAnd it won't make you-- I mean, it doesn't have to turn you insane.",
-        "translatedText": "サイオニック能力は悪いことではありません。立派な才能です。遺伝したのは幸運なことです。\r\n\r\nそれに、サイオニック能力があるからといって、あなたが言ったように脳が脱線――いえ、おかしくなるというのは迷信です。"
+        "translatedText": "サイオニック能力は悪いことではありません。立派な才能です。遺伝したのは幸運なことです。\r\n\r\nそれに、サイオニック能力があるからといって、あなたが言ったように脳が脱線――いえ、おかしくなるというのは迷信です。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 916,
         "description": "n/a",
         "originalText": "::He chuckles.:: No, no, not really... well, not yet anyway. Perhaps one day if you train your mind right.",
-        "translatedText": "::(苦笑い)::いえ、いえ。そんな単純なものでは……まあ、今はまだ無理でしょう。能力を鍛えていけばいつかはそういうこともできるかもしれませんが。"
+        "translatedText": "::(苦笑い)::いえ、いえ。そんな単純なものでは……まあ、今はまだ無理でしょう。能力を鍛えていけばいつかはそういうこともできるかもしれませんが。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 922,
         "description": "n/a",
         "originalText": "I'm not exactly sure until I run some more DNA tests, but it's there.",
-        "translatedText": "もっと精密なDNA検査をしないことにはわかりませんが、とにかく素質があることは確かです。"
+        "translatedText": "もっと精密なDNA検査をしないことにはわかりませんが、とにかく素質があることは確かです。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 930,
         "description": "n/a",
         "originalText": "Also, take these. ::He hands you a pair of syringes filled with blue liquid.:: These psi *boosters* will help increase your psionic recovery rate; basically, they'll allow you to use more psi abilities within a certain period of time than you normally could. They're fairly cheap, work fast, have no major side effects and are equally useful to beginners and experienced psionics alike. \r\n\r\nThere isn't a reason not to have a couple when you're going out there.",
-        "translatedText": "それから、これを渡しておきましょう。 :: 注射器を2つ手渡される。それは青い液体で満たされている。:: これはPSIブースターといって、PSI能力の自然回復量を高めるものです。人が一定時間に使えるPSI能力の量には限度がありますが、この薬があればその上限を超えることができるというわけです。安くて即効性があり、目立った副作用もないので、初心者上級者を問わず誰でも使っているものです。\r\n\r\nもしステーションの外で仕事をするのであれば、持っていた方がいいでしょう"
+        "translatedText": "それから、これを渡しておきましょう。 :: 注射器を2つ手渡される。それは青い液体で満たされている。:: これはPSIブースターといって、PSI能力の自然回復量を高めるものです。人が一定時間に使えるPSI能力の量には限度がありますが、この薬があればその上限を超えることができるというわけです。安くて即効性があり、目立った副作用もないので、初心者上級者を問わず誰でも使っているものです。\r\n\r\nもしステーションの外で仕事をするのであれば、持っていた方がいいでしょう",
+        "ignore": false
     },
     {
-        "classInfo": ".PCA1.PCA1:WP",
+        "classInfo": "(PCA1).PCA1:WP",
         "objectId": 937,
         "description": "n/a",
         "originalText": "Sgs_DoctorHealsWounds",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SC1.CIC:P",
+        "classInfo": "(SC1).CIC:P",
         "objectId": 938,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_corpseGender",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SC1.SC1:V",
+        "classInfo": "(SC1).SC1:V",
         "objectId": 939,
         "description": "n/a",
         "originalText": "man",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 944,
         "description": "n/a",
         "originalText": "dying in Mushroom Cove. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SSFV.SFVA:P",
+        "classInfo": "(SSFV).SFVA:P",
         "objectId": 948,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.wasteWater_pronoun1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSFV.SSFV:V",
+        "classInfo": "(SSFV).SSFV:V",
         "objectId": 949,
         "description": "n/a",
         "originalText": "he",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SSFV.SFVA:P",
+        "classInfo": "(SSFV).SFVA:P",
         "objectId": 951,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.wasteWater_pronoun2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSFV.SSFV:V",
+        "classInfo": "(SSFV).SSFV:V",
         "objectId": 952,
         "description": "n/a",
         "originalText": "him",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SSFV.SFVA:P",
+        "classInfo": "(SSFV).SFVA:P",
         "objectId": 954,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.wasteWater_pronoun3Cap",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSFV.SSFV:V",
+        "classInfo": "(SSFV).SSFV:V",
         "objectId": 955,
         "description": "n/a",
         "originalText": "His",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SSFV.SFVA:P",
+        "classInfo": "(SSFV).SFVA:P",
         "objectId": 957,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.wasteWater_pronoun1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSFV.SSFV:V",
+        "classInfo": "(SSFV).SSFV:V",
         "objectId": 958,
         "description": "n/a",
         "originalText": "she",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SSFV.SFVA:P",
+        "classInfo": "(SSFV).SFVA:P",
         "objectId": 960,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.wasteWater_pronoun2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSFV.SSFV:V",
+        "classInfo": "(SSFV).SSFV:V",
         "objectId": 961,
         "description": "n/a",
         "originalText": "her",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SSFV.SFVA:P",
+        "classInfo": "(SSFV).SFVA:P",
         "objectId": 963,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.wasteWater_pronoun3Cap",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSFV.SSFV:V",
+        "classInfo": "(SSFV).SSFV:V",
         "objectId": 964,
         "description": "n/a",
         "originalText": "Her",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SC1.CIC:P",
+        "classInfo": "(SC1).CIC:P",
         "objectId": 965,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_corpseGender",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SC1.SC1:V",
+        "classInfo": "(SC1).SC1:V",
         "objectId": 966,
         "description": "n/a",
         "originalText": "man",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SSFV.SFVA:P",
+        "classInfo": "(SSFV).SFVA:P",
         "objectId": 980,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.wasteWater_pronoun1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSFV.SSFV:V",
+        "classInfo": "(SSFV).SSFV:V",
         "objectId": 981,
         "description": "n/a",
         "originalText": "he",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SSFV.SFVA:P",
+        "classInfo": "(SSFV).SFVA:P",
         "objectId": 983,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.wasteWater_pronoun2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSFV.SSFV:V",
+        "classInfo": "(SSFV).SSFV:V",
         "objectId": 984,
         "description": "n/a",
         "originalText": "him",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SSFV.SFVA:P",
+        "classInfo": "(SSFV).SFVA:P",
         "objectId": 986,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.wasteWater_pronoun3Cap",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSFV.SSFV:V",
+        "classInfo": "(SSFV).SSFV:V",
         "objectId": 987,
         "description": "n/a",
         "originalText": "His",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 988,
-        "description": "n/a",
-        "originalText": "pasquale",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 989,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".SSFV.SFVA:P",
+        "classInfo": "(SSFV).SFVA:P",
         "objectId": 991,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.wasteWater_pronoun1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSFV.SSFV:V",
+        "classInfo": "(SSFV).SSFV:V",
         "objectId": 992,
         "description": "n/a",
         "originalText": "she",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SSFV.SFVA:P",
+        "classInfo": "(SSFV).SFVA:P",
         "objectId": 994,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.wasteWater_pronoun2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSFV.SSFV:V",
+        "classInfo": "(SSFV).SSFV:V",
         "objectId": 995,
         "description": "n/a",
         "originalText": "her",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SSFV.SFVA:P",
+        "classInfo": "(SSFV).SFVA:P",
         "objectId": 997,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.wasteWater_pronoun3Cap",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SSFV.SSFV:V",
+        "classInfo": "(SSFV).SSFV:V",
         "objectId": 998,
         "description": "n/a",
         "originalText": "Her",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 999,
-        "description": "n/a",
-        "originalText": "pasquale",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 1000,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1004,
         "description": "n/a",
         "originalText": "Forensic pathologist?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1008,
         "description": "n/a",
         "originalText": "What if his death was a well planned murder?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1011,
         "description": "n/a",
         "originalText": "::Pasquale's face turns serious.:: Murder? But... But how is that possible? Wait, first, tell me how was Patrick \"murdered\"?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1018,
         "description": "n/a",
         "originalText": "Combat drugs? That doesn't sound good. From my experience, administration of such substances is very likely to cause some health problems. But, let's do the testing first and see what we're dealing with. Please wait for me to run some tests. It won't take too long.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1025,
         "description": "n/a",
         "originalText": "How did this genetic trait come to be?",
-        "translatedText": "そんな遺伝的特徴が一体どうやって発生したんだ？"
+        "translatedText": "そんな遺伝的特徴が一体どうやって発生したんだ？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1030,
         "description": "n/a",
         "originalText": "So how do I realize this potential?",
-        "translatedText": "どうすればその能力を使える？"
+        "translatedText": "どうすればその能力を使える？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1035,
         "description": "n/a",
         "originalText": "All this sounds disturbing. I don't want any psionic mumbo-jumbo going on in my head.",
-        "translatedText": "邪魔くさいな。そんな意味不明のアブダカタブラが自分の脳の中で？　勘弁してくれ。"
+        "translatedText": "邪魔くさいな。そんな意味不明のアブダカタブラが自分の脳の中で？　勘弁してくれ。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1040,
         "description": "n/a",
         "originalText": "Never mind, let's talk about something else.",
-        "translatedText": "いや、やっぱり別の話題にしよう。"
+        "translatedText": "いや、やっぱり別の話題にしよう。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1045,
         "description": "n/a",
         "originalText": ".",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1051,
         "description": "n/a",
         "originalText": ", but I think he's helping with clearing up the tunnels right now, so you'll likely find him at the station platform.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1058,
         "description": "n/a",
         "originalText": "Hopefully that answers your question.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1064,
         "description": "n/a",
         "originalText": "Anyway, I have to get back to work now. Do you have any more questions?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1070,
         "description": "n/a",
         "originalText": "The Faceless have implanted a device in her throat which pretty much serves as a replacement larynx, as her own vocal folds have been completely destroyed. I am not talking just about retaining the ability to speak, but to fulfill two functions that come before speech: Preventing food from entering the windpipe, and allowing leverage when lifting heavy objects by closing the vocal folds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1081,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_knowChester",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1083,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_pasquale_toldChester",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1087,
         "description": "n/a",
         "originalText": "It allows a person to perform some subtle psionic invocations, such as influencing the minds of others, as well as some not so subtle ones - such as causing radical temperature changes and telekinetic manipulations.",
-        "translatedText": "結果として、その人物は特殊な能力を発動できるようになります。それは他者の精神に干渉するような観測しづらい能力であることもありますし、場合によっては、よりはっきりと観測できる能力として発現します。たとえば、急激な温度変化を引き起こす能力や念動力などです。"
+        "translatedText": "結果として、その人物は特殊な能力を発動できるようになります。それは他者の精神に干渉するような観測しづらい能力であることもありますし、場合によっては、よりはっきりと観測できる能力として発現します。たとえば、急激な温度変化を引き起こす能力や念動力などです。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1093,
         "description": "n/a",
         "originalText": "::And then he hands you four unusual inhalers.:: And these contain *desaturated psionic inhalants*. They'll replenish your psionic reserves, and also help neurohormonal regulation, and alleviate synaptic fatigue - especially after extensive innervation.\r\n\r\nJust like muscles recover from fatigue with the help of the body's glycogen reserves, so does your mind have its own finite psionic equivalent.",
-        "translatedText": "::さらに、怪しげな吸入器を4個渡される:: こちらは*PSI再飽和剤*と呼ばれるものです。PSI能力が枯渇しても時間を置けば回復しますが、一時的な疲労とは別に長期的なニューロンが疲弊が存在し、回復を繰り返すとやがて能力が使えなくなります。この薬剤は神経ホルモンを整えることでその長期的疲労を取り除くことができます。\r\n\r\n覚えておいてください、人間には一時的なPSI能力の枯渇とは別に、使えるPSI能力の総量の枯渇というものがあるのですよ。グリコーゲンのようなものです。グリコーゲンの貯蔵がなければ筋肉が疲労から回復できないようなものです。"
+        "translatedText": "::さらに、怪しげな吸入器を4個渡される:: こちらは*PSI再飽和剤*と呼ばれるものです。PSI能力が枯渇しても時間を置けば回復しますが、一時的な疲労とは別に長期的なニューロンが疲弊が存在し、回復を繰り返すとやがて能力が使えなくなります。この薬剤は神経ホルモンを整えることでその長期的疲労を取り除くことができます。\r\n\r\n覚えておいてください、人間には一時的なPSI能力の枯渇とは別に、使えるPSI能力の総量の枯渇というものがあるのですよ。グリコーゲンのようなものです。グリコーゲンの貯蔵がなければ筋肉が疲労から回復できないようなものです。",
+        "ignore": false
     },
     {
-        "classInfo": ".DIMAEJ.DIMAEJ:C",
+        "classInfo": "(DIMAEJ).DIMAEJ:C",
         "objectId": 1098,
         "description": "n/a",
         "originalText": "barter_pasquale",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1101,
         "description": "n/a",
         "originalText": "Identity is still unknown. Probably some scavenger, but $(tempcontext.wasteWater_pronoun1) had very few items on $(tempcontext.wasteWater_pronoun2) when $(tempcontext.wasteWater_pronoun1) was found.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1106,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_pasquale_wasteWater_passedIntro",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1114,
         "description": "n/a",
         "originalText": "Can I see the body?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1119,
         "description": "n/a",
         "originalText": "Where can I find this Chester Royce?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1123,
         "description": "n/a",
         "originalText": "Can I talk to this guard who found $(tempcontext.wasteWater_pronoun2)?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1128,
         "description": "n/a",
         "originalText": "You said you found very few items on the body. Was there a ring among those?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1133,
         "description": "n/a",
         "originalText": "Is there a sewer entrance nearby?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1137,
         "description": "n/a",
         "originalText": "I'd like to talk about something else.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1140,
         "description": "n/a",
         "originalText": "Forensic pathologists examine a dead body and determine the cause of death. It's... not the most wanted profession in the world of today. We, the few doctors here in SGS, aren't really specialized in that sort of things, so we do the best we can...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1147,
         "description": "n/a",
         "originalText": "Well, I found no traces of toxins or any other deadly substances in his blood. He doesn't have any wounds, internal or external on his body, and I checked it twice. A violent death is highly unlikely...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1153,
         "description": "n/a",
         "originalText": "A long, sharp object was used to stab him through the nose and into his brain.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1157,
         "description": "n/a",
         "originalText": "::Pasquale leaves the office. While you wait, you pass your time by walking around, by playing with the pen he left on his desk and by looking at the cracks in the ceiling. He returns shortly, as he said he would. At that moment, you somehow forgot where you put that pen you took from the desk. Oh well...::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 1160,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1166,
         "description": "n/a",
         "originalText": "No one is really sure. Research indicates that it's a relatively recent genetic mutation, but it sure could not have been a random one. So many things about it are just too complex and convenient to be anything but artificially designed.",
-        "translatedText": "答えを知る者はいません。研究によれば、その突然変異は比較的近年に発生したものでであるようなのですが、どう考えても自然に起きた変異には見えないのです。機構があまりにも複雑で、かつ機能的すぎる。まるで人工的にデザインされたかのような――"
+        "translatedText": "答えを知る者はいません。研究によれば、その突然変異は比較的近年に発生したものでであるようなのですが、どう考えても自然に起きた変異には見えないのです。機構があまりにも複雑で、かつ機能的すぎる。まるで人工的にデザインされたかのような――",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 1169,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1174,
         "description": "n/a",
         "originalText": "You must first disable your psionic inhibitor. It's a neural structure in your brain that prevents you from *innervating* - or accessing - your psionic projection centers. We assume it was designed to prevent the infants from unwittingly harming themselves or those around them.",
-        "translatedText": "最初に、脳のサイオニック阻害部位に対する不活性化処置を行います。ヒトの脳にはサイオニック能力の*イナベーション*、あるいは能力の中心となる領域そのものへのアクセスをブロックする構造が存在します。おそらく乳幼児期に無意識にサイオニック能力を使うことで自分や周囲を傷つけることがないように、防御機構としてそうなっているのでしょう。"
+        "translatedText": "最初に、脳のサイオニック阻害部位に対する不活性化処置を行います。ヒトの脳にはサイオニック能力の*イナベーション*、あるいは能力の中心となる領域そのものへのアクセスをブロックする構造が存在します。おそらく乳幼児期に無意識にサイオニック能力を使うことで自分や周囲を傷つけることがないように、防御機構としてそうなっているのでしょう。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1177,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.mark1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1181,
         "description": "n/a",
         "originalText": "As you wish. If you change your mind, let me know.",
-        "translatedText": "そうですか。気が変わったら教えてください。"
+        "translatedText": "そうですか。気が変わったら教えてください。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1184,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.mark1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1188,
         "description": "n/a",
         "originalText": "I'm listening.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1191,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1197,
         "description": "n/a",
-        "originalText": "Thought Control discipline is considered by many to be nefarious and it's also the hardest to get really good at. I'm not sure who here can teach you it. \r\n\r\nI heard rumors that Ezra, the chief of engineering, is actually a powerful mind controller, but I don't know if that's true. Most people here, including me, know nothing about Ezra so it might just be that some of them are making this stuff up.",
-        "translatedText": "思考操作／Thought_ControlはPSI能力の中では最も恐れられているものですが、習得も一番難しいといわれています。この能力を他人に教えられる人物、というのも私には心当たりがありません。\r\n\r\nエンジニアリング部門の主任をしているEzraという方がいるのですが、あくまで噂ですが、彼は強力な思考操作能力者ではないかと言われています。ただEzraは人付き合いの少ない方で、私を含め、このステーションに彼の素性を知る者はほとんどいません……ですから、うわさ話に尾ひれがついただけの可能性もあります。"
+        "originalText": "Thought control discipline is considered by many to be nefarious and it's also the hardest to get really good at. I'm not sure who here can teach you it. \r\n\r\nI heard rumors that Ezra, the chief of engineering, is actually a powerful mind controller, but I don't know if that's true. Most people here, including me, know nothing about Ezra so it might just be that some of them are making this stuff up.",
+        "translatedText": "思考操作／Thought_ControlはPSI能力の中では最も恐れられているものですが、習得も一番難しいといわれています。この能力を他人に教えられる人物、というのも私には心当たりがありません。\r\n\r\nエンジニアリング部門の主任をしているEzraという方がいるのですが、あくまで噂ですが、彼は強力な思考操作能力者ではないかと言われています。ただEzraは人付き合いの少ない方で、私を含め、このステーションに彼の素性を知る者はほとんどいません……ですから、うわさ話に尾ひれがついただけの可能性もあります。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1200,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.innervationMain",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1216,
         "description": "n/a",
         "originalText": "The device is an engineering miracle, from my perspective at least, but it serves Lora now, so inspecting it further is impossible.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1219,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_pasquale_wasteWater_passedIntro",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1228,
         "description": "n/a",
         "originalText": "What happened to $(tempcontext.wasteWater_pronoun2)?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1236,
         "description": "n/a",
         "originalText": "What for?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1244,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_pasquale_askToSeeWasteWaterBody",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1249,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_knowChester",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1253,
         "description": "n/a",
         "originalText": "I think he sailed over from Junkyard. You can catch a ferry ride there down at the docks, cave level.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1259,
         "description": "n/a",
         "originalText": "I don't know which of the guards brought $(tempcontext.wasteWater_pronoun2) in. Malcom, the security officer can help you with that. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1262,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_body_passedPerception",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1266,
         "description": "n/a",
         "originalText": "::He pauses to think.:: Not as far as I can remember. There was a... uh... a few coins, an omnitool... ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1269,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_body_passedChemistry",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1273,
         "description": "n/a",
         "originalText": "Let me think...\r\n\r\nThe only sewage system I'm aware of is the one belonging to SGS, and it all goes out into the Chancer's Bay.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1278,
         "description": "n/a",
         "originalText": "::Pasquale remains speechless.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1284,
         "description": "n/a",
         "originalText": "This is incredible. You were right about this drug, but calling its effects \"negative\" is a huge understatement.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1292,
         "description": "n/a",
         "originalText": "There are problems with this hypothesis, though: Former Biocorp's head of genetic research, Dr. Hal Roche, outlined these problems best in his thesis. I won't bore you with details, but the essence of the problem is that, with the technology that we currently have at our disposal, creating, testing and integrating genetic structures of such complexity is simply not possible without a colossal amount of trial and error work.",
-        "translatedText": "人工進化説にはたくさんの反証があります。かつてBiocorpで遺伝学研究を取り仕切っていたHal_Roche博士という人物がいるのですが、主要な反論は彼の論文によくまとまっています。ここで全部をお話はしませんが、要約すると、我々が今持っている遺伝子操作のテクノロジーでは、そこまで複雑な構造を作ることは到底できません。できたとして、すさまじい回数の試行と時間が必要になるでしょう。"
+        "translatedText": "人工進化説にはたくさんの反証があります。かつてBiocorpで遺伝学研究を取り仕切っていたHal_Roche博士という人物がいるのですが、主要な反論は彼の論文によくまとまっています。ここで全部をお話はしませんが、要約すると、我々が今持っている遺伝子操作のテクノロジーでは、そこまで複雑な構造を作ることは到底できません。できたとして、すさまじい回数の試行と時間が必要になるでしょう。",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 1296,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ1",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1300,
         "description": "n/a",
         "originalText": "There are ways to perform this innervation by deep, extended meditation, but this can take years and years. We have more efficient methods nowadays.",
-        "translatedText": "長時間の深い瞑想によってイナベーションを実現する方法もありますが、訓練だけで何年もかかります。そこで、現代ではもっと効率的な手法があります。"
+        "translatedText": "長時間の深い瞑想によってイナベーションを実現する方法もありますが、訓練だけで何年もかかります。そこで、現代ではもっと効率的な手法があります。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1317,
         "description": "n/a",
         "originalText": "And then there is Temporal Manipulation, which purportedly allows one to control time itself. I've never seen it in action. It's a discipline few practice. However, I've heard that a man that goes by the name of... what was it... Ethan L-- Lanford, yes, Ethan Lanford; I've heard that he is a practitioner of the discipline. He's not from around here, but he does visit SGS from time to time. ",
-        "translatedText": "そして最後の分野、時間操作／::Temporal Manipulation::ですが、この分野のアビリティは実際に時間そのものの操作を可能にします。使い手は稀で、私も実物を見たことはありません。訓練法もほぼ確立しされていません。しかし、時間操作に詳しいという方に心当たりはあります。SGSの人間ではなく、たまに訪問してくるだけの方なのですが、確か……えーと……なんという名前でしたか……Ethan L--Lanford、そう、Ethan Lanfordという方です。"
+        "translatedText": "そして最後の分野、時間操作／::Temporal Manipulation::ですが、この分野のアビリティは実際に時間そのものの操作を可能にします。使い手は稀で、私も実物を見たことはありません。訓練法もほぼ確立しされていません。しかし、時間操作に詳しいという方に心当たりはあります。SGSの人間ではなく、たまに訪問してくるだけの方なのですが、確か……えーと……なんという名前でしたか……Ethan L--Lanford、そう、Ethan Lanfordという方です。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1324,
         "description": "n/a",
         "originalText": "That's all of them as far as I know.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1332,
         "description": "n/a",
         "originalText": "Where can I get more psi boosters and inhalants?",
-        "translatedText": "こういったPSI関係の薬はどこで手に入る？"
+        "translatedText": "こういったPSI関係の薬はどこで手に入る？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1338,
         "description": "n/a",
         "originalText": "::[Persuade]:: Only a pair of boosters?",
-        "translatedText": "::[説得]::ブースターが2個だけでは心もとない。"
+        "translatedText": "::[説得]::ブースターが2個だけでは心もとない。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1342,
         "description": "n/a",
         "originalText": "So how do I start learning psionic abilities?",
-        "translatedText": "PSIアビリティを習得するには？"
+        "translatedText": "PSIアビリティを習得するには？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1346,
         "description": "n/a",
         "originalText": "You keep mentioning the word \"innervation.\" What does it mean exactly?",
-        "translatedText": "\"イナベーション\"というのはどういう意味なんだ？"
+        "translatedText": "\"イナベーション\"というのはどういう意味なんだ？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1351,
         "description": "n/a",
         "originalText": "I'd like to purchase some psi boosters. ::Barter.::",
-        "translatedText": "PSIブースターを売ってほしい。::売買::"
+        "translatedText": "PSIブースターを売ってほしい。::売買::",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1355,
         "description": "n/a",
         "originalText": "Got it. Now, there was something else I wanted to talk to you about...",
-        "translatedText": "わかった。他に聞きたいことがある。"
+        "translatedText": "わかった。他に聞きたいことがある。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1358,
         "description": "n/a",
         "originalText": "I'll keep that in mind, but I have other business to attend to right now. Catch you some other time.",
-        "translatedText": "アドバイスをありがとう。まだ仕事が残っているので、また今度。"
+        "translatedText": "アドバイスをありがとう。まだ仕事が残っているので、また今度。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1363,
         "description": "n/a",
         "originalText": "The body's covered in green growths universally associated with mutagen exposure. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1370,
         "description": "n/a",
         "originalText": "Third-degree burns all over the body. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1377,
         "description": "n/a",
         "originalText": "Numerous gunshot wounds. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1384,
         "description": "n/a",
         "originalText": "Electrocution. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1391,
         "description": "n/a",
         "originalText": "Attacked by animals. The body's covered in numerous bite marks, and large chunks of flesh have been bitten off. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1397,
         "description": "n/a",
         "originalText": "Came in with patches of hair ripped off and severely traumatized. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1402,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_pasquale_askToSeeWasteWaterBody",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1403,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.gorsky_GMS_Completed",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1408,
         "description": "n/a",
         "originalText": "::[Doctor]:: I'm a doctor too.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1413,
         "description": "n/a",
         "originalText": "::[Biology]:: I'd like to examine it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1417,
         "description": "n/a",
         "originalText": "I may know this person.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1421,
         "description": "n/a",
         "originalText": "I have my reasons.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".UOP.UOP:A",
+        "classInfo": "(UOP).UOP:A",
         "objectId": 1424,
         "description": "n/a",
         "originalText": "sa6",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".UOP.UOP:A",
+        "classInfo": "(UOP).UOP:A",
         "objectId": 1434,
         "description": "n/a",
         "originalText": "sa6",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1446,
         "description": "n/a",
         "originalText": "But whether he returned there or not, I don't know. And I didn't ask. The whole encounter... \r\n\r\nHe took it hard.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1452,
         "description": "n/a",
         "originalText": "He's at the cave exit, on the lowest level of the station.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1458,
         "description": "n/a",
         "originalText": "No. No ring.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1464,
         "description": "n/a",
         "originalText": "But the truth is that there are plenty of old Biocorp buildings and facilities around, some ruined - some merely buried under tons of rock, waiting for a determined spelunker or a powerful earthquake to reveal them, so it's impossible to tell what's nearby.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1470,
         "description": "n/a",
         "originalText": "Can you check the body now that you know the cause?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1474,
         "description": "n/a",
         "originalText": "Tell me what you discovered.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1478,
         "description": "n/a",
         "originalText": "::Let him continue.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1482,
         "description": "n/a",
         "originalText": "So much trial and error work, Roche argued, that even if you combined all the genetic processors in the world in his time and let them work on the subject for the entire time of their existence, they would still be extremely unlikely to produce these results.",
-        "translatedText": "そんなことを成し遂げるには本当に莫大な時間が必要なのです。Roche博士によれば、世界中の遺伝子操作機器をかき集めて、その研究のためだけに寿命まで使い倒したとしても、これほどの結果はまず得られないだろうと。"
+        "translatedText": "そんなことを成し遂げるには本当に莫大な時間が必要なのです。Roche博士によれば、世界中の遺伝子操作機器をかき集めて、その研究のためだけに寿命まで使い倒したとしても、これほどの結果はまず得られないだろうと。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1488,
         "description": "n/a",
         "originalText": "::He reaches into his pocket, then opens his hand before you: You see a large red pill.:: It'll take care of the inhibitor right away, but there is one side effect I am obliged to mention: The majority of users experience immediate and significant weakening of their immune system, and when I say majority, I mean everyone. To put it bluntly - it will severely affect your health.\r\n\r\nTherefore, the choice is yours.",
-        "translatedText": "::彼はポケットから何かを取り出し、あなたに差し出す。赤い錠剤だ。異様に大きい。:: この薬を使えば阻害機構はただちに停止します。しかし、副作用があることもお伝えしなければなりません。これを服用すると、極めて高い確率で急激なに免疫力の低下が起こります。極めて高い確率でというのは学術的に厳密な表現をしたまでで、ほぼ100%であると思ってください。まあ、乱暴に表現するならば――これを服用すれば、あなたは身体が弱くなります。\r\n\r\nそういう理由で、強制はしません。"
+        "translatedText": "::彼はポケットから何かを取り出し、あなたに差し出す。赤い錠剤だ。異様に大きい。:: この薬を使えば阻害機構はただちに停止します。しかし、副作用があることもお伝えしなければなりません。これを服用すると、極めて高い確率で急激なに免疫力の低下が起こります。極めて高い確率でというのは学術的に厳密な表現をしたまでで、ほぼ100%であると思ってください。まあ、乱暴に表現するならば――これを服用すれば、あなたは身体が弱くなります。\r\n\r\nそういう理由で、強制はしません。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1493,
         "description": "n/a",
         "originalText": "Understood, doc.",
-        "translatedText": "わかった。"
+        "translatedText": "わかった。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1496,
         "description": "n/a",
         "originalText": "::Nod and leave.::",
-        "translatedText": "::無言でうなずいて去る。::"
+        "translatedText": "::無言でうなずいて去る。::",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1500,
         "description": "n/a",
         "originalText": "I want to ask you something.",
-        "translatedText": "他に聞きたいことがある。"
+        "translatedText": "他に聞きたいことがある。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1507,
         "description": "n/a",
         "originalText": "In fact, he was in the bar up until the metro got cleared, then he left.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1513,
         "description": "n/a",
         "originalText": "In fact, I just saw him in the bar moments ago. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1517,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_toldAbout",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1518,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.mark2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1519,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_pasquale_whereBuyPsiBoosters",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1523,
         "description": "n/a",
         "originalText": "Most doctor's offices should have them in supply, mine included. I can sell you some if you'd like.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1527,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_pasquale_whereBuyPsiBoosters",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1528,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_pasquale_tryPersuadePsiBoosters",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1531,
         "description": "n/a",
         "originalText": "Uh, what do you mean by \"only\" a pair? That's quite sufficient to get you started.",
-        "translatedText": "2つ\"だけ\"とは？　充分に足りると思いますが。"
+        "translatedText": "2つ\"だけ\"とは？　充分に足りると思いますが。",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1537,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_pasquale_tryPersuadePsiBoosters",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1541,
         "description": "n/a",
         "originalText": "You'll have to talk to those already adept at it and see if they'll teach you. We have two very good specialists in our station.",
-        "translatedText": "既に能力を習得している人に教えてもらうのが近道でしょう。SGS Stationだと、それができそうな者は2人います。"
+        "translatedText": "既に能力を習得している人に教えてもらうのが近道でしょう。SGS Stationだと、それができそうな者は2人います。",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1544,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_pasquale_whereBuyPsiBoosters",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1549,
         "description": "n/a",
         "originalText": "Go ahead.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SC1.CIC:P",
+        "classInfo": "(SC1).CIC:P",
         "objectId": 1552,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_type",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SC1.SC1:V",
+        "classInfo": "(SC1).SC1:V",
         "objectId": 1553,
         "description": "n/a",
         "originalText": "mutie",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1557,
         "description": "n/a",
         "originalText": "No one knows what exactly transpired, but $(tempcontext.wasteWater_pronoun1) was dead on arrival. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SC1.CIC:P",
+        "classInfo": "(SC1).CIC:P",
         "objectId": 1560,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_type",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SC1.SC1:V",
+        "classInfo": "(SC1).SC1:V",
         "objectId": 1561,
         "description": "n/a",
         "originalText": "fire",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 1562,
-        "description": "n/a",
-        "originalText": "pasquale",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 1563,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".SC1.CIC:P",
+        "classInfo": "(SC1).CIC:P",
         "objectId": 1564,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_type",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SC1.SC1:V",
+        "classInfo": "(SC1).SC1:V",
         "objectId": 1565,
         "description": "n/a",
         "originalText": "bots",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 1566,
-        "description": "n/a",
-        "originalText": "pasquale",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 1567,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".SC1.CIC:P",
+        "classInfo": "(SC1).CIC:P",
         "objectId": 1568,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_type",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SC1.SC1:V",
+        "classInfo": "(SC1).SC1:V",
         "objectId": 1569,
         "description": "n/a",
         "originalText": "edison",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 1570,
-        "description": "n/a",
-        "originalText": "pasquale",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 1571,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".SC1.CIC:P",
+        "classInfo": "(SC1).CIC:P",
         "objectId": 1572,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_type",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SC1.SC1:V",
+        "classInfo": "(SC1).SC1:V",
         "objectId": 1573,
         "description": "n/a",
         "originalText": "dogs",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 1574,
-        "description": "n/a",
-        "originalText": "pasquale",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 1575,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 1576,
-        "description": "n/a",
-        "originalText": "pasquale",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 1577,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".PHF.PHF:F",
+        "classInfo": "(PHF).PHF:F",
         "objectId": 1586,
         "description": "n/a",
         "originalText": "Doctor",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1590,
         "description": "n/a",
         "originalText": "Hmm... Sure. Sure. Go ahead.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1598,
         "description": "n/a",
         "originalText": "Well...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1604,
         "description": "n/a",
         "originalText": "Yes, yes. I will, at once. You wait here while I quickly examine the body.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1611,
         "description": "n/a",
         "originalText": "This substance, \"Hercules\" as you call it, is in essence a mix of different synthetic hormones that act upon various organs and tissues in the body, considerably improving their performance, but only for a short period of time. This \"bombardment\" of hormones pushes the body beyond its limit and will cause horrible consequences, perhaps even death, within a relatively short time period, depending on the user.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1617,
         "description": "n/a",
         "originalText": "Furthermore, Roche points out that the structures of the brain where innervation that allows psionic activity takes place were never studied in such depth. Even though we know plenty about how the brain as a whole works, there is a large gap between the top-down research - performed by psychologists and neurologists - and bottom-up research - done by neuroscientists studying neurons and receptors. \r\n\r\nInside this gap lie psionics, but due to the brain's nature and complexity, those who wish to study it need to start from either of these directions and slowly approach the middle.",
-        "translatedText": "さらにRoche博士が指摘するところによれば、イナベーションをつかさどる神経の配置や構造に関する研究はほぼ未開拓の分野です。脳という一つの器官が総体としてどういう挙動をするかは我々の科学ではわかっていますが、心理学や精神医学のようなトップダウン視点の分野と、ニューロンや受容体を扱う神経細胞学のようなボトムアップ視点の分野の間には埋められていない大きなギャップがあります。\r\n\r\nサイオニック研究というのはまさにそのギャップの位置にあるのです。PSIの研究を志す者は、トップダウンとボトムアップの両方からアプローチして長い長い道のりをたどらないといけません。脳という器官はあまりにも複雑ですから。"
+        "translatedText": "さらにRoche博士が指摘するところによれば、イナベーションをつかさどる神経の配置や構造に関する研究はほぼ未開拓の分野です。脳という一つの器官が総体としてどういう挙動をするかは我々の科学ではわかっていますが、心理学や精神医学のようなトップダウン視点の分野と、ニューロンや受容体を扱う神経細胞学のようなボトムアップ視点の分野の間には埋められていない大きなギャップがあります。\r\n\r\nサイオニック研究というのはまさにそのギャップの位置にあるのです。PSIの研究を志す者は、トップダウンとボトムアップの両方からアプローチして長い長い道のりをたどらないといけません。脳という器官はあまりにも複雑ですから。",
+        "ignore": false
     },
     {
-        "classInfo": ".DLCIIC.DLCIIC",
+        "classInfo": "(DLCIIC).DLCIIC",
         "objectId": 1630,
         "description": "n/a",
         "originalText": "xpbl",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1631,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_died_sgs",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1632,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1637,
         "description": "n/a",
         "originalText": "I'm sure Arlene knows more about him. Ask her if you're interested.",
-        "translatedText": "Ethanと会いたいなら、食堂のArlreneが彼の知り合いだそうですよ。"
+        "translatedText": "Ethanと会いたいなら、食堂のArlreneが彼の知り合いだそうですよ。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1644,
         "description": "n/a",
         "originalText": "I've got a lot of dangerous work ahead of me, doc, and considering I've yet to become an experienced psionic, I'd rather not find myself short on brain juice when I need it the most.",
-        "translatedText": "これから危険な仕事に赴くが、自分はまだ初心者だ。ここぞという時に物資切れという展開は避けたい。"
+        "translatedText": "これから危険な仕事に赴くが、自分はまだ初心者だ。ここぞという時に物資切れという展開は避けたい。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1650,
         "description": "n/a",
         "originalText": "Well, since apparently I'm not all that gifted and will need a lot of training, I was sort of expecting some extra motivation. Besides, dangerous work awaits me after I'm done here with you.",
-        "translatedText": "えーと、自分は才能があまりなくて訓練がたくさん必要なんだろう？　そのための用意が欲しい。しかもこれから危険な仕事に赴くしな。"
+        "translatedText": "えーと、自分は才能があまりなくて訓練がたくさん必要なんだろう？　そのための用意が欲しい。しかもこれから危険な仕事に赴くしな。",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>MI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>MI#-).LIDP:P",
         "objectId": 1651,
         "description": "n/a",
         "originalText": "consumables\\medicine\\psibooster",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>MI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>MI#-).LIDP:P",
         "objectId": 1652,
         "description": "n/a",
         "originalText": "consumables\\medicine\\psiinhalant",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1656,
         "description": "n/a",
         "originalText": "You know, we could really use another doctor here. We're pretty understaffed considering the size of population of this station.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHF.PHF:F",
+        "classInfo": "(PHF).PHF:F",
         "objectId": 1660,
         "description": "n/a",
         "originalText": "Doctor",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1664,
         "description": "n/a",
         "originalText": "I suppose... I suppose I can allow it. Just don't touch the body, okay?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1671,
         "description": "n/a",
         "originalText": "::Wait.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1674,
         "description": "n/a",
         "originalText": "Metabolite saturation in muscles will eventually cause painful cramps, increased heart rate and blood pressure will cause headaches and possibly lead to cardiac arrest, there is also the loss of concentration... Look, that's only the tip of it, there are also unhealthy amounts of heavy metals in the substance, I dare not to think where and how this is made.\r\n\r\nHow did you come across this atrocity?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1681,
         "description": "n/a",
         "originalText": "So you see, it's a bit of a mystery. We know much more about how to make it work than how it actually works.",
-        "translatedText": "要するに、まだまだ謎に包まれているということです。仕組みのわからないものを仕組みのわからないまま、効率的に利用しようとする技術だけが発達してきました。"
+        "translatedText": "要するに、まだまだ謎に包まれているということです。仕組みのわからないものを仕組みのわからないまま、効率的に利用しようとする技術だけが発達してきました。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1690,
         "description": "n/a",
         "originalText": "Is the process dangerous? Painful?",
-        "translatedText": "その方法は安全なのか？　痛みはあるのか？"
+        "translatedText": "その方法は安全なのか？　痛みはあるのか？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1695,
         "description": "n/a",
         "originalText": "Do I need to prepare somehow?",
-        "translatedText": "何か準備が必要だろうか？"
+        "translatedText": "何か準備が必要だろうか？",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1699,
         "description": "n/a",
         "originalText": "::Take the pill and swallow it.::",
-        "translatedText": "::赤い薬を飲む。::"
+        "translatedText": "::赤い薬を飲む。::",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1703,
         "description": "n/a",
         "originalText": "Forget it, doc, I'm doing it the old fashioned way.",
-        "translatedText": "薬はやめておこう、先生。その古い瞑想とやらを試してみようか。"
+        "translatedText": "薬はやめておこう、先生。その古い瞑想とやらを試してみようか。",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1707,
         "description": "n/a",
         "originalText": "I need to think about this. In the meantime, I had other questions.",
-        "translatedText": "少し考える時間が欲しい。それはそうと、他に質問がある。"
+        "translatedText": "少し考える時間が欲しい。それはそうと、他に質問がある。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1718,
         "description": "n/a",
         "originalText": "Just use them wisely and you should be alright. Or you could simply purchase more. They're cheap, but not cheap enough for me to be giving them away just like that.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1730,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_pasquale_patrickInvestigationFadeOut",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1735,
         "description": "n/a",
         "originalText": "Some guy is selling it in Core City.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1739,
         "description": "n/a",
         "originalText": "That's not important. I just need the test results, if possible.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1743,
         "description": "n/a",
-        "originalText": "興味深い話だ。",
-        "translatedText": ""
+        "originalText": "Interesting.",
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1747,
         "description": "n/a",
         "originalText": "Enough already. You could have just said you didn't know.",
-        "translatedText": "「わからない」というだけのことを説明するだけにこんなに言葉が必要かね？"
+        "translatedText": "「わからない」というだけのことを説明するだけにこんなに言葉が必要かね？",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 1748,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1754,
         "description": "n/a",
         "originalText": "No, no, not at all... Well, maybe a bit dangerous for some, but it doesn't hurt at all... much. You might get a bit woozy but that's it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 1757,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1763,
         "description": "n/a",
         "originalText": "No, just go ahead and swallow it.",
-        "translatedText": "準備などは不要です。ただ薬を飲むだけです。"
+        "translatedText": "準備などは不要です。ただ薬を飲むだけです。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1770,
         "description": "n/a",
         "originalText": "::You force the oversized pill down, and for a while nothing happens.::",
-        "translatedText": "::あなたはその錠剤にしては大きすぎるものを無理やり飲みこんだ。しばらくの時間が経つが、何も起きない。::"
+        "translatedText": "::あなたはその錠剤にしては大きすぎるものを無理やり飲みこんだ。しばらくの時間が経つが、何も起きない。::",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1776,
         "description": "n/a",
         "originalText": "::He sighs.:: It's your time to waste. I can't help you with that though. I'm a doctor, not a monk.",
-        "translatedText": "::(ため息):: あれは時間の浪費です。それに、そちらの方法に関して私が教えられることは何もありません。私は修行僧ではなく医者ですから。"
+        "translatedText": "::(ため息):: あれは時間の浪費です。それに、そちらの方法に関して私が教えられることは何もありません。私は修行僧ではなく医者ですから。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1784,
         "description": "n/a",
         "originalText": "Very well. I'll give you one... two more. ::He hands you two more psi boosters.:: But that's all you're getting for free. ",
-        "translatedText": "いいでしょう……追加で二つだけですよ。::PSIブースターをさらに2つ受け取った。::この2つが最後ですからね。"
+        "translatedText": "いいでしょう……追加で二つだけですよ。::PSIブースターをさらに2つ受け取った。::この2つが最後ですからね。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1790,
         "description": "n/a",
         "originalText": "Oh... Oh!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1798,
         "description": "n/a",
         "originalText": "Okay, no problem. I hope you know what you're doing. Everything's here. ::He hands you a flash drive.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1804,
         "description": "n/a",
         "originalText": "Indeed it is. Is there something else you wanted to know?",
-        "translatedText": "ええ、まさに。他に知っておきたいことはありますか？"
+        "translatedText": "ええ、まさに。他に知っておきたいことはありますか？",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1810,
         "description": "n/a",
         "originalText": "::He chuckles.:: Sorry if I rambled. I'm just fascinated by the subject. Anyway, is there something else you wanted to know?",
-        "translatedText": ":::(苦笑い)::話し過ぎてしまって申し訳ありません。大好きな話題なのでね。ともあれ、何か知りたいことはありますか？"
+        "translatedText": ":::(苦笑い)::話し過ぎてしまって申し訳ありません。大好きな話題なのでね。ともあれ、何か知りたいことはありますか？",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 1814,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 1816,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ2",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1818,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.psi_inhibitorRemoved",
-        "translatedText": ""
+        "ignore": true
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1824,
         "description": "n/a",
         "originalText": "I don't think it's working...",
-        "translatedText": "この薬、効いてないんじゃないか？"
+        "translatedText": "この薬、効いてないんじゃないか？",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1828,
         "description": "n/a",
         "originalText": "Come to me if you change your mind.",
-        "translatedText": "気が変わったら、また来てください。"
+        "translatedText": "気が変わったら、また来てください。",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1834,
         "description": "n/a",
         "originalText": "These things don't just grow out of the ground, you know.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1842,
         "description": "n/a",
         "originalText": "I need to expose him. And to do that, I need some evidence. May I have the test results?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1846,
         "description": "n/a",
         "originalText": "Just give me the test results. There is no time to lose.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".G09.G09:QN",
+        "classInfo": "(G09).G09:QN",
         "objectId": 1855,
         "description": "n/a",
         "originalText": "PE",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PCA1.PCA1:WP",
+        "classInfo": "(PCA1).PCA1:WP",
         "objectId": 1857,
         "description": "n/a",
         "originalText": "Sgs_PsiInhibitorPill",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1864,
         "description": "n/a",
         "originalText": "But of course! Here you go $(context.player.Name). Everything's here. ::He hands you a flash drive.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1871,
         "description": "n/a",
         "originalText": "Thank you Pasquale. See you around.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1874,
         "description": "n/a",
         "originalText": "Gotta run, thanks man!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>MI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>MI#-).LIDP:P",
         "objectId": 1884,
         "description": "n/a",
         "originalText": "consumables\\medicine\\psibooster",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:C",
+        "classInfo": "(NEI).I:C",
         "objectId": 1891,
         "description": "n/a",
         "originalText": "plot.HerculesTest",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:N",
+        "classInfo": "(NEI).I:N",
         "objectId": 1892,
         "description": "n/a",
         "originalText": "Hercules Test Results",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:D",
+        "classInfo": "(NEI).I:D",
         "objectId": 1894,
         "description": "n/a",
         "originalText": "This drive contains Hercules testing results that prove the drug's harmful effects.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:VM",
+        "classInfo": "(NEI).I:VM",
         "objectId": 1895,
         "description": "n/a",
         "originalText": "Devices.1",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

@@ -1,30 +1,37 @@
 [
     {
-        "className": "C00",
+        "classInfo": "(C00).I:C",
         "objectId": 3,
         "description": "n/a",
         "originalText": "currency.sgs",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "C00",
+        "classInfo": "(C00).I:N",
         "objectId": 4,
         "description": "n/a",
-        "originalText": "",
-        "translatedText": "SGSクレジット／SGS Credits"
+        "originalText": "SGS Credits",
+        "translatedText": "SGSクレジット／SGS Credits",
+        "ignore": false
     },
     {
-        "className": "C00",
+        "classInfo": "(C00).I:D",
         "objectId": 6,
         "description": "n/a",
-        "originalText": "",
-        "translatedText": "South Gate Stationで使われている通貨。"
+        "originalText": "This is the internal currency of the South Gate Station.",
+        "translatedText": "South Gate Stationで使われている通貨。",
+        "ignore": false
     },
     {
-        "className": "C00",
+        "classInfo": "(C00).I:VM",
         "objectId": 7,
         "description": "n/a",
         "originalText": "Plot.30",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "jsonVersion": "0.3"
     }
 ]
