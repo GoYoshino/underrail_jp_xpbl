@@ -4,7 +4,7 @@
         "objectId": 87,
         "description": "n/a",
         "originalText": "::A short man rises from behind his desk with a grenade case in his hands. The heavy case meets the top of the desk with a thud, raising your eyebrows, which in turn makes the man's face turn into a smile. He removes his glove and shakes your hand with a strong, perhaps too strong grip before addressing you.::\r\n\r\nDon't worry. $(context.player.Name), I ain't gonna blow us up. Nope. Anyway, Vencel told me you'll be staying with us for a while.",
-        "translatedText": "",
+        "translatedText": "::机の向こうで、背の低い男がグレネードケースを手に持って立ち上がる。巨大なケースが机の上に勢いよく置かれ、大きな音を立てる。あなたは思わず目を見開く。その様子が引き金となって、男は微笑む。彼はグローブを外すと、あなたに握手を求める。握力がおそろしく強い。強い強い握手を終え、男はようやくあなたに対する手続きを始める。::びっくりさせちまって悪かったな、$(context.player.Name)。別にあんたを吹き飛ばそうってんじゃないぜ。本当さ。ともあれ、Vencelから話は聞いてる。このステーションに住むんだってな。",
         "ignore": false
     },
     {
@@ -52,23 +52,21 @@
         "objectId": 146,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_lucas_met",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 148,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_lucas_met",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 152,
         "description": "n/a",
         "originalText": "Yeah. I like it here so far.",
-        "translatedText": "",
+        "translatedText": "ああ、このステーションは好きになれそうだ。",
         "ignore": false
     },
     {
@@ -76,7 +74,7 @@
         "objectId": 156,
         "description": "n/a",
         "originalText": "Guess so.",
-        "translatedText": "",
+        "translatedText": "そんなところだな。",
         "ignore": false
     },
     {
@@ -84,7 +82,7 @@
         "objectId": 160,
         "description": "n/a",
         "originalText": "::Nod.::",
-        "translatedText": "",
+        "translatedText": "::(頷く)::",
         "ignore": false
     },
     {
@@ -124,32 +122,28 @@
         "objectId": 193,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_sgs_dun_investigateUnderPassages_lucasFinalComment",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 210,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_lucas_talkTanner",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 214,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_lucas_gorskyDied",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 218,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_sgs_lucas_talkedEthan",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -196,15 +190,14 @@
         "objectId": 244,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_lucas_talkInvasion",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 248,
         "description": "n/a",
         "originalText": "Well, friend - make yourself at home.",
-        "translatedText": "",
+        "translatedText": "さて、何の用かな。楽にしてくれよ。",
         "ignore": false
     },
     {
@@ -212,24 +205,21 @@
         "objectId": 251,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_sgs_dun_investigateUnderPassages_completed",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 252,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_sgs_dun_investigateUnderPassages_lucasFinalComment",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).CIC:P",
         "objectId": 253,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_sgs_dun_investigateUnderPassages_ordnanceReceived",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).SC1:V",
@@ -252,8 +242,7 @@
         "objectId": 261,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_sgs_dun_investigateUnderPassages_ordnanceReceived",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).SC1:V",
@@ -268,23 +257,21 @@
         "objectId": 265,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_finalCouncil",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 266,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_lucas_talkTanner",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 271,
         "description": "n/a",
         "originalText": "I'd like to see your stock. ::Barter.::",
-        "translatedText": "",
+        "translatedText": "商品を見せてくれ。::売買::",
         "ignore": false
     },
     {
@@ -292,7 +279,7 @@
         "objectId": 276,
         "description": "n/a",
         "originalText": "I'd like to see your stock. ::Barter.::",
-        "translatedText": "",
+        "translatedText": "商品を見せてくれ。::売買::",
         "ignore": false
     },
     {
@@ -300,7 +287,7 @@
         "objectId": 281,
         "description": "n/a",
         "originalText": "Can I have my weapon back?",
-        "translatedText": "",
+        "translatedText": "預けた武器を返してほしい。",
         "ignore": false
     },
     {
@@ -348,24 +335,21 @@
         "objectId": 309,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_toldGorskyDied",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 310,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_lucas_gorskyDied",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 311,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_sgs_lucas_talkedEthan",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -404,40 +388,35 @@
         "objectId": 343,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 344,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_lucas_talkInvasion",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 345,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_facelessRetreated",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 346,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dun_lup-a_explorer_activated",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 347,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dun_lup-a_explorer_died",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -452,15 +431,14 @@
         "objectId": 361,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.reclaimedOldPistol",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 366,
         "description": "n/a",
         "originalText": "Of course. It was the, um... yeah, five-mil pistol and some ammo, if I recall correctly. Right? This one? ::He produces a pistol that is in such bad condition people would pay to get rid of it.::",
-        "translatedText": "",
+        "translatedText": "わかった。確か預かってたのは……ああ、5mmのピストルと弾薬だっけか。俺が間違えてなければだけど。そうだったよな？ こいつだったと思うんだが…… ::そう言って彼が取り出したピストルはとんでもないボロだ。処分してもらうのにお金を払うレベルの。::",
         "ignore": false
     },
     {
@@ -468,8 +446,7 @@
         "objectId": 369,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_lucas_askVencel",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -484,8 +461,7 @@
         "objectId": 377,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_lucas_askVencel",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -500,8 +476,7 @@
         "objectId": 387,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_lucas_askPatPierce",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -516,8 +491,7 @@
         "objectId": 396,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_facelessRetreated",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -532,7 +506,7 @@
         "objectId": 407,
         "description": "n/a",
         "originalText": "Hey, hold up a sec. ",
-        "translatedText": "",
+        "translatedText": "おい、ちょっと待ってくれ。",
         "ignore": false
     },
     {
@@ -540,7 +514,7 @@
         "objectId": 412,
         "description": "n/a",
         "originalText": "But you'll be back, heh.",
-        "translatedText": "",
+        "translatedText": "へへ、またな。",
         "ignore": false
     },
     {
@@ -548,8 +522,7 @@
         "objectId": 415,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_died_sgs",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -588,39 +561,35 @@
         "objectId": 453,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_lup-a",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 456,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_lup-a",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 457,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_lucas_talkedHarlandsRequest",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 458,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_sgs_dun_investigateUnderPassages_harlandToldSituation",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 464,
         "description": "n/a",
         "originalText": "Mind doing me a small favor? Harland, one of our security officers, has requested an extra auto-turret over at the under-passages exit. That - and a trainload of ammo, as if he's preparing for ",
-        "translatedText": "",
+        "translatedText": "ちょっとしたお使いを頼まれてくれねえか？　SGSの警備主任のHarlandって男がいるんだが、最近の奴の申請が異常でな。地下通路にオートタレット一機、それから……貨車一杯の弾薬。まるで",
         "ignore": false
     },
     {
@@ -628,16 +597,14 @@
         "objectId": 468,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.harland_barteringStart",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 481,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.reclaimedOldPistol",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -652,16 +619,14 @@
         "objectId": 486,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_SGSMurderStarted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 487,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_SGSMurderCompleted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -676,16 +641,14 @@
         "objectId": 492,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_facelessRetreated",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 493,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -708,32 +671,28 @@
         "objectId": 511,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_old",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 512,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_angered_sgs",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 513,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_old",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 514,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_died_sgs",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -772,15 +731,14 @@
         "objectId": 536,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_lup-a",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 543,
         "description": "n/a",
         "originalText": "a massive Faceless assault.",
-        "translatedText": "",
+        "translatedText": "::Facelsss::とかの大規模侵略にでも備えてんのか？",
         "ignore": false
     },
     {
@@ -788,7 +746,7 @@
         "objectId": 549,
         "description": "n/a",
         "originalText": "a Lurker invasion.",
-        "translatedText": "",
+        "translatedText": "::Lurker::とかの大規模侵略にでも備えてんのか？",
         "ignore": false
     },
     {
@@ -796,15 +754,14 @@
         "objectId": 553,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_lucas_talkedHarlandsRequest",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 558,
         "description": "n/a",
         "originalText": "It was a five-mil pistol, but not that one.",
-        "translatedText": "",
+        "translatedText": "確かに5mmピストルだったけど、そのオンボロとは別のやつだ。",
         "ignore": false
     },
     {
@@ -812,7 +769,7 @@
         "objectId": 565,
         "description": "n/a",
         "originalText": "::[Persuade]:: Five-mil? I came here with a fourty-four, man.",
-        "translatedText": "",
+        "translatedText": "::[Persuation]:: 5mmだって？　自分の相棒は44口径だぞ。",
         "ignore": false
     },
     {
@@ -820,7 +777,7 @@
         "objectId": 572,
         "description": "n/a",
         "originalText": "::[Persuade]:: It wasn't a gun at all. It was a machete.",
-        "translatedText": "",
+        "translatedText": "::[Persuation]::銃なんかじゃなかった。マチェーテだ。",
         "ignore": false
     },
     {
@@ -828,7 +785,7 @@
         "objectId": 579,
         "description": "n/a",
         "originalText": "::[Persuade]:: A pistol? I had a bloody shotgun.",
-        "translatedText": "",
+        "translatedText": "::[Persuation]:: ピストルなわけがない。自分はショットガンしか信じないからな。",
         "ignore": false
     },
     {
@@ -836,7 +793,7 @@
         "objectId": 584,
         "description": "n/a",
         "originalText": "Actually, no, I had a crossbow.",
-        "translatedText": "",
+        "translatedText": "違う。持っていたのはクロスボウだ。",
         "ignore": false
     },
     {
@@ -844,7 +801,7 @@
         "objectId": 590,
         "description": "n/a",
         "originalText": "Guns are for wussies. All I need is a knife.",
-        "translatedText": "",
+        "translatedText": "銃なんて使うのは根性なしさ。ナイフ一本あればいい。",
         "ignore": false
     },
     {
@@ -868,63 +825,56 @@
         "objectId": 604,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_lup-a",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 605,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_sgs_dun_investigateUnderPassages_harlandToldSituation",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 606,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_lucas_talkedHarlandsRequest",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 608,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_old",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 609,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_lucas_talkedHarlandsRequest",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 610,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_sgs_dun_investigateUnderPassages_harlandToldSituation",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 611,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 629,
         "description": "n/a",
         "originalText": "Then whose...? Oh! This has got to be Newton's gun. Heh, my bad. Here you go. ::He hands you your weapon.::",
-        "translatedText": "",
+        "translatedText": "えっ、じゃあこのピストルは誰の……？　あっ！　いけねえ、これはNewtonのだった。へへ、悪い。こっちがあんたのだ。::自分の武器を受け取った。::",
         "ignore": false
     },
     {
@@ -932,15 +882,14 @@
         "objectId": 634,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_lucas_tryPersuadeWeaponToGive_fourtyFour",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 646,
         "description": "n/a",
         "originalText": "What? ::One of his eyes half-closes while the other tenses up.:: No, seriously, is this your pistol?",
-        "translatedText": "",
+        "translatedText": "なんだって？::彼は眠そうにしていたが、その言葉を聴いて片目だけを見開く。:: いや、そんなはずはねえ。このピストルだろ？",
         "ignore": false
     },
     {
@@ -948,23 +897,21 @@
         "objectId": 650,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_lucas_tryPersuadeWeaponToGive_fourtyFour",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 662,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_lucas_tryPersuadeWeaponToGive_machete",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 675,
         "description": "n/a",
         "originalText": "A... a shotgun? But we don't even have any shotguns here.",
-        "translatedText": "",
+        "translatedText": "えーと……ショットガンだって？　そんなもん一丁も届いてないぜ。",
         "ignore": false
     },
     {
@@ -972,31 +919,28 @@
         "objectId": 679,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_lucas_tryPersuadeWeaponToGive_shotgun",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 685,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_lucas_toldGunsAreForWussies",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 687,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_sgsMurder_knowBretTrouble",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 692,
         "description": "n/a",
         "originalText": "Maybe he is.",
-        "translatedText": "",
+        "translatedText": "本当に備えてるかも。",
         "ignore": false
     },
     {
@@ -1012,7 +956,7 @@
         "objectId": 702,
         "description": "n/a",
         "originalText": "Did he tell you why he needs all of this?",
-        "translatedText": "",
+        "translatedText": "申請に理由は添えられていなかったのか？",
         "ignore": false
     },
     {
@@ -1044,7 +988,7 @@
         "objectId": 724,
         "description": "n/a",
         "originalText": "Just tell me where to find him.",
-        "translatedText": "",
+        "translatedText": "そいつはどこにいるのか教えてくれ。",
         "ignore": false
     },
     {
@@ -1052,7 +996,7 @@
         "objectId": 728,
         "description": "n/a",
         "originalText": "I'll see him if I get the chance.",
-        "translatedText": "",
+        "translatedText": "わかった、余裕があったら会ってみよう。",
         "ignore": false
     },
     {
@@ -1060,7 +1004,7 @@
         "objectId": 732,
         "description": "n/a",
         "originalText": "Sorry. I got more important things to do.",
-        "translatedText": "",
+        "translatedText": "すまない、大事な仕事で忙しいんだ。",
         "ignore": false
     },
     {
@@ -1068,7 +1012,7 @@
         "objectId": 736,
         "description": "n/a",
         "originalText": "There. With that out of the way, may I interest you in a couple more things, hm?",
-        "translatedText": "",
+        "translatedText": "よし、用事は片付いたな。まだ何かあるか？",
         "ignore": false
     },
     {
@@ -1084,16 +1028,14 @@
         "objectId": 746,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_lucas_tryPersuadeWeaponToGive_machete",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 750,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_lucas_tryPersuadeWeaponToGive_shotgun",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(DLCIIC).DLCIIC",
@@ -1108,7 +1050,7 @@
         "objectId": 756,
         "description": "n/a",
         "originalText": "::He raises his right eyebrow.:: A shotgun, you say...\r\n\r\nI have one unaccounted-for shotgun here. ::He shows you a rust-bitten, taped up shotgun.::",
-        "translatedText": "",
+        "translatedText": "::彼の右眉が少しだけ持ち上がる。::ショットガンって言ったな……\r\n\r\n確かに持ち主がわからんショットガンは一丁届いてはいるが…… ::彼が指さしたショットガンはサビだらけなうえ、ダクトテープを巻いて補修されている。::",
         "ignore": false
     },
     {
@@ -1116,7 +1058,7 @@
         "objectId": 766,
         "description": "n/a",
         "originalText": "Come on, stop messing around and tell me: Is this your pistol or not?",
-        "translatedText": "",
+        "translatedText": "おいおい、勘弁してくれよ。このピストルはあんたのなのか、それを教えてくれ。",
         "ignore": false
     },
     {
@@ -1124,7 +1066,7 @@
         "objectId": 780,
         "description": "n/a",
         "originalText": "Eh. As dangerous as Lurkers may be, ",
-        "translatedText": "",
+        "translatedText": "うげ。あいつある意味::Lurker::より危険なんじゃねえか？",
         "ignore": false
     },
     {
@@ -1140,8 +1082,7 @@
         "objectId": 792,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.harland_askParanoia",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -1156,7 +1097,7 @@
         "objectId": 804,
         "description": "n/a",
         "originalText": "Quaky. Eh, like a quaker. Or a hopper - *scared*. You dig?",
-        "translatedText": "",
+        "translatedText": "ブルってるってのは、あー、よく震えてるってことだよ、Cave Hopperみたいに……そう、*怖がり*ってこと、こんだけ説明すりゃ掘り当てただろ？",
         "ignore": false
     },
     {
@@ -1164,15 +1105,14 @@
         "objectId": 808,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.harland_askQuaky",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 814,
         "description": "n/a",
         "originalText": "Dig: to get - to understand. Damn, $(context.player.Name), where've you been living all this time?",
-        "translatedText": "",
+        "translatedText": "掘り当てた - わかった、理解した、って意味だよ。 クソ、$(context.player.Name)お前一体ここに来る前どういう生活してきたんだ？",
         "ignore": false
     },
     {
@@ -1180,15 +1120,14 @@
         "objectId": 818,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.harland_askDig",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 824,
         "description": "n/a",
         "originalText": "Heh. Now you're just playing slackjaw.",
-        "translatedText": "",
+        "translatedText": "クソっていうのは……へっ、何説明させようとしてんだよ、なんだ演技かよ。",
         "ignore": false
     },
     {
@@ -1196,15 +1135,14 @@
         "objectId": 828,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.harland_askDamn",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 832,
         "description": "n/a",
         "originalText": "There's an entrance to the under-passages at the metro station above us. Can't miss it. Go down the stairs and you'll find him there.",
-        "translatedText": "",
+        "translatedText": "俺たちの頭上に駅のプラットフォームがあるだろ？そこに::under-passage::への下り会談がある。まあ見ればわかるな。階段を下りればHaroldのところに着くはずだ。",
         "ignore": false
     },
     {
@@ -1220,7 +1158,7 @@
         "objectId": 843,
         "description": "n/a",
         "originalText": "Alright. Then I'll send someone else.",
-        "translatedText": "",
+        "translatedText": "わかった、他の奴に頼むことにするよ。",
         "ignore": false
     },
     {
@@ -1228,7 +1166,7 @@
         "objectId": 865,
         "description": "n/a",
         "originalText": "Shoddy Shotty!",
-        "translatedText": "",
+        "translatedText": "お気に入りのオンボロと再会だ！",
         "ignore": false
     },
     {
@@ -1236,7 +1174,7 @@
         "objectId": 869,
         "description": "n/a",
         "originalText": "::Accept it in silence.::",
-        "translatedText": "",
+        "translatedText": "::黙っている::",
         "ignore": false
     },
     {
@@ -1244,7 +1182,7 @@
         "objectId": 873,
         "description": "n/a",
         "originalText": "Um, no. I believe I had a twelve-gauge automatic shotgun.",
-        "translatedText": "",
+        "translatedText": "うーん、いや、確か12ゲージのオートマチックだったはずだ。",
         "ignore": false
     },
     {
@@ -1252,7 +1190,7 @@
         "objectId": 877,
         "description": "n/a",
         "originalText": "What the hell is this?",
-        "translatedText": "",
+        "translatedText": "何これ？",
         "ignore": false
     },
     {
@@ -1260,15 +1198,14 @@
         "objectId": 881,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.harland_askParanoia",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 888,
         "description": "n/a",
         "originalText": "Harland... he tends to get, hm, paranoid from time to time. I suppose watching over dark hallways non-stop gets to a guy after a while. And then he gets all quaky.",
-        "translatedText": "",
+        "translatedText": "Harlandはな……あいつはなんつーか、たまにパラノイアっぽくなることがあるんだよな。あのどこまでも続いてそうな地下通路を一日中仕事で監視してると精神によくないのかもな。だからいつもあんなにブルってるのかも。",
         "ignore": false
     },
     {
@@ -1276,79 +1213,70 @@
         "objectId": 891,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.harland_askParanoia",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 892,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 893,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_facelessRetreated",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 894,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.harland_askParanoia",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 895,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.harland_askQuaky",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 896,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.harland_askDig",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 897,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.harland_askQuaky",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 898,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.harland_askDamn",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 899,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.harland_askDig",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 906,
         "description": "n/a",
         "originalText": "See if whatever spooked him this time is a genuine concern, and if so, I'll send him everything he needs. ",
-        "translatedText": "",
+        "translatedText": "あいつがビビってる相手が何なのか確かめてきてくれ。本当にヤバそうだったら物資の件も承認するぜ。",
         "ignore": false
     },
     {
@@ -1372,7 +1300,7 @@
         "objectId": 921,
         "description": "n/a",
         "originalText": "See ya.",
-        "translatedText": "",
+        "translatedText": "またな。",
         "ignore": false
     },
     {
@@ -1380,7 +1308,7 @@
         "objectId": 924,
         "description": "n/a",
         "originalText": "Yeah.",
-        "translatedText": "",
+        "translatedText": "ああ。",
         "ignore": false
     },
     {
@@ -1388,7 +1316,7 @@
         "objectId": 927,
         "description": "n/a",
         "originalText": "::Nod and leave.::",
-        "translatedText": "",
+        "translatedText": "::無言で頷き、去る::",
         "ignore": false
     },
     {
@@ -1396,7 +1324,7 @@
         "objectId": 944,
         "description": "n/a",
         "originalText": "::He hands you the shotgun and some shells.:: Hmmm, guess the pistol belongs to Newton then.",
-        "translatedText": "",
+        "translatedText": "::ショットガンと弾薬を受け取った。::ふーん、そうなるとピストルはNewtonのだろうな。",
         "ignore": false
     },
     {
@@ -1404,7 +1332,7 @@
         "objectId": 950,
         "description": "n/a",
         "originalText": "Ha! Yeah, right! ",
-        "translatedText": "",
+        "translatedText": "おう、12ゲージのオートだぜ！",
         "ignore": false
     },
     {
@@ -1412,7 +1340,7 @@
         "objectId": 956,
         "description": "n/a",
         "originalText": "Your shotgun. ",
-        "translatedText": "",
+        "translatedText": "何って、あんたのショットガンさ。",
         "ignore": false
     },
     {
@@ -1420,16 +1348,14 @@
         "objectId": 967,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 971,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.harland_askParanoia",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -1444,7 +1370,7 @@
         "objectId": 982,
         "description": "n/a",
         "originalText": "It's just that I don't want us hauling all this ordnance back and forth because of a couple of thugs - or a rathound.",
-        "translatedText": "",
+        "translatedText": "奴の拠点とここの間で、物資を何往復もさせるのはなるべく避けたいんだよ。あのへんはごろつきが住み着いてるし、Rathoundも湧くからな。",
         "ignore": false
     },
     {
@@ -1452,8 +1378,7 @@
         "objectId": 986,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_sgs_dun_investigateUnderPassages_lucasSent",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SQA).SQA:QN",
@@ -1468,16 +1393,14 @@
         "objectId": 989,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.harland_barteringStart",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 991,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.harland_barteringStart",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
@@ -1500,24 +1423,21 @@
         "objectId": 1010,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1011,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_facelessRetreated",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1012,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(LIDP#G1>AI2#-).LIDP:P",

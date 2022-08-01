@@ -4,7 +4,7 @@
         "objectId": 25,
         "description": "n/a",
         "originalText": "::Status: On::\r\n",
-        "translatedText": "",
+        "translatedText": "::状態: ON::",
         "ignore": false
     },
     {
@@ -12,7 +12,7 @@
         "objectId": 31,
         "description": "n/a",
         "originalText": "::Status: Off::\r\n",
-        "translatedText": "",
+        "translatedText": "::状態: OFF::",
         "ignore": false
     },
     {
@@ -28,8 +28,7 @@
         "objectId": 35,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.local_isTurnedOn",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -60,8 +59,7 @@
         "objectId": 53,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.local_hasFluxController",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -92,7 +90,7 @@
         "objectId": 84,
         "description": "n/a",
         "originalText": "::Flux controller inserted successfully.::",
-        "translatedText": "",
+        "translatedText": "::フラックス・コントローラを挿入した。::",
         "ignore": false
     },
     {
@@ -100,7 +98,7 @@
         "objectId": 96,
         "description": "n/a",
         "originalText": "::Power generator is operational.::",
-        "translatedText": "",
+        "translatedText": "::発電機が起動した。::",
         "ignore": false
     },
     {
@@ -124,16 +122,14 @@
         "objectId": 101,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.local_hasFluxController",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 103,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.local_hasFluxController",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(RIFPA).RIFPA:IC",
@@ -148,32 +144,28 @@
         "objectId": 110,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.local_hasFluxController",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 111,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.local_isTurnedOn",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 113,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.local_isTurnedOn",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SIFV).SFVA:P",
         "objectId": 117,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_retakingOldOutposts_state",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(PLSJ).LSJ:CI",

@@ -4,7 +4,7 @@
         "objectId": 27,
         "description": "n/a",
         "originalText": "I was just about to leave. I honestly did not expect you should survive.",
-        "translatedText": "",
+        "translatedText": "帰ろうかと思っていたところだが、生き残るとは本当に驚きだ。",
         "ignore": false
     },
     {
@@ -12,7 +12,7 @@
         "objectId": 34,
         "description": "n/a",
         "originalText": "Was there something you wanted to buy before I left?",
-        "translatedText": "",
+        "translatedText": "買い忘れたものでもあったか？",
         "ignore": false
     },
     {
@@ -20,16 +20,14 @@
         "objectId": 39,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jqsDelivery_finished",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 41,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jqsDelivery_finished",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(C33).C33:QN",
@@ -52,7 +50,7 @@
         "objectId": 49,
         "description": "n/a",
         "originalText": "What is the meaning of this?",
-        "translatedText": "",
+        "translatedText": "どういう意味だ？",
         "ignore": false
     },
     {
@@ -60,7 +58,7 @@
         "objectId": 54,
         "description": "n/a",
         "originalText": "You used me as a decoy.",
-        "translatedText": "",
+        "translatedText": "囮に使ってくれたようだな。",
         "ignore": false
     },
     {
@@ -68,7 +66,7 @@
         "objectId": 58,
         "description": "n/a",
         "originalText": "Yeah, show me what you have. ::Barter.::",
-        "translatedText": "",
+        "translatedText": "ああ、商品を見せてくれ。::売買::",
         "ignore": false
     },
     {
@@ -76,7 +74,7 @@
         "objectId": 61,
         "description": "n/a",
         "originalText": "No, never mind.",
-        "translatedText": "",
+        "translatedText": "いや、やめておこう。",
         "ignore": false
     },
     {
@@ -84,7 +82,7 @@
         "objectId": 65,
         "description": "n/a",
         "originalText": "I knew I was being watched, so I had to use someone as a decoy while I get the real package out of the station.",
-        "translatedText": "",
+        "translatedText": "俺に監視がついているのはわかっていたからな。だから本物の小包を届ける間、囮が必要だったのさ。",
         "ignore": false
     },
     {
@@ -92,7 +90,7 @@
         "objectId": 73,
         "description": "n/a",
         "originalText": "That I did. ",
-        "translatedText": "",
+        "translatedText": "ああ。",
         "ignore": false
     },
     {
@@ -100,7 +98,7 @@
         "objectId": 81,
         "description": "n/a",
         "originalText": "But it is as I promised: A man was waiting to pay you for the delivery. I never said who the man would be. ::He hands you some credits.::",
-        "translatedText": "",
+        "translatedText": "確かに「誰かが配達のためにそこで待っている」とは言ったが、誰かとまでは言ってないぜ。::クレジットを受け取った。::",
         "ignore": false
     },
     {
@@ -108,15 +106,14 @@
         "objectId": 85,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jqsDelivery_decoy",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 101,
         "description": "n/a",
         "originalText": "Yeah, show me what you have. ::Barter.::",
-        "translatedText": "",
+        "translatedText": "ああ、商品を見せてくれ。::売買::",
         "ignore": false
     },
     {
@@ -124,7 +121,7 @@
         "objectId": 107,
         "description": "n/a",
         "originalText": "Why did you wait for me if you expected me to die?",
-        "translatedText": "",
+        "translatedText": "死ぬと思っていたなら、なんでここで待っていたんだ？",
         "ignore": false
     },
     {
@@ -132,7 +129,7 @@
         "objectId": 113,
         "description": "n/a",
         "originalText": "What will you do now?",
-        "translatedText": "",
+        "translatedText": "これからどうするんだ？",
         "ignore": false
     },
     {
@@ -140,7 +137,7 @@
         "objectId": 117,
         "description": "n/a",
         "originalText": "I'll be going now.",
-        "translatedText": "",
+        "translatedText": "またな。",
         "ignore": false
     },
     {
@@ -148,23 +145,21 @@
         "objectId": 121,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.unlockBarter",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(ICC).CIC:P",
         "objectId": 123,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lastQ",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 128,
         "description": "n/a",
         "originalText": "I'm a man of my word, $(context.player.Name), I always honor the deal.",
-        "translatedText": "",
+        "translatedText": "俺は嘘はつかない主義でね。契約は絶対に守る。",
         "ignore": false
     },
     {
@@ -172,23 +167,21 @@
         "objectId": 132,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lastQ",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(ICC).CIC:P",
         "objectId": 133,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lastQ",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 138,
         "description": "n/a",
         "originalText": "I'll move on to... some other place. The trains are out, but there are other ways to travel around, though, they are much slower, especially if you don't know all the shortcuts. ::He smiles.::",
-        "translatedText": "",
+        "translatedText": "そうだなどこか……他の場所に行かないとな。鉄道は動かなくなっちまったが、移動手段は他にもある。時間はかかるがな。特に、近道を知らない奴にとっては。::(微笑む)::",
         "ignore": false
     },
     {
@@ -196,15 +189,14 @@
         "objectId": 142,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lastQ",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 145,
         "description": "n/a",
         "originalText": "So will I. I have a feeling we will meet again, $(context.player.Name). I hope we do. Farewell.",
-        "translatedText": "",
+        "translatedText": "俺もそうしよう。なんだかあんたとはもう一度会えそうな予感がするな、$(context.player.Name)。また会えることを願っているよ。じゃあな。",
         "ignore": false
     },
     {
@@ -212,7 +204,7 @@
         "objectId": 153,
         "description": "n/a",
         "originalText": "Let me know if there's something you'd like to trade before I leave.",
-        "translatedText": "",
+        "translatedText": "俺が出発する前に売り買いしたいなら言ってくれ。",
         "ignore": false
     },
     {
@@ -220,8 +212,7 @@
         "objectId": 162,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.unlockBarter",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(LIDP#G1>NEI#-).LIDP:P",

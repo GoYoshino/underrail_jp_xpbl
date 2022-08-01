@@ -12,7 +12,7 @@
         "objectId": 137,
         "description": "n/a",
         "originalText": "::You come up to a rangy man with long hair who is cutting open the head of a large, monstrous creature; formerly an untameable beast, it is now but a stiff volunteer to postmortem dissection - to science. And soon enough, the man makes the final incision, after which he pushes his hand through to extract a single long, sharp spine. Greenish, sticky fluid dribbles out of the opening and all over the floor as the man wipes the spine clean before laying it aside, and that is the moment in which he notices you.::\r\n\r\nCareful, you don't want to get in contact with its toxin.",
-        "translatedText": "",
+        "translatedText": "::すらっとした長髪の男が、恐ろしい見た目の巨大な生物の頭蓋骨を切開している。かつては手の付けられない猛獣だったのだろうが、今ではすっかり死後硬直して、死体解剖の教材――科学のための犠牲というわけだ。::男はすぐに切開を完了させると、死体に手を突っ込み、長さのある鋭いトゲを引きずり出した。男がその脊髄を洗浄している間、死体からは緑色のねばねばした液体が滴り続け、床中を汚していた。綺麗になった脊髄を横に置いたちょうどそのとき、男はあなたに気づいた。\r\n\r\n::触れないよう気をつけてください、これは毒液ですから。::",
         "ignore": false
     },
     {
@@ -28,16 +28,14 @@
         "objectId": 151,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_examineLarva",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 152,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_met",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -76,7 +74,7 @@
         "objectId": 198,
         "description": "n/a",
         "originalText": "Forgot something?",
-        "translatedText": "",
+        "translatedText": "まだ何か？",
         "ignore": false
     },
     {
@@ -84,7 +82,7 @@
         "objectId": 204,
         "description": "n/a",
         "originalText": "::He returns to cutting through the creature as he talks to you.::\r\n\r\nMy name is Quinton. Don't bother introducing yourself, I know who you are. You're $(context.player.Name), and you just got admitted to the station.",
-        "translatedText": "",
+        "translatedText": "::彼はあなたに話しかけながら、そのまま解剖を続ける。::\r\n\r\nQuintonと申します。おっと、名乗りは不要です。試験の合格者が出たとのことで、あなたのことは聞いていますから。$(context.player.Name)さんですね。",
         "ignore": false
     },
     {
@@ -92,24 +90,21 @@
         "objectId": 208,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_met",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 209,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_giveLarva",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 210,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_examineLarva",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -140,32 +135,28 @@
         "objectId": 253,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_talkToVera",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 257,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_quinton_talkTannerGone",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 261,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_talkBretsDeath",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 265,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_quinton_talkedAboutDudeAfterDeal",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -204,15 +195,14 @@
         "objectId": 290,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_talkNewton",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 294,
         "description": "n/a",
         "originalText": "I'd shake your hand, but you can see why that wouldn't be a good idea.",
-        "translatedText": "",
+        "translatedText": "本来は握手をするところなのでしょうが、この状態でそれはやめておいたほうがいいでしょう。",
         "ignore": false
     },
     {
@@ -236,31 +226,28 @@
         "objectId": 309,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_toldTannerGone",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 310,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_TchortDefeated",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 311,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_talkToVera",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 317,
         "description": "n/a",
         "originalText": "Do you have anything to trade?",
-        "translatedText": "",
+        "translatedText": "何か売買できないか？",
         "ignore": false
     },
     {
@@ -268,7 +255,7 @@
         "objectId": 322,
         "description": "n/a",
         "originalText": "Let's trade. ::Barter.::",
-        "translatedText": "",
+        "translatedText": "取引がしたい。::売買::",
         "ignore": false
     },
     {
@@ -332,7 +319,7 @@
         "objectId": 369,
         "description": "n/a",
         "originalText": "What kind of creature is that?",
-        "translatedText": "",
+        "translatedText": "その生物は何なんだ？",
         "ignore": false
     },
     {
@@ -340,7 +327,7 @@
         "objectId": 375,
         "description": "n/a",
         "originalText": "What are you doing exactly?",
-        "translatedText": "",
+        "translatedText": "一体何をしているんだ？",
         "ignore": false
     },
     {
@@ -348,7 +335,7 @@
         "objectId": 381,
         "description": "n/a",
         "originalText": "What's in that room over there?",
-        "translatedText": "",
+        "translatedText": "奥の部屋で光ってるのは？",
         "ignore": false
     },
     {
@@ -356,7 +343,7 @@
         "objectId": 386,
         "description": "n/a",
         "originalText": "I'm told you can teach psionics.",
-        "translatedText": "",
+        "translatedText": "PSI能力を教えてほしい。",
         "ignore": false
     },
     {
@@ -428,48 +415,42 @@
         "objectId": 427,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_finalCouncil",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 428,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_quinton_talkTannerGone",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 429,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_bret_dead",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 430,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_talkBretsDeath",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 431,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_rc_dude_ingredientDeal_completed",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 432,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_quinton_talkedAboutDudeAfterDeal",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -484,24 +465,21 @@
         "objectId": 439,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.findNewtonCompleted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 440,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_talkNewton",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 441,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newton_dies",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -516,15 +494,14 @@
         "objectId": 448,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_barterFirstTry",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 451,
         "description": "n/a",
         "originalText": "::He stops working, sets the knife aside and carefully removes his gloves.::\r\n\r\nOf course.",
-        "translatedText": "",
+        "translatedText": "::彼はナイフを置いて仕事を中断し、注意深く手袋を外す。::\r\n\r\nええ、構いませんよ。",
         "ignore": false
     },
     {
@@ -532,16 +509,14 @@
         "objectId": 456,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_barterFirstTry",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 457,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_barterFirstTry",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -556,8 +531,7 @@
         "objectId": 469,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_quinton_talkedPyriteStevePiece",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -588,8 +562,7 @@
         "objectId": 497,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_askHerculesTesting",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -604,8 +577,7 @@
         "objectId": 508,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_askedFoundryCreaturesFirst",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -620,8 +592,7 @@
         "objectId": 518,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_quinton_askPatPierce",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -636,15 +607,14 @@
         "objectId": 534,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_gaveExtraBolts",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 540,
         "description": "n/a",
         "originalText": "It's a burrower. It's one nasty creature that digs around, laying eggs all over the place. They are more numerous deeper underground, but you can still find a few roaming the Lower Underrail and the surrounding caves.",
-        "translatedText": "",
+        "translatedText": "::Burrower::という生物です。厄介な害虫で、そこら中にトンネルを掘っては卵を生みつけます。地下深くにいけばもっと凄まじい数がいますが、このLower_Underrailや周辺の洞窟ではそこまで数を見かけることはないでしょう。",
         "ignore": false
     },
     {
@@ -652,23 +622,21 @@
         "objectId": 544,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 546,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_askBurrower",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 552,
         "description": "n/a",
         "originalText": "I'm collecting its poison glands. We can use those to produce other chemicals or to coat crossbow bolts.",
-        "translatedText": "",
+        "translatedText": "この生物の毒袋を摘出していました。化学薬品や毒矢に使うんです。",
         "ignore": false
     },
     {
@@ -676,15 +644,14 @@
         "objectId": 556,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 562,
         "description": "n/a",
         "originalText": "We're growing mushrooms of different kinds there, of course, most notably the mindshrooms. They are one of the most potent, and certainly one of the safest psionic catalysts. The largely popular psi boosters are made from mindshrooms, in case you didn't know.",
-        "translatedText": "",
+        "translatedText": "様々なキノコを栽培していますが、特筆すべきはマインドシュルームですね。PSI触媒の中では最も安全で、効果も高いものです。ご存知かとは思いますが、広く流通しているPSIブースターの原料でもあります。",
         "ignore": false
     },
     {
@@ -692,15 +659,14 @@
         "objectId": 566,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 573,
         "description": "n/a",
         "originalText": "Hm. Yes, that is correct. Are you interested in learning perhaps?",
-        "translatedText": "",
+        "translatedText": "ふむ、確かに教えることはできます。能力を覚えたいのですか？",
         "ignore": false
     },
     {
@@ -708,7 +674,7 @@
         "objectId": 584,
         "description": "n/a",
         "originalText": "You see, I was conducting some experiments on rathounds a while back. Was quite close to a breakthrough as well, until... a little accident happened and Bret forced me to get rid of the creatures. Hm.",
-        "translatedText": "",
+        "translatedText": "まず、私はかつて、Rathoundを使った実験をしていました。大発見までもう少しのところまでこぎつけたのですが、ちょっとした、その……\"事故\"がありまして、Bretに披験体を処分するよう言われてしまったのですよ、うん。",
         "ignore": false
     },
     {
@@ -716,7 +682,7 @@
         "objectId": 592,
         "description": "n/a",
         "originalText": "Excellent. ",
-        "translatedText": "",
+        "translatedText": "すばらしい。",
         "ignore": false
     },
     {
@@ -724,7 +690,7 @@
         "objectId": 601,
         "description": "n/a",
         "originalText": "Excellent. Give it here.",
-        "translatedText": "",
+        "translatedText": "すばらしい。",
         "ignore": false
     },
     {
@@ -740,8 +706,7 @@
         "objectId": 614,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_toldAboutGmsKeyCard",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -772,7 +737,7 @@
         "objectId": 641,
         "description": "n/a",
         "originalText": "::He nods and returns to his work.::",
-        "translatedText": "",
+        "translatedText": "::彼はうなずき、仕事に戻る。::",
         "ignore": false
     },
     {
@@ -812,8 +777,7 @@
         "objectId": 662,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_quinton_talkedPyriteStevePiece",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -836,16 +800,14 @@
         "objectId": 672,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_rc_dude_ingredientDeal_started",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 673,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_quinton_acceptDudesBrewDeal",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -860,40 +822,35 @@
         "objectId": 678,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_askedFoundryCreaturesFirst",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 679,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_FoundryLearnPsiMorph_Started",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 680,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_FoundryLearnPsiMorph_Completed",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 691,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_askHerculesTesting",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 692,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_daniel_didTesting",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(PHIC).PHIC:IC",
@@ -916,40 +873,35 @@
         "objectId": 698,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_FoundryLearnPsiMorph_Started",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 699,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_FoundryLearnPsiMorph_Completed",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 700,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_askedFoundryCreaturesFirst",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 701,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_SGSMurderStarted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 702,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_SGSMurderCompleted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -964,16 +916,14 @@
         "objectId": 707,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_psiTask",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 708,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_teachPsi",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(PHIC).PHIC:IC",
@@ -996,15 +946,14 @@
         "objectId": 711,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_gaveExtraBolts",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 717,
         "description": "n/a",
         "originalText": "Before I leave...",
-        "translatedText": "",
+        "translatedText": "出発前に話したいことがある。",
         "ignore": false
     },
     {
@@ -1012,7 +961,7 @@
         "objectId": 720,
         "description": "n/a",
         "originalText": "The tissue sample's as good as yours. For real this time.",
-        "translatedText": "",
+        "translatedText": "任せてくれ、本当にいいサンプルを取ってくるから。",
         "ignore": false
     },
     {
@@ -1020,7 +969,7 @@
         "objectId": 723,
         "description": "n/a",
         "originalText": "::Nod and leave.::",
-        "translatedText": "",
+        "translatedText": "::無言でうなずいて去る。::",
         "ignore": false
     },
     {
@@ -1028,23 +977,21 @@
         "objectId": 726,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 728,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 732,
         "description": "n/a",
         "originalText": "If you meet one, be careful. It will spit thick hard spines at you that are coated with poison.",
-        "translatedText": "",
+        "translatedText": "見かけたら気をつけてください。太くて硬い毒針を飛ばしてきますから。",
         "ignore": false
     },
     {
@@ -1052,56 +999,49 @@
         "objectId": 735,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 737,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(ICC).CIC:P",
         "objectId": 738,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.tempQ",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 740,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 741,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_teachPsi",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 742,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_toldAboutPsiTask",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 743,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_heardOfPsionicTeachers",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(PHF).PHF:F",
@@ -1116,7 +1056,7 @@
         "objectId": 748,
         "description": "n/a",
         "originalText": "Yes. Will you teach me?",
-        "translatedText": "",
+        "translatedText": "ああ、教えてくれるだろうか？",
         "ignore": false
     },
     {
@@ -1124,7 +1064,7 @@
         "objectId": 752,
         "description": "n/a",
         "originalText": "No. I was just curious.",
-        "translatedText": "",
+        "translatedText": "いや、興味を持っただけだ。",
         "ignore": false
     },
     {
@@ -1132,23 +1072,21 @@
         "objectId": 753,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_toldAboutPsiTask",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 754,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_toldPsiTaskDetails",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 758,
         "description": "n/a",
         "originalText": "Now I cannot finish the experiments. Not here anyway.",
-        "translatedText": "",
+        "translatedText": "それで研究を続けられなくなってしまったというわけです。少なくとも、この場所では。",
         "ignore": false
     },
     {
@@ -1156,31 +1094,28 @@
         "objectId": 762,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_psiFreebies",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 763,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_toldPsiTaskDetails",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 764,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_psiTask",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 770,
         "description": "n/a",
         "originalText": "Here are the bolts. Good hunting.",
-        "translatedText": "",
+        "translatedText": "このボルトを使ってください。よい狩りを。",
         "ignore": false
     },
     {
@@ -1188,16 +1123,14 @@
         "objectId": 776,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_psiTask",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 777,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_teachPsi",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(PHIC).PHIC:IC",
@@ -1220,24 +1153,21 @@
         "objectId": 790,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_gorsky_gaveYouGmsKey",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(ICC).CIC:P",
         "objectId": 791,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_theVault_state",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 793,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_toldAboutGmsKeyCard",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -1252,16 +1182,14 @@
         "objectId": 798,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_facelessRetreated",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 799,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_finalCouncil",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -1276,16 +1204,14 @@
         "objectId": 806,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.facelessInvaded",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 807,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_facelessRetreated",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -1300,8 +1226,7 @@
         "objectId": 814,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_teachPsi",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(PHF).PHF:F",
@@ -1348,8 +1273,7 @@
         "objectId": 842,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_pir_donnie_toldMonolith",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -1444,7 +1368,7 @@
         "objectId": 919,
         "description": "n/a",
         "originalText": "Hmm... I heard you scored highly on Tanner's tests, so yes, I will teach you what I can.",
-        "translatedText": "",
+        "translatedText": "うーむ……あなたはTannerのテストで好成績を収めたようですし……なら大丈夫でしょう、教えられることは教えましょう。",
         "ignore": false
     },
     {
@@ -1460,8 +1384,7 @@
         "objectId": 936,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_psiTask",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SQA).SQA:QN",
@@ -1500,8 +1423,7 @@
         "objectId": 949,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_teachPsi",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(C33).C33:QN",
@@ -1548,8 +1470,7 @@
         "objectId": 981,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_bret_dead",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -1636,8 +1557,7 @@
         "objectId": 1038,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_askBladelings",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -1652,8 +1572,7 @@
         "objectId": 1048,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_askLarva",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -1668,8 +1587,7 @@
         "objectId": 1061,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_gaveChromiumBlade",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -1684,8 +1602,7 @@
         "objectId": 1076,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_giveLarva",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -1716,15 +1633,14 @@
         "objectId": 1094,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_sgsMurder_knowBretTrouble",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1100,
         "description": "n/a",
         "originalText": "If you perform one little task for me.",
-        "translatedText": "",
+        "translatedText": "ただ、対価として少し働いていただきます。",
         "ignore": false
     },
     {
@@ -1732,7 +1648,7 @@
         "objectId": 1111,
         "description": "n/a",
         "originalText": "What kind of experiments were you conducting?",
-        "translatedText": "",
+        "translatedText": "その実験というのは？",
         "ignore": false
     },
     {
@@ -1740,7 +1656,7 @@
         "objectId": 1117,
         "description": "n/a",
         "originalText": "What happened?",
-        "translatedText": "",
+        "translatedText": "事故というのは？",
         "ignore": false
     },
     {
@@ -1748,7 +1664,7 @@
         "objectId": 1121,
         "description": "n/a",
         "originalText": "What do you need me to do?",
-        "translatedText": "",
+        "translatedText": "それで、何をすればいいんだ？",
         "ignore": false
     },
     {
@@ -1892,16 +1808,14 @@
         "objectId": 1214,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_askBladelings",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1215,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_fo_monstersAppearanceKnown",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -1916,16 +1830,14 @@
         "objectId": 1222,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_fo_larvaKnow",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1223,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_askLarva",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -1940,16 +1852,14 @@
         "objectId": 1230,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_FoundryLearnPsiMorph_Started",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1231,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_askBladelings",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(PHIC).PHIC:IC",
@@ -1964,8 +1874,7 @@
         "objectId": 1233,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_gaveChromiumBlade",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -1988,8 +1897,7 @@
         "objectId": 1243,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_askLarva",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(PHIC).PHIC:IC",
@@ -2004,24 +1912,21 @@
         "objectId": 1245,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_FoundryLearnPsiMorph_Started",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1246,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_FoundryLearnPsiMorph_Completed",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1247,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_giveLarva",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -2052,15 +1957,14 @@
         "objectId": 1270,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_toldAboutPsiTask",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1274,
         "description": "n/a",
         "originalText": "Which task is that?",
-        "translatedText": "",
+        "translatedText": "何をすればいい？",
         "ignore": false
     },
     {
@@ -2068,7 +1972,7 @@
         "objectId": 1278,
         "description": "n/a",
         "originalText": "Figures.",
-        "translatedText": "",
+        "translatedText": "わかった。",
         "ignore": false
     },
     {
@@ -2076,7 +1980,7 @@
         "objectId": 1281,
         "description": "n/a",
         "originalText": "Maybe later.",
-        "translatedText": "",
+        "translatedText": "だったら、その話はあとで。",
         "ignore": false
     },
     {
@@ -2084,15 +1988,14 @@
         "objectId": 1282,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lastQ3",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1287,
         "description": "n/a",
         "originalText": "I was working on developing a substance that would transform the muscle and other types of tissue into a potent mushroom fertilizer.",
-        "translatedText": "",
+        "translatedText": "筋肉やその他の組織をキノコの肥料に変換する触媒を開発しようとしていました。",
         "ignore": false
     },
     {
@@ -2100,23 +2003,21 @@
         "objectId": 1291,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lastQ3",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(ICC).CIC:P",
         "objectId": 1292,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lastQ3",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1297,
         "description": "n/a",
         "originalText": "Well, I never really had an appropriate place to keep the rathounds, so I drilled breathing holes into a couple of those large crates and kept them there. It turns out I underestimated them and after a while they... chewed their way out of their predicament.",
-        "translatedText": "",
+        "translatedText": "ええと、この職場にはRathoundを収容できるような設備がないのですよ。そこで仕方なく、コンテナに呼吸用の穴を開けたものをケージにして、そこに入れておいたんです。彼らの力をなめていました……追い込まれたネズミたちは、箱をかじって脱出したというわけです。",
         "ignore": false
     },
     {
@@ -2124,15 +2025,14 @@
         "objectId": 1301,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lastQ3",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1306,
         "description": "n/a",
         "originalText": "I have prepared the final version of the concoction and filled a set of crossbow bolts with it. I need you to go out there into the caves and shoot a rathound with it, and then once it's dead, collect a tissue sample from around the wound.",
-        "translatedText": "",
+        "translatedText": "最終バージョンの試作品を作って、クロスボウボルトに装填しました。このボルトでRathoundを撃って、その死体からボルトが刺さった周りの組織サンプルを持ってきてほしいのです。",
         "ignore": false
     },
     {
@@ -2340,7 +2240,7 @@
         "objectId": 1442,
         "description": "n/a",
         "originalText": "If you don't have a crossbow, you can borrow mine. It's in that locker over there in the corner. It's not like I get to use it much these days anyway.",
-        "translatedText": "",
+        "translatedText": "クロスボウをお持ちでないなら、私物をお貸ししましょう。そこの角のロッカーにあります。遠い昔に使っていたものなので、万全の状態ではありませんが……",
         "ignore": false
     },
     {
@@ -2348,8 +2248,7 @@
         "objectId": 1448,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_toldPsiTaskDetails",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -2604,7 +2503,7 @@
         "objectId": 1610,
         "description": "n/a",
         "originalText": "::Wait.::",
-        "translatedText": "",
+        "translatedText": "::待つ。::",
         "ignore": false
     },
     {
@@ -2612,7 +2511,7 @@
         "objectId": 1616,
         "description": "n/a",
         "originalText": "And if I do this, you'll teach me for free?",
-        "translatedText": "",
+        "translatedText": "それで、この仕事が終わったら他に料金は取らないんだな？",
         "ignore": false
     },
     {
@@ -2620,7 +2519,7 @@
         "objectId": 1620,
         "description": "n/a",
         "originalText": "Sorry, but I don't have time for this right now. Perhaps later.",
-        "translatedText": "",
+        "translatedText": "すまない、その仕事をやっている時間がないんだ。暇になったらまた来る。",
         "ignore": false
     },
     {
@@ -2668,8 +2567,7 @@
         "objectId": 1632,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_psiFreebies",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -2708,8 +2606,7 @@
         "objectId": 1657,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_psiFreebies",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -2756,8 +2653,7 @@
         "objectId": 1689,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_psiFreebies",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -2804,8 +2700,7 @@
         "objectId": 1721,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_psiFreebies",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -2868,8 +2763,7 @@
         "objectId": 1762,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_rc_dude_ingredientDeal_gotExtra",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -2940,7 +2834,7 @@
         "objectId": 1809,
         "description": "n/a",
         "originalText": "I'll teach you one psi ability for free. You'll have to pay for the rest.",
-        "translatedText": "",
+        "translatedText": "PSIアビリティ1つは無料で教えましょう。あとは有料です。",
         "ignore": false
     },
     {
@@ -2964,8 +2858,7 @@
         "objectId": 1827,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_psiFreebies",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -2988,8 +2881,7 @@
         "objectId": 1839,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_psiFreebies",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -3012,8 +2904,7 @@
         "objectId": 1851,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_psiFreebies",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -3036,16 +2927,14 @@
         "objectId": 1863,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_psiFreebies",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1864,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.item_pyriteStevePieceAnalyzed",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -3068,8 +2957,7 @@
         "objectId": 1881,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_quinton_pyriteStevePiece_passedChemistryCheck",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -3132,7 +3020,7 @@
         "objectId": 1935,
         "description": "n/a",
         "originalText": "I'll do it.",
-        "translatedText": "",
+        "translatedText": "わかった。",
         "ignore": false
     },
     {
@@ -3140,7 +3028,7 @@
         "objectId": 1940,
         "description": "n/a",
         "originalText": "::[Mercantile]:: Make that two free psi abilities and you got yourself a deal.",
-        "translatedText": "",
+        "translatedText": "::[交渉]::2つ教えてくれるなら引き受けよう。",
         "ignore": false
     },
     {
@@ -3148,7 +3036,7 @@
         "objectId": 1944,
         "description": "n/a",
         "originalText": "Forget it.",
-        "translatedText": "",
+        "translatedText": "やめておこう。",
         "ignore": false
     },
     {
@@ -3204,16 +3092,14 @@
         "objectId": 1973,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_xpbl_steveThePyrite_passedChemistry",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 1976,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_quinton_acceptDudesBrewDeal",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -3244,7 +3130,7 @@
         "objectId": 1997,
         "description": "n/a",
         "originalText": "Hrm... Very well, but you better bring me a good tissue sample.",
-        "translatedText": "",
+        "translatedText": "ふむ……いいでしょう。いいサンプルを持ってきてくださいね。",
         "ignore": false
     },
     {
@@ -3252,7 +3138,7 @@
         "objectId": 2002,
         "description": "n/a",
         "originalText": "Not a chance, it's one psi ability - take it or leave it.",
-        "translatedText": "",
+        "translatedText": "いいえ、1つです。これは譲れません。",
         "ignore": false
     },
     {
@@ -3260,7 +3146,7 @@
         "objectId": 2009,
         "description": "n/a",
         "originalText": "Suit yourself.",
-        "translatedText": "",
+        "translatedText": "お好きにどうぞ。",
         "ignore": false
     },
     {
@@ -3332,23 +3218,21 @@
         "objectId": 2050,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_psiTaskHaggled",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SIFV).SFVA:P",
         "objectId": 2052,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_psiFreebies",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 2056,
         "description": "n/a",
         "originalText": "I'll take it.",
-        "translatedText": "",
+        "translatedText": "いいだろう。",
         "ignore": false
     },
     {
@@ -3356,7 +3240,7 @@
         "objectId": 2060,
         "description": "n/a",
         "originalText": "I'll pass.",
-        "translatedText": "",
+        "translatedText": "なら、やめておこう。",
         "ignore": false
     },
     {
@@ -3460,8 +3344,7 @@
         "objectId": 2117,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_quinton_pyriteStevePiece_passedChemistryCheck",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -3652,8 +3535,7 @@
         "objectId": 2242,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_quinton_pyriteStevePiece_gottaRun",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -3676,24 +3558,21 @@
         "objectId": 2265,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_askHerculesTesting",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 2266,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_quinton_gaveChromiumBlade",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 2267,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_quinton_pyriteStevePiece_gottaRun",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "jsonVersion": "0.3"

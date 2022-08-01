@@ -4,7 +4,7 @@
         "objectId": 38,
         "description": "n/a",
         "originalText": "::The man greets you with a warm smile.::\r\n\r\nAh, $(context.player.Name), good to finally meet you. I'm Malcom. How can I help you?",
-        "translatedText": "",
+        "translatedText": "::男は暖かな笑顔であなたに挨拶する。:: $(context.player.Name)さん、やっと会えましたね。Malcomといいます。何かご用ですか？",
         "ignore": false
     },
     {
@@ -36,7 +36,7 @@
         "objectId": 70,
         "description": "n/a",
         "originalText": "You know, I saw that dead scavenger as ",
-        "translatedText": "",
+        "translatedText": "見ました？　物資集めをしていた人の死体が運び込まれたんですよ。",
         "ignore": false
     },
     {
@@ -52,24 +52,21 @@
         "objectId": 79,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_malcom_met",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 91,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_malcom_met",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 96,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_malcom_talkVera",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -84,16 +81,14 @@
         "objectId": 104,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_malcom_talkTanner",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 109,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_malcom_talkFaceless",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -124,7 +119,7 @@
         "objectId": 140,
         "description": "n/a",
         "originalText": "I need to get out into the caves.",
-        "translatedText": "",
+        "translatedText": "ステーションを出て洞窟に行きたい。",
         "ignore": false
     },
     {
@@ -132,7 +127,7 @@
         "objectId": 145,
         "description": "n/a",
         "originalText": "Open the gate, please. I'm off to the caves.",
-        "translatedText": "",
+        "translatedText": "洞窟に出たいので、ゲートを開けてくれないか。",
         "ignore": false
     },
     {
@@ -140,7 +135,7 @@
         "objectId": 152,
         "description": "n/a",
         "originalText": "Open the gate, please. I'm off to the caves.",
-        "translatedText": "",
+        "translatedText": "洞窟に出たいので、ゲートを開けてくれないか。",
         "ignore": false
     },
     {
@@ -148,7 +143,7 @@
         "objectId": 155,
         "description": "n/a",
         "originalText": "Not right now.",
-        "translatedText": "",
+        "translatedText": "今のところ用事はない。",
         "ignore": false
     },
     {
@@ -156,24 +151,21 @@
         "objectId": 156,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_toldTannerGone",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 157,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_TchortDefeated",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 158,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_malcom_talkVera",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -188,80 +180,70 @@
         "objectId": 165,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_finalCouncil",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 166,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_malcom_talkTanner",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 167,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 168,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_facelessRetreated",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 169,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_malcom_talkFaceless",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 170,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 171,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 172,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_malcom_mentionedWasteWater",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 173,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_completed",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).CIC:P",
         "objectId": 174,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_corpseGender",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).SC1:V",
@@ -276,7 +258,7 @@
         "objectId": 178,
         "description": "n/a",
         "originalText": "was being carried to medical. ::He shakes his head.::",
-        "translatedText": "",
+        "translatedText": "医務室に運ばれていったようですが……::(首を振る)::",
         "ignore": false
     },
     {
@@ -356,15 +338,14 @@
         "objectId": 210,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.tunnelExitLearned",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 215,
         "description": "n/a",
         "originalText": "You didn't get your access card yet, right? Yes. Should be around here somewhere... \r\n\r\n::He starts looking through the drawers.::",
-        "translatedText": "",
+        "translatedText": "アクセスカードの配布をまだ受けてないでしょう？　確かこの辺に……\r\n\r\n::彼は引き出しの中を探しはじめる。::",
         "ignore": false
     },
     {
@@ -372,7 +353,7 @@
         "objectId": 226,
         "description": "n/a",
         "originalText": "::He nods.:: Oh, and here's a tip for you: If you find yourself surrounded by rathounds, use flares to scare them away. They'll be back, though, so try not to stick around.",
-        "translatedText": "",
+        "translatedText": "::(頷く):: ああ、それから。いいことをお教えしましょう。もしRathoundに囲まれたら、フレアを投げると逃げていきますよ。ただ、すぐに戻ってくるでしょうから、あまり周辺にとどまらない方がいいでしょうね。",
         "ignore": false
     },
     {
@@ -380,8 +361,7 @@
         "objectId": 235,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_malcom_gaveATip",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -396,7 +376,7 @@
         "objectId": 243,
         "description": "n/a",
         "originalText": "I've seen the body myself. What do you know about it?",
-        "translatedText": "",
+        "translatedText": "確かに見かけた気がする。何か知っているか？",
         "ignore": false
     },
     {
@@ -404,7 +384,7 @@
         "objectId": 248,
         "description": "n/a",
         "originalText": "I heard about that. What happened?",
-        "translatedText": "",
+        "translatedText": "噂は聞いた。何が起きたんだ？",
         "ignore": false
     },
     {
@@ -420,7 +400,7 @@
         "objectId": 257,
         "description": "n/a",
         "originalText": "I'd rather not discuss that.",
-        "translatedText": "",
+        "translatedText": "その話はやめよう。",
         "ignore": false
     },
     {
@@ -428,7 +408,7 @@
         "objectId": 261,
         "description": "n/a",
         "originalText": "Don't know, don't wanna know.",
-        "translatedText": "",
+        "translatedText": "知らないし知ろうとも思わない。",
         "ignore": false
     },
     {
@@ -436,24 +416,21 @@
         "objectId": 262,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_started",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 263,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_completed",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 264,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_malcom_mentionedWasteWater",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -476,7 +453,7 @@
         "objectId": 286,
         "description": "n/a",
         "originalText": "There it is. ::He produces a red access card and passes it to you.::\r\n\r\nNow listen here, this is the procedure...",
-        "translatedText": "",
+        "translatedText": "ありました。 ::赤いアクセスカードを受け取った。::\r\n\r\n少しの間説明を聴いてください。規則ですので……",
         "ignore": false
     },
     {
@@ -484,24 +461,21 @@
         "objectId": 290,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.tunnelExitLearned",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 291,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.tunnelExitLearned",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 292,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_malcom_gaveATip",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(OSGJ).OSGJ:AN",
@@ -516,23 +490,21 @@
         "objectId": 297,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.tunnelExitLearned",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 298,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_malcom_gaveATip",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 302,
         "description": "n/a",
         "originalText": "Thanks, I'll keep that in mind.",
-        "translatedText": "",
+        "translatedText": "ありがとう、覚えておこう。",
         "ignore": false
     },
     {
@@ -540,7 +512,7 @@
         "objectId": 306,
         "description": "n/a",
         "originalText": "Everyone knows that.",
-        "translatedText": "",
+        "translatedText": "そんなこと誰でも知ってる。",
         "ignore": false
     },
     {
@@ -548,7 +520,7 @@
         "objectId": 310,
         "description": "n/a",
         "originalText": "I want to stomp them out, not scare them away.",
-        "translatedText": "",
+        "translatedText": "怖がらせて逃がすより奴らを叩き潰したいな。",
         "ignore": false
     },
     {
@@ -564,15 +536,14 @@
         "objectId": 315,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_seenBody",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 319,
         "description": "n/a",
         "originalText": "Well, one of the guards found this dying $(context.frag_dun_wasteWater_corpseGender) in Mushroom Cove just as I was starting my shift some hours ago. ",
-        "translatedText": "",
+        "translatedText": "ええと、発見したのは衛兵で、Mushroom_Coveで死んでいたそうです。僕の勤務時間が始まる数時間前ですね。",
         "ignore": false
     },
     {
@@ -580,7 +551,7 @@
         "objectId": 329,
         "description": "n/a",
         "originalText": "Fair enough. ",
-        "translatedText": "",
+        "translatedText": "そうですね。",
         "ignore": false
     },
     {
@@ -588,8 +559,7 @@
         "objectId": 332,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_corpseGender",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).SC1:V",
@@ -676,7 +646,7 @@
         "objectId": 359,
         "description": "n/a",
         "originalText": "When you want to leave, you let me know and I'll open the inner gate. You then step into the transition room. Then I close the inner gate and open the outer gate and off you go.",
-        "translatedText": "",
+        "translatedText": "外に出たい時は、かならず僕に声をかけてください。そうしたら二重扉の内側を開けます。あなたが内側に入ったのを確認したら内側を閉じ、外側の扉を開けます。これで外に出られます。",
         "ignore": false
     },
     {
@@ -684,7 +654,7 @@
         "objectId": 366,
         "description": "n/a",
         "originalText": "You're good to go.",
-        "translatedText": "",
+        "translatedText": "いってらっしゃい。",
         "ignore": false
     },
     {
@@ -692,7 +662,7 @@
         "objectId": 372,
         "description": "n/a",
         "originalText": "Just trying to help you out. ",
-        "translatedText": "",
+        "translatedText": "お役に立てばと思いまして。",
         "ignore": false
     },
     {
@@ -700,7 +670,7 @@
         "objectId": 378,
         "description": "n/a",
         "originalText": "Well then... try not to lose a foot. ",
-        "translatedText": "",
+        "translatedText": "そうですか……足を食いちぎられないよう頑張ってくださいね。",
         "ignore": false
     },
     {
@@ -716,39 +686,35 @@
         "objectId": 392,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_seenBody",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 393,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_knowBody",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 394,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_seenBody",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 395,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_knowBody",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 399,
         "description": "n/a",
         "originalText": "Alright, now, when you want to get back in, use the card I gave you on the console outside. Stand in front of the camera so I can confirm it's you. Then I'll open the outer gate.",
-        "translatedText": "",
+        "translatedText": "外から帰還したときは、ドアのそばにあるコンソール端末に先ほど渡したカードを挿入してください。顔を確認しないといけないのでカメラの前に立つようにしてください。確認が取れたら外側の隔壁を開けます。",
         "ignore": false
     },
     {
@@ -756,7 +722,7 @@
         "objectId": 409,
         "description": "n/a",
         "originalText": "was horribly mutated, covered in green tumors and all. ",
-        "translatedText": "",
+        "translatedText": "おそろしく汚染されていて、緑色の液体で覆われていたそうです。",
         "ignore": false
     },
     {
@@ -764,7 +730,7 @@
         "objectId": 416,
         "description": "n/a",
         "originalText": "was severely burnt, smelled horribly. ",
-        "translatedText": "",
+        "translatedText": "身体が焼け焦げていて、ひどい臭いでした。",
         "ignore": false
     },
     {
@@ -772,7 +738,7 @@
         "objectId": 423,
         "description": "n/a",
         "originalText": "had so many gunshot wounds it was impossible to count them all. ",
-        "translatedText": "",
+        "translatedText": "身体中に銃創がありました。数えきれないくらいの。",
         "ignore": false
     },
     {
@@ -780,7 +746,7 @@
         "objectId": 430,
         "description": "n/a",
         "originalText": "was badly electrocuted,  smelled horribly. ",
-        "translatedText": "",
+        "translatedText": "感電して焼け焦げていました。ひどい臭いでした。",
         "ignore": false
     },
     {
@@ -788,7 +754,7 @@
         "objectId": 437,
         "description": "n/a",
         "originalText": "was horribly mauled by something, with bits of flesh dangling off. Wasn't psi beetles, that's for sure. ",
-        "translatedText": "",
+        "translatedText": "何者かに叩き潰されたようで、肉片がぶらさがっていました。PSI虫の仕業ではないでしょうね。",
         "ignore": false
     },
     {
@@ -796,7 +762,7 @@
         "objectId": 444,
         "description": "n/a",
         "originalText": "was missing patches of hair and skin - the skull was showing. But that face... like $(tempContext.wasteWaterPronoun)'s been through living hell. ",
-        "translatedText": "",
+        "translatedText": "頭皮がえぐれて、頭蓋骨が見えていました。しかしあの顔は……地獄から来た生物のようでした。",
         "ignore": false
     },
     {
@@ -804,7 +770,7 @@
         "objectId": 449,
         "description": "n/a",
         "originalText": "Earlier, we used to do bioscanning everytime someone passed, but since no one ever showed up positive, it became a nuisance.",
-        "translatedText": "",
+        "translatedText": "昔は人の出入りがあるたびにバイオスキャンをしていたんですが、陽性者がほぼいなくなってからは不要になりました。",
         "ignore": false
     },
     {
@@ -812,8 +778,7 @@
         "objectId": 455,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_type",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).SC1:V",
@@ -828,7 +793,7 @@
         "objectId": 461,
         "description": "n/a",
         "originalText": "Terrible things happen out there all the time, but this $(context.frag_dun_wasteWater_corpseGender) was still alive when $(tempContext.wasteWaterPronoun) was brought through here. Now that's something you don't see often. Sadly, that didn't last, as $(tempContext.wasteWaterPronoun) died before reaching the medical level, though.",
-        "translatedText": "",
+        "translatedText": "酷い死に方をする人は珍しくもありませんが、その人は運び込まれた時点では生きていたみたいです。滅多にない話ですね。残念ながら医務室に運び込まれる前に亡くなったようですが。",
         "ignore": false
     },
     {
@@ -836,8 +801,7 @@
         "objectId": 466,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_type",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).SC1:V",
@@ -852,8 +816,7 @@
         "objectId": 470,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_type",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).SC1:V",
@@ -868,8 +831,7 @@
         "objectId": 474,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_type",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).SC1:V",
@@ -884,8 +846,7 @@
         "objectId": 478,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_type",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).SC1:V",
@@ -900,8 +861,7 @@
         "objectId": 482,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_type",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).SC1:V",
@@ -916,7 +876,7 @@
         "objectId": 489,
         "description": "n/a",
         "originalText": "What if I *do* contract a disease?",
-        "translatedText": "",
+        "translatedText": "もし自分が*感染*して帰ってきたら？",
         "ignore": false
     },
     {
@@ -924,7 +884,7 @@
         "objectId": 493,
         "description": "n/a",
         "originalText": "Understood.",
-        "translatedText": "",
+        "translatedText": "わかった。",
         "ignore": false
     },
     {
@@ -932,23 +892,21 @@
         "objectId": 500,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_malcom_mentionedWasteWater",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 502,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_knowBody",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 507,
         "description": "n/a",
         "originalText": "Did he manage to say who did this to him?",
-        "translatedText": "",
+        "translatedText": "ダイイングメッセージはなかったのか？",
         "ignore": false
     },
     {
@@ -956,7 +914,7 @@
         "objectId": 512,
         "description": "n/a",
         "originalText": "Did she manage to say who did this to her?",
-        "translatedText": "",
+        "translatedText": "ダイイングメッセージはなかったのか？",
         "ignore": false
     },
     {
@@ -964,7 +922,7 @@
         "objectId": 516,
         "description": "n/a",
         "originalText": "Then be kind enough to inform me so I can activate the turrets. They'll shred you to pieces, we'll burn the remains and everything's good.",
-        "translatedText": "",
+        "translatedText": "正直に打ち明けてくれると助かります。タレットを起動して感染者を粉々にしたあと全て燃やすという仕事がありますので。",
         "ignore": false
     },
     {
@@ -972,7 +930,7 @@
         "objectId": 522,
         "description": "n/a",
         "originalText": "So, you going or what?",
-        "translatedText": "",
+        "translatedText": "それで、何の御用ですか？",
         "ignore": false
     },
     {
@@ -980,8 +938,7 @@
         "objectId": 527,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_corpseGender",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).SC1:V",
@@ -996,7 +953,7 @@
         "objectId": 533,
         "description": "n/a",
         "originalText": "No. Mushroom Cove's full of psi beetles",
-        "translatedText": "",
+        "translatedText": "いいえ。Mushroom_CoveはPSI虫だらけですが、",
         "ignore": false
     },
     {
@@ -1004,8 +961,7 @@
         "objectId": 536,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_corpseGender",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).SC1:V",
@@ -1020,7 +976,7 @@
         "objectId": 541,
         "description": "n/a",
         "originalText": "::He chuckles.:: Just kidding... or am I.",
-        "translatedText": "",
+        "translatedText": "::(くすくす笑う)::冗談ですよ。そちらも冗談かと思って。",
         "ignore": false
     },
     {
@@ -1044,7 +1000,7 @@
         "objectId": 547,
         "description": "n/a",
         "originalText": "You can use this card to get back into the South Gate Station from the caves.",
-        "translatedText": "",
+        "translatedText": "このカードを使うことで、洞窟側からSGSに入ることができる。",
         "ignore": false
     },
     {
@@ -1060,7 +1016,7 @@
         "objectId": 557,
         "description": "n/a",
         "originalText": ". Could be them, as they got some nasty psi abilities at their disposal, but the way this scavenger's been hurt... it's somewhat different than anything I've seen the beetles did.",
-        "translatedText": "",
+        "translatedText": "奴らの仕業かもしれません。厄介な能力を持っていますからね。しかしあのやられ方はひどすぎる……私が知っているのとは別の能力を持っているのかもしれません。",
         "ignore": false
     },
     {
@@ -1068,7 +1024,7 @@
         "objectId": 563,
         "description": "n/a",
         "originalText": " but this doesn't look like a product of their psionics. ",
-        "translatedText": "",
+        "translatedText": "奴らの仕業ではなさそうなことは確かです。",
         "ignore": false
     },
     {
@@ -1076,8 +1032,7 @@
         "objectId": 580,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_type",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).SC1:V",
@@ -1092,8 +1047,7 @@
         "objectId": 582,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.frag_dun_wasteWater_type",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).SC1:V",
@@ -1108,7 +1062,7 @@
         "objectId": 587,
         "description": "n/a",
         "originalText": "How do I get to Mushroom Cove?",
-        "translatedText": "",
+        "translatedText": "Mushroom_Coveはどこにあるんだ？",
         "ignore": false
     },
     {
@@ -1116,7 +1070,7 @@
         "objectId": 592,
         "description": "n/a",
         "originalText": "That's everything I needed to know.",
-        "translatedText": "",
+        "translatedText": "ありがとう、情報は十分だ。",
         "ignore": false
     },
     {
@@ -1124,7 +1078,7 @@
         "objectId": 597,
         "description": "n/a",
         "originalText": "That's everything I needed to know. I need to get out into the caves.",
-        "translatedText": "",
+        "translatedText": "ありがとう、情報は充分だ。これから洞窟に行ってみるよ。",
         "ignore": false
     },
     {
@@ -1132,7 +1086,7 @@
         "objectId": 602,
         "description": "n/a",
         "originalText": "It's a wet cave a bit south from here. ",
-        "translatedText": "",
+        "translatedText": "ここから少し南に行った、湿っているところです。",
         "ignore": false
     },
     {
@@ -1140,15 +1094,14 @@
         "objectId": 605,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.tunnelExitLearned",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 609,
         "description": "n/a",
         "originalText": "::He nods.:: Heading out?",
-        "translatedText": "",
+        "translatedText": "::(頷く)::外に出るんですか？",
         "ignore": false
     },
     {
@@ -1156,15 +1109,14 @@
         "objectId": 612,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.tunnelExitLearned",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 617,
         "description": "n/a",
         "originalText": "But I'd advise against going there right now, $(context.player.Name). It's a dangerous place for a rookie.",
-        "translatedText": "",
+        "translatedText": "でも$(context.player.Name)さん、今行くのはやめた方がいいですよ。新人には危険すぎます。",
         "ignore": false
     },
     {
@@ -1172,7 +1124,7 @@
         "objectId": 623,
         "description": "n/a",
         "originalText": "But don't you get any strange ideas, $(context.player.Name). It's a dangerous place...",
-        "translatedText": "",
+        "translatedText": "変な気を起こさないでくださいよ、$(context.player.Name)さん。危険な場所ですから……",
         "ignore": false
     },
     {
@@ -1180,8 +1132,7 @@
         "objectId": 626,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.talkToBretForRoundupStart",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "jsonVersion": "0.3"

@@ -4,7 +4,7 @@
         "objectId": 80,
         "description": "n/a",
         "originalText": "I'm not a wussy!",
-        "translatedText": "",
+        "translatedText": "僕は弱虫じゃない！",
         "ignore": false
     },
     {
@@ -20,7 +20,7 @@
         "objectId": 97,
         "description": "n/a",
         "originalText": "::A smiling face greets you.:: $(context.player.Name)! Thank you very much for saving my life. I owe you for that one.",
-        "translatedText": "",
+        "translatedText": "彼は笑顔であなたに挨拶する。　$(context.player.Name)！　助けてくれてありがとう。君は命の恩人だ。",
         "ignore": false
     },
     {
@@ -28,7 +28,7 @@
         "objectId": 107,
         "description": "n/a",
         "originalText": "::A terrified man leaps out of the dark corner and begins slashing the air in front of him. His shirt and pants are stained with blood, and you see a piece of cloth tied around his thigh below which a large wound grins at you. An instant passes, and the man retracts his knife and stares at you. \r\n\r\nA sigh of relief precedes his words.::\r\n\r\nAaaaah, you're not a psi bug. Thank goodness. I almost had a heart attack...",
-        "translatedText": "",
+        "translatedText": "::ひどく恐れたような様子の男が部屋の角の暗がりから飛び出し、目の前の空中に向かってナイフを振り回し始める。彼のシャツとズボンは血に汚れ、ふとももには大きな傷口があり、布が巻かれている。少し時間がたって、男はナイフをひっこめると、あなたの方を見る。\r\n\r\n安堵のため息の後、彼は話し始める。::ああああ、よかった、PSI_Beetleじゃなくて人だった。神様ありがとうございます……心臓が止まるかと思ったよ。",
         "ignore": false
     },
     {
@@ -108,8 +108,7 @@
         "objectId": 166,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_newton_pissed",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -156,7 +155,7 @@
         "objectId": 201,
         "description": "n/a",
         "originalText": "I apologize, you're not. I don't even know why I said that.",
-        "translatedText": "",
+        "translatedText": "すまない、取り消すよ。あんなこと言わなきゃよかった。",
         "ignore": false
     },
     {
@@ -164,7 +163,7 @@
         "objectId": 205,
         "description": "n/a",
         "originalText": "Yes, you are. Wussy!",
-        "translatedText": "",
+        "translatedText": "いや、お前は弱虫だ。弱虫！",
         "ignore": false
     },
     {
@@ -172,7 +171,7 @@
         "objectId": 212,
         "description": "n/a",
         "originalText": "I just came over to check out how you were doing. And be careful next time you go chasing hoppers. Bye.",
-        "translatedText": "",
+        "translatedText": "様子を見に来たんだ。Hopperを追うときは周りに気を付けるんだな。またな。",
         "ignore": false
     },
     {
@@ -180,7 +179,7 @@
         "objectId": 217,
         "description": "n/a",
         "originalText": "I just came here to tell you you're a wussy. See you around.",
-        "translatedText": "",
+        "translatedText": "お前は弱虫だと伝えに来たんだ。じゃあな。",
         "ignore": false
     },
     {
@@ -188,23 +187,21 @@
         "objectId": 222,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_newton_metSecondTime",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 232,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newton_met",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 239,
         "description": "n/a",
         "originalText": "They're all dead. Let's get you out of here.",
-        "translatedText": "",
+        "translatedText": "虫なら片づけた。帰ろう。",
         "ignore": false
     },
     {
@@ -212,7 +209,7 @@
         "objectId": 244,
         "description": "n/a",
         "originalText": "I think they're all dead. The path should be clear.",
-        "translatedText": "",
+        "translatedText": "全員やったと思うぞ。退路は安全だ。",
         "ignore": false
     },
     {
@@ -220,7 +217,7 @@
         "objectId": 248,
         "description": "n/a",
         "originalText": "Not yet, I'll be back.",
-        "translatedText": "",
+        "translatedText": "まだだ。すぐ戻る。",
         "ignore": false
     },
     {
@@ -228,7 +225,7 @@
         "objectId": 252,
         "description": "n/a",
         "originalText": "What can you tell me about this place?",
-        "translatedText": "",
+        "translatedText": "この場所について何か情報はあるか？",
         "ignore": false
     },
     {
@@ -236,8 +233,7 @@
         "objectId": 253,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_newton_metThirdTime",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(PIIAC).PIIAC:AN",
@@ -252,40 +248,35 @@
         "objectId": 255,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_finalCouncil",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 256,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_facelessRetreated",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 257,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_facelessRetreated",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 258,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_facelessRetreated",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 259,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newton_is_wuss",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -308,16 +299,14 @@
         "objectId": 268,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_newton_metThirdTime",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 276,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newton_is_wuss",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(PIIAC).PIIAC:AN",
@@ -332,15 +321,14 @@
         "objectId": 278,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_newton_metSecondTime",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 281,
         "description": "n/a",
         "originalText": "Oh. Good. I need to rest now. If you'd leave me alone now, please.",
-        "translatedText": "",
+        "translatedText": "ああ。それならいいんだ。怪我を治さなきゃいけなから、一人にしてくれないか。",
         "ignore": false
     },
     {
@@ -348,15 +336,14 @@
         "objectId": 286,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newton_is_wuss",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 289,
         "description": "n/a",
         "originalText": "No, I'm--",
-        "translatedText": "",
+        "translatedText": "違う、僕は――",
         "ignore": false
     },
     {
@@ -364,16 +351,14 @@
         "objectId": 293,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_newton_metSecondTime",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 294,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newton_is_wuss",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(PIIAC).PIIAC:AN",
@@ -388,7 +373,7 @@
         "objectId": 298,
         "description": "n/a",
         "originalText": "I'm fine at the moment. The leg kinda still hurts, but, like, it's getting better. As far as hunting those stupid hoppers, that's not gonna happen *any* time soon. See you around, $(context.player.Name).",
-        "translatedText": "",
+        "translatedText": "今のところ元気だよ。足は痛むけど、よくはなってるみたいだ。Hopper狩りなんて命じられなければ*あんなことは*起こらなかったのに。まあ、またな、$(context.player.Name)。",
         "ignore": false
     },
     {
@@ -396,7 +381,7 @@
         "objectId": 304,
         "description": "n/a",
         "originalText": "Wha--?",
-        "translatedText": "",
+        "translatedText": "な――？",
         "ignore": false
     },
     {
@@ -404,16 +389,14 @@
         "objectId": 309,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newton_is_wuss",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 310,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newton_is_wuss",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(PIIAC).PIIAC:AN",
@@ -428,23 +411,21 @@
         "objectId": 312,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_newton_metSecondTime",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 313,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newton_met",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 317,
         "description": "n/a",
         "originalText": "Are you Newton? Big Bret sent me out to look for you. You've been out of SGS for a while now.",
-        "translatedText": "",
+        "translatedText": "あんたがニュートンか？　Big_Bretがに言われてあんたを探しに来たんだ。ずいぶん長い間行方不明だったそうじゃないか。",
         "ignore": false
     },
     {
@@ -452,7 +433,7 @@
         "objectId": 321,
         "description": "n/a",
         "originalText": "I won't disturb you. Goodbye.",
-        "translatedText": "",
+        "translatedText": "邪魔したな、さようなら。",
         "ignore": false
     },
     {
@@ -476,7 +457,7 @@
         "objectId": 328,
         "description": "n/a",
         "originalText": "Great! GREAT! I wanna get the *hell* outta here as soon as possible. ::He rushes past you, dragging his injured leg behind him.::",
-        "translatedText": "",
+        "translatedText": "やった！　すごいぞ！　*1秒でも早く*ここから逃げるんだ！ ::彼はあなたの横をできるだけ急いで通り抜けていく……怪我をした足を引きずりながら。::",
         "ignore": false
     },
     {
@@ -484,7 +465,7 @@
         "objectId": 336,
         "description": "n/a",
         "originalText": "Come on! Please hurry up!",
-        "translatedText": "",
+        "translatedText": "頼むよ！　急いでくれ！",
         "ignore": false
     },
     {
@@ -492,7 +473,7 @@
         "objectId": 341,
         "description": "n/a",
         "originalText": "Wh--What's frickin' wrong with you!? Please help me get out of here!",
-        "translatedText": "",
+        "translatedText": "そ――そんなこと聞いてる場合じゃないだろ！　助けてくれよ！",
         "ignore": false
     },
     {
@@ -500,7 +481,7 @@
         "objectId": 348,
         "description": "n/a",
         "originalText": "You-- ::Rage radiates from him, yet despite that he still doesn't manage to look threatening.:: That's it, you, you stupid *rock-for-brains*. You and I, we're not talking any more! Yes, you saved my life, and I am thankful, but I am not a wussy. I am *not* a wussy!",
-        "translatedText": "",
+        "translatedText": "お前――！ ::彼は怒りを表明するが、やはり迫力に欠ける。::　脳ミソの代わりに岩でも詰まってるのか？　もういい、二度と話しかけてくるな！　ああ、確かにお前は命の恩人だ。それには感謝する。でも僕は弱虫じゃない。僕は*弱虫*じゃない！",
         "ignore": false
     },
     {
@@ -524,7 +505,7 @@
         "objectId": 364,
         "description": "n/a",
         "originalText": "::Leave.::",
-        "translatedText": "",
+        "translatedText": "::立ち去る::",
         "ignore": false
     },
     {
@@ -532,7 +513,7 @@
         "objectId": 367,
         "description": "n/a",
         "originalText": "Yes, yes! I'm Newton. Don't even mention Big Bret to me. He sent me to catch those stupid hoppers. I guess I went too far to the west and ran into psi-bugs. He never told me about them!",
-        "translatedText": "",
+        "translatedText": "そ、そうだ！　ニュートンは僕だ！　Big_Bretなんて名前、もう聞きたくもない。間抜けなHopperを捕まえるだけの仕事だって言われたのに、多分ちょっと行きすぎちゃったのかな、そしたらPSI_Beetleがいたんだ！　そんなの一言も聞いてない！",
         "ignore": false
     },
     {
@@ -540,7 +521,7 @@
         "objectId": 373,
         "description": "n/a",
         "originalText": "What!? No, no, no - don't leave me here! Are you derailed!? You from SGS?",
-        "translatedText": "",
+        "translatedText": "えっ！？　ま、まままま待って！　置いていかないで！　頭が脱線してるのか！？　SGSの人なんだよな！？",
         "ignore": false
     },
     {
@@ -548,23 +529,21 @@
         "objectId": 377,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_mushroomCoveBase_deadPsiBugs",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 379,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_mushroomCoveBase_killedAllBugs",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 383,
         "description": "n/a",
         "originalText": "::Wait for him to limp away.::",
-        "translatedText": "",
+        "translatedText": "::彼の遅い足取りを待つ。::",
         "ignore": false
     },
     {
@@ -572,23 +551,21 @@
         "objectId": 384,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_mushroomCoveBase_killedAllBugs",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(ICC).CIC:P",
         "objectId": 385,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_mushroomCoveBase_deadPsiBugs",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 389,
         "description": "n/a",
         "originalText": "Go scrub your colon with a stalagmite! Leave me alone!",
-        "translatedText": "",
+        "translatedText": "腸に結石ができてしまえばいいんだ。僕にかまうな！",
         "ignore": false
     },
     {
@@ -596,8 +573,7 @@
         "objectId": 393,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_newton_pissed",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -612,7 +588,7 @@
         "objectId": 401,
         "description": "n/a",
         "originalText": "Wussy.",
-        "translatedText": "",
+        "translatedText": "弱虫。",
         "ignore": false
     },
     {
@@ -628,7 +604,7 @@
         "objectId": 412,
         "description": "n/a",
         "originalText": "Why didn't you run away?",
-        "translatedText": "",
+        "translatedText": "なんで逃げなかったんだ？",
         "ignore": false
     },
     {
@@ -636,7 +612,7 @@
         "objectId": 416,
         "description": "n/a",
         "originalText": "Yes I am. $(context.player.Name)'s the name. Are you Newton? Big Bret sent me out to look for you. You've been out of SGS for a while now.",
-        "translatedText": "",
+        "translatedText": "ああ、そうだ。$(context.player.Name)という。あんたがニュートンか？ Big_Bretにあんたを探すように言われてきたんだ。帰ってこないっていうから。",
         "ignore": false
     },
     {
@@ -676,7 +652,7 @@
         "objectId": 438,
         "description": "n/a",
         "originalText": "I did! I started running... around. Hey, the bugs surrounded me! I ended up in this plac-- ::He clenches his teeth in pain.:: Aaahhhh... and I cut my leg somewhere along the way. I stopped the stupid bleeding, but I can barely walk.",
-        "translatedText": "",
+        "translatedText": "逃げたさ！　……適当な方向に。でも虫どもに囲まれてしまったんだ！　そしたらこんな場所に――::彼は痛みに歯を食いしばる。::　ああああ……そう、この足は逃げる途中にどこかで切ってしまったんだ。出血はなんとか止めたけど、歩けなくなっちまった。",
         "ignore": false
     },
     {
@@ -684,8 +660,7 @@
         "objectId": 442,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_newton_metThirdTime",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -700,15 +675,14 @@
         "objectId": 450,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newton_is_wuss",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 453,
         "description": "n/a",
         "originalText": "Why the hell are we still talking? Can you get rid of all those damn bugs so I can safely get outta here? I can't run and I most certainly can't fight.",
-        "translatedText": "",
+        "translatedText": "悠長におしゃべりしてる場合じゃない！　あの虫どもを片づけてきてくれないか？　僕はこの状態じゃ走れないし、戦うこともできないし、ここから脱出するにはそうするしかないんだ。",
         "ignore": false
     },
     {
@@ -716,15 +690,14 @@
         "objectId": 461,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_newton_metThirdTime",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 465,
         "description": "n/a",
         "originalText": "Yeah, sure. I'll be back once the road is clear.",
-        "translatedText": "",
+        "translatedText": "わかった、退路が確保できたら戻ってこよう。",
         "ignore": false
     },
     {
@@ -732,7 +705,7 @@
         "objectId": 469,
         "description": "n/a",
         "originalText": "You are a bigger hopper than the ones you were sent to catch, but I'll see what I can do.",
-        "translatedText": "",
+        "translatedText": "まるで図体だけデカいHopperみたいな奴だな。まあ、いいだろう。",
         "ignore": false
     },
     {
@@ -748,7 +721,7 @@
         "objectId": 477,
         "description": "n/a",
         "originalText": "Hopper? That was uncalled for. I'm frickin' wounded, $(#man/woman)! ::He grabs his leg.:: Aaah... I'll wait here.",
-        "translatedText": "",
+        "translatedText": "Hopperは言いすぎだろ！　僕は怪我人なんだぞ！　::彼は怪我をした足を押さえる。::　痛っ……ここで待ってるよ。",
         "ignore": false
     },
     {

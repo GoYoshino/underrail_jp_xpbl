@@ -44,7 +44,7 @@
         "objectId": 184,
         "description": "n/a",
         "originalText": "You must be $(context.player.Name). They call me Big Bret.\r\n\r\nSo you've passed all the tests, I see; couldn't have been easy. Those were just getting harder and harder in recent years.",
-        "translatedText": "",
+        "translatedText": "$(context.player.Name)だな。俺はBig_Bretと呼ばれているモンだ。\r\n\r\n試験を全部クリアしたそうだな。簡単ではなかっただろう。最近どんどん難しくなってってるんだ。",
         "ignore": false
     },
     {
@@ -84,40 +84,35 @@
         "objectId": 233,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_bigBret_talkedAboutEthan",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 237,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bret_talkErrandBoy",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 242,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_bret_talkLenoxAttack",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 247,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bret_talkLora",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 248,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigBret_met",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -140,7 +135,7 @@
         "objectId": 266,
         "description": "n/a",
         "originalText": "What can I do you for?",
-        "translatedText": "",
+        "translatedText": "何の用だ？",
         "ignore": false
     },
     {
@@ -148,15 +143,14 @@
         "objectId": 270,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigBret_met",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 274,
         "description": "n/a",
         "originalText": "They were pretty hard but I like challenges.",
-        "translatedText": "",
+        "translatedText": "確かに難しかったが、挑戦することは好きなんだ。",
         "ignore": false
     },
     {
@@ -164,7 +158,7 @@
         "objectId": 278,
         "description": "n/a",
         "originalText": "I'm just really glad I made it.",
-        "translatedText": "",
+        "translatedText": "突破出来て本当によかったよ。",
         "ignore": false
     },
     {
@@ -172,7 +166,7 @@
         "objectId": 282,
         "description": "n/a",
         "originalText": "I think they were just the right difficulty. You wouldn't want just anyone here, right?",
-        "translatedText": "",
+        "translatedText": "適切な難易度だと思ったけどな。あんたも他の皆と同じで疑問を持ってるのか？",
         "ignore": false
     },
     {
@@ -180,7 +174,7 @@
         "objectId": 287,
         "description": "n/a",
         "originalText": "It was a breeze.",
-        "translatedText": "",
+        "translatedText": "楽勝だったね。",
         "ignore": false
     },
     {
@@ -188,7 +182,7 @@
         "objectId": 291,
         "description": "n/a",
         "originalText": "They could've at least given me a day off. I've been running their tests for weeks.",
-        "translatedText": "",
+        "translatedText": "数週間も試験が続いたのに、休みは1日しかなかったぞ。",
         "ignore": false
     },
     {
@@ -196,16 +190,14 @@
         "objectId": 292,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.facelessInvaded",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 293,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigbret_campHathorQuestStarted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -244,23 +236,21 @@
         "objectId": 318,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_bigBret_talkedAboutEthan",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 319,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 325,
         "description": "n/a",
         "originalText": "Do you have anything to trade? ::Barter.::",
-        "translatedText": "",
+        "translatedText": "何か取引できないか？ ::売買::",
         "ignore": false
     },
     {
@@ -268,7 +258,7 @@
         "objectId": 333,
         "description": "n/a",
         "originalText": "I've got your hoppers.",
-        "translatedText": "",
+        "translatedText": "Hopperを捕まえてきた。",
         "ignore": false
     },
     {
@@ -308,7 +298,7 @@
         "objectId": 361,
         "description": "n/a",
         "originalText": "About Newton...",
-        "translatedText": "",
+        "translatedText": "Newtonのことだが……",
         "ignore": false
     },
     {
@@ -340,7 +330,7 @@
         "objectId": 393,
         "description": "n/a",
         "originalText": "What is this place?",
-        "translatedText": "",
+        "translatedText": "この場所は？",
         "ignore": false
     },
     {
@@ -364,7 +354,7 @@
         "objectId": 407,
         "description": "n/a",
         "originalText": "Must be going.",
-        "translatedText": "",
+        "translatedText": "もう行かないと。",
         "ignore": false
     },
     {
@@ -372,64 +362,56 @@
         "objectId": 408,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 409,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bret_talkErrandBoy",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 410,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_bret_talkLenoxAttack",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 411,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_lenox_dead",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 412,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_SGSMurder_accuseBret",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 413,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_flo_agreeToReturnLora",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 414,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_returnedCubeToFaceless",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 415,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bret_talkLora",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(NLAC).NLAC:NN",
@@ -452,7 +434,7 @@
         "objectId": 421,
         "description": "n/a",
         "originalText": "You're going to love it here then. So what brings you to the Pens?",
-        "translatedText": "",
+        "translatedText": "それなら、ここの暮らしもすぐに気に入るだろうな。それで、厩舎に何の用かな？",
         "ignore": false
     },
     {
@@ -460,7 +442,7 @@
         "objectId": 427,
         "description": "n/a",
         "originalText": "In that case we're glad to have you!\r\n\r\nSo anyway, what can I do you for?",
-        "translatedText": "",
+        "translatedText": "そうか、俺たちもあんたが一員になってくれて嬉しいよ！\r\n\r\nともあれ、何か用かい？",
         "ignore": false
     },
     {
@@ -468,7 +450,7 @@
         "objectId": 433,
         "description": "n/a",
         "originalText": "You're right. Indeed we don't.\r\n\r\nSo anyway, what can I do you for?",
-        "translatedText": "",
+        "translatedText": "まあ、正論だな。俺たちが間違ってるのかも。\r\n\r\nともあれ、何か用かい？",
         "ignore": false
     },
     {
@@ -476,7 +458,7 @@
         "objectId": 438,
         "description": "n/a",
         "originalText": "::He smirks, unimpressed.:: Either you're joking or you're the next Tanner.",
-        "translatedText": "",
+        "translatedText": "::彼はにやにや笑う。本気にしていないようだ。::冗談だろ、そうじゃなきゃあんたは次代のTannerかもな。",
         "ignore": false
     },
     {
@@ -492,7 +474,7 @@
         "objectId": 448,
         "description": "n/a",
         "originalText": "Well, I reckon they usually would. Things have been rough this month though and we need all capable hands to pull their weight.",
-        "translatedText": "",
+        "translatedText": "あー、平時ならもっと楽なスケジュールだったんじゃないか。今月はいろんなことが起こりすぎて、一刻も早く人手が必要だったんだと思うぜ。",
         "ignore": false
     },
     {
@@ -508,8 +490,7 @@
         "objectId": 461,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_died_sgs",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(RIFPA).RIFPA:IC",
@@ -524,8 +505,7 @@
         "objectId": 473,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_hopperRoundUpQuest_state",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -540,8 +520,7 @@
         "objectId": 485,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigbret_campHathorQuestStarted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SQA).SQA:QN",
@@ -564,8 +543,7 @@
         "objectId": 497,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_bigBret_askPatPierce",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -596,7 +574,7 @@
         "objectId": 536,
         "description": "n/a",
         "originalText": "Inbreeding makes hoppers susceptible to disease. It is necessary to freshen up the gene pool with new specimens as often as possible.",
-        "translatedText": "",
+        "translatedText": "近親交配を繰り返すと病気が増えるんだ。だからできるだけ頻繁に、遺伝子プールに新しい風を吹き込んでやらないといけないのさ。",
         "ignore": false
     },
     {
@@ -604,8 +582,7 @@
         "objectId": 540,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.mmQcache",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -620,15 +597,14 @@
         "objectId": 550,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.mmQcache",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 556,
         "description": "n/a",
         "originalText": "Very good. So, say, have you ever captured a hopper?",
-        "translatedText": "",
+        "translatedText": "それはありがたい。Hopperを捕まえたことはあるかい？",
         "ignore": false
     },
     {
@@ -644,8 +620,7 @@
         "objectId": 567,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_hopperRoundUpQuest_state",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(C33).C33:QN",
@@ -660,16 +635,14 @@
         "objectId": 571,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.mmQcache",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 573,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.hopperRoundUpStarted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SQA).SQA:QN",
@@ -684,23 +657,21 @@
         "objectId": 577,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.findNewtonStarted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 581,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.HopperRoundUpQuestComplete",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 587,
         "description": "n/a",
         "originalText": "This is the agronomy sector where we grow and harvest all kinds of plants. But we also breed animals for food. In short, our job is to provide food to the station in any way possible.",
-        "translatedText": "",
+        "translatedText": "この農学セクターでは、主にあらゆる種類の植物を栽培してる。それだけじゃなくて家畜の交配もやってる。簡単に言えば、使える方法は何でも使ってこのステーションの食料をなんとかするのが仕事だな。",
         "ignore": false
     },
     {
@@ -708,8 +679,7 @@
         "objectId": 591,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.mmQcache",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -724,16 +694,14 @@
         "objectId": 602,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.askedAboutFaceless",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 603,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_finalCouncil",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -748,7 +716,7 @@
         "objectId": 615,
         "description": "n/a",
         "originalText": "I'm just kidding.",
-        "translatedText": "",
+        "translatedText": "冗談だよ。",
         "ignore": false
     },
     {
@@ -756,7 +724,7 @@
         "objectId": 619,
         "description": "n/a",
         "originalText": "I see Tanner is well respected here?",
-        "translatedText": "",
+        "translatedText": "Tannerは尊敬されているんだな。",
         "ignore": false
     },
     {
@@ -764,7 +732,7 @@
         "objectId": 623,
         "description": "n/a",
         "originalText": "No really, it was pretty easy.",
-        "translatedText": "",
+        "translatedText": "いや、冗談じゃない。本当に簡単だった。",
         "ignore": false
     },
     {
@@ -772,7 +740,7 @@
         "objectId": 627,
         "description": "n/a",
         "originalText": "What exactly are you talking about?",
-        "translatedText": "",
+        "translatedText": "いろんなことというのは？",
         "ignore": false
     },
     {
@@ -780,7 +748,7 @@
         "objectId": 631,
         "description": "n/a",
         "originalText": "I understand.",
-        "translatedText": "",
+        "translatedText": "そういうことか。",
         "ignore": false
     },
     {
@@ -812,24 +780,21 @@
         "objectId": 645,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_old",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 646,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_angered_sgs",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(ICC).CIC:P",
         "objectId": 647,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_hopperRoundUpQuest_state",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(PHIC).PHIC:IC",
@@ -852,7 +817,7 @@
         "objectId": 661,
         "description": "n/a",
         "originalText": "Excellent work! Here's your payment. So would you like to name them?",
-        "translatedText": "",
+        "translatedText": "お見事だ！　これが報酬だ。よかったらこいつらに名前をつけるかい？",
         "ignore": false
     },
     {
@@ -860,48 +825,42 @@
         "objectId": 668,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bret_declineCampHathor",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 669,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigbret_campHathorQuestStarted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 670,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigBret_HathorReport",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 671,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigbret_campHathorQuestCompleted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 672,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_SGSMurderStarted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 673,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_SGSMurderCompleted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -916,16 +875,14 @@
         "objectId": 678,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigbret_campHathorQuestStarted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 679,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigbret_campHathorQuestCompleted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -948,16 +905,14 @@
         "objectId": 695,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigbret_campHathorQuestStarted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 696,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigbret_campHathorQuestCompleted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -988,31 +943,28 @@
         "objectId": 713,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.findNewtonStarted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 714,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.findNewtonCompleted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 715,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newtonAsked",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 720,
         "description": "n/a",
         "originalText": "He ran into psi beetles and was forced to hide in an abandoned warehouse just west of the Mushroom Cove. He cut his leg a bit, but he'll survive; in fact, Pasquale should be patching him up right now.",
-        "translatedText": "",
+        "translatedText": "PSI_Beetleに追われて廃倉庫に逃げ込んでたよ。Mushroom_Coveの西の方だ。足を怪我してたが命に別状はないだろう。今頃Pasqualeが手当してるだろうし。",
         "ignore": false
     },
     {
@@ -1020,7 +972,7 @@
         "objectId": 725,
         "description": "n/a",
         "originalText": "I'm sad to inform you that he was killed by psi beetles while hiding in an abandoned warehouse just west of the Mushroom Cove.",
-        "translatedText": "",
+        "translatedText": "言いにくいんだが……Mushroom_Cove西の廃倉庫で、PSI_Beetleに追われて死んだよ。",
         "ignore": false
     },
     {
@@ -1028,7 +980,7 @@
         "objectId": 730,
         "description": "n/a",
         "originalText": "He's dead, Bret. Psi beetles got him.",
-        "translatedText": "",
+        "translatedText": "彼は死んだよ、Bret。",
         "ignore": false
     },
     {
@@ -1036,7 +988,7 @@
         "objectId": 735,
         "description": "n/a",
         "originalText": "He's dead, Bret. There was nothing I could do.",
-        "translatedText": "",
+        "translatedText": "彼は死んだよ、Bret。PSI_Beetleにやられて。",
         "ignore": false
     },
     {
@@ -1044,7 +996,7 @@
         "objectId": 739,
         "description": "n/a",
         "originalText": "I didn't see him.",
-        "translatedText": "",
+        "translatedText": "いや、見つからなかったな。",
         "ignore": false
     },
     {
@@ -1052,56 +1004,49 @@
         "objectId": 740,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_hopperRoundUpQuest_state",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(ICC).CIC:P",
         "objectId": 742,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.mmQcache",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(ICC).CIC:P",
         "objectId": 744,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_hopperRoundUpQuest_state",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(ICC).CIC:P",
         "objectId": 746,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.mmQcache",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 748,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.HopperRoundUpQuestComplete",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 749,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.talkToBretForRoundupStart",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 750,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.HopperRoundUpQuestComplete",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -1116,7 +1061,7 @@
         "objectId": 764,
         "description": "n/a",
         "originalText": "Yes, I have. Just point me to the gear.",
-        "translatedText": "",
+        "translatedText": "ああ。道具だけ用立てしてくれ。",
         "ignore": false
     },
     {
@@ -1124,7 +1069,7 @@
         "objectId": 768,
         "description": "n/a",
         "originalText": "No.",
-        "translatedText": "",
+        "translatedText": "いいや。",
         "ignore": false
     },
     {
@@ -1132,7 +1077,7 @@
         "objectId": 773,
         "description": "n/a",
         "originalText": "I don't even know what that is.",
-        "translatedText": "",
+        "translatedText": "Hopperとやらが何なのかすら知らない。",
         "ignore": false
     },
     {
@@ -1140,7 +1085,7 @@
         "objectId": 777,
         "description": "n/a",
         "originalText": "No, but I did shoot a few.",
-        "translatedText": "",
+        "translatedText": "捕まえたことはないな、撃ったことはあるけど。",
         "ignore": false
     },
     {
@@ -1156,40 +1101,35 @@
         "objectId": 780,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.mmQcache",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(ICC).CIC:P",
         "objectId": 782,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_hopperRoundUpQuest_state",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 784,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.facelessInvaded",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 785,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.askedAboutFaceless",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 786,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_facelessRetreated",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -1220,7 +1160,7 @@
         "objectId": 805,
         "description": "n/a",
         "originalText": "Figured you've must've had. \r\n\r\nSo what can I do you for, citizen?",
-        "translatedText": "",
+        "translatedText": "そうだと思ったよ。\r\n\r\nで、何か用かな、市民？",
         "ignore": false
     },
     {
@@ -1236,7 +1176,7 @@
         "objectId": 812,
         "description": "n/a",
         "originalText": "Respected? The man is a living legend. He took charge of the station in the worst of its days and turned things around. He fought off our enemies, wrestled back control of our power plant, reintroduced a lot of old world technology that allows us to run a station this big, *and* he ensured a very favorable trading agreement with the Union.",
-        "translatedText": "",
+        "translatedText": "尊敬だって？　そんなもんじゃないさ。あの人は生ける伝説だ。このステーションが窮地にあった頃に着任して、状況を全部変えちまった。敵と戦って、奪われた発電所を取り返して、旧世界の技術をいくつも復活させて、それでこのステーションはここまで大きくなったんだ。*しかも*あの::United_Stations::と有利な条件で通商条約まで結んできた。",
         "ignore": false
     },
     {
@@ -1244,7 +1184,7 @@
         "objectId": 821,
         "description": "n/a",
         "originalText": "Right. So what can I do you for?",
-        "translatedText": "",
+        "translatedText": "そうかい。で、何の用だ？",
         "ignore": false
     },
     {
@@ -1252,7 +1192,7 @@
         "objectId": 827,
         "description": "n/a",
         "originalText": "Well, you know - the network problems, Tunnelers and all that stuff. And now this freaking earthquake. Just go watch the news feeds in the commons, you'll see what I mean.",
-        "translatedText": "",
+        "translatedText": "えーと、まずネットワークの障害だろ？　それに::Tunneler::どもの動きと、そして次は忌々しい地震ときた。公共フロアのニュース端末を見るといい。この一カ月がどれだけ激動だったかわかるぜ。",
         "ignore": false
     },
     {
@@ -1260,7 +1200,7 @@
         "objectId": 833,
         "description": "n/a",
         "originalText": "So anyway, what can I do you for?",
-        "translatedText": "",
+        "translatedText": "ともあれ、何の用だい？",
         "ignore": false
     },
     {
@@ -1292,7 +1232,7 @@
         "objectId": 873,
         "description": "n/a",
         "originalText": "You're kidding, right?",
-        "translatedText": "",
+        "translatedText": "名前？冗談だろ？",
         "ignore": false
     },
     {
@@ -1300,7 +1240,7 @@
         "objectId": 877,
         "description": "n/a",
         "originalText": "Aren't we just going to eat them eventually?",
-        "translatedText": "",
+        "translatedText": "どうせ食うのになんで名前なんてつけるんだ？",
         "ignore": false
     },
     {
@@ -1308,7 +1248,7 @@
         "objectId": 881,
         "description": "n/a",
         "originalText": "Sure.",
-        "translatedText": "",
+        "translatedText": "ああ。",
         "ignore": false
     },
     {
@@ -1316,7 +1256,7 @@
         "objectId": 885,
         "description": "n/a",
         "originalText": "No thanks.",
-        "translatedText": "",
+        "translatedText": "やめておこう。",
         "ignore": false
     },
     {
@@ -1332,8 +1272,7 @@
         "objectId": 893,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigbret_campHathorQuestStarted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -1364,16 +1303,14 @@
         "objectId": 907,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigBret_HathorReport",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 908,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.campHathor_docks",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -1404,7 +1341,7 @@
         "objectId": 937,
         "description": "n/a",
         "originalText": "I told him to be careful, not to wander off too far. Well, glad he's all right, and thank you for helping him. That is all as far as I'm concerned. You can go back to Tanner.",
-        "translatedText": "",
+        "translatedText": "あまり遠くには行くなって注意したのに。まあ、無事でよかった。あいつを助けてくれてありがとう。一番の心配事だったんだ。Tannerのところに報告に戻るといい。",
         "ignore": false
     },
     {
@@ -1420,8 +1357,7 @@
         "objectId": 947,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.newton_killedbyfaction",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).SC1:V",
@@ -1436,7 +1372,7 @@
         "objectId": 954,
         "description": "n/a",
         "originalText": "Please go back and look for him. I'm really worried now, as he's been out for hours. Who knows what could have happened.",
-        "translatedText": "",
+        "translatedText": "それなら捜索を続けてくれないか。本当に心配になってきた。もう何時間も帰ってないんだ。何かあったのかもしれない。",
         "ignore": false
     },
     {
@@ -1460,8 +1396,7 @@
         "objectId": 962,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_hopperRoundUpQuest_state",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(MNLA).MNLA:NN",
@@ -1500,7 +1435,7 @@
         "objectId": 983,
         "description": "n/a",
         "originalText": "Look over there in the pen. Those are cave hoppers; hoppers for short.\r\n\r\nThey are speedy little bastards, let me tell you. Shooting one is hard, but catching it alive is even harder. They are usually found near the lakes, because that's where their favorite food grows - the lake mushroom.",
-        "translatedText": "",
+        "translatedText": "そこの檻にいるやつだよ。正式名称が::Cave_Hopper::。まあ、みんなHopperって呼んでる。\r\n\r\n小さくてすばしっこい強敵さ。銃を当てるだけでも難しいが、捕まえるとなるともっと難しい。だいたい湖の近くに住んでる。キノコが好物で、それは湖の近くに生えるからな。",
         "ignore": false
     },
     {
@@ -1516,7 +1451,7 @@
         "objectId": 991,
         "description": "n/a",
         "originalText": "Well, catching them alive is a lot harder.",
-        "translatedText": "",
+        "translatedText": "そうか、だが生け捕りにするのは何倍も難しいぞ。",
         "ignore": false
     },
     {
@@ -1548,7 +1483,7 @@
         "objectId": 1017,
         "description": "n/a",
         "originalText": "::He nods.::",
-        "translatedText": "",
+        "translatedText": "::彼は頷く。::",
         "ignore": false
     },
     {
@@ -1556,7 +1491,7 @@
         "objectId": 1024,
         "description": "n/a",
         "originalText": "Impressive.",
-        "translatedText": "",
+        "translatedText": "それはすごいな。",
         "ignore": false
     },
     {
@@ -1564,7 +1499,7 @@
         "objectId": 1028,
         "description": "n/a",
         "originalText": "I see.",
-        "translatedText": "",
+        "translatedText": "わかった。",
         "ignore": false
     },
     {
@@ -1572,7 +1507,7 @@
         "objectId": 1033,
         "description": "n/a",
         "originalText": "Alright, alright. Sorry I asked.",
-        "translatedText": "",
+        "translatedText": "わかったわかった、そこまでにしてくれ。",
         "ignore": false
     },
     {
@@ -1580,16 +1515,14 @@
         "objectId": 1034,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigbret_campHathorQuestCompleted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 1038,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigbret_campHathorQuestStarted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SQA).SQA:QN",
@@ -1620,7 +1553,7 @@
         "objectId": 1053,
         "description": "n/a",
         "originalText": "Oh, and what about Newton?",
-        "translatedText": "",
+        "translatedText": "ところでNewtonの件はどうなってる？",
         "ignore": false
     },
     {
@@ -1644,15 +1577,14 @@
         "objectId": 1078,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.HopperRoundUpQuestComplete",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1088,
         "description": "n/a",
         "originalText": "I have to name them anyway so I can keep track of them.",
-        "translatedText": "",
+        "translatedText": "名前をつけねえと管理できねえからな。",
         "ignore": false
     },
     {
@@ -1660,7 +1592,7 @@
         "objectId": 1094,
         "description": "n/a",
         "originalText": "Eventually, yes. But until then I need to keep track of them, and it's easier if they're given names.",
-        "translatedText": "",
+        "translatedText": "まあ、そうだな。だけどそれまでの間管理するのに名前があったほうが便利なんだよ。",
         "ignore": false
     },
     {
@@ -1676,7 +1608,7 @@
         "objectId": 1110,
         "description": "n/a",
         "originalText": "Suit yourself.",
-        "translatedText": "",
+        "translatedText": "まあ、好きにすればいいさ。",
         "ignore": false
     },
     {
@@ -1692,8 +1624,7 @@
         "objectId": 1120,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_sgsMurder_knowBretTrouble",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -1724,40 +1655,35 @@
         "objectId": 1140,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bret_declineCampHathor",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1141,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.burrowerEradicationEnded",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1142,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigBret_HathorReport",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1151,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.burrowerEradicationEnded",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1152,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigBret_HathorReport",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -1772,32 +1698,28 @@
         "objectId": 1159,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newton_survives",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1160,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.findNewtonCompleted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1161,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.findNewtonStarted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).CIC:P",
         "objectId": 1169,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.newton_killedbyfaction",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).SC1:V",
@@ -1812,16 +1734,14 @@
         "objectId": 1171,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newton_dies",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).CIC:P",
         "objectId": 1172,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.newton_killedbyfaction",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).SC1:V",
@@ -1836,8 +1756,7 @@
         "objectId": 1174,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.newton_killedbyfaction",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SC1).SC1:V",
@@ -1852,7 +1771,7 @@
         "objectId": 1178,
         "description": "n/a",
         "originalText": "I will. See you later.",
-        "translatedText": "",
+        "translatedText": "わかった。また後で。",
         "ignore": false
     },
     {
@@ -1860,7 +1779,7 @@
         "objectId": 1183,
         "description": "n/a",
         "originalText": "Your hunting ground is the Mushroom Cove. Head south from the Crossroad Watch until you reach a waterfall. Go past the waterfall and take the western tunnel in a cave after it. Now, you'll come across a big cavern with a lake. That's the Cove. I'll need three healthy specimens. Good luck.",
-        "translatedText": "",
+        "translatedText": "奴らの居場所は::Mushroom_Cove::だな。::Crossroad_Watch::から南に進んで、滝を通り過ぎたら西へ向かうトンネルがあるはずだ。そこを通れば、湖のある巨大な空洞につく。そこがMushroom_Coveだ。3匹ほど捕まえてきてほしい。頑張れよ。",
         "ignore": false
     },
     {
@@ -1868,7 +1787,7 @@
         "objectId": 1189,
         "description": "n/a",
         "originalText": "First go to the storage room - it's the room with two entrances just across the hallway - and get some dog crates. You'll need them to hold your quarry.",
-        "translatedText": "",
+        "translatedText": "まずこの階で倉庫を探すといい。廊下の向こうの入口が二つある部屋だ――そこでケージを入手してくれ。捕まえたHopperを入れるものが必要だからな。",
         "ignore": false
     },
     {
@@ -1876,7 +1795,7 @@
         "objectId": 1195,
         "description": "n/a",
         "originalText": "Anyway, here's what you need to do to capture some hoppers.\r\n\r\n",
-        "translatedText": "",
+        "translatedText": "とにかく、Hopperを捕まえてきてほしいんだ。\r\n\r\n",
         "ignore": false
     },
     {
@@ -1884,8 +1803,7 @@
         "objectId": 1198,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_facelessRetreated",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
@@ -1916,7 +1834,7 @@
         "objectId": 1216,
         "description": "n/a",
         "originalText": "Indeed. So what can I do you for?",
-        "translatedText": "",
+        "translatedText": "まったくだ。それで、何の用だい？",
         "ignore": false
     },
     {
@@ -1932,7 +1850,7 @@
         "objectId": 1224,
         "description": "n/a",
         "originalText": "So what can I do you for?",
-        "translatedText": "",
+        "translatedText": "何の用だい？",
         "ignore": false
     },
     {
@@ -1940,7 +1858,7 @@
         "objectId": 1230,
         "description": "n/a",
         "originalText": "Anyway, let's get down to business. That's why you're here for, right?",
-        "translatedText": "",
+        "translatedText": "ともあれ、仕事の話に戻ろう。何の用でここに来たんだい？",
         "ignore": false
     },
     {
@@ -1956,16 +1874,14 @@
         "objectId": 1235,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigBret_HathorReport",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1236,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.campHathor_docks",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -1980,23 +1896,21 @@
         "objectId": 1247,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newtonAsked",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 1252,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newtonAsked",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1267,
         "description": "n/a",
         "originalText": "Breakfast, Lunch, and Dinner.",
-        "translatedText": "",
+        "translatedText": "朝メシ、昼メシ、夕メシ。",
         "ignore": false
     },
     {
@@ -2004,7 +1918,7 @@
         "objectId": 1273,
         "description": "n/a",
         "originalText": "Huey, Dewey, and Louie.",
-        "translatedText": "",
+        "translatedText": "ヒューイ、デューイ、ルーイ。",
         "ignore": false
     },
     {
@@ -2012,7 +1926,7 @@
         "objectId": 1279,
         "description": "n/a",
         "originalText": "Athos, Porthos, and Aramis.",
-        "translatedText": "",
+        "translatedText": "アトス、パトス、アラミス。",
         "ignore": false
     },
     {
@@ -2020,7 +1934,7 @@
         "objectId": 1285,
         "description": "n/a",
         "originalText": "Epicurus, Schopenhauer, and Nietzsche.",
-        "translatedText": "",
+        "translatedText": "エピクロス、ショーペンハウアー、ニーチェ。",
         "ignore": false
     },
     {
@@ -2028,7 +1942,7 @@
         "objectId": 1289,
         "description": "n/a",
         "originalText": "Actually, forget it.",
-        "translatedText": "",
+        "translatedText": "いや、やっぱりやめておく。",
         "ignore": false
     },
     {
@@ -2036,8 +1950,7 @@
         "objectId": 1298,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigbret_campHathorQuestCompleted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(C33).C33:QN",
@@ -2060,15 +1973,14 @@
         "objectId": 1304,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.findNewtonCompleted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1308,
         "description": "n/a",
         "originalText": "Oh, and by the way: I've also sent a young man called Newton to catch some hoppers. It's been a while, so see if you can find him and learn what's taking him so long.",
-        "translatedText": "",
+        "translatedText": "ああ、そうだ。もう一つ、Cave_Hopperを捕まえるのに若い奴を一人送ったんだが、ずいぶん長い間帰ってこないんだ。Newtonって男だ。ついでにそいつを探して、どうして帰ってこないのか突き止めてくれないか。",
         "ignore": false
     },
     {
@@ -2076,15 +1988,14 @@
         "objectId": 1312,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newtonTold",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1316,
         "description": "n/a",
         "originalText": "Getting them inside won't be easy, though. As soon as they sense you're coming they'll scurry off and crawl through the crevices in the cave wall. So what you need to do is immobilize them before they run away, either with hopper traps - which unlike bear traps will ensnare them without snapping most of their bones in half - or with throwing nets.",
-        "translatedText": "",
+        "translatedText": "まあ、ケージだけあったってに奴らをそこに収めるのは簡単じゃないがな。存在に気づかれた瞬間、慌てて逃げ出して、壁の割れ目とかに逃げ込みやがる。だから動きを止める手段が必要だな。Hopper用の罠を使うのが一つの手だ。トラバサミだと奴らの身体が真っ二つになってしまうから、専用の罠を使うんだぞ。あるいは、投げ網も有効だ。",
         "ignore": false
     },
     {
@@ -2108,55 +2019,49 @@
         "objectId": 1331,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.findNewtonStarted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1332,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.findNewtonCompleted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1333,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newtonTold",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1334,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_newtonTold",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1335,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.findNewtonStarted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(BC).CIC:P",
         "objectId": 1336,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.findNewtonCompleted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1349,
         "description": "n/a",
         "originalText": "Alright then.",
-        "translatedText": "",
+        "translatedText": "そういうことなら。",
         "ignore": false
     },
     {
@@ -2164,7 +2069,7 @@
         "objectId": 1353,
         "description": "n/a",
         "originalText": "I'll pass anyway.",
-        "translatedText": "",
+        "translatedText": "どっちにしろやめとくよ。",
         "ignore": false
     },
     {
@@ -2172,7 +2077,7 @@
         "objectId": 1357,
         "description": "n/a",
         "originalText": "::Bret chuckles heartily.:: So be it!",
-        "translatedText": "",
+        "translatedText": "::Bretは心から笑ったようだ。::それにしよう！",
         "ignore": false
     },
     {
@@ -2188,15 +2093,14 @@
         "objectId": 1363,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_hopperRoundUpQuest_names",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SSFV).SSFV:V",
         "objectId": 1364,
         "description": "n/a",
         "originalText": "Breakfast,Lunch,Dinner",
-        "translatedText": "",
+        "translatedText": "朝メシ、昼メシ、夕メシ。",
         "ignore": false
     },
     {
@@ -2204,7 +2108,7 @@
         "objectId": 1368,
         "description": "n/a",
         "originalText": "So be it!",
-        "translatedText": "",
+        "translatedText": "それにしよう！",
         "ignore": false
     },
     {
@@ -2220,15 +2124,14 @@
         "objectId": 1374,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_hopperRoundUpQuest_names",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SSFV).SSFV:V",
         "objectId": 1375,
         "description": "n/a",
         "originalText": "Huey,Dewey,Louie",
-        "translatedText": "",
+        "translatedText": "ヒューイ、デューイ、ルーイ。",
         "ignore": false
     },
     {
@@ -2236,7 +2139,7 @@
         "objectId": 1379,
         "description": "n/a",
         "originalText": "So be it!",
-        "translatedText": "",
+        "translatedText": "それにしよう！",
         "ignore": false
     },
     {
@@ -2252,15 +2155,14 @@
         "objectId": 1385,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_hopperRoundUpQuest_names",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SSFV).SSFV:V",
         "objectId": 1386,
         "description": "n/a",
         "originalText": "Athos,Porthos,Aramis",
-        "translatedText": "",
+        "translatedText": "アトス、パトス、アラミス。",
         "ignore": false
     },
     {
@@ -2268,7 +2170,7 @@
         "objectId": 1390,
         "description": "n/a",
         "originalText": "A little weird, but so be it.",
-        "translatedText": "",
+        "translatedText": "ちょっと変な感じだな。まあ、そうしよう。",
         "ignore": false
     },
     {
@@ -2284,15 +2186,14 @@
         "objectId": 1396,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_hopperRoundUpQuest_names",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SSFV).SSFV:V",
         "objectId": 1397,
         "description": "n/a",
         "originalText": "Epicurus,Schopenhauer,Nietzsche",
-        "translatedText": "",
+        "translatedText": "エピクロス、ショーペンハウアー、ニーチェ。",
         "ignore": false
     },
     {
@@ -2308,15 +2209,14 @@
         "objectId": 1401,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_bigbret_campHathorQuestStarted",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1416,
         "description": "n/a",
         "originalText": "Also, if you can handle a crossbow, you could try shooting them with tranquilizing bolts. A single shot will drop a hopper quickly and will allow you to capture it easily.\r\n\r\nNow, you'll find all of these in the storage room, and you are free to take as many as you need. But if you need more than what's in the storage room, then, well, I can only sell it to you.",
-        "translatedText": "",
+        "translatedText": "あと、もしクロスボウの腕に自信があるなら、麻酔ボルトを使うのも手だ。一発撃ち込めばすぐにお寝んねするから、あとは捕まえるだけだ。\r\n\r\n今言った道具は全部倉庫にあるから、必要なだけ持って行ってくれ。けど足りなくなった場合は、そうだな、俺から買ってもらうしかないな。",
         "ignore": false
     },
     {
@@ -2340,7 +2240,7 @@
         "objectId": 1426,
         "description": "n/a",
         "originalText": "Why do you need more hoppers? Looks like you have plenty back there.",
-        "translatedText": "",
+        "translatedText": "Hopperならその檻にたくさんいように見えるが、どうしてこれ以上必要なんだ？",
         "ignore": false
     },
     {
@@ -2348,7 +2248,7 @@
         "objectId": 1432,
         "description": "n/a",
         "originalText": "What is the Mushroom Cove?",
-        "translatedText": "",
+        "translatedText": "::Mushroom_Cove::というのは？",
         "ignore": false
     },
     {
@@ -2356,7 +2256,7 @@
         "objectId": 1436,
         "description": "n/a",
         "originalText": "Who's Newton?",
-        "translatedText": "",
+        "translatedText": "Newtonというのは誰なんだ？",
         "ignore": false
     },
     {
@@ -2364,7 +2264,7 @@
         "objectId": 1439,
         "description": "n/a",
         "originalText": "I'll get right on it.",
-        "translatedText": "",
+        "translatedText": "出発しよう。",
         "ignore": false
     },
     {
@@ -2372,7 +2272,7 @@
         "objectId": 1442,
         "description": "n/a",
         "originalText": "I have a feeling this is going to be a long day.",
-        "translatedText": "",
+        "translatedText": "こいつは長い一日になりそうだ。",
         "ignore": false
     },
     {
@@ -2380,7 +2280,7 @@
         "objectId": 1448,
         "description": "n/a",
         "originalText": "I don't think this is a right job for me. Is there maybe something else I could do?",
-        "translatedText": "",
+        "translatedText": "この仕事は自分にはふさわしくない。他の仕事はないのか？",
         "ignore": false
     },
     {
@@ -2388,8 +2288,7 @@
         "objectId": 1449,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.hruQcache",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
@@ -2404,23 +2303,21 @@
         "objectId": 1458,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.hruQcache",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(ICC).CIC:P",
         "objectId": 1459,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.hruQcache",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1464,
         "description": "n/a",
         "originalText": "It's a place where a couple of streams and rivers join up to form a cove. From there the water flows further down as Celeritas River which is joined by other streams and rivers and becomes more and more treacherous as it journeys on. \r\n\r\nPresumably it leads straight down into Deep Caverns and ends in a magnificent waterfall, but I'm not sure I believe that.",
-        "translatedText": "",
+        "translatedText": "川がいくつも合流して入り江を作っている場所だ。そこからは水はCeleritas川を流れて、たくさんの川が合流し、下流に行けば行くほど恐ろしい環境が待ってる。\r\n\r\nたぶん::Deep_Caverns::まで続いてるだろうし、だとすれば見事な滝があるかもしれないが、それは謎だな。",
         "ignore": false
     },
     {
@@ -2428,15 +2325,14 @@
         "objectId": 1468,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.hruQcache",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1472,
         "description": "n/a",
         "originalText": "Well, he's just like you, a newcomer who needs to learn the basics of what it takes for this station to operate. I've sent him to catch hoppers; he should have been back by now, though. I hope he hasn't gotten himself into some sort of trouble.",
-        "translatedText": "",
+        "translatedText": "あんたと同じ新人だ。このステーションがどうやって回っているかを学ばせるつもりで、Hopperの捕獲に向かわせたんだが……帰ってこないってわけだ。トラブルに巻き込まれてないといいんだが。",
         "ignore": false
     },
     {
@@ -2444,15 +2340,14 @@
         "objectId": 1475,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_hopperRoundUpQuest_tryAvoid",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1478,
         "description": "n/a",
         "originalText": "And why is that?",
-        "translatedText": "",
+        "translatedText": "ふさわしくない？　どうして？",
         "ignore": false
     },
     {
@@ -2460,15 +2355,14 @@
         "objectId": 1485,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_hopperRoundUpQuest_tryAvoid",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1489,
         "description": "n/a",
         "originalText": "So please, look for him while you're there.",
-        "translatedText": "",
+        "translatedText": "Coveに用事がある間、彼を探してほしい。頼む。",
         "ignore": false
     },
     {
@@ -2476,7 +2370,7 @@
         "objectId": 1496,
         "description": "n/a",
         "originalText": "I think my skill could be put to better use than this.",
-        "translatedText": "",
+        "translatedText": "この程度の仕事は自分の能力にはふさわしくない。",
         "ignore": false
     },
     {
@@ -2484,7 +2378,7 @@
         "objectId": 1501,
         "description": "n/a",
         "originalText": "Hunting is not really my thing.",
-        "translatedText": "",
+        "translatedText": "狩りは専門じゃないんだ。",
         "ignore": false
     },
     {
@@ -2492,7 +2386,7 @@
         "objectId": 1505,
         "description": "n/a",
         "originalText": "Never mind.",
-        "translatedText": "",
+        "translatedText": "いや、なんでもない。",
         "ignore": false
     },
     {
@@ -2500,7 +2394,7 @@
         "objectId": 1508,
         "description": "n/a",
         "originalText": "::Bret frowns.:: Oh, really. So you're too good to be helping with hopper breeding? I'll have you know that what we do here is very important work, maybe the most important. We're feeding the station.\r\n\r\nSo get going and don't come back without those hoppers. And see what's Newton been up to.",
-        "translatedText": "",
+        "translatedText": "::Bretは眉をひそめる。::ああ、マジか。つまりHopperの繁殖を手伝う程度の仕事はあんたの能力の無駄遣いだっていうのか？　あのな、これはとても大事な仕事なんだ。最も大事と言ってもいいかもしれない。俺たちがいなければこのステーションは飢えて死ぬんだ。\r\n\r\nさっさと行け、そこまで言うなら収穫なしで帰ってくるんじゃないぞ。Newtonの件も当然調べられるな？",
         "ignore": false
     },
     {
@@ -2516,7 +2410,7 @@
         "objectId": 1516,
         "description": "n/a",
         "originalText": "::Bret frowns slightly.:: Sorry, but it is today. Everyone has to learn the basics of what it takes for this station to operate, and hopper breeding is an important part of it.",
-        "translatedText": "",
+        "translatedText": "::Bretは少しだけ眉を動かす。::　悪いが行ってもらう。このステーションがどうやって成り立っているかは知っておかなきゃならん。Hopperの養殖は重要な仕事だ。",
         "ignore": false
     },
     {
@@ -2532,7 +2426,7 @@
         "objectId": 1524,
         "description": "n/a",
         "originalText": "Anything else?",
-        "translatedText": "",
+        "translatedText": "他に何かあるか？",
         "ignore": false
     },
     {

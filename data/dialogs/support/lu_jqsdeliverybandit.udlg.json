@@ -12,7 +12,7 @@
         "objectId": 35,
         "description": "n/a",
         "originalText": "::A group of thugs stand before you like a pack of starving rathounds, and, judging by their general appearance, they definitely look the part as well. The \"pack\" leader, an average-height but unusually wide-shouldered man struts forward, checks you out for a second, then finally speaks in a predominantly nasal sounding voice.::\r\n\r\nAlright, hand over the package.",
-        "translatedText": "",
+        "translatedText": "::まるでRathoundの群れのように、ごろつきの群れがあなたの前に立ちはだかる。服装から察するに、まさにネズミといった雰囲気だ。\"群れ\"のボスらしき男が歩み出る。背丈こそ普通だが、肩幅が異常に広い。男はあなたをちらっと見てから、ようやく鼻がかった声で喋りはじめる。\r\n\r\nおい、配達物をよこせ。::",
         "ignore": false
     },
     {
@@ -20,23 +20,21 @@
         "objectId": 38,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jqsDelivery_talkedToBandits",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(SBFV).SFVA:P",
         "objectId": 49,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jqsDelivery_talkedToBandits",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 55,
         "description": "n/a",
         "originalText": "Here's the package. Don't shoot! ::Give him the package.::",
-        "translatedText": "",
+        "translatedText": "わかった、渡す！　撃たないでくれ！::小包を渡す。::",
         "ignore": false
     },
     {
@@ -44,7 +42,7 @@
         "objectId": 61,
         "description": "n/a",
         "originalText": "What package?",
-        "translatedText": "",
+        "translatedText": "小包というのは？",
         "ignore": false
     },
     {
@@ -52,7 +50,7 @@
         "objectId": 65,
         "description": "n/a",
         "originalText": "I don't have it anymore.",
-        "translatedText": "",
+        "translatedText": "実はなくしたんだ。",
         "ignore": false
     },
     {
@@ -60,7 +58,7 @@
         "objectId": 69,
         "description": "n/a",
         "originalText": "Why don't you try and take it, you dumb oaf? ::Fight!::",
-        "translatedText": "",
+        "translatedText": "奪えるものなら奪ってみろよ、ウスノロ！::戦闘開始！::",
         "ignore": false
     },
     {
@@ -76,7 +74,7 @@
         "objectId": 74,
         "description": "n/a",
         "originalText": "::As soon as he rips the package open and takes a look inside, his confusion manifests itself in a form of a deep frown. His response is carried by an angry snarl.:: \r\n\r\nWhat the... Is this some kind of joke?",
-        "translatedText": "",
+        "translatedText": "::受け取った小包を破り開け、中身を確認し、彼ははっきりと眉をひそめて混乱する。そして、怒ったような唸り声で返答する。::\r\n\r\nこれは……どういうことだよ？　何かの冗談か？",
         "ignore": false
     },
     {
@@ -92,15 +90,14 @@
         "objectId": 79,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.playedDumb",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 83,
         "description": "n/a",
         "originalText": "Don't try my patience, punk. Give me the bloody package and walk away! Otherwise...",
-        "translatedText": "",
+        "translatedText": "おいおい、俺はあんまり辛抱強くねえんだ。さっさと小包を置いてどっかへ行け！　さもないと……",
         "ignore": false
     },
     {
@@ -108,15 +105,14 @@
         "objectId": 87,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.playedDumb",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 91,
         "description": "n/a",
         "originalText": "In that case you won't mind if I just kill you and take a look myself, right?",
-        "translatedText": "",
+        "translatedText": "なるほど、じゃあお前をぶっ殺して調べさせてもらおうか。いいよな？",
         "ignore": false
     },
     {
@@ -124,7 +120,7 @@
         "objectId": 97,
         "description": "n/a",
         "originalText": "::He frowns.:: Oaf!? Oh, I'll be taking that package *and* your life, punk!",
-        "translatedText": "",
+        "translatedText": "::(彼は怒ったようだ)::ウスノロ！？　クソ野郎、小包だけじゃなくてお前の命もいただくことにしたぜ！",
         "ignore": false
     },
     {
@@ -132,7 +128,7 @@
         "objectId": 104,
         "description": "n/a",
         "originalText": "::Suddenly, his eyes widen and he takes a step back.:: Hell - this one's a fake! Quickly kill $(#him/her) so we can catch up with that bastard!",
-        "translatedText": "",
+        "translatedText": "::突然、彼は眼を見開き、後ずさる。::やられた――こいつが持ってるのは偽物だ！　さっさとこいつを殺っちまうぞ！　あのクソ野郎に逃げられちまう！",
         "ignore": false
     },
     {
@@ -140,8 +136,7 @@
         "objectId": 120,
         "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_jqsDelivery_decoy",
-        "ignore": true,
-        "translatedText": ""
+        "ignore": true
     },
     {
         "jsonVersion": "0.3"
