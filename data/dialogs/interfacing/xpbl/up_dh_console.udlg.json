@@ -1,971 +1,1085 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 36,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 37,
-        "description": "n/a",
-        "originalText": "interfacing",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 38,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 45,
         "description": "n/a",
         "originalText": "::Before you is a dusty console displaying oddly corrupted content. Namely, you see lines of letters and numbers, yet these are arranged in a way that conveys no apparent meaning; and you are positive that this isn't due to the state you're in, rather that it is an actual reflection of some kind of malfunction. \r\n\r\nBelow the display, the console contains a few simple buttons labeled on, off, reset, activate and deactivate, and it seems like these buttons too haven't been touched in years, judging by the thick coating of dust covering them.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 51,
         "description": "n/a",
         "originalText": "::Dude gives you an impatient look.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 63,
         "description": "n/a",
         "originalText": "::TBjYKAZBko5Nznmcl Gb ABVHld Ty3wMmnrsD89IB::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 66,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 68,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 75,
         "description": "n/a",
         "originalText": "::Use the console.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 78,
         "description": "n/a",
         "originalText": "::Leave it.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 83,
         "description": "n/a",
         "originalText": "::[Debug] Skip to gas activation/deactivation.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 89,
         "description": "n/a",
         "originalText": "\r\n\r\n::[Intelligence] Your keen mind is quick to extract a pattern upon looking at the screen: Each and every line has a number or numbers right at the start of it, in the middle and at its very end. If all of the double numbers are actually singular two-digit numbers, that would mean that each line has three numbers in it, an occurrence that, you find, cannot be ignored.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 97,
         "description": "n/a",
         "originalText": "\r\n\r\n::[Perception] Your keen eyes are quick to notice how each and every line has a number or numbers right at the start of it, in the middle and at its very end.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 122,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_up_dh_dudeUnlocksTheLab",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 123,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_rc_dude_dead",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".PCA1.PCA1:WP",
+        "classInfo": "(PCA1).PCA1:WP",
         "objectId": 125,
         "description": "n/a",
         "originalText": "Xpbl_Up_Dh_DudeInterruptsConsole",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 127,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.rc_dude_tellsNotToTouchTheConsole",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 128,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.debug",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 131,
         "description": "n/a",
         "originalText": "\r\n\r\n::POlk182 zZz190 Okl145\r\n\r\nmgIsTdbvWyJfhTYcsPEA::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 141,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_initializationDone",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 153,
         "description": "n/a",
         "originalText": "\r\n\r\n::POlk182::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 160,
         "description": "n/a",
         "originalText": "\r\n\r\n::POlk182 zZz190::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 164,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_initializationDone",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 166,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_numberOfEntries",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 168,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_currentEntry",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 176,
         "description": "n/a",
         "originalText": "::Activate::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 184,
         "description": "n/a",
         "originalText": "::Deactivate::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 187,
         "description": "n/a",
         "originalText": "::Exit::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 188,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_passedSecondSet",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 190,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_passedSecondSet",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 192,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_passedFirstSet",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 201,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_passedSecondSet",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 202,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_passedThirdSet",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 203,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_activated",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 206,
         "description": "n/a",
         "originalText": "::The pipes passing through the walls begin to rattle violently, stabilizing after a couple of seconds. And then you hear the frigid hissing of the gas filling the room across.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 210,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_activated",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 215,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_activated",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 218,
         "description": "n/a",
         "originalText": "::The hissing is the first to stop, then the pipes start to rattle as they did before, until they produce sound no more.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 222,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_activated",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 283,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_passedFirstSet",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 289,
         "description": "n/a",
         "originalText": "::11LtNlCKdcH17zuaWcvydSoq4::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 295,
         "description": "n/a",
         "originalText": "::37oAjcRyxCOb40FVhSWXcOQK5::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 301,
         "description": "n/a",
         "originalText": "::3exnPBqmUE6GOsRWpbgtYc1::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 307,
         "description": "n/a",
         "originalText": "::12mmzCoOVY10GxKcYcjBRZYW11::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 313,
         "description": "n/a",
         "originalText": "::25SAzYSfeR39clSsLlxnuMWL26::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 319,
         "description": "n/a",
         "originalText": "::23tdJqPRJfVnc31sXGZoWzMd13::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 325,
         "description": "n/a",
         "originalText": "::5PpoTkGtaO3pifbhATimRZ4::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 331,
         "description": "n/a",
         "originalText": "::46UVQYIwqM29mSxQinAiHnSv25::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 336,
         "description": "n/a",
         "originalText": "::Reset::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 337,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_passedSecondSet",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 343,
         "description": "n/a",
         "originalText": "::5hkiMFnwaB20dWULKxvArUL29::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 349,
         "description": "n/a",
         "originalText": "::15uUCHmAD10vNvoqWgrIdxnK9::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 355,
         "description": "n/a",
         "originalText": "::8QGltRXSpJ16VKgGzbbPxiz1::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 361,
         "description": "n/a",
         "originalText": "::7wrzSvBGGin8fdCIfKCTBc5::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 367,
         "description": "n/a",
         "originalText": "::2kdmuGwYpE53xTgeWYShLKz34::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 373,
         "description": "n/a",
         "originalText": "::2jhNVeagIszF15mPzERSBui2::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 379,
         "description": "n/a",
         "originalText": "::33QjnImknnbM33sIzbgtRcNO33::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 385,
         "description": "n/a",
         "originalText": "::39WwiWvNvq21TjnaMPrRVtsx16::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 391,
         "description": "n/a",
         "originalText": "::5EphXHWplU18SXDDJvjzXIy19::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 397,
         "description": "n/a",
         "originalText": "::11MiwrOcUclpa11HbwBYpctX68::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 403,
         "description": "n/a",
         "originalText": "::50aeSQLzBH9nlpIYvJTVmow6::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 409,
         "description": "n/a",
         "originalText": "::39ttbblQRFWQ2FAlDPgWNBh40::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 415,
         "description": "n/a",
         "originalText": "::1eeiLCzZEqgD1VLENdjJAV2::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 421,
         "description": "n/a",
         "originalText": "::14taLBgRVGd37QgXylJbUSIP4::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 427,
         "description": "n/a",
         "originalText": "::4hBKuhUAwy3EmEqTYRwlIC4::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 433,
         "description": "n/a",
         "originalText": "::22GCACQKelxs33HePNjNpYkv24::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 434,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option1Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 444,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option1Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 445,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option8Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 455,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option8Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 456,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option2Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 458,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option2Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 459,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option6Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 469,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option6Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 470,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option3Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 472,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option3Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 473,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option4Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 483,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option4Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 484,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option7Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 486,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option7Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 487,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option5Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 489,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option5Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 499,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_reset",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 500,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option6Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 502,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option6Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 503,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option2Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 505,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option2Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 506,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option4Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 516,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option4Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 517,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option8Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 519,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option8Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 520,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option3Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 530,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option3Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 531,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option7Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 533,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option7Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 534,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option5Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 536,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option5Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 537,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option1Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 547,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option1Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 548,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option8Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 550,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option8Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 551,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option6Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 553,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option6Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 554,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option4Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 556,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option4Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 557,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option1Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 559,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option1Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 560,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option2Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 562,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option2Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 563,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option5Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 573,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option5Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 574,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option7Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 584,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option7Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 585,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option3Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 595,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_option3Selected",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 597,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_numberOfEntries",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 599,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_currentEntry",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 601,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_numberOfEntries",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 603,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_currentEntry",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 605,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_numberOfEntries",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 607,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_currentEntry",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 609,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_numberOfEntries",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 611,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_currentEntry",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 617,
         "description": "n/a",
         "originalText": "::BQ 666DJSRSR vhMvmlV gRZO1U\r\n\r\n...::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 623,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_numberOfEntries",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 625,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_currentEntry",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 627,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_numberOfEntries",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 629,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_currentEntry",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 631,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_numberOfEntries",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 633,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_currentEntry",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 635,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_numberOfEntries",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 637,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_currentEntry",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 639,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_numberOfEntries",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 641,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_currentEntry",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 643,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_numberOfEntries",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 645,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_currentEntry",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 646,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_shouldShowWorking",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 648,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_up_dh_console_shouldShowWorking",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

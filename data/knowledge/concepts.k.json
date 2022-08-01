@@ -1,44 +1,53 @@
 [
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Key",
         "objectId": 3,
-        "description": "n/a",
+        "description": "key='movementpoints'",
         "originalText": "movementpoints",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Value",
         "objectId": 4,
         "description": "n/a",
         "originalText": "These points can only be used for movement.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Key",
         "objectId": 5,
-        "description": "n/a",
+        "description": "key='actionpoints'",
         "originalText": "actionpoints",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Value",
         "objectId": 6,
         "description": "n/a",
         "originalText": "These points can be used for performing actions or for movement if there are no movement points left. You can carry over up to {0} unspent action points to the next turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Key",
         "objectId": 7,
-        "description": "n/a",
+        "description": "key='innervate'",
         "originalText": "innervate",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Value",
         "objectId": 8,
         "description": "n/a",
         "originalText": "Applies the changes made to the psi ability selection. This will instantly drain all of your psi points and reserves.\r\n\r\nThis can only be done out of combat.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "jsonVersion": "0.3"
     }
 ]

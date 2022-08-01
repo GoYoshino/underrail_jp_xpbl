@@ -1,138 +1,133 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 32,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 33,
-        "description": "n/a",
-        "originalText": "speaker",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 34,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 56,
         "description": "n/a",
         "originalText": "::Salutes you.:: We're good here.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 62,
         "description": "n/a",
         "originalText": "We're good here, enforcer.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 67,
         "description": "n/a",
         "originalText": "Lazy zoners want stuff. Our stuff.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 72,
         "description": "n/a",
         "originalText": "These people stink.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 77,
         "description": "n/a",
         "originalText": "It's the usual: \"We're starving, we're being zoned out, we need medication...\" Yeah.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 82,
         "description": "n/a",
         "originalText": "Do not touch them. Or let them touch you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 87,
         "description": "n/a",
         "originalText": "Damn these zoners - I'm going to miss the match!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 93,
         "description": "n/a",
         "originalText": "::Sighs.:: What's wrong with these people? Back to the Zone, you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 98,
         "description": "n/a",
         "originalText": "\"Rights\"! ::He laughs.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 103,
         "description": "n/a",
         "originalText": "The guy with the sledge, though...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 108,
         "description": "n/a",
         "originalText": "Get back to your barrel soups, zoners.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 113,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowPraetorian",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 114,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_Praetorian_acceptedInFamily",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 118,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowDropZone",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 119,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_Preatorian_joined",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 120,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_Praetorian_acceptedInFamily",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

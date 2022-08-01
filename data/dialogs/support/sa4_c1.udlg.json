@@ -1,110 +1,85 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 17,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 18,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 19,
-        "description": "n/a",
-        "originalText": "speaker",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".J.CE:N",
-        "objectId": 22,
-        "description": "n/a",
-        "originalText": "Personal",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".J.CE:N",
-        "objectId": 24,
-        "description": "n/a",
-        "originalText": "Rumors",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 47,
         "description": "n/a",
         "originalText": "How's it hanging?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 52,
         "description": "n/a",
         "originalText": "Came for some reading?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 57,
         "description": "n/a",
         "originalText": "Yeah?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 63,
         "description": "n/a",
         "originalText": "You looking for something specific?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 68,
         "description": "n/a",
         "originalText": "Some of the consoles are out again, but I think Ezra is working on that.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 74,
         "description": "n/a",
         "originalText": "Glad the trains are going through the station again.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 79,
         "description": "n/a",
         "originalText": "Mm-hmm.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 85,
         "description": "n/a",
         "originalText": "Some say the real Tanner had been killed and replaced by a robot.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 89,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.sgs_rocksCleared",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 90,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_finalCouncil",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

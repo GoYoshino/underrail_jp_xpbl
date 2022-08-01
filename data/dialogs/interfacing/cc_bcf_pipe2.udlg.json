@@ -1,96 +1,85 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 14,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 15,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 16,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 20,
         "description": "n/a",
         "originalText": "::This section of the pipe is fixed.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 27,
         "description": "n/a",
         "originalText": "::This section of the pipe is damaged, but looks repairable.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 30,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_bcf_fixPipeTwo",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 33,
         "description": "n/a",
         "originalText": "::Leave it alone.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 48,
         "description": "n/a",
         "originalText": "::Replace this part of the pipe.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 49,
         "description": "n/a",
         "originalText": "cc_bcf.pipes",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RIFPA.RIFPA:IC",
+        "classInfo": "(RIFPA).RIFPA:IC",
         "objectId": 51,
         "description": "n/a",
         "originalText": "cc_bcf.pipes",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PCA1.PCA1:WP",
+        "classInfo": "(PCA1).PCA1:WP",
         "objectId": 53,
         "description": "n/a",
         "originalText": "Cc_FixSecondPipe",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 55,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_bcf_fixPipeTwo",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 57,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_bcf_pipesFixed",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

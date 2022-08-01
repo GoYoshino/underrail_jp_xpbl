@@ -1,1986 +1,2245 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 60,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 61,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 62,
-        "description": "n/a",
-        "originalText": "vera",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 67,
         "description": "n/a",
         "originalText": "::While there are still signs of concern intertwined into her expression, you notice more confidence and resolution in her stance and speech.::\r\n\r\nDid you rest well, $(context.player.Name)?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 76,
         "description": "n/a",
         "originalText": "Go speak to Ezra, $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 85,
         "description": "n/a",
         "originalText": "::From the moment you stepped into the room, Vera's eyes were fixed on you. However, you are aware that the worried look is not only due to your lengthy absence.::\r\n\r\n$(context.player.Name), I am so glad you are alive. After we heard Protectorate forces were moving toward the Institute of Tchort and not hearing from you for so long, we became really worried.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 97,
         "description": "n/a",
         "originalText": "::You met Vera previously during your testing period. She is one of the councilors here at the South Gate Station.::\r\n\r\nGood to see you've found your way to my office, $(context.player.Name). How do you like your new home so far?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 111,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_finalTalk",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 115,
         "description": "n/a",
         "originalText": "Yes, I did.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 119,
         "description": "n/a",
         "originalText": "I feel I could've rested some more.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 123,
         "description": "n/a",
         "originalText": "I think I did.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 129,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_toldTannerGone",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 131,
         "description": "n/a",
         "originalText": "returnToSGS",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 133,
         "description": "n/a",
         "originalText": "searchTannersRoom",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 137,
         "description": "n/a",
         "originalText": "Thank you for your concern, but I am fine.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 141,
         "description": "n/a",
         "originalText": "We have yet to determine if I'm am *actually* alive, considering the things I've been through.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 145,
         "description": "n/a",
         "originalText": "I need some rest.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 149,
         "description": "n/a",
         "originalText": "::Nod.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 153,
         "description": "n/a",
         "originalText": "You didn't seriously think I was going to die? ::Laugh.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 154,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 156,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 160,
         "description": "n/a",
         "originalText": "It's pretty good. I can see myself staying here for a long time.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 164,
         "description": "n/a",
         "originalText": "It's been fine so far.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 168,
         "description": "n/a",
         "originalText": "People keep sending me to solo dangerous missions, it's derailed!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 173,
         "description": "n/a",
         "originalText": "Have you heard what's happening in Core City?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 183,
         "description": "n/a",
         "originalText": "Unbelievable - a homicide inside the station! The word will surely get out, surely. I just hope it doesn't tarnish our reputation. This station is supposed to be safe.\r\n\r\n::She takes a deep breath.:: Excuse me, please. Uh, how can I help you?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 191,
         "description": "n/a",
         "originalText": "$(context.player.Name). The whole station's talking about you. I hope Gorsky didn't give you too much trouble.\r\n\r\nSo, how can I help you?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 197,
         "description": "n/a",
         "originalText": "Yes? How can I help you, $(context.player.Name)?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 200,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_finalCouncil",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 201,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_finalTalk",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 204,
         "description": "n/a",
         "originalText": "::She nods.::\r\n\r\nDo you know why I wanted to speak to you?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 211,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_toldTannerGone",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 212,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_finalCouncil",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 213,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_toldTannerGone",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 214,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_TchortDefeated",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 218,
         "description": "n/a",
         "originalText": "::She nods.:: I am sure you want to rest, and I wouldn't want to delay it any longer, but something happened: Tanner disappeared.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 224,
         "description": "n/a",
         "originalText": "I understand. And you deserve rest. I wouldn't want to delay it any longer, but something happened: Tanner disappeared.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 230,
         "description": "n/a",
         "originalText": "I am sure you do, and I wouldn't want to delay it any longer, but something happened: Tanner disappeared.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 236,
         "description": "n/a",
         "originalText": "I am sure you want to rest, and I wouldn't want to delay it any longer, but something happened: Tanner disappeared.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 242,
         "description": "n/a",
         "originalText": "::A sign of being uneasy shoots across Vera's face. She then continues.:: I am sure you want to rest, and I wouldn't want to delay it any longer, but something happened: Tanner disappeared.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 248,
         "description": "n/a",
         "originalText": "That's good to hear.\r\n\r\nSo anyway, how can I help you?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 254,
         "description": "n/a",
         "originalText": "Very good.\r\n\r\nSo what can I do for you?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 260,
         "description": "n/a",
         "originalText": "They must have faith in your abilities and, considering you're still alive, I guess their trust was not misplaced.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 266,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_talkedAboutInvasion",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 270,
         "description": "n/a",
         "originalText": "Yes.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 274,
         "description": "n/a",
         "originalText": "No.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 300,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_talkBretLenoxFight",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 305,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_vera_talkedEthanOld",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 309,
         "description": "n/a",
         "originalText": "You wanted to ask me something.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 313,
         "description": "n/a",
         "originalText": "You wanted to tell me something.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 317,
         "description": "n/a",
         "originalText": "You needed me for something?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 321,
         "description": "n/a",
         "originalText": "No.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 333,
         "description": "n/a",
         "originalText": "So, anyway, how can I help you?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 336,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.facelessInvaded",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 337,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_talkedAboutInvasion",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 341,
         "description": "n/a",
         "originalText": "It's crazy, isn't it? I'm wondering just what the Faceless want. It's very atypical of them to attack a station state.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 347,
         "description": "n/a",
         "originalText": "The Faceless blockaded the city. They drilled right into the city perimeter defenses with their machines and caught them by surprise. Now we're cut off from the North and cannot receive any assistance from the Protectorate.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 352,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_talkBretLenoxFight",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 358,
         "description": "n/a",
         "originalText": "I accept. I want to become a South Gate Station councilor. ::Ends the game.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 363,
         "description": "n/a",
         "originalText": "How's Lora holding up? Did you manage to speak to her?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 373,
         "description": "n/a",
         "originalText": "Did the Faceless return Lora?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 379,
         "description": "n/a",
         "originalText": "Gorsky died in Core City.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 385,
         "description": "n/a",
         "originalText": "::Show Vera the keycard you found.:: Did this belong to the Bakers?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 390,
         "description": "n/a",
         "originalText": "Is there something I can do to help with the Faceless situation?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 395,
         "description": "n/a",
         "originalText": "I'm about to head out to investigate the Faceless situation. Tanner mentioned you had a job for me as well.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 401,
         "description": "n/a",
         "originalText": "Who are the Faceless exactly?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 407,
         "description": "n/a",
         "originalText": "What can you tell me about Core City?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 413,
         "description": "n/a",
         "originalText": "What do you know about Patrick Pierce's death?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 420,
         "description": "n/a",
         "originalText": "Can you tell me a bit about United Stations?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 426,
         "description": "n/a",
         "originalText": "I want to learn about the Protectorate.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 432,
         "description": "n/a",
         "originalText": "Are there plans for SGS to join the United Stations at some point?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 440,
         "description": "n/a",
         "originalText": "Tanner mentioned you need some documents delivered to an embassy in Junkyard.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 445,
         "description": "n/a",
         "originalText": "I can take those documents now. I'm heading out to Junkyard.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 452,
         "description": "n/a",
         "originalText": "I delivered the trading documents.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 455,
         "description": "n/a",
         "originalText": "See you later.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 456,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_died_sgs",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 459,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_vera_talkedEthanOld",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 463,
         "description": "n/a",
         "originalText": "Yes. To be more specific, I wanted to offer something to you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 469,
         "description": "n/a",
         "originalText": "I wanted to offer something to you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 475,
         "description": "n/a",
         "originalText": "I know.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 479,
         "description": "n/a",
         "originalText": "When?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 483,
         "description": "n/a",
         "originalText": "What do you mean?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 484,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_lenox_dead",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 485,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_bret_dead",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 486,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_died_sgs",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 487,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_finalTalk",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 490,
         "description": "n/a",
         "originalText": "::Vera smiles.:: I am pleased to hear that. We both know that is the right decision. ::Another smile escapes her, lasting for a brief moment.:: I'm sure you will do excellent work.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 495,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_playerStayedInSgs",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 502,
         "description": "n/a",
         "originalText": "She is still unconscious. Pasquale told me her condition is stable, but he doesn't know when she'll regain her consciousness.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 511,
         "description": "n/a",
         "originalText": "Yes. Malcom informed me that Faceless have appeared just east of Crossroad Watch. We were worried they came with hostile intentions, but after seeing that they were carrying Lora, we sent a few men out. The Faceless simply turned her in and left.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 515,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_acknowledgedLoraReturn",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 517,
         "description": "n/a",
         "originalText": "findMissingMerchants",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 519,
         "description": "n/a",
         "originalText": "findMissingMerchants",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 521,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_findMissingMerchants_started",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 523,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_findMissingMerchants_finished",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 530,
         "description": "n/a",
         "originalText": "::Your words provoke a shocked expression.::\r\n\r\nWhat? I cannot believe it... This is horrible, horrible. And at a time like this.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 534,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_toldGorskyDied",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 540,
         "description": "n/a",
         "originalText": "::Vera inspects the card.:: Yes, it is but... ::She pauses.:: Why are you giving this to me? Where did you find this? What happened?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RIFPA.RIFPA:IC",
+        "classInfo": "(RIFPA).RIFPA:IC",
         "objectId": 545,
         "description": "n/a",
         "originalText": "key.bakersKey",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 551,
         "description": "n/a",
         "originalText": "Yes, two of our own, Terry and Lora Baker, were on a merchant mission to the north when the Faceless invaded. We know they didn't get caught behind the blockade because they messaged in from the Core City before the assault happened.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 562,
         "description": "n/a",
         "originalText": "We don't know. They live somewhere in the tunnels below. They are human, I hope, but I'm not sure since I've never seen one without a mask.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 566,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lq",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 567,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lq",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 572,
         "description": "n/a",
         "originalText": "It's a city to the north that spans both levels of Underrail. It serves as a gateway to both the Upper Underrail and to the United Stations territories to the north.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 576,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lq",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 582,
         "description": "n/a",
         "originalText": "He died in his sleep. While it's true that Pasquale never discovered the exact cause of death, I believe it's nothing to worry about. Someone suggested a bacteria that live in the ventilation system, but that would mean the death of us all, wouldn't it?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 586,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_vera_askPatPierce",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 587,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lq",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 592,
         "description": "n/a",
         "originalText": "Certainly. United Stations, also called Union by some, is a confederacy of stations in north and central Underrail. It's an attempt to unify the entirety of Underrail so that we could all work together towards a better future for the human race.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 596,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_aboutUS",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 598,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lq",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 602,
         "description": "n/a",
         "originalText": "The Underrail Protectorate is a military organization that protects the United Stations from external and internal threats. It predates the Union itself and it also played a crucial role in its creation.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 606,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_aboutProtectorate",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 608,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lq",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 614,
         "description": "n/a",
         "originalText": "Our citizens, and our councilors, are divided on that matter. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 618,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lq",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 623,
         "description": "n/a",
         "originalText": "That's right. If you're heading that way you can deliver them for me.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 629,
         "description": "n/a",
         "originalText": "talkToVeraAboutDocs",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 631,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_talkedAboutDocShipment",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 633,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lq",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 641,
         "description": "n/a",
         "originalText": "Great. Here are the documents. I'll let them know that you're coming. \r\n\r\nHave a safe journey and send my regards to the ambassador.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 650,
         "description": "n/a",
         "originalText": "Excellent. It's good to know I can count on you to get the job done.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 654,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lq",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 656,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_iDeliveredTradingDocuments",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 657,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 658,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_ethan_angered_sgs",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 661,
         "description": "n/a",
         "originalText": "How would you like to become one of the South Gate Station councilors?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 667,
         "description": "n/a",
         "originalText": "::She pauses.:: So... the word is already out.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 674,
         "description": "n/a",
         "originalText": "He left his office some time ago, and no one has seen him since. No one saw him leave through any of the station's exits, like he vanished. This has never happened before. So many things are happening around South Underrail and his disappearance worries me.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 680,
         "description": "n/a",
         "originalText": "I hope so too. Now what happens?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 681,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_returnedCubeToFaceless",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 682,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_flo_agreeToReturnLora",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 683,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_acknowledgedLoraReturn",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 687,
         "description": "n/a",
         "originalText": "We will have to be patient.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 690,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_acknowledgedLoraReturn",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 691,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_returnedCubeToFaceless",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 692,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_flo_agreeToReturnLora",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 696,
         "description": "n/a",
         "originalText": "She is in the med bay, resting.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 699,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_toldGorskyDied",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 700,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_gorsky_died",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 701,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_finalCouncil",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 705,
         "description": "n/a",
         "originalText": "Gorsky and I may have had... disagreements, but I always held respect for him. He did a lot for this station. That is two counilrs we have lost in a short period of time. Difficult times lay ahead of us.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 708,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_findMissingMerchants_started",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 709,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_findMissingMerchants_finished",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 710,
         "description": "n/a",
         "originalText": "key.bakersKey",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 714,
         "description": "n/a",
         "originalText": "I found it on a man's corpse in a deserted camp, located in the caves north of the Rail Crossing train station. I'm afraid that corpse was Terry's. Lora was nowhere to be seen.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 715,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_findMissingMerchants_started",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 716,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tanner_talkedAboutInvasion",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 720,
         "description": "n/a",
         "originalText": "They were supposed to head straight back to SGS, but then this earthquake happened and blocked the railway, preventing their return. They might have stopped by Rail Crossing, in which case they might have been caught by whatever trouble is happening there.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 723,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_findMissingMerchants_started",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 724,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tanner_talkedAboutInvasion",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 725,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.lq",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 727,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.facelessInvaded",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 728,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_facelessRetreated",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 732,
         "description": "n/a",
         "originalText": "The city used to be controlled by the Biocorp's security forces, but they went rogue and split into smaller factions. This was followed by a couple of years of street wars between these factions. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 735,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_SGSMurderStarted",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 736,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_watch_SGSMurderCompleted",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 740,
         "description": "n/a",
         "originalText": "If you want to learn more, just go talk to Pasquale. I'm sure he'll tell you all you want to know. I'm far too busy anyway.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 746,
         "description": "n/a",
         "originalText": "Similar to our station, the Union is ruled by a Council of Five. Most stations of the Union have some degree of autonomy as well. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 752,
         "description": "n/a",
         "originalText": "The Protectorate is under the command of General Melek, who is widely considered to be the most powerful man in Underrail. He holds a special place on the United Stations' Council of Five, and some also believe him to be de facto ruler of it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 755,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_aboutProtectorate",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 756,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_aboutUS",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 760,
         "description": "n/a",
         "originalText": "We currently have good trading relations with the Union and I personally think it would be a good idea to be among the first to join it here in the south. We are arguably the most powerful faction in these parts so we could position ourselves advantageously in their organization and also retain a high degree of independence.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 763,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_learnedAboutTradeDocShipment",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 764,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_talkedAboutDocShipment",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 768,
         "description": "n/a",
         "originalText": "Sure, I'm going there right now.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 772,
         "description": "n/a",
         "originalText": "Perhaps later. Still got more work to do around here.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 773,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_deliverTradingDocs_started",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 774,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_talkedAboutDocShipment",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 776,
         "description": "n/a",
         "originalText": "deliverTradingDocs",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 778,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_deliverTradingDocs_started",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 781,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_deliverTradingDocs_reported",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 782,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_deliverTradingDocs_finished",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 783,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_iDeliveredTradingDocuments",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 787,
         "description": "n/a",
         "originalText": "Why me?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 791,
         "description": "n/a",
         "originalText": "Tell me about Tanner's disappearance.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 794,
         "description": "n/a",
         "originalText": "::Vera looks at you, as if wanting to say something, but that statement seems like it has been replaced by a different one.::\r\n\r\nWe still haven't checked his room. Since you are here, I think it is best you do it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 802,
         "description": "n/a",
         "originalText": "Now... you begin.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 808,
         "description": "n/a",
         "originalText": "::Vera opens her mouth to say something, but falls silent. Several seconds pass before she advances the conversation.:: This is very bad... The Bakers were wonderful people... and... \r\n\r\nHave you learned anything else about what happened to them? Any clues, anything at all?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 817,
         "description": "n/a",
         "originalText": "Gorsky tells me you know how to handle trouble. Investigate these two places, find the Bakers and return them home safely.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 823,
         "description": "n/a",
         "originalText": "The fighting ceased eventually in light of outside threats and serious infrastructural problems and nowadays the three surviving factions rule the city together through their appointed mayors.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 829,
         "description": "n/a",
         "originalText": "The United Stations are constantly expanding and while no stations here in the south are yet to become part of it, something like that will surely happen in the near future.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 835,
         "description": "n/a",
         "originalText": "This would also ensure we avoid any potential military conflict in the future should the Protectorate decide to move against some of the... less-civilized communities in the neighborhood.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 841,
         "description": "n/a",
         "originalText": "Alright. Let me know when you're ready to head over there.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 851,
         "description": "n/a",
         "originalText": "South Underrail hasn't been this turbulent ever since the break-up of Biocorp: Earthquake, Faceless invasion, United Stations integration and increasing conflicts between Underrail Protectorate and the Free Drones, to mention but a few. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 858,
         "description": "n/a",
         "originalText": "No problem, Vera. I will do it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 862,
         "description": "n/a",
         "originalText": "Why me?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 866,
         "description": "n/a",
         "originalText": "Don't you have someone else to do these kind of things? It's always me.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 871,
         "description": "n/a",
         "originalText": "::End Dialog.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 876,
         "description": "n/a",
         "originalText": "I found out they were killed by the Acid Hunters, a group of scavengers from Core City.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 881,
         "description": "n/a",
         "originalText": "One of the train operators told me the Bakers were led away from the Rail Crossing train station by some thugs who were wielding chemical weapons. They were probably the ones who killed Terry.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 885,
         "description": "n/a",
         "originalText": "Sadly, that is all I know.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 888,
         "description": "n/a",
         "originalText": "I hope it won't come to this, but if... they didn't make it, make sure you return their valuables and trade goods then.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 896,
         "description": "n/a",
         "originalText": "But as I said, not everyone agrees with me here. You must understand that many of our current citizens come from... organizations that have, for various reasons, been Protectorate's targets in the past, so they are not very keen on being buddies with their old enemies.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 903,
         "description": "n/a",
         "originalText": "After you left, the council discussed you and your recent, first-hand experiences throughout South Underrail. We feel what you know would be of great use to our station. That is why we offer you this position, and it is something upon which we all agreed.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 907,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_knowFreeDrones",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 916,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_Vera_noProblemSearchRoom",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 920,
         "description": "n/a",
         "originalText": "gameOver",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 921,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_cornell_confessKillBakers",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 924,
         "description": "n/a",
         "originalText": "Scavengers? But, why? How do you know all that?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 928,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_trainOperator_toldAboutAcidHuntersAttackBakers",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 931,
         "description": "n/a",
         "originalText": "That is horrible! So they were at Rail Crossing after all, or at least they managed to reach the station. What of Lora? Do you think she could have survived somehow? Escaped her captors, perhaps?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 941,
         "description": "n/a",
         "originalText": "::She nods several times.:: Lora's body wasn't there, you say? What if she is alive?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 954,
         "description": "n/a",
         "originalText": "Alright, got it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 971,
         "description": "n/a",
         "originalText": "You don't have to answer right away; think about this. You will most likely take over some of Tanner's duties, some of the ones you could manage. At first, then... well, we'll get into the details and specifics after you give me a positive answer.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 977,
         "description": "n/a",
         "originalText": "Usually, I would approach Gorsky with these kinds of things, but since he... is not with us anymore, you are the one I would trust the most with something this important.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 984,
         "description": "n/a",
         "originalText": "Usually, I would approach Gorsky with these kinds of things, but since he is still in Core City that leaves you as the one I would trust the most with something this important.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 993,
         "description": "n/a",
         "originalText": "I met them and their leader, Cornell, confessed. They wanted to rob them, so they followed them to Rail Crossing.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 998,
         "description": "n/a",
         "originalText": "Lora was taken by the Faceless. I wasn't able to bring her back.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1002,
         "description": "n/a",
         "originalText": "There is a possibility...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1006,
         "description": "n/a",
         "originalText": "Perhaps, but highly unlikely. Those caves harbor some deadly critters.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1010,
         "description": "n/a",
         "originalText": "No way. Those caves are like a death trap.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1014,
         "description": "n/a",
         "originalText": "There was another pool of blood next to Terry's. Perhaps some animals dragged the body away.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1016,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_findMissingMerchants_started",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 1018,
         "description": "n/a",
         "originalText": "findMissingMerchants",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1020,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_talkedAboutInvasion",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1022,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_railcrossing_heard",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1023,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_yourOpinionOnIntegration",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1026,
         "description": "n/a",
         "originalText": "But let me ask you what is your opinion on the matter? Would you like to see your station become a member of the United Stations?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1033,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_vera_yourOpinionOnIntegration",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1038,
         "description": "n/a",
         "originalText": "Do you want to become a councilor, $(context.player.Name)?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1044,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_sgs_toldGorskyDied",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1049,
         "description": "n/a",
         "originalText": "In that case, I guess I will have to do it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1054,
         "description": "n/a",
         "originalText": "What do you want me to do?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1059,
         "description": "n/a",
         "originalText": "I haven't had the time to tell you yet, but Gorsky died in Core City.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1062,
         "description": "n/a",
         "originalText": "That is horrible, but it makes no sense! Why put in so much effort into robbing specifically Terry and Lora?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1071,
         "description": "n/a",
         "originalText": "The Faceless? What happened to her?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1080,
         "description": "n/a",
         "originalText": "There is... ::Vera makes a lengthy pause, visibly distressed by the conversation. She then recomposes herself and continues.:: ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1086,
         "description": "n/a",
         "originalText": "Yes, yes... I see your point. ::Vera makes a lengthy pause, visibly distressed by the conversation. She then recomposes herself and continues.:: ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1092,
         "description": "n/a",
         "originalText": "I suppose you are right... ::Vera makes a lengthy pause, visibly distressed by the conversation. She then recomposes herself and continues.:: ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1098,
         "description": "n/a",
         "originalText": "::She frowns in disgust.:: Please, I don't want that image in my head. ::She makes a waving motion, as if driving away the dreadful image that was constructed inside her mind. Afterwards, she makes a lengthy pause, visibly distressed by the conversation. Then, she recomposes herself and continues.:: ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1104,
         "description": "n/a",
         "originalText": "Yeah, I think it's a good idea. Humanity is certainly better off united.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1108,
         "description": "n/a",
         "originalText": "I'm not sure. I'm reserving judgment until I learn more about all this.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1112,
         "description": "n/a",
         "originalText": "Hell no. It just sounds to me like a silly facade for this Melek guy ruling the Underrail through a gun.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:C",
+        "classInfo": "(NEI).I:C",
         "objectId": 1113,
         "description": "n/a",
         "originalText": "plot.tradeDocs",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:N",
+        "classInfo": "(NEI).I:N",
         "objectId": 1114,
         "description": "n/a",
         "originalText": "Trade Documents",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:D",
+        "classInfo": "(NEI).I:D",
         "objectId": 1116,
         "description": "n/a",
         "originalText": "This device holds documents detailing the latest changes to the trading agreement between South Gate Station and United Stations.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:VM",
+        "classInfo": "(NEI).I:VM",
         "objectId": 1117,
         "description": "n/a",
         "originalText": "Devices.1",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1125,
         "description": "n/a",
         "originalText": "What benefits does a councilor get?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1129,
         "description": "n/a",
         "originalText": "I will have to think about it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1130,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_Vera_noProblemSearchRoom",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1133,
         "description": "n/a",
         "originalText": "See Ezra; he will let you into Tanner's room. Keep your eyes open and try to find anything at all which might shed some light on what is going on here.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1137,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_Vera_noProblemSearchRoom",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1142,
         "description": "n/a",
         "originalText": "::Your words provoke a shocked expression.::\r\n\r\nWhat? I cannot believe it... this is... No...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1148,
         "description": "n/a",
         "originalText": "The Acid Hunters wanted some special cube the Bakers had in their possession.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1152,
         "description": "n/a",
         "originalText": "That I don't know.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1153,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_faceless_allowPassFull",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1154,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_sgs_lora_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1158,
         "description": "n/a",
         "originalText": "I'm guessing the Faceless took her back to their own city. She is not in Deep Caverns anymore.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1162,
         "description": "n/a",
         "originalText": "I do not know.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1166,
         "description": "n/a",
         "originalText": "I'm afraid she's dead.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1171,
         "description": "n/a",
         "originalText": "Well... Thank you, $(context.player.Name). I will take the keycard and speak to the rest of the council about this. ::She sighs.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1179,
         "description": "n/a",
         "originalText": "I'm very glad to hear that and I couldn't agree more.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1185,
         "description": "n/a",
         "originalText": "You are a wise $(#man/woman). I hope that, like me, your future dealings with the United Stations will encourage you to support their efforts.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1191,
         "description": "n/a",
         "originalText": "That may not be completely untrue, but keep in mind that every great civilization was created with a gun or a sword. I expect that in the future, in a more peaceful and safer time the focus will shift from the Protectorate towards the civil rule of the Union.\r\n\r\nWe'll see. I hope you'll change your mind soon and give the United Stations a chance.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1196,
         "description": "n/a",
         "originalText": "You will be able to directly influence the future of South Gate Station. Right now, we all live in similar living conditions, so do not expect a significant improvement in that regard. However, you will receive a better pay, respect both in and outside of South Gate Station and more.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1203,
         "description": "n/a",
         "originalText": "Certainly. There is no pressure on you. We simply feel you would be a valuable contribution to the council. I will be here once you've make your decision.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1210,
         "description": "n/a",
         "originalText": "On my way.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1211,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_gorsky_died",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1214,
         "description": "n/a",
         "originalText": "This is horrible, horrible. And at a time like this. Please, $(context.player.Name), go speak to Ezra; he will let you into Tanner's room. Um, I'm sorry... I... Anyway, keep your eyes open and try to find anything at all which might shed some light on what is going on here.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1221,
         "description": "n/a",
         "originalText": "::Vera blankly stares at you.:: A cube? What cube? I was never told anything about... any cube. I need to ask Tanner about this, he is the last one who talked to them. I mean, when they contacted us from Core City.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1226,
         "description": "n/a",
         "originalText": "So, these Acid Hunters... What happened to them? You said you met them?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1233,
         "description": "n/a",
         "originalText": "That is terrible! This whole invasion turned into such a horrible thing.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1237,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_findMissingMerchants_finished",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 1239,
         "description": "n/a",
         "originalText": "findMissingMerchants",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1243,
         "description": "n/a",
         "originalText": "I had some questions...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1246,
         "description": "n/a",
         "originalText": "I will leave you now. Goodbye, Vera.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1250,
         "description": "n/a",
         "originalText": "I understand. I had some other questions to ask you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1253,
         "description": "n/a",
         "originalText": "Good. Meanwhile, I think its time I assemble the council. Return to me once you and Ezra inspect Tanner's room.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1259,
         "description": "n/a",
         "originalText": "Yes, in Core City. They were hiding in the sewers. Long story.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1264,
         "description": "n/a",
         "originalText": "Well... Thank you, $(context.player.Name). I will speak to the rest of the council about this. ::She sighs.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1272,
         "description": "n/a",
         "originalText": "::She looks at you, awaiting your question.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1278,
         "description": "n/a",
         "originalText": "Certainly, $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1283,
         "description": "n/a",
         "originalText": "Are they still there?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1289,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_findMissingMerchants_finished",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 1291,
         "description": "n/a",
         "originalText": "findMissingMerchants",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1295,
         "description": "n/a",
         "originalText": "No, they are no longer in their hideout. I don't know where they are now.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1299,
         "description": "n/a",
         "originalText": "They are all dead. I made sure they were dead before I left.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1302,
         "description": "n/a",
         "originalText": "Right... I won't go into any more details about... them. Just tell me one more thing. You said Lora's body was nowhere to be found? What if she is alive?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1313,
         "description": "n/a",
         "originalText": "::Even though you get no immediate response, you have a feeling she approves of your actions.:: Just tell me one more thing. You said Lora's body was nowhere to be found? What if she is alive?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1326,
         "description": "n/a",
         "originalText": "Cornell confessed he shot them both and left them for dead. I don't know what happened to her body.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1327,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_cornell_toldShotLora",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1331,
         "description": "n/a",
         "originalText": "I know even less... ::Vera makes a lengthy pause, visibly distressed by the conversation. She then recomposes herself and continues.:: ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

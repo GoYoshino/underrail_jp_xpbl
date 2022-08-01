@@ -1,922 +1,965 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 25,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 26,
-        "description": "n/a",
-        "originalText": "faccen",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 27,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 31,
         "description": "n/a",
         "originalText": "::The Faceless silently watches you.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 37,
         "description": "n/a",
         "originalText": "::The first reaction you get from this four-legged Faceless is a blank, expressionless stare. Seemingly more metal than flesh, all visible skin on this cybernetic creature has either tubes or wires connecting it to some mechanical part, especially around the abdomen, appearing as though his intestines have spilled out to connect with the massive quadrupedal base. Strange cylinders protrude from the pale skin of the right arm, while a heavy chain gun is attached to the other, mechanical one.\r\n\r\nThe Faceless activates his synthesized voice and speaks to you.::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 43,
         "description": "n/a",
         "originalText": "::He reaches underneath his mask.:: \r\n\r\nWhat do you require?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 46,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_faceless_allowPassFull",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 62,
         "description": "n/a",
         "originalText": "I was told you can help me with ammo supplies.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 69,
         "description": "n/a",
         "originalText": "I need some ammo.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 75,
         "description": "n/a",
         "originalText": "May I ask you a few questions?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 79,
         "description": "n/a",
         "originalText": "Goodbye.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 85,
         "description": "n/a",
         "originalText": "Yes. You are entitled to three ammo packages of your choice: Ammo packages for 5mm, 7.62mm, 8.6mm and 9mm contain one hundred rounds; for .44 and 12.7 - fifty rounds. Standard, W2C and JHP rounds are available for the aforementioned calibers. \r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 89,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_fl_quad_askAmmoFirstTime",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 91,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_fl_ammoRemaining",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 98,
         "description": "n/a",
         "originalText": "You are entitled to three ammo packages.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 105,
         "description": "n/a",
         "originalText": "You are entitled to two more ammo packages.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 112,
         "description": "n/a",
         "originalText": "You are entitled to one more ammo package.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 115,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_facelessCentaur",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 119,
         "description": "n/a",
         "originalText": "No, you may not.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 123,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_facelessCentaur",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 126,
         "description": "n/a",
         "originalText": "::He reaches underneath his mask before returning to what he was doing.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 129,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_fl_quad_askAmmoFirstTime",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 134,
         "description": "n/a",
         "originalText": "Twelve gauge shotgun shells - fifty shells per package; loaded with six-pellet large, twelve-pellet medium or twenty-pellet small steel shot.\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 140,
         "description": "n/a",
         "originalText": "Bolts - two hundred per package. Batteries - four plasma or eight standard fusion cells per package.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 143,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_fl_quad_noMoreAmmoForYou",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 144,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_fl_quad_askAmmoFirstTime",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 145,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_fl_ammoRemaining",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 161,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_fl_ammoRemaining",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 163,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_fl_ammoRemaining",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".DLCIIC.DLCIIC",
+        "classInfo": "(DLCIIC).DLCIIC",
         "objectId": 165,
         "description": "n/a",
         "originalText": "xpbl",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 169,
         "description": "n/a",
         "originalText": "You may now make your selection.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 175,
         "description": "n/a",
         "originalText": "I'll take the standard rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 179,
         "description": "n/a",
         "originalText": "I'll take the W2C rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 183,
         "description": "n/a",
         "originalText": "I'll take the JHP rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 188,
         "description": "n/a",
         "originalText": "I'll take the shotgun shells.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 192,
         "description": "n/a",
         "originalText": "I'll take two hundred bolts.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 196,
         "description": "n/a",
         "originalText": "I'll take eight fusion cells.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 200,
         "description": "n/a",
         "originalText": "I'll take four plasma cells.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 206,
         "description": "n/a",
         "originalText": "Don't you have any grenades or something similar?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 210,
         "description": "n/a",
         "originalText": "I'll come back later.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 213,
         "description": "n/a",
         "originalText": "Which caliber?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 225,
         "description": "n/a",
         "originalText": "Which caliber?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 237,
         "description": "n/a",
         "originalText": "Which caliber?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".DLCIIC.DLCIIC",
+        "classInfo": "(DLCIIC).DLCIIC",
         "objectId": 247,
         "description": "n/a",
         "originalText": "xpbl",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 250,
         "description": "n/a",
         "originalText": "Which shot type?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 261,
         "description": "n/a",
         "originalText": "::He gives you one bolt package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 268,
         "description": "n/a",
         "originalText": "::He gives you one battery package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 275,
         "description": "n/a",
         "originalText": "::He gives you one battery package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 278,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_fl_quad_askGrenades",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 282,
         "description": "n/a",
         "originalText": "We do not have any explosive weapons for you. Our supplies are currently limited.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 286,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_fl_quad_askGrenades",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 290,
         "description": "n/a",
         "originalText": "That is acceptable.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 296,
         "description": "n/a",
         "originalText": "I'll take a hundred 5mm rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 300,
         "description": "n/a",
         "originalText": "I'll take a hundred 7.62mm rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 304,
         "description": "n/a",
         "originalText": "I'll take a hundred 8.6mm rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 308,
         "description": "n/a",
         "originalText": "I'll take a hundred 9mm rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 312,
         "description": "n/a",
         "originalText": "I'll take fifty .44 rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 316,
         "description": "n/a",
         "originalText": "I'll take fifty 12.7mm rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 320,
         "description": "n/a",
         "originalText": "Actually, I'll take something else.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 324,
         "description": "n/a",
         "originalText": "I'll take a hundred 5mm rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 329,
         "description": "n/a",
         "originalText": "I'll take a hundred 7.62mm rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 333,
         "description": "n/a",
         "originalText": "I'll take a hundred 8.6mm rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 337,
         "description": "n/a",
         "originalText": "I'll take a hundred 9mm rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 341,
         "description": "n/a",
         "originalText": "I'll take fifty .44 rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 345,
         "description": "n/a",
         "originalText": "I'll take fifty 12.7mm rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 349,
         "description": "n/a",
         "originalText": "I'll take a hundred 5mm rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 353,
         "description": "n/a",
         "originalText": "I'll take a hundred 7.62mm rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 357,
         "description": "n/a",
         "originalText": "I'll take a hundred 8.6mm rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 361,
         "description": "n/a",
         "originalText": "I'll take a hundred 9mm rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 365,
         "description": "n/a",
         "originalText": "I'll take fifty .44 rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 369,
         "description": "n/a",
         "originalText": "I'll take fifty 12.7mm rounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 373,
         "description": "n/a",
         "originalText": "I'll take fifty six-pellet shells.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 377,
         "description": "n/a",
         "originalText": "I'll take fifty twelve-pellet shells.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 381,
         "description": "n/a",
         "originalText": "I'll take fifty twenty-pellet shells.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 396,
-        "description": "n/a",
-        "originalText": "faccen",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 397,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 404,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 411,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 418,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 425,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 432,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 439,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 445,
         "description": "n/a",
         "originalText": "::He says nothing.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 452,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 458,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 467,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 474,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 481,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 488,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 495,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 502,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 509,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 516,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 523,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 530,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 537,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 544,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 551,
         "description": "n/a",
         "originalText": "::He gives you one ammo package.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 558,
         "description": "n/a",
         "originalText": "I may not give you any more ammo packages.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 562,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc_fl_ammoRemaining",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 611,
-        "description": "n/a",
-        "originalText": "faccen",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 612,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 615,
-        "description": "n/a",
-        "originalText": "faccen",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 616,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 619,
-        "description": "n/a",
-        "originalText": "faccen",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 620,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 622,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_dc_fl_quad_noMoreAmmoForYou",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 724,
         "description": "n/a",
         "originalText": "ammo\\bolt",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>ESI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>ESI2#-).LIDP:P",
         "objectId": 725,
         "description": "n/a",
         "originalText": "expendables\\energysources\\fusioncell",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>ESI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>ESI2#-).LIDP:P",
         "objectId": 726,
         "description": "n/a",
         "originalText": "expendables\\energysources\\plasmacell",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 755,
         "description": "n/a",
         "originalText": "ammo\\caliber_762_w2c",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 808,
         "description": "n/a",
         "originalText": "ammo\\caliber_5_std",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 809,
         "description": "n/a",
         "originalText": "ammo\\caliber_762_std",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 810,
         "description": "n/a",
         "originalText": "ammo\\caliber_86_std",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 811,
         "description": "n/a",
         "originalText": "ammo\\caliber_9_std",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 812,
         "description": "n/a",
         "originalText": "ammo\\caliber_44_std",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 813,
         "description": "n/a",
         "originalText": "ammo\\caliber_127_std",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 814,
         "description": "n/a",
         "originalText": "ammo\\caliber_5_w2c",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 815,
         "description": "n/a",
         "originalText": "ammo\\caliber_86_w2c",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 816,
         "description": "n/a",
         "originalText": "ammo\\caliber_9_w2c",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 817,
         "description": "n/a",
         "originalText": "ammo\\caliber_44_w2c",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 818,
         "description": "n/a",
         "originalText": "ammo\\caliber_127_w2c",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 819,
         "description": "n/a",
         "originalText": "ammo\\caliber_5_jhp",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 820,
         "description": "n/a",
         "originalText": "ammo\\caliber_762_jhp",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 821,
         "description": "n/a",
         "originalText": "ammo\\caliber_86_jhp",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 822,
         "description": "n/a",
         "originalText": "ammo\\caliber_9_jhp",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 823,
         "description": "n/a",
         "originalText": "ammo\\caliber_44_jhp",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 824,
         "description": "n/a",
         "originalText": "ammo\\caliber_127_jhp",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 825,
         "description": "n/a",
         "originalText": "ammo\\xpbl\\shotgunshell_6",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 826,
         "description": "n/a",
         "originalText": "ammo\\xpbl\\shotgunshell_12",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>AI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>AI2#-).LIDP:P",
         "objectId": 827,
         "description": "n/a",
         "originalText": "ammo\\xpbl\\shotgunshell_20",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

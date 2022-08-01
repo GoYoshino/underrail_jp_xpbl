@@ -1,845 +1,941 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 33,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 34,
-        "description": "n/a",
-        "originalText": "alex",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 35,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 40,
         "description": "n/a",
         "originalText": "::You come up to a short, stocky man looking at the table in front of him. The table is littered with numerous glasses, out of which only one is full; as he picks it up, your eyes become drawn to a sizable coal-black tattoo on his right arm. You stare at the ink: It depicts an intricate earth fissure which starts from the elbow and moves down to his hand, with tiny, angular cracks radiating from it in all directions. Upon looking more carefully, however, you realize that the center of the tattoo is actually a large scar, effectively making the tattoo its embellishment. Your curious stare provokes an indifferent one from him as well as a couple of words expressed in a mildly annoyed manner.::\r\n\r\nYou need something, $(#bud/sugar)?\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 46,
         "description": "n/a",
         "originalText": "Eh?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 49,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_alex_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 77,
         "description": "n/a",
         "originalText": "Who are you?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 81,
         "description": "n/a",
         "originalText": "Hi, my name is $(context.player.Name) and I had some questions.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 85,
         "description": "n/a",
         "originalText": "You have an interesting tattoo there.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 88,
         "description": "n/a",
         "originalText": "No one, sorry for bothering you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 93,
         "description": "n/a",
         "originalText": "Who are you anyway?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 99,
         "description": "n/a",
         "originalText": "I was wondering if you remember any merchants from SGS ever taking the train you operated. Terry and Lora Baker, husband and wife.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 105,
         "description": "n/a",
         "originalText": "::[Persuade]:: Tell me what happened to your son. Sometimes talking helps.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 110,
         "description": "n/a",
         "originalText": "What can you tell me about your tattooed scar?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 115,
         "description": "n/a",
         "originalText": "Where were the Bakers captured, again?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 121,
         "description": "n/a",
         "originalText": "I heard you got that tattoo while defending your brother from bandits.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 126,
         "description": "n/a",
         "originalText": "What can you tell me about Underrail Express?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 131,
         "description": "n/a",
         "originalText": "Can you not call me \"bud\"?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 136,
         "description": "n/a",
         "originalText": "Can you not call me \"sugar\"?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 139,
         "description": "n/a",
         "originalText": "I gotta go.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 143,
         "description": "n/a",
         "originalText": "Who are *you*?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 148,
         "description": "n/a",
         "originalText": "Questions, questions... a man gets tired of those after a while, especially if they are being asked by random strangers.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 156,
         "description": "n/a",
         "originalText": "Who the hell are you and what do you want?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 159,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_alex_askWhoHeIs",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 162,
         "description": "n/a",
         "originalText": "Why do you ask?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 173,
         "description": "n/a",
         "originalText": "::Your question seems to have struck a chord with him, since he puts down his drink and turns to you.::\r\n\r\nHusband and wife from SGS? South Gate Station?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 179,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_trainOperator_toldAboutAcidHuntersAttackBakers",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 187,
         "description": "n/a",
         "originalText": "It won't help. I've talked to people before. It doesn't help.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 193,
         "description": "n/a",
         "originalText": "Stop asking me about that, aight? Just... leave it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 200,
         "description": "n/a",
         "originalText": "::He takes a look at his scar, staring at it for a few moments, taking a sip of his drink in the process.::\r\n\r\nThe scar is from an accident. The tattoo is from a tattoo shop.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 210,
         "description": "n/a",
         "originalText": "Rail Crossing train station. The gangsters took them to the caves north.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 218,
         "description": "n/a",
         "originalText": "::He is about to take another sip from the glass when your words strike him like one of the trains he operates. He puts the glass down and turns to you.::\r\n\r\nWho told you that?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 223,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_gorge_toldSonKilled",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 224,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_alex_askWhoHeIs",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 228,
         "description": "n/a",
         "originalText": "Go bug someone else about it, aight? The reason I come to places like this is so that I don't have to think about my freakin' job, and now you're reminding me of it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 236,
         "description": "n/a",
         "originalText": "::He gives you an indifferent look.:: Aight, bud, not a problem.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 244,
         "description": "n/a",
         "originalText": "::He gives you an indifferent look.:: Aight, sugar, not a problem.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 257,
         "description": "n/a",
         "originalText": "Is that a yes or a no?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 261,
         "description": "n/a",
         "originalText": "Well, I told you my name - so I'm not a complete stranger.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 265,
         "description": "n/a",
         "originalText": "You seem somewhat familiar.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 270,
         "description": "n/a",
         "originalText": "Gene told me you are one of Underrail Express train operators.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 274,
         "description": "n/a",
         "originalText": "Never mind. Let me ask you something else.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 275,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_alex_askWhoHeIs",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 276,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_trainOperator_toldAboutAcidHuntersAttackBakers",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 277,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_findMissingMerchants_started",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 281,
         "description": "n/a",
         "originalText": "*Yes*! Do you know anything about them?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 285,
         "description": "n/a",
         "originalText": "They went to Core City but never made it back to SGS. I'm trying to learn what happened to them.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 286,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_gorge_toldSonKilled",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 287,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_gorge_toldWholeStory",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 292,
         "description": "n/a",
         "originalText": "::He continues after a pause.:: His name was Timothy. His mother died at birth, so I was all he had, and he was all I had. Until some... some freakin' lowlife scumbags, some dirtbags broke into our house one day, many years ago. We didn't have anything valuable, and I told them that. But they... they weren't there for valuables - but for blood. Psychos. Bastards!\r\n\r\nI tried to protect him. I failed. I squizeed the lives out of those rats as hard as I could, but for my boy... it was too late. The grin on the man's face while he was killing my... my boy still haunts me. I see it even now. It's like he...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 296,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_gorge_toldWholeStory",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 297,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_alex_askTattoo",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 298,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_gorge_toldWholeStory",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 302,
         "description": "n/a",
         "originalText": "Can you tell me a bit more about it?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 306,
         "description": "n/a",
         "originalText": "That's good enough for me. I had other things to ask you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 307,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_trainOperator_toldAboutAcidHuntersAttackBakers",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 308,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_findMissingMerchants_finished",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 312,
         "description": "n/a",
         "originalText": "That's all I know.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 315,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_geneToldRumorsAboutGorge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 316,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_alex_askTattoo",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 317,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_gorge_toldSonKilled",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 321,
         "description": "n/a",
         "originalText": "Gene, the barkeeper.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 325,
         "description": "n/a",
         "originalText": "Let me drink in freakin' peace.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 329,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_alex_don'tCallMeThat",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 334,
         "description": "n/a",
         "originalText": "Better?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 338,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_alex_don'tCallMeThat",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 342,
         "description": "n/a",
         "originalText": "My name is $(context.player.Name) and I had some questions.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 347,
         "description": "n/a",
         "originalText": "::He inspects you for a few seconds too long.:: I'll bite - ask your questions. Now whether you'll get an answer, that's a whole different matter. ::He returns to his drink.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 352,
         "description": "n/a",
         "originalText": "::He chuckles.:: No, you said *a* name. I don't know if it's really yours, $(#bud/sugar). You could be anyone for all I know.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 358,
         "description": "n/a",
         "originalText": "::He answers without looking at you.:: From where?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 363,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_gene_toldAlexIdentity",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 368,
         "description": "n/a",
         "originalText": "::He downs the remainder of his drink in a single gulp, then follows it by contorting his face and holding the expression for a few seconds. When he opens his eyes again he raises his hand and signals the bartender to bring him another drink.::\r\n\r\nYeah, you were told right. I operate one of the trains circling the Lower Underrail.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 374,
         "description": "n/a",
         "originalText": "Aight.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 380,
         "description": "n/a",
         "originalText": "::He makes a long pause, takes full shot of whatever he is having and contorts his face again. This time it took him a bit longer to recuperate, but when he's done he turns to you once more.::\r\n\r\nAight, listen $(#bud/sugar) - I think I know about those people. ::He signals the bartender for another drink.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 385,
         "description": "n/a",
         "originalText": "::He makes a lenghty pause before continuing.:: This scar, one of them slashed my arm with a knife. And the tattoo... I did that myself. My life was torn apart so I... well... ::He abruptly stops talking and finishes his drink.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 395,
         "description": "n/a",
         "originalText": "Nope. ::He takes a sip of his drink.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 402,
         "description": "n/a",
         "originalText": "Well, he was wrong...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 406,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_alex_don'tCallMeThat",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 408,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_alex_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 412,
         "description": "n/a",
         "originalText": "Still, can I just ask you few questions?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 417,
         "description": "n/a",
         "originalText": "Gene told me you are an Underrail Express train operator. Maybe I've seen you before.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 421,
         "description": "n/a",
         "originalText": "You ask a lot of questions, do you know that?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 425,
         "description": "n/a",
         "originalText": "What's it to ya, $(#bud/sugar)? You got a better job to offer, perhaps?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 429,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_alex_askWhoHeIs",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 433,
         "description": "n/a",
         "originalText": "Usually I don't care about people. People - they're jerks, scum. People, I meet and forget - their name, appearance, what we talked about... just like I'm going to forget you and this whole stupid conversation. But those two, I remembered those two. For a strange reason, but I did.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 439,
         "description": "n/a",
         "originalText": "I'm very sorry about your boy. Things like that shouldn't happen.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 443,
         "description": "n/a",
         "originalText": "I understand it is a terrible loss, and it saddens me to hear stories like this. But, you have to be strong. Help others - help yourself! Don't drown your life in liquor.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 447,
         "description": "n/a",
         "originalText": "So you get yourself wasted every chance you get? Is that the man your son would've wanted you to become?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 451,
         "description": "n/a",
         "originalText": "Your son died, yet you are still alive. Maybe you were more concerned whether you were going to survive, not little Tim.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 455,
         "description": "n/a",
         "originalText": "I have no comment.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 459,
         "description": "n/a",
         "originalText": "Why not?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 462,
         "description": "n/a",
         "originalText": "::Gorge goes for the glass, but freezes after a second. He remains like that for a few moments, then faces you again.::\r\n\r\nHe was wrong, aight. It... wasn't my brother. It was my son.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 467,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_gene_toldAlexIdentity",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 470,
         "description": "n/a",
         "originalText": "Well, $(#bud/sugar), so do you. Now, what did you say about me being familiar?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 477,
         "description": "n/a",
         "originalText": "::He continues after his drink arrives.:: Aight, let's get things rolling. I remember first seeing them right here in Core City. I was chillin' by my train when they approached me and asked where the train was headed. I told them to Rail Crossing, and they boarded the train. I heard them mention SGS at some point, can't be bothered to remember exactly when, but I think you and I are thinking of the same people.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 485,
         "description": "n/a",
         "originalText": "::Before you even get the chance to speak your thoughts, Gorge angrily interrupts you.::\r\n\r\nWhatever you were gonna say - I don't care. It's meaningless. All this was meaningless. Now you can politely DROP OFF! And if you ask me about my son, scar, tattoo or... or anything like that again, I'm gonna smash your freakin' windpipe. You dig that, $(#bud/sugar)?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 491,
         "description": "n/a",
         "originalText": "Why should I?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 500,
         "description": "n/a",
         "originalText": "I'm very sorry to hear that.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 504,
         "description": "n/a",
         "originalText": "Can you tell me more about what happened?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 508,
         "description": "n/a",
         "originalText": "Forget about it. I had other questions for you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 512,
         "description": "n/a",
         "originalText": "Rail Crossing, why would they go to Rail Crossing?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 516,
         "description": "n/a",
         "originalText": "Go on...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 520,
         "description": "n/a",
         "originalText": "::He signals the bartender for another drink, then turns to you?::\r\n\r\nGet it? Aight?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 524,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_alex_askTattoo",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 528,
         "description": "n/a",
         "originalText": "Because I asked you nicely.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 532,
         "description": "n/a",
         "originalText": "Because I really want to know.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 536,
         "description": "n/a",
         "originalText": "Let's forget about this. I have more important things to ask you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 539,
         "description": "n/a",
         "originalText": "I gain nothing out of you being sorry, so spare me.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 546,
         "description": "n/a",
         "originalText": "Look, you ask too many questions, $(#bud/sugar). I don't know why I'm even freakin' talking to you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 552,
         "description": "n/a",
         "originalText": "How would I know that, $(#bud/sugar)? All I knew about them was that they were headed for Rail Crossing - that's it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 557,
         "description": "n/a",
         "originalText": "So we arrived at the Rail Crossing station. I walked outside to stretch my freakin' legs when I saw those two friends of yours being harassed by some gang at the station, which was mostly empty at the time. So, these damn gangsters pulled out their weapons and forced the duo into the caves north. Dragged them, actually. That was the last I've seen of them.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 565,
         "description": "n/a",
         "originalText": "Well, tough luck. Any more questions?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 571,
         "description": "n/a",
         "originalText": "Why didn't you do anything to help them? How could you have just stood there and watched all that?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 575,
         "description": "n/a",
         "originalText": "Can you tell me anything about the gang that kidnapped them?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 578,
         "description": "n/a",
         "originalText": "::He chuckles.:: Help them? Don't be stupid, $(#bud/sister). Every day I see people getting killed like pigs, or beaten or, or pulled away somewhere into the darkness. If I tried to help every single poor soul I'd be a goner by now. Dead. Ice cold, $(#bud/sister). I mind my own business and let the world do its freakin' thing.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 584,
         "description": "n/a",
         "originalText": "Gangsters like any other gangsters - filthy, dumb and packing major firepower. ::He laughs.:: Hmmm - actually, those folks had chemical pistols as far as I can remember. That's the only thing I can tell you about them.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 592,
         "description": "n/a",
         "originalText": "You just told me you don't care about people and forget everyone, yet you remembered Terry and Lora. How come?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 596,
         "description": "n/a",
         "originalText": "Is that all you know?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 599,
         "description": "n/a",
         "originalText": "::He pauses to think, then takes a solid gulp of his drink.::\r\n\r\nI don't know. I usually get sick when I see people care so much about each other, like those two did. At least from what I saw at the station. Maybe it's the negative emotion I felt that got engraved in my mind. I don't know. Don't care, though.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 606,
         "description": "n/a",
         "originalText": "::He finishes his drink.:: That is all. Hope that's what you wanted, $(#bud/sister), and to give you some advice while we're here: Forget about your friends - they are probably rotting somewhere in the caves right now. I've seen a lot of that stuff and... just forget about them.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

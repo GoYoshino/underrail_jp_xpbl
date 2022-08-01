@@ -1,264 +1,277 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 30,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 31,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 32,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 37,
         "description": "n/a",
         "originalText": "::LEMCO LC387 - ::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 44,
         "description": "n/a",
         "originalText": "::Welcome, P. Bridges::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 50,
         "description": "n/a",
         "originalText": "::Welcome, guest::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 57,
         "description": "n/a",
         "originalText": "::Please select one of the following options: ::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 67,
         "description": "n/a",
         "originalText": "plot.xpbl_philsArm",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 68,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_xpbl_implantedChip_PhilBridges",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 73,
         "description": "n/a",
         "originalText": "::Surveillance system::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 78,
         "description": "n/a",
         "originalText": "::Toggle north section gate::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 84,
         "description": "n/a",
         "originalText": "::Toggle south section gate::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 89,
         "description": "n/a",
         "originalText": "::Toggle south section gate::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 93,
         "description": "n/a",
         "originalText": "::Contact active security supervisor::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 96,
         "description": "n/a",
         "originalText": "::Summon available Servants::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 100,
         "description": "n/a",
         "originalText": "::Exit::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 104,
         "description": "n/a",
         "originalText": "::Surveillance system is online.\r\n\r\nNumber of active security cameras in Nexus of Technology: $(context.loc_xpbl_rf_numberOfSecCamerasActive)::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 111,
         "description": "n/a",
         "originalText": "::Surveillance system is offline.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 117,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_security_southGateUnlocked",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 120,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_security_southGateUnlocked",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 123,
         "description": "n/a",
         "originalText": "::Warning: Gate locked.\r\n\r\nYou do not have permission to open this gate. Please contact a security supervisor for more details.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 131,
         "description": "n/a",
         "originalText": "::No active security supervisors detected. There may be temporary communication problems preventing this. \r\n\r\nPlease try again later.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 134,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.none",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 135,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_security_camerasDisabled",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 140,
         "description": "n/a",
         "originalText": "::[Hacking] Disable the surveillance system::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 144,
         "description": "n/a",
         "originalText": "::Back::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".OLLGJ.OLLGJ:AN",
+        "classInfo": "(OLLGJ).OLLGJ:AN",
         "objectId": 147,
         "description": "n/a",
         "originalText": "xpbl_rf_sec",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".OLLGJ.OLLGJ:AN",
+        "classInfo": "(OLLGJ).OLLGJ:AN",
         "objectId": 151,
         "description": "n/a",
         "originalText": "xpbl_rf_sec",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 157,
         "description": "n/a",
         "originalText": "::[Hacking] Unlock the gate::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 161,
         "description": "n/a",
         "originalText": "::Back::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 168,
         "description": "n/a",
         "originalText": "::Disabling surveillance system...\r\n\r\nLevel 0... Done.\r\nLevel 1... Done.\r\nLevel 2... Done.\r\nLevel 3... Done.\r\nLevel 4... Done.\r\nLevel 5... Done.\r\nLevel 6... Done.\r\nLevel 7... Done.\r\nLevel 8... Done.\r\nLevel 9... Done.\r\nLogging... Done.\r\n\r\nSurveillance system disabled successfully..::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 174,
         "description": "n/a",
         "originalText": "::Unknown error::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 182,
         "description": "n/a",
         "originalText": "::Security technology level south section gate is now unlocked.\r\n\r\n::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MPMSC.MPMSC:SN",
+        "classInfo": "(MPMSC).MPMSC:SN",
         "objectId": 185,
         "description": "n/a",
         "originalText": "Hacking",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 189,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_security_camerasDisabled",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MPMSC.MPMSC:SN",
+        "classInfo": "(MPMSC).MPMSC:SN",
         "objectId": 190,
         "description": "n/a",
         "originalText": "Hacking",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 192,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_security_southGateUnlocked",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

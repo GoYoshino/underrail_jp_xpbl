@@ -1,117 +1,109 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 21,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 22,
-        "description": "n/a",
-        "originalText": "psycho",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 23,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 27,
         "description": "n/a",
         "originalText": "::The creature is motionless and doesn't react to your presence in any way.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 35,
         "description": "n/a",
         "originalText": "::The creature seems knocked out for the time being. Now that you have a chance to take a closer look can you truly admire its impressive size. However, it appears that its rough, scarred carapace reveals more than you had expected. This creature is one of extreme age - how old exactly, you are unsure. Miniature landscapes adorn the beetle's back; every scar, scratch or defect on it illustrates a separate story of this being's long past. But time to study it you do not have, however, as the creature could regain consciousness at any moment.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 40,
         "description": "n/a",
         "originalText": "::The creature ignores your presence.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 47,
         "description": "n/a",
         "originalText": "::Leave.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 57,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quests_tch_rista_PacifyPsiBeetle_beetlePacified",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 58,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quests_tch_rista_PacifyPsiBeetleCompleted",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 59,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quests_tch_rista_PacifyPsiBeetleStarted",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 60,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quests_tch_rista_PacifyPsiBeetleCompleted",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 67,
         "description": "n/a",
         "originalText": "::Use the neural pacifier on the creature.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 68,
         "description": "n/a",
         "originalText": "plot.tch_neuralPacifier",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 71,
         "description": "n/a",
         "originalText": "::You perform the procedure as you were instructed: You position the device so that the markers match the carapace opening line of the beetle's head and press the activation button on the neural pacifier. As soon as you do so, you hear the device activating and, after a brief delay, the faint sound of the carapace cracking reaches your ear. You expected some reaction from the creature, twitching or some other motion as a consequence of this probably painful intrusion - but the beetle remains static. Soon, everything quiets down.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 76,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quests_tch_rista_PacifyPsiBeetle_beetlePacified",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".RIFPA.RIFPA:IC",
+        "classInfo": "(RIFPA).RIFPA:IC",
         "objectId": 78,
         "description": "n/a",
         "originalText": "plot.tch_neuralPacifier",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

@@ -1,352 +1,405 @@
 [
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Key",
         "objectId": 3,
-        "description": "n/a",
+        "description": "key='generalinfo'",
         "originalText": "generalinfo",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Value",
         "objectId": 4,
         "description": "n/a",
         "originalText": "As your character levels up, they will receive a number of skill points that you can distribute in various areas. You may not invest more than 5 skill points (three times that at level one) per level in any given skill.\r\n\r\nEach skill is affected by one of your character's base ability scores, but the amount of points you may invest in any skill is not restricted by them.\r\n\r\nSome skills may benefit from others through skill synergy.\r\n\r\nThe number in brackets represents the skill level with all factors counted in.",
-        "translatedText": "キャラクターがレベルアップすると、一定のスキルポイントが手に入ります。各スキルレベルの上限はLv1の段階で15で、レベルが上がるごとに5ずつ上昇します。\r\n\r\nスキルレベルは振り分けた数値とは別に基礎能力値に応じた補正を受けますが、レベルによる制限は補正後の値にはかかりません。\r\n\r\nスキルにはシナジーが設定されていることがあり、他のスキルレベルを上昇させます。\r\n\r\n補正後のスキルレベルは、補正前の値の後ろに()で表示されます。"
+        "translatedText": "キャラクターがレベルアップすると、一定のスキルポイントが手に入ります。各スキルレベルの上限はLv1の段階で15で、レベルが上がるごとに5ずつ上昇します。\r\n\r\nスキルレベルは振り分けた数値とは別に基礎能力値に応じた補正を受けますが、レベルによる制限は補正後の値にはかかりません。\r\n\r\nスキルにはシナジーが設定されていることがあり、他のスキルレベルを上昇させます。\r\n\r\n補正後のスキルレベルは、補正前の値の後ろに()で表示されます。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Key",
         "objectId": 5,
-        "description": "n/a",
+        "description": "key='guns'",
         "originalText": "guns",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Value",
         "objectId": 6,
         "description": "n/a",
         "originalText": "Increases your precision and damage with any type of pistol, SMG or rifle. This includes both firearms and energy weapons.\r\n\r\nAlso, the higher your skill level the more advanced weapons you can wield effectively.",
-        "translatedText": "銃器／Guns\r\nピストル(火薬、エネルギー両方)、サブマシンガン、ライフルの精度と威力が上昇する。\r\n\r\nまた武器には装備条件が存在し、スキルレベルが不足すると性能が下がる。"
+        "translatedText": "銃器／Guns\r\nピストル(火薬、エネルギー両方)、サブマシンガン、ライフルの精度と威力が上昇する。\r\n\r\nまた武器には装備条件が存在し、スキルレベルが不足すると性能が下がる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Key",
         "objectId": 7,
-        "description": "n/a",
+        "description": "key='crossbows'",
         "originalText": "crossbows",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Value",
         "objectId": 8,
         "description": "n/a",
         "originalText": "Increases your precision and damage with crossbows.",
-        "translatedText": "クロスボウ／Crossbows\r\nクロスボウの精度と威力が上昇する。"
+        "translatedText": "クロスボウ／Crossbows\r\nクロスボウの精度と威力が上昇する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:3:Key",
         "objectId": 9,
-        "description": "n/a",
+        "description": "key='grenades-old'",
         "originalText": "grenades-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:3:Value",
         "objectId": 10,
         "description": "n/a",
         "originalText": "Allows you to throw grenades more quickly, more often and across greater distance.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:4:Key",
         "objectId": 11,
-        "description": "n/a",
+        "description": "key='throwing'",
         "originalText": "throwing",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:4:Value",
         "objectId": 12,
         "description": "n/a",
         "originalText": "Increases your precision with all thrown weapons and utilities, including grenades.",
-        "translatedText": "投擲／Throwing\r\nあらゆる投擲武器の攻撃の精度が上昇し、投擲アイテムが狙った場所に着弾しやすくなる。"
+        "translatedText": "投擲／Throwing\r\nあらゆる投擲武器の攻撃の精度が上昇し、投擲アイテムが狙った場所に着弾しやすくなる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:5:Key",
         "objectId": 13,
-        "description": "n/a",
+        "description": "key='melee'",
         "originalText": "melee",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:5:Value",
         "objectId": 14,
         "description": "n/a",
         "originalText": "Increases mechanical damage with melee weapons and unarmed attacks and helps you overcome your target's dodge rating.",
-        "translatedText": "近接攻撃／Melee\r\n近接武器と素手の物理ダメージが上昇する。高いほど敵の回避能力にペナルティを与える。"
+        "translatedText": "近接攻撃／Melee\r\n近接武器と素手の物理ダメージが上昇する。高いほど敵の回避能力にペナルティを与える。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:6:Key",
         "objectId": 15,
-        "description": "n/a",
+        "description": "key='dodge'",
         "originalText": "dodge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:6:Value",
         "objectId": 16,
         "description": "n/a",
         "originalText": "Increases your chance to avoid melee attacks.",
-        "translatedText": "近接回避／Dodge\r\n近接攻撃の回避率が上昇する。"
+        "translatedText": "近接回避／Dodge\r\n近接攻撃の回避率が上昇する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:7:Key",
         "objectId": 17,
-        "description": "n/a",
+        "description": "key='evasion'",
         "originalText": "evasion",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:7:Value",
         "objectId": 18,
         "description": "n/a",
         "originalText": "Increases your chance to avoid a ranged attack. Reduces damage you receive from area of effect attacks.",
-        "translatedText": "遠隔回避／Evasion\r\n遠隔攻撃の回避率が上昇する。範囲攻撃のダメージを軽減する。"
+        "translatedText": "遠隔回避／Evasion\r\n遠隔攻撃の回避率が上昇する。範囲攻撃のダメージを軽減する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:8:Key",
         "objectId": 19,
-        "description": "n/a",
+        "description": "key='stealth'",
         "originalText": "stealth",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:8:Value",
         "objectId": 20,
         "description": "n/a",
         "originalText": "Decreases the chance that you'll be spotted while in stealth mode. Also affects numerous aspects of stealth combat.",
-        "translatedText": "ステルス／Stalth\r\nステルスモードのときに発見される確率が低下する。ステルス状態で戦闘している時も多くの判定に影響する。"
+        "translatedText": "ステルス／Stalth\r\nステルスモードのときに発見される確率が低下する。ステルス状態で戦闘している時も多くの判定に影響する。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:9:Key",
         "objectId": 21,
-        "description": "n/a",
+        "description": "key='hacking'",
         "originalText": "hacking",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:9:Value",
         "objectId": 22,
         "description": "n/a",
         "originalText": "Allows you to hack all kinds of computer devices, such as electronic locks, cameras, sentry turrets, etc.",
-        "translatedText": "ハッキング／Hacking\r\nあらゆるコンピュータデバイス、電子錠、カメラ、セントリーガンなどをハッキング可能になる。"
+        "translatedText": "ハッキング／Hacking\r\nあらゆるコンピュータデバイス、電子錠、カメラ、セントリーガンなどをハッキング可能になる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:10:Key",
         "objectId": 23,
-        "description": "n/a",
+        "description": "key='lockpicking'",
         "originalText": "lockpicking",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:10:Value",
         "objectId": 24,
         "description": "n/a",
         "originalText": "Allows you to pick mechanical locks and dismantle other mechanical barriers such as ventilation shafts.",
-        "translatedText": "解錠／lockpicking\r\n物理的な錠を解錠したり、通気ダクト／Ventilation Shaftを解体したりする能力。"
+        "translatedText": "解錠／lockpicking\r\n物理的な錠を解錠したり、通気ダクト／Ventilation Shaftを解体したりする能力。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:11:Key",
         "objectId": 25,
-        "description": "n/a",
+        "description": "key='pickpocketing'",
         "originalText": "pickpocketing",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:11:Value",
         "objectId": 26,
         "description": "n/a",
         "originalText": "Allows you to steal items from other characters.",
-        "translatedText": "スリ／Pickpocketing\r\n他のキャラクターから物を盗めるようになる。"
+        "translatedText": "スリ／Pickpocketing\r\n他のキャラクターから物を盗めるようになる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:12:Key",
         "objectId": 27,
-        "description": "n/a",
+        "description": "key='mechanics'",
         "originalText": "mechanics",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:12:Value",
         "objectId": 28,
         "description": "n/a",
         "originalText": "Represents your knowledge of mechanics. This skill is primarily used in crafting various items, such as weapons, armors and traps.",
-        "translatedText": "機械整備／Mechanics\r\n機械整備の知識を表す。主に武器・アーマー・罠などのアイテムをクラフトするのに用いられる。"
+        "translatedText": "機械整備／Mechanics\r\n機械整備の知識を表す。主に武器・アーマー・罠などのアイテムをクラフトするのに用いられる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:13:Key",
         "objectId": 29,
-        "description": "n/a",
+        "description": "key='electronics'",
         "originalText": "electronics",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:13:Value",
         "objectId": 30,
         "description": "n/a",
         "originalText": "Represents your knowledge of electronics. This skill is primarily used in crafting various items, such as various electronic utilities and energy weapons.",
-        "translatedText": "電子工学／Electronics\r\n電子工学の知識を表す。様々な電子デバイスやエネルギー武器などのアイテムをクラフトするのに主に用いられる。"
+        "translatedText": "電子工学／Electronics\r\n電子工学の知識を表す。様々な電子デバイスやエネルギー武器などのアイテムをクラフトするのに主に用いられる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:14:Key",
         "objectId": 31,
-        "description": "n/a",
+        "description": "key='chemistry'",
         "originalText": "chemistry",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:14:Value",
         "objectId": 32,
         "description": "n/a",
         "originalText": "Represents your knowledge of chemistry. This skill is primarily used in crafting various items, such as explosives.",
-        "translatedText": "化学／Chemistry\r\n化学の知識を表す。主に爆薬などの様々なアイテムをクラフトするのに用いられる。"
+        "translatedText": "化学／Chemistry\r\n化学の知識を表す。主に爆薬などの様々なアイテムをクラフトするのに用いられる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:15:Key",
         "objectId": 33,
-        "description": "n/a",
+        "description": "key='biology'",
         "originalText": "biology",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:15:Value",
         "objectId": 34,
         "description": "n/a",
         "originalText": "Represents your knowledge of biology. This skill is primarily used in crafting various items, such as healing and psi restoring concoctions. It also enables you to extract useful substances from plants and animals.",
-        "translatedText": "生物学／Biology\r\n生物学の知識を表す。回復薬やPSI回復薬剤など、様々なアイテムをクラフトするのに用いられる。植物や動物から有用な化学物質を抽出するのにも用いる。"
+        "translatedText": "生物学／Biology\r\n生物学の知識を表す。回復薬やPSI回復薬剤など、様々なアイテムをクラフトするのに用いられる。植物や動物から有用な化学物質を抽出するのにも用いる。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:16:Key",
         "objectId": 35,
-        "description": "n/a",
+        "description": "key='tailoring'",
         "originalText": "tailoring",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:16:Value",
         "objectId": 36,
         "description": "n/a",
         "originalText": "Represents your skill in tailoring leather and cloth materials into pieces of armor.",
-        "translatedText": "裁縫／Tailoring\r\n革や布の素材からアーマーを制作する能力を表す。"
+        "translatedText": "裁縫／Tailoring\r\n革や布の素材からアーマーを制作する能力を表す。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:17:Key",
         "objectId": 37,
-        "description": "n/a",
+        "description": "key='thought control'",
         "originalText": "thought control",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:17:Value",
         "objectId": 38,
         "description": "n/a",
         "originalText": "Ability to influence the minds of other living creatures through mental suggestion and domination. Also the ability to focus and enhance your own mental processes and to take greater control of your body.",
-        "translatedText": "Thought Control／精神操作\r\n他の生命体の精神に干渉し、意思を誘導したり支配する能力。この操作能力は自分自身に対しても使うことができ、自らの精神作用を操作することで集中状態を作りだしたり、肉体の本来不可能なコントロールを可能にする。"
+        "translatedText": "Thought Control／精神操作\r\n他の生命体の精神に干渉し、意思を誘導したり支配する能力。この操作能力は自分自身に対しても使うことができ、自らの精神作用を操作することで集中状態を作りだしたり、肉体の本来不可能なコントロールを可能にする。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:18:Key",
         "objectId": 39,
-        "description": "n/a",
+        "description": "key='psychokinesis'",
         "originalText": "psychokinesis",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:18:Value",
         "objectId": 40,
         "description": "n/a",
         "originalText": "Ability of the mind to exert mechanical force, as well as to emit electric currents and project electromagnetic fields.",
-        "translatedText": "サイコキネシス／Psychokinesis\r\n小さな放電を起こしたり、電磁フィールドを操るなど、精神による物理干渉を行う能力。"
+        "translatedText": "サイコキネシス／Psychokinesis\r\n小さな放電を起こしたり、電磁フィールドを操るなど、精神による物理干渉を行う能力。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:19:Key",
         "objectId": 41,
-        "description": "n/a",
+        "description": "key='metathermics'",
         "originalText": "metathermics",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:19:Value",
         "objectId": 42,
         "description": "n/a",
         "originalText": "Ability of mind to initiate and control rapid temperature changes and harness exothermic and endothermic energies.",
-        "translatedText": "温度操作／Metathermics\r\n精神干渉によって発熱と吸熱を操り、急激な温度変化を引き起こす能力。"
+        "translatedText": "温度操作／Metathermics\r\n精神干渉によって発熱と吸熱を操り、急激な温度変化を引き起こす能力。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:20:Key",
         "objectId": 43,
-        "description": "n/a",
+        "description": "key='temporal manipulation'",
         "originalText": "temporal manipulation",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:20:Value",
         "objectId": 44,
         "description": "n/a",
         "originalText": "Ability of mind to manipulate time or time perception on very local level, including partial time suspension, reversal and recurrence.",
-        "translatedText": "時空操作／Temporal Manipulation\r\n時間停止・巻き戻し・ループなど、非常に局所的な時間操作を行ったり、あるいは時間認知を操作する能力。"
+        "translatedText": "時空操作／Temporal Manipulation\r\n時間停止・巻き戻し・ループなど、非常に局所的な時間操作を行ったり、あるいは時間認知を操作する能力。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:21:Key",
         "objectId": 45,
-        "description": "n/a",
+        "description": "key='persuasion'",
         "originalText": "persuasion",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:21:Value",
         "objectId": 46,
         "description": "n/a",
         "originalText": "Your ability to convince the other party to see things your way through non-violent means.",
-        "translatedText": "話術／Persuation\r\n他者を説得し、平和的な解決を実現する能力。"
+        "translatedText": "話術／Persuation\r\n他者を説得し、平和的な解決を実現する能力。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:22:Key",
         "objectId": 47,
-        "description": "n/a",
+        "description": "key='intimidation'",
         "originalText": "intimidation",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:22:Value",
         "objectId": 48,
         "description": "n/a",
         "originalText": "Your ability to make someone act out of fear.",
-        "translatedText": "脅迫／Intimidation\r\n他者を恐怖でコントロールする能力。"
+        "translatedText": "脅迫／Intimidation\r\n他者を恐怖でコントロールする能力。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:23:Key",
         "objectId": 49,
-        "description": "n/a",
+        "description": "key='mercantile'",
         "originalText": "mercantile",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:23:Value",
         "objectId": 50,
         "description": "n/a",
         "originalText": "Your ability to work out favorable prices in a business transaction.",
-        "translatedText": "商売／Merchantile\r\n金銭の絡むあらゆる交渉を有利に行う能力。"
+        "translatedText": "商売／Merchantile\r\n金銭の絡むあらゆる交渉を有利に行う能力。",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:24:Key",
         "objectId": 51,
-        "description": "n/a",
+        "description": "key='traps'",
         "originalText": "traps",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:24:Value",
         "objectId": 52,
         "description": "n/a",
         "originalText": "Allows you to plant and disarm increasingly more powerful traps. The higher your skill is the harder your traps are to spot and disarm.\r\n\r\nAlso increases your chance of spotting traps.",
-        "translatedText": "罠術／Traps\r\nスキルレベルが高いほど、より強力な罠を設置したり解体できるようになる。また高いほど、設置された罠は発見や解除が難しくなる。\r\n\r\n自分自身の罠の発見力にも影響する。"
+        "translatedText": "罠術／Traps\r\nスキルレベルが高いほど、より強力な罠を設置したり解体できるようになる。また高いほど、設置された罠は発見や解除が難しくなる。\r\n\r\n自分自身の罠の発見力にも影響する。",
+        "ignore": false
+    },
+    {
+        "jsonVersion": "0.3"
     }
 ]

@@ -1,1580 +1,1765 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 57,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 58,
-        "description": "n/a",
-        "originalText": "edstrom",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 59,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 66,
         "description": "n/a",
         "originalText": "::You see a short, middle-aged man sitting behind the desk and ::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 74,
         "description": "n/a",
         "originalText": "Good to see you, $(context.player.Name). I have something important to discuss with you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 80,
         "description": "n/a",
         "originalText": "Is that one of our young and promising JKK operatives? ::He smiles.:: What can Gunnar do for you?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 89,
         "description": "n/a",
         "originalText": "::gazing into an azure drink which he holds elegantly by the long, thin stem of the cocktail glass containing it. He carefully puts it ::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 95,
         "description": "n/a",
         "originalText": "::admiring a bottle of Northern King, a strong liquor you remember reading about along time ago; you also remember that its price had far too many zeros for your liking, despite the taste having been described as being worth it. He puts the bottle ::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 99,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_JKK_acceptedInFamily",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 106,
         "description": "n/a",
         "originalText": "Are you familiar with the name Edmund Knight, perhaps?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 113,
         "description": "n/a",
         "originalText": "cc_acidMessenger_JKK",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 128,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_JKK_acceptedInFamily",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 129,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_ola_talkAcceptFamily",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 130,
         "description": "n/a",
         "originalText": "cocktail.mindshroomMartini",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 134,
         "description": "n/a",
         "originalText": "::down before going around the desk to shake your hand, displaying a closed-lip smile.::\r\n\r\n$(context.player.Name). I'm Mr. Edstrom, but you can call me Gunnar.\r\n\r\n::His voice is friendly and even, and he continues talking while walking back to his desk.::\r\n\r\nAt last I get the chance to meet you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 140,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_heardAboutAcidHunters",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 141,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_JKK_acceptedInFamily",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 142,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.cc_jkk_acidHunters_started",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 148,
         "description": "n/a",
         "originalText": "Edmund Knight?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 152,
         "description": "n/a",
         "originalText": "Perhaps, but I'm not sure.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 156,
         "description": "n/a",
         "originalText": "Never heard of him.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 161,
         "description": "n/a",
         "originalText": "About the Acid Hunters...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 166,
         "description": "n/a",
         "originalText": "I've been to the research facility.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 171,
         "description": "n/a",
         "originalText": "How do I get to that research facility again?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 176,
         "description": "n/a",
         "originalText": "How do I find the Acid Hunters again?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 182,
         "description": "n/a",
         "originalText": "Have you ever heard of the Acorn, a.k.a ACoNR?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 187,
         "description": "n/a",
         "originalText": "About the Acorn again...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 192,
         "description": "n/a",
         "originalText": "Can we discuss the Acorn now?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 198,
         "description": "n/a",
         "originalText": "Can you tell me how the Oligarchy came to be?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 201,
         "description": "n/a",
         "originalText": "Goodbye, Gunnar.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 205,
         "description": "n/a",
         "originalText": "I can say the same, sir.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 209,
         "description": "n/a",
         "originalText": "Thank you for your kindness.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 213,
         "description": "n/a",
         "originalText": "Cool.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 218,
         "description": "n/a",
         "originalText": "Edmund Knight is the son of Archibald Knight, chief of Praetorian Security. This young man was murdered recently. An Oligarch's son. \r\n\r\nYou realize the severity of this unfortunate event, I'm sure. This has not gone public yet, so before I proceed I have to ask for your discretion regarding everything you hear now.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 227,
         "description": "n/a",
         "originalText": "Ah. What did you discover?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 236,
         "description": "n/a",
         "originalText": "Do you have the device?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 244,
         "description": "n/a",
         "originalText": "Listen carefully this time: It's on the lower level, near an under-passages exit in Drop Zone. There, you will find a door that can be unlocked with the keycard I gave you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 252,
         "description": "n/a",
         "originalText": "This is what I've been told about finding the Acid Hunters: \"Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed.\" ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 260,
         "description": "n/a",
         "originalText": "I'm afraid I haven't.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 264,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_edstrom_mentionAcorn",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 271,
         "description": "n/a",
         "originalText": "I'm waiting.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 281,
         "description": "n/a",
         "originalText": "Yes, yes - the Acorn. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 284,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_edstrom_tellHistory",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 288,
         "description": "n/a",
         "originalText": "Oh, that story started even before I came to Core City. Archie and Rupert both used to work for Biocorp, the New Biocorp, a supercorporation that owned nearly everything in Underrail. Internal problems - internal bleeding as I like to call it - weakened it and eventually lead to its slow demise. By the time the Underrail Protectorate came in for the kill, Biocorp was already standing over its grave... waiting to be pushed in.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 292,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_edstrom_tellHistory",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 297,
         "description": "n/a",
         "originalText": "::He smiles.:: We're all friends here. No need to call me sir. Now, I've heard all sort of things about you. You know, this is one tough business we got here, $(context.player.Name). I mean, with Arena broadcasts, betting, equipment maintenance, security, catching beasts and transporting them to the Arena... it takes a lot of management to accomplish all that, but management is nothing if you don't have the right people to actually do the job.\r\n\r\nAnd you, you fit that description. You've served JKK well so far, and now's the time to give you your reward.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 304,
         "description": "n/a",
         "originalText": "::He smiles.:: Thank you for being honest and dedicated to JKK. You know, this is one tough business we got here, $(context.player.Name). I mean, with the Arena broadcasts, betting, equipment maintenance, security, catching beasts and transporting them to the Arena... it takes a lot of management to accomplish all that, but management is nothing if you don't have the right people to actually do the job.\r\n\r\nAnd you, you fit that description. You've served JKK well so far, and now is time to give you your reward.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 311,
         "description": "n/a",
         "originalText": "Cool? ::He smiles.:: Most casual response I've ever heard. I like it... I've heard all sort of things about you. You know, this is one tough business we got here, $(context.player.Name). I mean, with the Arena broadcasts, betting, equipment maintenance, security, catching beasts and transporting them to the Arena... it takes a lot of management to accomplish all that, but management is nothing if you don't have the right people to actually do the job.\r\n\r\nAnd you, you fit that description. You've served JKK well so far, and now is time to give you your reward.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 315,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowPraetorian",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 317,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowOligarchy",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 321,
         "description": "n/a",
         "originalText": "You will have it, sir.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 322,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.cc_jkk_acidHunters_started",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 323,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.cc_acidHunters_finished",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 333,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_cc_researchFacility_finished",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 334,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_cc_jkk_researchFacility_started",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 335,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_sawTchoristsSnatchCube",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 345,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_cc_researchFacility_finished",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 346,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_cc_jkk_researchFacility_started",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 350,
         "description": "n/a",
         "originalText": "It's that simple. ::He smiles.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 353,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.cc_acidHunters_finished",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 354,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.cc_jkk_acidHunters_started",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 358,
         "description": "n/a",
         "originalText": "Happy hunting.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 361,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_edstrom_mentionAcorn",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 362,
         "description": "n/a",
         "originalText": "plot.xpbl_acorn",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 374,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_edstrom_mentionAcorn",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 375,
         "description": "n/a",
         "originalText": "plot.xpbl_acorn",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 376,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_edstrom_talkedAcorn",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 377,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_edstrom_wrappedAcorn",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 378,
         "description": "n/a",
         "originalText": "plot.xpbl_acorn",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 379,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_edstrom_talkedAcorn",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 380,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_cc_researchFacility_finished",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 385,
         "description": "n/a",
         "originalText": "The conversation we've had about the device the Tchortists took... Well, you see what that little thing has brought to this city. That... little piece of technology - all that trouble. \r\n\r\nThe consequences of its short stay will surely linger on for years to come.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 391,
         "description": "n/a",
         "originalText": "Moving on, several years into the future, I came to a place that's falling apart. The long-lasting conflict left scars on every brick and tile of this once grand city, but fortunately Coretech and Praetorian Security had decided to make a peace agreement just before everything crumbled down. Oh yes, you'll rarely hear it nowadays, but it wasn't *just* the epidemic rioters and gangs that were responsible for all those years of chaos - the two warring factions were at each other's throats, fighting for power, and in that fight they tore down everything around them.\r\n\r\nOne of the reasons for the cease of fire was the shocking success of the Arena! Look at it now, it's marvelous, but then it was a just an open space for gangs to settle their differences. And - it was waiting for me. I knew what I had to do...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 397,
         "description": "n/a",
         "originalText": "But first, allow me to congratulate you on your success, Invictus. Know that I have been watching your matches with great delight, and that I'm sure your performance as a JKK operative is as impressive as the one in the Arena.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 405,
         "description": "n/a",
         "originalText": "But first, allow me to congratulate you on your success in the Arena... what was it? $(context.playerArenaTitle)! Know that I have been watching your matches with great delight, and that I'm sure your performance as a JKK operative is as impressive as the one in the Arena.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 414,
         "description": "n/a",
         "originalText": "Good. We, the Oligarchs, have had a meeting in which we discussed what had happened, and the president of Coretech, Rupert Simmons claims that some Acid Hunters were involved in his death.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 424,
         "description": "n/a",
         "originalText": "The leader of Acid Hunters, Cornell, confirmed everything you said.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 429,
         "description": "n/a",
         "originalText": "They attacked me, so I had to take them out.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 434,
         "description": "n/a",
         "originalText": "They escaped before I got there.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 439,
         "description": "n/a",
         "originalText": "Actually, nothing yet.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 441,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_cc_researchFacility_finished",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 443,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowTchortists",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 445,
         "description": "n/a",
         "originalText": "cc_jkk_researchFacility",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 449,
         "description": "n/a",
         "originalText": "Tchortists took the device right before me. I tried to follow them, but they managed to escape.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 454,
         "description": "n/a",
         "originalText": "I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could serve our organization greatly.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 459,
         "description": "n/a",
         "originalText": "All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could serve our organization greatly.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 464,
         "description": "n/a",
         "originalText": "It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could serve our organization greatly.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 469,
         "description": "n/a",
         "originalText": "It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could serve our organization greatly.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 474,
         "description": "n/a",
         "originalText": "It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could serve our organization greatly.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 478,
         "description": "n/a",
         "originalText": "Never mind. There was something else I wanted to ask you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 482,
         "description": "n/a",
         "originalText": "And this Acorn, it has the same air about it as the aforementioned. \r\n\r\nYes... ::He pauses.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 486,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_edstrom_wrappedAcorn",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 490,
         "description": "n/a",
         "originalText": "I had some connections, some money and I saw the potential. First, we started broadcasting the matches! And the crowd went wild! People poured into Core City to enjoy the bloodbath, and money followed. The Arena grew, our business grew and then we became the most powerful men in Core City.\r\n\r\nI decided to spice it up a little, you know. Let's bring in some exotic animals, let's make it glamorous, let's make it the biggest thing ever. And it did become just that. Even with the Faceless knocking at our door, the people haven't stopped coming.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 493,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_arenaFinished",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 497,
         "description": "n/a",
         "originalText": "Oh well, I'm just dominating.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 501,
         "description": "n/a",
         "originalText": "Thank you. It's good to be appreciated.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 505,
         "description": "n/a",
         "originalText": "So, about this reward...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 507,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowCoretech",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 512,
         "description": "n/a",
         "originalText": "I'm also looking for these Acid Hunters, they've caused quite a bit of trouble in quite a few places.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 517,
         "description": "n/a",
         "originalText": "They've caused quite a bit of trouble in quite a few places.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 522,
         "description": "n/a",
         "originalText": "Never heard of them.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 523,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_cornell_toldHowEdmundDied",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 526,
         "description": "n/a",
         "originalText": "Perfect! So, they were cooperative. Now, for the most important thing: Did they tell you what was actually the device they gave to Miland?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 536,
         "description": "n/a",
         "originalText": "::He stares at you calmly.:: Unfortunate, but it's not the end of the world. We'll just have to proceed with little less info than I had hoped for.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 542,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.FoundCornellBeforeQuest",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 545,
         "description": "n/a",
         "originalText": "Really? $(context.player.Name), I don't want you idle. Please, take care of this.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 550,
         "description": "n/a",
         "originalText": "I've been informed that all Tchortists left Core City at the same time. I found it odd, but now, considering what you just told me, it all makes sense. We neglected to factor in their presence and motives, as the Faceless are our main focus, and the Tchortists sure exploited that.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 556,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_xpbl_knowACoNR_level",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 561,
         "description": "n/a",
         "originalText": "Oh. Interesting. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 566,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_xpbl_knowACoNR_level",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 571,
         "description": "n/a",
         "originalText": "*Oh*. That is... very interesting. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 574,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_xpbl_knowACoNR_level",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 576,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_xpbl_knowACoNR_level",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 581,
         "description": "n/a",
         "originalText": "Go ahead.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 587,
         "description": "n/a",
         "originalText": "$(context.player.Name), keep this Acorn away from this city, at least for the time being. Especially from the other two.\r\n\r\n::He smiles.:: It's for the best. It's for the best.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 593,
         "description": "n/a",
         "originalText": "::He laughs.:: Look at us now. Each Oligarch has his own private forces; operatives, agents, enforcers - whatever you want to call them. \r\n\r\nWe can only make this city even better, trust me, but that requires some... intervention from time to time.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 599,
         "description": "n/a",
         "originalText": "Yes, you are. ::He smiles.:: $(context.player.Name)... I'm very glad you're here. I was looking for someone that can be trusted, that is honest and above all - a real human being. You now have full access to JKK's equipment merchant; in other words, Ola.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 605,
         "description": "n/a",
         "originalText": "It's nothing. Believe me. ::He smiles.:: $(context.player.Name)... I'm very glad you're here. I was looking for someone that can be trusted, that is honest and above all - a real human being. You now have full access to JKK's equipment merchant; in other words, Ola.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 611,
         "description": "n/a",
         "originalText": "Yes, let's not get distracted. $(context.player.Name)... I'm very glad you're here. I was looking for someone that can be trusted, that is honest and above all - a real human being. You now have full access to JKK's equipment merchant; in other words, Ola.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 614,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc-s_beenToCornell",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 618,
         "description": "n/a",
         "originalText": "Oh? Is that so? Your statement surely reinforces my opinion of them. But, even if they are troublemakers, as you mentioned, they are not the ones who killed Edmund.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 621,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc-s_beenToCornell",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 625,
         "description": "n/a",
         "originalText": "The Acid Hunters are a gang of scavengers that roam the Underrail. Nothing unusual... Well, we'll get to that, but the crucial thing is that they are not Edmund's murderers.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 629,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_edstrom_tellDon'tKnowAcid",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 634,
         "description": "n/a",
         "originalText": "Well, the only thing I found out is that the Faceless are after them, but other than that, they don't know anything about the device or it's origin.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 640,
         "description": "n/a",
         "originalText": "They told me they got it off some trade caravan, but other than that, they don't know anything about the device or it's origin.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 644,
         "description": "n/a",
         "originalText": "I discovered nothing new.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 645,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_cornell_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 646,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc-s_beenToCornell",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 653,
         "description": "n/a",
         "originalText": "Proceed with what?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 654,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_cornell_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 655,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc-s_beenToCornell",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 659,
         "description": "n/a",
         "originalText": "Now what?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 663,
         "description": "n/a",
         "originalText": "I'm sorry I failed you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 667,
         "description": "n/a",
         "originalText": "Well, that's that.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 673,
         "description": "n/a",
         "originalText": "I'm certain it would.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 676,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_xpbl_knowACoNR_level",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 678,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_xpbl_knowHorizon",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 683,
         "description": "n/a",
         "originalText": "Also, regarding all further operations, you answer to me directly from now on. In addition to that, if you are experiencing any problems with anyone or anything within JKK, feel free to talk to me, okay? My doors are always open.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 688,
         "description": "n/a",
         "originalText": "Simmons' son, Miland, killed Edmund. And apparently, it all has to do with an item the Acid Hunters brought here. Now, Knight doesn't know this; if he found out, it would be a disaster. I'm sure of it and that is the reason I want to prevent it from happening.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 696,
         "description": "n/a",
         "originalText": "It confirms my suspicions! There had to be a connection between the two. But, I was hoping for something more on the device. We'll just have to proceed with a little less info.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 701,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_edstrom_learnedFacelessFromCornell",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 702,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_cornell_howHeGotTheCube",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 705,
         "description": "n/a",
         "originalText": "That tells us very little, if they know nothing of this thing... I was hoping for something more on on the device. We'll just have to proceed with little less info.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 710,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_edstrom_learnedLittleFromCornell",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 716,
         "description": "n/a",
         "originalText": "I'll forget, so let me pay you now before we proceed. ::He hands you 600 charons.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 720,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.cc_acidHunters_finished",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 724,
         "description": "n/a",
         "originalText": "cc_jkk_acidHunters",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 728,
         "description": "n/a",
         "originalText": "::He makes a lengthy pause, after which he continues.:: Come to think of it, maybe this is not such a bad outcome after all. Once the Faceless realize that the device is not here - and we will help them with that - they'll go after the Tchortists. Perfect. ::He chuckles.:: As long as that wretched thing is out of Core City, I think this will end good for us.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 734,
         "description": "n/a",
         "originalText": "You haven't failed me. I know you did your best. ::He makes a lengthy pause, after which he continues.:: Come to think of it, maybe this is not such a bad outcome after all. Once the Faceless realize that the device is not here - and we will help them with that - they'll go after the Tchortists. Perfect. ::He chuckles.:: As long as that wretched thing is out of Core City, I think this will end good for us.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 740,
         "description": "n/a",
         "originalText": "It sure is. ::He makes a lengthy pause, after which he continues.:: Come to think of it, maybe this is not such a bad outcome after all. Once the Faceless realize that the device is not here - and we will help them with that - they'll go after the Tchortists. Perfect. ::He chuckles.:: As long as that wretched thing is out of Core City, I think this will end good for us.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 747,
         "description": "n/a",
         "originalText": "However: ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 754,
         "description": "n/a",
         "originalText": "But it'll have to wait. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 758,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_edstrom_talkedAcorn",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 763,
         "description": "n/a",
         "originalText": "I already have something important for you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 768,
         "description": "n/a",
         "originalText": "That is all I wanted to discuss with you for now. You will be contacted once I need you again.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 775,
         "description": "n/a",
         "originalText": "That item, is it perhaps an unusually shaped device with strange markings, contained in a metal box?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 779,
         "description": "n/a",
         "originalText": "What could be so important to force these men to kill each other?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 783,
         "description": "n/a",
         "originalText": "What was that something?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 788,
         "description": "n/a",
         "originalText": "So, this is what we know so far: The Acid Hunters revealed little, sure, but we are positive that the Faceless are here because of the device. Archibald is yet unaware who is the real murderer, and we intend to keep it that way.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 795,
         "description": "n/a",
         "originalText": "So, this is what we know so far: We've learned very little from the Acid Hunters, which is an unfortunate fact. Nevertheless, Archibald is yet unaware who is the real murderer, and we intend to keep it that way.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 801,
         "description": "n/a",
         "originalText": "So, this is what we know so far: We've learned absolutely nothing from the Acid Hunters, which is an unfortunate fact. Nevertheless, Archibald is yet unaware who is the real murderer, and we intend to keep it that way.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 810,
         "description": "n/a",
         "originalText": "We are done for now, well, almost: I've arranged something for you. Speak to Ola; he will tell you all you need to know. \r\n\r\nAfter that, maybe you should go and get some rest, $(context.player.Name). Look at yourself - you definitely need it!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 813,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_cc_researchFacility_finished",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 818,
         "description": "n/a",
         "originalText": "Finish your tasks - ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 824,
         "description": "n/a",
         "originalText": "After certain other matters have been dealt with - ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 827,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_heardAboutAcidHunters",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 828,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_edstrom_tellDon'tKnowAcid",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 831,
         "description": "n/a",
         "originalText": "::He smiles.:: $(context.player.Name), you're way ahead of me. I guess these people really have a spotlight on them outside of Core City... And now also in Core City.\r\n\r\nWhat you say is correct: This strange device was the reason Miland killed Edmund. As far as my daughter explained, who was with them at the time, Miland was the one who ended up taking the device.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 838,
         "description": "n/a",
         "originalText": "Oh, it appears these *gentlemen,* and I do mean the Acid Hunters, had a strange device with them. They stole it or found it somewhere, it matters not, but both Miland and Edmund wanted it. A fight broke out, a gun was fired, and Edmund was soon dead. My daughter was with them at the time, and she explained to me that after that, Miland took this device with him.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 843,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_edstrom_learnedFacelessFromCornell",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 847,
         "description": "n/a",
         "originalText": "He won't be an issue. The device is the real problem, though. The Faceless are here because of it, and if we don't return it to them, I fear they'll overrun us.\r\n\r\nLuckily, we have undisputable evidence of it's location. Coretech scientist were seen entering an abandoned passage in the lower level of Core City. And, upon further inspection, JKK operatives confirmed this must be where they keep this device. I want you to go there and discover as much as possible about it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 850,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_edstrom_learnedLittleFromCornell",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 854,
         "description": "n/a",
         "originalText": "He won't be an issue. The device is the problem, though. Even though we aren't one hundred percent positive, we believe the Faceless are here because of it. And if we don't return it to them, I fear they'll overrun us.\r\n\r\nLuckily, we have undisputable evidence of it's location. Coretech scientist were seen entering an abandoned passage in the lower level of Core City. And, upon further inspection, JKK operatives confirmed this must be where they keep this device. I want you to go there and acquire it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 859,
         "description": "n/a",
         "originalText": "cc_housing_JKK",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 860,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.cc_jkk_acidHunters_started",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 864,
         "description": "n/a",
         "originalText": "then we will discuss the Acorn. ::He smiles.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 870,
         "description": "n/a",
         "originalText": "Can I talk to your daughter perhaps?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 874,
         "description": "n/a",
         "originalText": "So, where do I fit in?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 893,
         "description": "n/a",
         "originalText": "Oh, I'd rather not expose her to any more stress. She already told me what she knew; I don't want to trouble her anymore.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 900,
         "description": "n/a",
         "originalText": "I want you to go and talk to these Acid Hunters. I want a confirmation, and possibly a further explanation as to what happened back there and what that device actually is. If Coretech acquired something powerful... we must know about it. Knowledge is power; dangerous things might happen here quite soon, and the more we know, the greater our chances to avoid them and come up on top.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 904,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_cc_jkk_researchFacility_started",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 906,
         "description": "n/a",
         "originalText": "cc_jkk_researchFacility",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 908,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_researchFacility_accessible",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 913,
         "description": "n/a",
         "originalText": "I've already been to this research facility.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 917,
         "description": "n/a",
         "originalText": "Won't this affect your relationship with Coretech?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 921,
         "description": "n/a",
         "originalText": "Just tell me where I need to go.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 922,
-        "description": "n/a",
-        "originalText": "edstrom",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 923,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".LIDP#G1>C00#-.LIDP:P",
+        "classInfo": "(LIDP#G1>C00#-).LIDP:P",
         "objectId": 924,
         "description": "n/a",
         "originalText": "currency\\stygiancoin",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 933,
         "description": "n/a",
         "originalText": "And to make your job even simpler, ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 942,
         "description": "n/a",
         "originalText": "You have? Well, do you have the device?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 947,
         "description": "n/a",
         "originalText": "We've all had our fair share of conflicts, you know. We'll iron it out in the end. But if this thing is allowed to remain there, oh, we won't have to worry about our own disputes.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 956,
         "description": "n/a",
         "originalText": "Yet again, JKK operatives prove their superiority. ::He smiles.:: We acquired this keycard which can be used to unlock a door to a hidden passageway on the lower level. It's next to one of those... under-passages exits in Drop Zone. ::He gives you the keycard.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 963,
         "description": "n/a",
         "originalText": "we learned where they're hiding. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 969,
         "description": "n/a",
         "originalText": "we caught a man who knows where they're hiding. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 973,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.cc_acidHunters_secretEntranceKnown",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 975,
         "description": "n/a",
         "originalText": "cc_jkk_acidHunters",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 977,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.cc_jkk_acidHunters_started",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 980,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_cc_researchFacility_finished",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 981,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_cc_jkk_researchFacility_started",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 982,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.global_sawTchoristsSnatchCube",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 985,
         "description": "n/a",
         "originalText": "We don't know what lies there, so be careful and as discrete as possible. I expect nothing short of complete success from you, $(context.player.Name). Once you have the device, we'll turn it over to the Faceless; hopefully, that will be enough for them to lift the blockade.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 990,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowDropZone",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 993,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_forger_dead",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 996,
         "description": "n/a",
         "originalText": "::He smiles.:: We just need you, the right $(#man/woman) for the job to go and talk to them - that is all. Only use force if it's necessary. Big things are at stake here.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1004,
         "description": "n/a",
         "originalText": "I'll get this device for you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1012,
         "description": "n/a",
         "originalText": "I've already been to their hideout.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1016,
         "description": "n/a",
         "originalText": "I understand everything.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1020,
         "description": "n/a",
         "originalText": "Where can I find them?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 1022,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc-s_beenToCornell",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1029,
         "description": "n/a",
         "originalText": "Ah! You delight me more and more. What did you discover?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1035,
         "description": "n/a",
         "originalText": "Marvelous, I knew I could count on you. ::He smiles.:: This is what I've been told about finding the Acid Hunters: \"Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed.\" ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1041,
         "description": "n/a",
         "originalText": "This is what I've been told about finding the Acid Hunters: \"Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed.\" ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1049,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "tempcontext.FoundCornellBeforeQuest",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 1051,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.cc_jkk_acidHunters_started",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 1053,
         "description": "n/a",
         "originalText": "cc_jkk_acidHunters",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1056,
         "description": "n/a",
         "originalText": "I'm sure you'll use your skills to find them without problems.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1065,
         "description": "n/a",
         "originalText": "I'm on the job.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:C",
+        "classInfo": "(NEI).I:C",
         "objectId": 1066,
         "description": "n/a",
         "originalText": "key.cc_rfEntrance",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:N",
+        "classInfo": "(NEI).I:N",
         "objectId": 1067,
         "description": "n/a",
         "originalText": "Coretech Research Facility Keycard (Core City)",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:D",
+        "classInfo": "(NEI).I:D",
         "objectId": 1069,
         "description": "n/a",
         "originalText": "This keycard is used to open the doors leading to the Coretech Research Facility.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".NEI.I:VM",
+        "classInfo": "(NEI).I:VM",
         "objectId": 1070,
         "description": "n/a",
         "originalText": "Plot.11",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 1077,
         "description": "n/a",
         "originalText": "Great. And remember, this is between you and me only.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 1083,
         "description": "n/a",
         "originalText": "I understand. So long.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

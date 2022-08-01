@@ -1,103 +1,93 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 13,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 14,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 15,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 19,
         "description": "n/a",
         "originalText": "::Subject Name: B-004\r\n\r\nAge: 6\r\n\r\nGender: Male\r\n\r\nNotes: Subject suffers from multiple severe respiratory issues (details under code T-889-L). To be kept on life support and monitored until further notice.\r\n\r\nVital Status: Deceased::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 25,
         "description": "n/a",
         "originalText": "::Subject Name: B-004\r\n\r\nAge: 6\r\n\r\nGender: Male\r\n\r\nNotes: Subject suffers from multiple severe respiratory issues (details under code T-889-L). To be kept on life support and monitored until further notice.\r\n\r\nVital Status: Severe::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 30,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_tch_stasis3_turnOffLifeSupport",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 33,
         "description": "n/a",
         "originalText": "::Exit::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 37,
         "description": "n/a",
         "originalText": "::Disable life support::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 40,
         "description": "n/a",
         "originalText": "::Are you sure you want to disable life support?::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 49,
         "description": "n/a",
         "originalText": "::Yes::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 53,
         "description": "n/a",
         "originalText": "::No::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 57,
         "description": "n/a",
         "originalText": "::Life support disabled::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 61,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_tch_stasis3_turnOffLifeSupport",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 64,
         "description": "n/a",
         "originalText": "::The moment you turn off life support, the creature inside the glass container opens its eyes and begins to move. Its weak arms move with little coordination as it thrashes around its soon-to-be grave. It watches you with its murky, dark and distressed eyes before it eventually gives up.\r\n\r\nIts body goes limp, its head drops forward - its eyes remain open but unable to see.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

@@ -1,117 +1,109 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 19,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 20,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 21,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 26,
         "description": "n/a",
         "originalText": "::As far as you can see, it's a six to seven meter drop to the level below. You doubt that you can jump down without injuring yourself, but even if you could get down safely you don't think it is wise to do so at this moment.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 34,
         "description": "n/a",
         "originalText": "::As far as you can see, it's a six to seven meter drop to the level below. ::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 40,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_tch_hole_found",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 43,
         "description": "n/a",
         "originalText": "::Leave.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 46,
         "description": "n/a",
         "originalText": "::You doubt that you can jump down without injuring yourself.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 52,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_tch_hole_found",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 53,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_tch_invasionStarted",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".FR0.FR0:S",
+        "classInfo": "(FR0).FR0:S",
         "objectId": 54,
         "description": "n/a",
         "originalText": "tchortists",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".FR0.FR0:T",
+        "classInfo": "(FR0).FR0:T",
         "objectId": 55,
         "description": "n/a",
         "originalText": "player",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 62,
         "description": "n/a",
         "originalText": "::Jump down.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q0.Q0:L",
+        "classInfo": "(Q0).Q0:L",
         "objectId": 67,
         "description": "n/a",
         "originalText": "up-ww",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LR.LR:LI",
+        "classInfo": "(LR).LR:LI",
         "objectId": 69,
         "description": "n/a",
         "originalText": "up-ww",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LR.LR:EI",
+        "classInfo": "(LR).LR:EI",
         "objectId": 70,
         "description": "n/a",
         "originalText": "FromUp",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

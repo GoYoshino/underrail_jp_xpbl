@@ -1,236 +1,245 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 23,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 24,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 25,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 29,
         "description": "n/a",
         "originalText": "::You've already pumped out all the water from the lower level.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 36,
         "description": "n/a",
         "originalText": "::You see a large water pump dressed in dust and cobwebs. ::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 42,
         "description": "n/a",
         "originalText": "::But despite its superficial appearance you determine that it is still functional. ::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 45,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_loc_mu_activatedPumps",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 57,
         "description": "n/a",
         "originalText": "::There is a button on it that is conveniently labeled: \"Activate.\"::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SISEC.SISEC:A",
+        "classInfo": "(SISEC).SISEC:A",
         "objectId": 61,
         "description": "n/a",
         "originalText": "xpbl_md",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 66,
         "description": "n/a",
         "originalText": "::It has been repaired and is now functional. ::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 73,
         "description": "n/a",
         "originalText": "::It does not appear to be functional, but considering its fairly good general condition it might still be repairable. ::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 85,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_loc_mu_repairedBrokenPump",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 91,
         "description": "n/a",
         "originalText": "::[Mechanics] Repair the water pump with an advanced mechanical repair kit.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 99,
         "description": "n/a",
         "originalText": "::Activate the water pump.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 106,
         "description": "n/a",
         "originalText": "::Activate the water pump.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 109,
         "description": "n/a",
         "originalText": "::Leave.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 118,
         "description": "n/a",
         "originalText": "::You patiently patch up the holes, check the valves and in general perform a plethora of - fortunately - minor repairs. The water pump is ready for operation.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 124,
         "description": "n/a",
         "originalText": "::While some of the repairs - like patching up a few holes here and there - do not seem far too difficult to perform, there is so much stuff to be done you'd probably spend days working on it and it would still not guarantee the pump's functionality.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 127,
         "description": "n/a",
         "originalText": "mechanicalRepairKit2",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PCA1.PCA1:WP",
+        "classInfo": "(PCA1).PCA1:WP",
         "objectId": 131,
         "description": "n/a",
         "originalText": "Xpbl_Md_PumpWaterOut",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 133,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_loc_mu_activatedPumps",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SISEC.SISEC:A",
+        "classInfo": "(SISEC).SISEC:A",
         "objectId": 137,
         "description": "n/a",
         "originalText": "xpbl_md",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PCA1.PCA1:WP",
+        "classInfo": "(PCA1).PCA1:WP",
         "objectId": 139,
         "description": "n/a",
         "originalText": "Xpbl_Md_PumpWaterOut",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 141,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_loc_mu_activatedPumps",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 144,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_loc_mu_repairedBrokenPump",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SISEC.SISEC:A",
+        "classInfo": "(SISEC).SISEC:A",
         "objectId": 146,
         "description": "n/a",
         "originalText": "xpbl_md",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RIFPA.RIFPA:IC",
+        "classInfo": "(RIFPA).RIFPA:IC",
         "objectId": 149,
         "description": "n/a",
         "originalText": "mechanicalRepairKit2",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 151,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_loc_mu_repairedBrokenPump",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 155,
         "description": "n/a",
         "originalText": "::There has to be something else you could do.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SISEC.SISEC:A",
+        "classInfo": "(SISEC).SISEC:A",
         "objectId": 159,
         "description": "n/a",
         "originalText": "xpbl_md",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 160,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_loc_mu_repairedBrokenPump",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ENFEJ.ENFEJ:A",
+        "classInfo": "(ENFEJ).ENFEJ:A",
         "objectId": 162,
         "description": "n/a",
         "originalText": "xpbl_md",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ENFEJ.ENFEJ:A",
+        "classInfo": "(ENFEJ).ENFEJ:A",
         "objectId": 164,
         "description": "n/a",
         "originalText": "xpbl_md",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

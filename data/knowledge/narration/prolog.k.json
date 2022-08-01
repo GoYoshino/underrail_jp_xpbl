@@ -1,30 +1,37 @@
 [
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Key",
         "objectId": 3,
-        "description": "n/a",
+        "description": "key='forlornstationpowerswitchsnapback'",
         "originalText": "forlornstationpowerswitchsnapback",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Value",
         "objectId": 4,
         "description": "n/a",
         "originalText": "You pull the switch down, but it automatically snaps back.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Key",
         "objectId": 5,
-        "description": "n/a",
+        "description": "key='forlornstationpowerrestored'",
         "originalText": "forlornstationpowerrestored",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Value",
         "objectId": 6,
         "description": "n/a",
         "originalText": "You've restored power to this station.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "jsonVersion": "0.3"
     }
 ]

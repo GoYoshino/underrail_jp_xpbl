@@ -1,58 +1,69 @@
 [
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Key",
         "objectId": 3,
-        "description": "n/a",
+        "description": "key='pistol_sonic'",
         "originalText": "pistol_sonic",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Value",
         "objectId": 4,
         "description": "n/a",
         "originalText": "Ignores mechanical damage threshold and half the mechanical damage resistance. Attempts to deal 35% of the original non-critical damage to the targets it passes through.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Key",
         "objectId": 5,
-        "description": "n/a",
+        "description": "key='glove_boxing'",
         "originalText": "glove_boxing",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Value",
         "objectId": 6,
         "description": "n/a",
         "originalText": "Half of the damage bonus of Improved and Expert Unarmed Combat applies to this weapon.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Key",
         "objectId": 7,
-        "description": "n/a",
+        "description": "key='blackarrow'",
         "originalText": "blackarrow",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Value",
         "objectId": 8,
         "description": "n/a",
         "originalText": "Deals normal weapon damage to the targets it passes through.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:3:Key",
         "objectId": 9,
-        "description": "n/a",
+        "description": "key='blackarrow_rf'",
         "originalText": "blackarrow_rf",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:3:Value",
         "objectId": 10,
         "description": "n/a",
         "originalText": "Deals normal weapon damage to the targets it passes through.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "jsonVersion": "0.3"
     }
 ]

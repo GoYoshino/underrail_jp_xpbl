@@ -1,593 +1,653 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 47,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 48,
-        "description": "n/a",
-        "originalText": "hanna",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 49,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 53,
         "description": "n/a",
         "originalText": "Adapt and overcome!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 59,
         "description": "n/a",
         "originalText": "$(context.player.Name), Mediant Samuel wishes to see you. He is in his office with Efreitor Denzil.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 66,
         "description": "n/a",
         "originalText": "::This young woman welcomes you by putting her hand on her chest and follows with a verbal greeting. Her bright and high-pitched voice sounds pleasant and matches her petiteness perfectly. On the other hand, the full combat uniform that she is wearing - complete with a mask she never removes, a characteristic you noticed in all rassophores throughout the Institute; creates a different, if conflicting visual image.::\r\n\r\nTchort is evolution. I am Efreitor Hanna, armory keeper for Institute of Tchort. You're $(context.player.Name), if I'm not mistaken?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 77,
         "description": "n/a",
         "originalText": "Hey, $(context.player.Name). If you heard any loud banging on your way here, those were the weights falling off the weight rack in the gym. The armory is perfectly safe. \r\n\r\nStill... don't stand near the cabinets.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 84,
         "description": "n/a",
         "originalText": "$(context.player.Name), you totally have to see the new equipment we've just received.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 92,
         "description": "n/a",
         "originalText": "Hey, $(context.player.Name). What culling tools do you need now?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 95,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_tch_invasionStarted",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 96,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_samuel_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 97,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_hanna_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 99,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_hanna_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 103,
         "description": "n/a",
         "originalText": "Evolution is Tchort. Yes, I am $(#him/her). Pleasure to meet you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 107,
         "description": "n/a",
         "originalText": "That is correct. How did you know?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 111,
         "description": "n/a",
         "originalText": "I am, and I'm looking to get acquire weapons if possible. Mediant Samuel told me that you can help me with that.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 129,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_hanna_regTremors",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 134,
         "description": "n/a",
         "originalText": "::Barter.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 138,
         "description": "n/a",
         "originalText": "In a moment, I had some questions first.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 142,
         "description": "n/a",
         "originalText": "Pleasure to meet you too, $(context.player.Name). Under Mediant Samuel's direct orders, you are allowed access to Preservation's armory, despite the fact that you are not a rassophore... yet.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 148,
         "description": "n/a",
         "originalText": "News spreads fast; the Institute is not a very big place. A place of big ideas - perhaps, but not a physically big place. Also, your totally apex retrieval of the figurine stolen by those... devolved Lunatics is a something that really caught everyone's attention.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 154,
         "description": "n/a",
         "originalText": "::She nods.:: That is correct. Even though you are not a rassophore yet, $(context.player.Name), you will be granted access to Preservation's armory - as instructed by the mediant himself.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 157,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_tch_tremorsStarted",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 158,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_hanna_regTremors",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 166,
         "description": "n/a",
         "originalText": "Eidein told me to see you about my uniform.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 170,
         "description": "n/a",
         "originalText": "I'd like to see what you have in the armory. ::Barter.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 176,
         "description": "n/a",
         "originalText": "::[Mercantile]:: Excuse me, Efreitor, but would you mind showing me the... rest of the equipment? The things you don't show to just about any novitiate. Price is not an issue - I've got the coin to spend.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 180,
         "description": "n/a",
         "originalText": "How and why did you join Institute of Tchort?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 186,
         "description": "n/a",
         "originalText": "I am looking for a rassophore called Nevil. Have you seen him recently?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 190,
         "description": "n/a",
         "originalText": "What can you tell me about Mediant Samuel?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 196,
         "description": "n/a",
         "originalText": "What does a cell about to undergo mitosis say to an interested investigator? \"I hope I have your divided attention!\"",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 200,
         "description": "n/a",
         "originalText": "Tchort guide you, sister.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 204,
         "description": "n/a",
         "originalText": "See ya later, Hanna.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 209,
         "description": "n/a",
         "originalText": "Yes?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 215,
         "description": "n/a",
         "originalText": "Of course, armory access is not free, so prepare some charons before making a purchase.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 221,
         "description": "n/a",
         "originalText": "Now, under Mediant Samuel's direct orders, you are allowed access to Preservation's armory, despite the fact that you are not a rassophore... yet.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 229,
         "description": "n/a",
         "originalText": "::She signals the other rassophore, and he leaves the the room.::\r\n\r\nWe keep the new vathosphores... downstairs. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 233,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_hanna_gavearmor",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".C33.C33:QN",
+        "classInfo": "(C33).C33:QN",
         "objectId": 237,
         "description": "n/a",
         "originalText": "tch_hannaVathosphore",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 244,
         "description": "n/a",
         "originalText": "If that is the case... then let me show you what we got, $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 251,
         "description": "n/a",
         "originalText": "Sorry, but I cannot grant you access to the rest of the armory inventory, $(context.player.Name). It's... Never mind. I cannot.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 257,
         "description": "n/a",
         "originalText": "Institute-born here. ::She laughs.:: That means I've been exposed to Tchortism all my life and I am glad for it. I was lucky; outsiders who come here as novitiates always talk how difficult life on the outside is. Poverty, disease, bandits... wars even. While we do have our own problems here, namely with the Faceless and - as of late - Lunatics, the quality of life in the Institute is unmatched by anything in South Underrail.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 266,
         "description": "n/a",
         "originalText": "As I have already reported to Mediant Samuel, I haven't seen Rassophore Nevil today. The last time we spoke was two days ago when he came to the armory with a request for ammunition for his rifle, but that was all. He got what he needed and walked away.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 270,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_hanna_askNevil",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 273,
         "description": "n/a",
         "originalText": "His Notability is a dedicated Tchortist and a good man, and it is an honor and a privilege to be a rassophore under his command. He can be strict - but he is always just.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 283,
         "description": "n/a",
         "originalText": "::At first, the joke is met with a giggle. However, a moment later Hanna bursts into full-blown laughter. She lowers her head and soon enough you don't even hear her anymore but only see her shaking.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 287,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_hanna_tellJoke",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 290,
         "description": "n/a",
         "originalText": "I wouldn't have it any other way, $(context.player.Name). You too.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 295,
         "description": "n/a",
         "originalText": "::She waves at you.:: Tchort guide you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 298,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_eidein_chosePreservation",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 299,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_hanna_gavearmor",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 303,
         "description": "n/a",
         "originalText": "::While the rassophore is away, she grabs a rassophore armor from one of the lockers.::\r\n\r\nThis is your standard issue armored robe. You will be wearing this when on duty as a rassophore.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 312,
         "description": "n/a",
         "originalText": "All in all, the Institute is totally apex! ::She laughs.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 317,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quests_tch_preservation_TrackDownNevilStarted",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 318,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quests_tch_preservation_TrackDownNevilCompleted",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 319,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_hanna_askNevil",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 323,
         "description": "n/a",
         "originalText": "He is not a talkative man anyway, so that is how our interaction usually goes. Totally.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 329,
         "description": "n/a",
         "originalText": "Is he in charge of all forces or...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 333,
         "description": "n/a",
         "originalText": "Interesting... I had something else I wanted to ask you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 334,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_tch_learnMitosisJoke",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 335,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_hanna_tellJoke",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 338,
         "description": "n/a",
         "originalText": "::She returns to you eventually.::\r\n\r\nThat was totally apex. Undivid-- ::She bursts into laughter again.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 347,
         "description": "n/a",
         "originalText": "::Some ten minutes later, the rassophore returns with a bulky-looking green robe and an unusual backpack-like device.::\r\n\r\nNow this - this is the new vathosphore armored robe. Lucky you. Take good care of it - you don't want to get it dirty or damaged before the ceremony. Eidein has allowed you to take it this early only for you to get comfortable wearing it. \r\n\r\nNo one wants novitiates tipping over during one of their most apex hours. Totally not. ::She chuckles.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 356,
         "description": "n/a",
         "originalText": "Have you ever been outside?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 360,
         "description": "n/a",
         "originalText": "Glad to hear that. Allow me to ask you something else.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 364,
         "description": "n/a",
         "originalText": "No, $(context.player.Name) - that would be His Excellency, Harmost Stavros. Mediant, as a rank, is someone who relays harmost's commands to efreitors and rassophores; the middle link in the command chain, so to speak. But since His Excellency is in Deep Caverns at the moment, he left Mediant Samuel in command of the Institute forces up here.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 370,
         "description": "n/a",
         "originalText": "Sure, $(context.player.Name). I'm listening...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 376,
         "description": "n/a",
         "originalText": "Glad you like it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 380,
         "description": "n/a",
         "originalText": "There was something else I wanted to talk about.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 384,
         "description": "n/a",
         "originalText": "I'll leave you to it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 387,
         "description": "n/a",
         "originalText": "Therefore, mind that ecopack; it's heavy. And don't fiddle with it too much.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 404,
         "description": "n/a",
         "originalText": "Other than a few Upper Underrail patrols when I was a rassophore trainee, I've never went too far from the Institute. I saw nothing of interest during that time anyway, totally nothing, so I did not really feel the need to see what lies beyond. I'm sure it's just more of the same.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 408,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_hanna_mentionGuns",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 412,
         "description": "n/a",
         "originalText": "So in a way he *is* in command, but only temporarily.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 418,
         "description": "n/a",
         "originalText": "::She nods a few times, still laughing.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 423,
         "description": "n/a",
         "originalText": "::She nods a few times, still laughing.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 429,
         "description": "n/a",
         "originalText": "Ecopack?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 433,
         "description": "n/a",
         "originalText": "Understood. Now, I better go and get changed.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>ASI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>ASI#-).LIDP:P",
         "objectId": 434,
         "description": "n/a",
         "originalText": "armor\\tchortistvathosphorearmor",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>ASI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>ASI#-).LIDP:P",
         "objectId": 435,
         "description": "n/a",
         "originalText": "armor\\tchortistsoldierarmor",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 439,
         "description": "n/a",
         "originalText": "I've got everything I need right here. I have friends, family... and this totally apex armory. And I suppose I have a purpose: Tchortism is something you dedicate your life to, something that fulfills you. All in all, I have everything here.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 444,
         "description": "n/a",
         "originalText": "That device on the back. It houses, and let me quote the manual: \"...an ecosystem of thermosynthetic microorganisms living off the wearer's captured heat. These microorganisms are capable of producing breathable air enriched with compounds beneficial to the wearer's general health and combat performance.\"\r\n\r\nI think I got that right.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 452,
         "description": "n/a",
         "originalText": "Interesting. What else can you tell me about the armor?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 455,
         "description": "n/a",
         "originalText": "Well, it's a new series of armored robes, designed jointly by both Preservation and Investigation experts. The ecopack and the added hazardous protection make it suitable for extreme environments. A few of you lucky ones will get to show it off during the ceremony, but whether you get to keep it afterwards... that I ain't got a clue.\r\n\r\nSo keep it nice and clean, $(context.player.Name).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

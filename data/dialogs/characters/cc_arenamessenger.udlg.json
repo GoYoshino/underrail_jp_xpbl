@@ -1,215 +1,221 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 25,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 26,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 27,
-        "description": "n/a",
-        "originalText": "messenger",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 32,
         "description": "n/a",
         "originalText": "Excuse me, are you $(context.player.Name)? I've got a message for $(#him/her).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 40,
         "description": "n/a",
         "originalText": "That one is done. Now, where the hell do I find this Blanket guy!? ::Sighs.:: I hate this job...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 43,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_arenaMessenger_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 45,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_arenaMessenger_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 49,
         "description": "n/a",
         "originalText": "Yup, that's me.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 53,
         "description": "n/a",
         "originalText": "That's me, but you can also call me $(context.playerArenaTitle). I'm a gladiator.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 58,
         "description": "n/a",
         "originalText": "Don't you recognize me? I'm $(context.player.Name), also known as $(context.playerArenaTitle) - the mighty Invictus. Speak, little man - what is this message you have for me, hm?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 62,
         "description": "n/a",
         "originalText": "Good, I've been waiting here for an hour or so; thought you weren't gonna show up... Anyway, as I mentioned, I have an important message for you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 65,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_arenaFinished",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 69,
         "description": "n/a",
         "originalText": "I'm sorry, please don't be mad. It's just a habit, I... I recognized you right away! As I mentioned, I have a message for you, Invictus.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 84,
         "description": "n/a",
         "originalText": "Lieutenant Nigel Stratford from Praetorian Security wishes to speak with you. The matter is very important and you should go to him without delay.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 93,
         "description": "n/a",
         "originalText": "Joseph Harlan from Coretech wishes to speak with you. The matter is very important and you should go to him without delay.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 102,
         "description": "n/a",
         "originalText": "Ola Halidorson from JKK wishes to speak with you. The matter is very important and you should go to him without delay.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 107,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_Preatorian_joined",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 109,
         "description": "n/a",
         "originalText": "cc_arenaMessenger_ps",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 113,
         "description": "n/a",
         "originalText": "Is that all?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 119,
         "description": "n/a",
         "originalText": "Thank you. Here's a charon for your troubles. ::Give him one charon.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 120,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_Coretech_joined",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 122,
         "description": "n/a",
         "originalText": "cc_arenaMessenger_ct",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 123,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_JKK_joined",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SQA.SQA:QN",
+        "classInfo": "(SQA).SQA:QN",
         "objectId": 125,
         "description": "n/a",
         "originalText": "cc_arenaMessenger_JKK",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 128,
         "description": "n/a",
         "originalText": "That is all.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 133,
         "description": "n/a",
         "originalText": "currency.sc",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 136,
         "description": "n/a",
         "originalText": "I don't ne-- ::He takes the charon.:: Thank you very much! Have a nice day.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".T13.T13:IC",
+        "classInfo": "(T13).T13:IC",
         "objectId": 141,
         "description": "n/a",
         "originalText": "currency.sc",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 145,
         "description": "n/a",
         "originalText": "See you around then. Goodbye.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 148,
         "description": "n/a",
         "originalText": "Goodbye.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

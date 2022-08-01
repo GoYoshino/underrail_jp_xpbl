@@ -1,506 +1,581 @@
 [
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Key",
         "objectId": 3,
-        "description": "n/a",
+        "description": "key='psibooster'",
         "originalText": "psibooster",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Value",
         "objectId": 4,
         "description": "n/a",
         "originalText": "Immediately restores {0} psi.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Key",
         "objectId": 5,
-        "description": "n/a",
+        "description": "key='psibooster2'",
         "originalText": "psibooster2",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Value",
         "objectId": 6,
         "description": "n/a",
         "originalText": "Immediately restores {0} psi points from the reserves. If the reserves lack enough points, those missing points are generated at {1}% efficency.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Key",
         "objectId": 7,
-        "description": "n/a",
+        "description": "key='adrenalineshot'",
         "originalText": "adrenalineshot",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Value",
         "objectId": 8,
         "description": "n/a",
         "originalText": "Increases action points by {0}, dodge and evasion by {1}% and strength by {2} for {3}, temporarily removing any fatigue.\r\nAfter the effect expires, the consumer will be worn out.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:3:Key",
         "objectId": 9,
-        "description": "n/a",
+        "description": "key='adrenalineshot-old'",
         "originalText": "adrenalineshot-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:3:Value",
         "objectId": 10,
         "description": "n/a",
         "originalText": "Increases movement speed by {0}%, decreases time between attacks by {1}%, and increases dodge and evasion by {2}% for {3} seconds, temporarily removing any fatigue.\r\nAfter the effect expires, the consumer will be worn out.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:4:Key",
         "objectId": 11,
-        "description": "n/a",
+        "description": "key='minddart'",
         "originalText": "minddart",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:4:Value",
         "objectId": 12,
         "description": "n/a",
         "originalText": "Immediately restores {0} psi and additional {1} psi each turn for {2}. Stacks up {3} times. \r\n\r\nCauses psionic withdrawal effect when it expires. Intensity of this effect depends on the number of stacks as well as if the user was already under its effect before new consumation.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:5:Key",
         "objectId": 13,
-        "description": "n/a",
+        "description": "key='minddart-old'",
         "originalText": "minddart-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:5:Value",
         "objectId": 14,
         "description": "n/a",
         "originalText": "Increases psi regeneration by {0}% plus {1} for {2} seconds. Stacks up {3} times. \r\n\r\nCauses psionic withdrawal effect when it expires. Intensity of this effect depends on the number of stacks as well as if the user was already under its effect before new consumation.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:6:Key",
         "objectId": 15,
-        "description": "n/a",
+        "description": "key='restoreitemenergy'",
         "originalText": "restoreitemenergy",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:6:Value",
         "objectId": 16,
         "description": "n/a",
         "originalText": "Recharges an item with {0} energy.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:7:Key",
         "objectId": 17,
-        "description": "n/a",
+        "description": "key='restoreweaponenergy'",
         "originalText": "restoreweaponenergy",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:7:Value",
         "objectId": 18,
         "description": "n/a",
         "originalText": "Recharges the current energy-based weapon with {0} energy.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:8:Key",
         "objectId": 19,
-        "description": "n/a",
+        "description": "key='restoreobjectenergy'",
         "originalText": "restoreobjectenergy",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:8:Value",
         "objectId": 20,
         "description": "n/a",
         "originalText": "Recharges a large energy storage object with {0} energy.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:9:Key",
         "objectId": 21,
-        "description": "n/a",
+        "description": "key='antidote'",
         "originalText": "antidote",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:9:Value",
         "objectId": 22,
         "description": "n/a",
         "originalText": "Removes up to {0} stacks of poison.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:10:Key",
         "objectId": 23,
-        "description": "n/a",
+        "description": "key='bandage'",
         "originalText": "bandage",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:10:Value",
         "objectId": 24,
         "description": "n/a",
         "originalText": "Restores {0} health points over {1} seconds. Health must be over {2}% in order for bandages to be effective.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:11:Key",
         "objectId": 25,
-        "description": "n/a",
+        "description": "key='morphinehypo'",
         "originalText": "morphinehypo",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:11:Value",
         "objectId": 26,
         "description": "n/a",
         "originalText": "Reduces damage taken from all sources by {0}% for {1}. After the effect expires the character takes damage equal to {2}% of their missing health.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:12:Key",
         "objectId": 27,
-        "description": "n/a",
+        "description": "key='nervosomnifer'",
         "originalText": "nervosomnifer",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:12:Value",
         "objectId": 28,
         "description": "n/a",
         "originalText": "Reduces damage taken from all sources by {0}% for {1}. After the effect expires the character takes damage equal to {2}% of their missing health.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:13:Key",
         "objectId": 29,
-        "description": "n/a",
+        "description": "key='irongut'",
         "originalText": "irongut",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:13:Value",
         "objectId": 30,
         "description": "n/a",
         "originalText": "Reduces all biological damage taken by {0}% for {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:14:Key",
         "objectId": 31,
-        "description": "n/a",
+        "description": "key='trance'",
         "originalText": "trance",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:14:Value",
         "objectId": 32,
         "description": "n/a",
         "originalText": "Increases critical damage bonus of psi abilities by {0}% and psi cost by {1}% for {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:15:Key",
         "objectId": 33,
-        "description": "n/a",
+        "description": "key='aegis'",
         "originalText": "aegis",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:15:Value",
         "objectId": 34,
         "description": "n/a",
         "originalText": "Reduces all damage taken by {0}% for {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:16:Key",
         "objectId": 35,
-        "description": "n/a",
+        "description": "key='focusstim'",
         "originalText": "focusstim",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:16:Value",
         "objectId": 36,
         "description": "n/a",
         "originalText": "Increases critical chance with weapons, unarmed combat and psionics by {0}% for {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:17:Key",
         "objectId": 37,
-        "description": "n/a",
+        "description": "key='jumpingbean'",
         "originalText": "jumpingbean",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:17:Value",
         "objectId": 38,
         "description": "n/a",
         "originalText": "Increases dodge and evasion by {0}%. Also increases movement points by {1} while not in stealth. Lasts {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:18:Key",
         "objectId": 39,
-        "description": "n/a",
+        "description": "key='hercules'",
         "originalText": "hercules",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:18:Value",
         "objectId": 40,
         "description": "n/a",
         "originalText": "Increases strength, dexterity, agility, and constitution by {0} for {1}... but at what cost?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:19:Key",
         "objectId": 41,
-        "description": "n/a",
+        "description": "key='bullhead'",
         "originalText": "bullhead",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:19:Value",
         "objectId": 42,
         "description": "n/a",
         "originalText": "Grants stun, daze, and incapacitation immunity for {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:20:Key",
         "objectId": 43,
-        "description": "n/a",
+        "description": "key='psireinvigorator'",
         "originalText": "psireinvigorator",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:20:Value",
         "objectId": 44,
         "description": "n/a",
         "originalText": "Removes psionic inhibition.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:21:Key",
         "objectId": 45,
-        "description": "n/a",
+        "description": "key='regenerativemixture'",
         "originalText": "regenerativemixture",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:21:Value",
         "objectId": 46,
         "description": "n/a",
         "originalText": "Regenerates {0} health each turn for {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:22:Key",
         "objectId": 47,
-        "description": "n/a",
+        "description": "key='supersoldierdrug'",
         "originalText": "supersoldierdrug",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:22:Value",
         "objectId": 48,
         "description": "n/a",
         "originalText": "Increases strength, dexterity, agility, constitution, and perception by {0} and all combat skills by {1}% for {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:23:Key",
         "objectId": 49,
-        "description": "n/a",
+        "description": "key='thejuice'",
         "originalText": "thejuice",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:23:Value",
         "objectId": 50,
         "description": "n/a",
         "originalText": "Increases perception by {0} and grants the character the gift of second sight.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:24:Key",
         "objectId": 51,
-        "description": "n/a",
+        "description": "key='psionicaccelerator'",
         "originalText": "psionicaccelerator",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:24:Value",
         "objectId": 52,
         "description": "n/a",
         "originalText": "Increases psi regeneration by {0}% for {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:25:Key",
         "objectId": 53,
-        "description": "n/a",
+        "description": "key='hypercerebrix'",
         "originalText": "hypercerebrix",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:25:Value",
         "objectId": 54,
         "description": "n/a",
         "originalText": "Increases intelligence by {0} for {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:26:Key",
         "objectId": 55,
-        "description": "n/a",
+        "description": "key='coagulationshot'",
         "originalText": "coagulationshot",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:26:Value",
         "objectId": 56,
         "description": "n/a",
         "originalText": "Removes up to {0} bleeding wounds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:27:Key",
         "objectId": 57,
-        "description": "n/a",
+        "description": "key='twitch'",
         "originalText": "twitch",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:27:Value",
         "objectId": 58,
         "description": "n/a",
         "originalText": "Increases initiative by {0} for {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:28:Key",
         "objectId": 59,
-        "description": "n/a",
+        "description": "key='thirdeye'",
         "originalText": "thirdeye",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:28:Value",
         "objectId": 60,
         "description": "n/a",
         "originalText": "Increases detection by {0}% and perception by {1} for the purpose of detecting hidden passages and other secrets for {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:29:Key",
         "objectId": 61,
-        "description": "n/a",
+        "description": "key='healingsalve'",
         "originalText": "healingsalve",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:29:Value",
         "objectId": 62,
         "description": "n/a",
         "originalText": "Instantly restores {0} health points and then additional {1} health points each turn for {2}.\r\n\r\nUnfortunately, it also slightly blurs the vision and numbs the fingers, reducing perception and dexterity by {3} for {4}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:30:Key",
         "objectId": 63,
-        "description": "n/a",
+        "description": "key='spiritpotion'",
         "originalText": "spiritpotion",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:30:Value",
         "objectId": 64,
         "description": "n/a",
         "originalText": "Instantly restores {0} psi points and then additional {1} psi points each turn for {2}.\r\n\r\nUnfortunately, it also puts an unwholesome burden on the mind, reducing will by {3} and resolve by {4}% for {5}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:31:Key",
         "objectId": 65,
-        "description": "n/a",
+        "description": "key='vitalitypowder'",
         "originalText": "vitalitypowder",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:31:Value",
         "objectId": 66,
         "description": "n/a",
         "originalText": "Increases action points by {0}, dodge and evasion by {1}% and strength by {2} for {3}, temporarily removing any fatigue.\r\nAfter the effect expires, the consumer will be worn out and also lose {4} health each turn for {5}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:32:Key",
         "objectId": 67,
-        "description": "n/a",
+        "description": "key='bioluminousswamphoney'",
         "originalText": "bioluminousswamphoney",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:32:Value",
         "objectId": 68,
         "description": "n/a",
         "originalText": "Increases perception by {0} and regenerates {1} health points each turn for {2}. Also makes the consumer glow.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:33:Key",
         "objectId": 69,
-        "description": "n/a",
+        "description": "key='cigar'",
         "originalText": "cigar",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:33:Value",
         "objectId": 70,
         "description": "n/a",
         "originalText": "Increases psi regeneration by {0}, but reduces consitution by {1} for {2} minutes. Requires a lighter.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:34:Key",
         "objectId": 71,
-        "description": "n/a",
+        "description": "key='psionicinhalant'",
         "originalText": "psionicinhalant",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:34:Value",
         "objectId": 72,
         "description": "n/a",
         "originalText": "Restores {0} reserve psi points and {1} psi points over {2} seconds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:35:Key",
         "objectId": 73,
-        "description": "n/a",
+        "description": "key='psireconstructivepill'",
         "originalText": "psireconstructivepill",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:35:Value",
         "objectId": 74,
         "description": "n/a",
         "originalText": "Premanently removes the {0} feat, making you depend on your intelligence base ability for the number of psi slots.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "jsonVersion": "0.3"
     }
 ]

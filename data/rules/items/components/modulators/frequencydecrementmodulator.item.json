@@ -1,37 +1,53 @@
 [
     {
-        "className": "CI",
+        "classInfo": "(CI).I:N",
         "objectId": 3,
         "description": "n/a",
         "originalText": "Frequency Decrement Modulator",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "CI",
+        "classInfo": "(CI).I:D",
         "objectId": 5,
         "description": "n/a",
         "originalText": "Modulators can be added to a device that utilizes any type of wave, or relies on waves or related phenomena, to alter its behavior.\n  \nThis modulator reduces the frequency of waves which usually increases the device efficiency at the cost of slower operating.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "CI",
+        "classInfo": "(CI).I:VM",
         "objectId": 6,
         "description": "n/a",
         "originalText": "Components.41",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "CSR",
+        "classInfo": "(CSR).CSR:SN",
         "objectId": 15,
         "description": "n/a",
         "originalText": "Electronics",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "P",
+        "classInfo": "(P).P:N",
         "objectId": 16,
         "description": "n/a",
         "originalText": "ShieldRechargeDurationModifier",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:N",
+        "objectId": 17,
+        "description": "n/a",
+        "originalText": "ShieldRechargeTotalShieldModifier",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "jsonVersion": "0.3"
     }
 ]

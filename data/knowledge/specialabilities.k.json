@@ -1,800 +1,917 @@
 [
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Key",
         "objectId": 3,
-        "description": "n/a",
+        "description": "key='stealth'",
         "originalText": "stealth",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Value",
         "objectId": 4,
         "description": "n/a",
         "originalText": "You enter stealth mode which allows you to hide from others, but reduces your movement speed by {0}%.\r\n\r\nTo successfully hide from someone, you need to keep out of their sight for a while. Once you are hidden from someone, they will need to pass a perception check to detect you.\r\n\r\nEntering the stealth mode in combat will immediately drain all your remaining action and movement points. While in combat your movement points are reduced to {1} and you can receive no extra movement points from any source.\r\n\r\nMost hostile actions will immediately remove you from stealth.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Key",
         "objectId": 5,
-        "description": "n/a",
+        "description": "key='pickpocket'",
         "originalText": "pickpocket",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Value",
         "objectId": 6,
         "description": "n/a",
         "originalText": "You attempt to steal an item from the target's pockets.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Key",
         "objectId": 7,
-        "description": "n/a",
+        "description": "key='lock'",
         "originalText": "lock",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Value",
         "objectId": 8,
         "description": "n/a",
         "originalText": "Locks a mechanical or electronic lock providing you have the right key.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:3:Key",
         "objectId": 9,
-        "description": "n/a",
+        "description": "key='stealth-backup'",
         "originalText": "stealth-backup",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:3:Value",
         "objectId": 10,
         "description": "n/a",
         "originalText": "Once you are hidden from someone, they will need to pass a perception check to detect you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:4:Key",
         "objectId": 11,
-        "description": "n/a",
+        "description": "key='sprint'",
         "originalText": "sprint",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:4:Value",
         "objectId": 12,
         "description": "n/a",
         "originalText": "Increases movement points by {0} for {1}. Does not work in stealth.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:5:Key",
         "objectId": 13,
-        "description": "n/a",
+        "description": "key='improvedsprint'",
         "originalText": "improvedsprint",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:5:Value",
         "objectId": 14,
         "description": "n/a",
         "originalText": "Increases movement points by {0} and action points by {1} for {2}. Does not work in stealth.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:6:Key",
         "objectId": 15,
-        "description": "n/a",
+        "description": "key='sprint-rt'",
         "originalText": "sprint-rt",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:6:Value",
         "objectId": 16,
         "description": "n/a",
         "originalText": "Increases movement speed by {0}% for {1} seconds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:7:Key",
         "objectId": 17,
-        "description": "n/a",
+        "description": "key='locusofcontrol'",
         "originalText": "locusofcontrol",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:7:Value",
         "objectId": 18,
         "description": "n/a",
         "originalText": "Activate this ability to remove and gain immunity to stun, fear, incapacitation, and mind control for {0}.\r\n\r\nWhile this effect is active you can invoke any thought control psi ability as an area of effect ability, but that will end the effect.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:8:Key",
         "objectId": 19,
-        "description": "n/a",
+        "description": "key='premeditation-old'",
         "originalText": "premeditation-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:8:Value",
         "objectId": 20,
         "description": "n/a",
         "originalText": "When activated this ability will make your next psi ability cost no psi points and have its range increased by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:9:Key",
         "objectId": 21,
-        "description": "n/a",
+        "description": "key='premeditation'",
         "originalText": "premeditation",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:9:Value",
         "objectId": 22,
         "description": "n/a",
         "originalText": "When activated this ability will reduce the psi cost of your next psi ability by {0}%, its action point cost by {1}% and increase its range by {2}. The range is not increased for channeled abilities.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:10:Key",
         "objectId": 23,
-        "description": "n/a",
+        "description": "key='psionicmania'",
         "originalText": "psionicmania",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:10:Value",
         "objectId": 24,
         "description": "n/a",
         "originalText": "When activated makes your next offensive psi ability an automatic critical hit. Activating this ability will also remove up to {0}% of your maximum health, but cannot kill you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:11:Key",
         "objectId": 25,
-        "description": "n/a",
+        "description": "key='specialtactics'",
         "originalText": "specialtactics",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:11:Value",
         "objectId": 26,
         "description": "n/a",
         "originalText": "When activated this ability will remove the action point cost of your next special bolt attack. Can only be activated while out of combat.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:12:Key",
         "objectId": 27,
-        "description": "n/a",
+        "description": "key='yell'",
         "originalText": "yell",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:12:Value",
         "objectId": 28,
         "description": "n/a",
         "originalText": "You issue an intimidating shout in an attempt to reduce combat readiness of surrounding enemies and remove them from stealth. All affected enemies have their combat skills reduced by {0} for {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:13:Key",
         "objectId": 29,
-        "description": "n/a",
+        "description": "key='yellmonstrous'",
         "originalText": "yellmonstrous",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:13:Value",
         "objectId": 30,
         "description": "n/a",
         "originalText": "Additionally, all affected enemies have {0}% chance to be overwhelmed with fear and run in panic for {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:14:Key",
         "objectId": 31,
-        "description": "n/a",
+        "description": "key='uncannydodge'",
         "originalText": "uncannydodge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:14:Value",
         "objectId": 32,
         "description": "n/a",
         "originalText": "When activated this ability will cause you to dodge the next {0} regular or special melee attack targeted against you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:15:Key",
         "objectId": 33,
-        "description": "n/a",
+        "description": "key='evasivemaneuvers'",
         "originalText": "evasivemaneuvers",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:15:Value",
         "objectId": 34,
         "description": "n/a",
         "originalText": "Converts all remaining movement points into evasion at {0}% conversion rate for {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:16:Key",
         "objectId": 35,
-        "description": "n/a",
+        "description": "key='quicktinkering'",
         "originalText": "quicktinkering",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:16:Value",
         "objectId": 36,
         "description": "n/a",
         "originalText": "When activated will allow you to arm your next trap instantly, even in combat in which case it will cost {0} action points.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:17:Key",
         "objectId": 37,
-        "description": "n/a",
+        "description": "key='laststand-old'",
         "originalText": "laststand-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:17:Value",
         "objectId": 38,
         "description": "n/a",
         "originalText": "When activated will provide your character with additional {0} health immediately and reduce damage taken from all sources by {1}% for {2}. After this effect expires, the character will lose this extra health but this event cannot kill them.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:18:Key",
         "objectId": 39,
-        "description": "n/a",
+        "description": "key='laststand'",
         "originalText": "laststand",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:18:Value",
         "objectId": 40,
         "description": "n/a",
         "originalText": "When activated this ability will temporarily reset your health to your maximum for {0}. After the effect expires, your health will be reduced to 1.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:19:Key",
         "objectId": 41,
-        "description": "n/a",
+        "description": "key='acidspray'",
         "originalText": "acidspray",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:19:Value",
         "objectId": 42,
         "description": "n/a",
         "originalText": "Hurls {0} acid blobs at the target dealing {1} damage per blob and leaving acid pools on the ground.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:20:Key",
         "objectId": 43,
-        "description": "n/a",
+        "description": "key='acidspray_rusting'",
         "originalText": "acidspray_rusting",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:20:Value",
         "objectId": 44,
         "description": "n/a",
         "originalText": "Hurls {0} blobs of rusting acid at the target dealing {1} damage and applying one Rusting debuff per blob, and leaving acid pools on the ground.\r\n\r\nRusting debuff reduces durability of all mechanical items in target's posession by {2} per stack each turn for {3}. Stacks {4} times.\r\n\r\nRusting acid damage is increased by {5}% against vehicles and machines.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:21:Key",
         "objectId": 45,
-        "description": "n/a",
+        "description": "key='acidblobattack'",
         "originalText": "acidblobattack",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:21:Value",
         "objectId": 46,
         "description": "n/a",
         "originalText": "Spit a large acid blob at the target, dealing {0} damage and entangling them in acid for {1} if it lands. While entangled in acid, the victim suffers additional {2} acid damage per turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:22:Key",
         "objectId": 47,
-        "description": "n/a",
+        "description": "key='acidblobattack_rusting'",
         "originalText": "acidblobattack_rusting",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:22:Value",
         "objectId": 48,
         "description": "n/a",
         "originalText": "Spit a large blob of rusting acid at the target, dealing {0} damage, entangling them in rusting acid for {1}, and applying Rusting debuff if it lands. While entangled in acid, the victim suffers additional {2} acid damage and receives additional {3} stacks of Rusting debuff per turn.\r\n\r\nRusting debuff reduces durability of all mechanical items in target's posession by {4} per stack each turn for {5}. Stacks {6} times. \r\n\r\nRusting acid damage is increased by {7}% against vehicles and machines.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:23:Key",
         "objectId": 49,
-        "description": "n/a",
+        "description": "key='blitz'",
         "originalText": "blitz",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:23:Value",
         "objectId": 50,
         "description": "n/a",
         "originalText": "You instantly convert all your movement points to action points, gaining 1 action point for each {0} movement points, up to maximum of {1} action points.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:24:Key",
         "objectId": 51,
-        "description": "n/a",
+        "description": "key='escapebonds'",
         "originalText": "escapebonds",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:24:Value",
         "objectId": 52,
         "description": "n/a",
         "originalText": "Instantly remove all immobilization effects.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:25:Key",
         "objectId": 53,
-        "description": "n/a",
+        "description": "key='hemopsychosis'",
         "originalText": "hemopsychosis",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:25:Value",
         "objectId": 54,
         "description": "n/a",
         "originalText": "When activated will make all your psi abilities cost health instead of psi until the end of the turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:26:Key",
         "objectId": 55,
-        "description": "n/a",
+        "description": "key='shootdreadnoughtrocket'",
         "originalText": "shootdreadnoughtrocket",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:26:Value",
         "objectId": 56,
         "description": "n/a",
         "originalText": "Shoot 30mm dreadnought rocket at the targeted location dealing {0} and {1} damage to everything in {2} tile radius.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:27:Key",
         "objectId": 57,
-        "description": "n/a",
+        "description": "key='shootharp1rocket'",
         "originalText": "shootharp1rocket",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:27:Value",
         "objectId": 58,
         "description": "n/a",
         "originalText": "Shoot Harp-1 rocket at the targeted location dealing {0} and {1} damage to everything in {2} tile radius.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:28:Key",
         "objectId": 59,
-        "description": "n/a",
+        "description": "key='vehicleturbo'",
         "originalText": "vehicleturbo",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:28:Value",
         "objectId": 60,
         "description": "n/a",
         "originalText": "Instantly consumes {0} vehicle energy and increases the movement speed and movement points of the vehicle by {1}% and energy consumption by {2}% for {3}. The bonuses only work if vehicle is not overencumbered.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:29:Key",
         "objectId": 61,
-        "description": "n/a",
+        "description": "key='changetrigger'",
         "originalText": "changetrigger",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:29:Value",
         "objectId": 62,
         "description": "n/a",
         "originalText": "Put your finger on the other trigger of the double-barreled shotgun in preparation to shoot the other shell first.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:30:Key",
         "objectId": 63,
-        "description": "n/a",
+        "description": "key='fend'",
         "originalText": "fend",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:30:Value",
         "objectId": 64,
         "description": "n/a",
         "originalText": "Instantly grants you Spear Guard status effect that can block {0}% more damage than normal (with current spear and skill {1}).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:31:Key",
         "objectId": 65,
-        "description": "n/a",
+        "description": "key='throwspear'",
         "originalText": "throwspear",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:31:Value",
         "objectId": 66,
         "description": "n/a",
         "originalText": "Throws the spear at the target, dealing {0}%, plus additional {1}% per unit of range, of normal weapon damage. The precision of this attack is dependent on throwing skill.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:32:Key",
         "objectId": 67,
-        "description": "n/a",
+        "description": "key='shootleviatorplasmacannon'",
         "originalText": "shootleviatorplasmacannon",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:32:Value",
         "objectId": 68,
         "description": "n/a",
         "originalText": "Fire one of the plasma cannons, dealing {0} and {1} damage to the target. Consumes {2} vehicle energy.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:33:Key",
         "objectId": 69,
-        "description": "n/a",
+        "description": "key='shootdevastatorfusioncannon'",
         "originalText": "shootdevastatorfusioncannon",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:33:Value",
         "objectId": 70,
         "description": "n/a",
         "originalText": "Fire the fusion cannon, dealing {0} and {1} damage to everything in {2} tile radius. Consumes {3} vehicle energy.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:34:Key",
         "objectId": 71,
-        "description": "n/a",
+        "description": "key='shootglowjetskilasergun'",
         "originalText": "shootglowjetskilasergun",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:34:Value",
         "objectId": 72,
         "description": "n/a",
         "originalText": "Rapidly fires {0} shots from the twin laser guns, dealing {1} per shot. Consumes {2} vehicle energy.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:35:Key",
         "objectId": 73,
-        "description": "n/a",
+        "description": "key='electroshockaura'",
         "originalText": "electroshockaura",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:35:Value",
         "objectId": 74,
         "description": "n/a",
         "originalText": "When activated it will drain {0} energy from the armor and hit adjacent characters for {1} damage at the end of every turn at the cost of additional {2} energy per character. This will occur at the start of the wearer's turn instead of at the end. Additionally, whenever the wearer is attacked by a melee attack, the attacker will be hit by the same electrical damage at the same energy cost. Whenever this aura deals electrical damage, there's {3}% chance the target will be stunned for {4}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:36:Key",
         "objectId": 75,
-        "description": "n/a",
+        "description": "key='metallineenergization'",
         "originalText": "metallineenergization",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:36:Value",
         "objectId": 76,
         "description": "n/a",
         "originalText": "When activated it will drain {1} energy each turn in order to reduce the wearer's overall armor penalty by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:37:Key",
         "objectId": 77,
-        "description": "n/a",
+        "description": "key='energyshieldempowerment'",
         "originalText": "energyshieldempowerment",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:37:Value",
         "objectId": 78,
         "description": "n/a",
         "originalText": "When activated it will drain {1} energy each turn in order to increase all energy shielding values by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:38:Key",
         "objectId": 79,
-        "description": "n/a",
+        "description": "key='shootlemurianspear'",
         "originalText": "shootlemurianspear",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:38:Value",
         "objectId": 80,
         "description": "n/a",
         "originalText": "Fire the spear's inbuilt plasma cannon, dealing {0} and {1} damage to the target. Consumes {2} energy.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:39:Key",
         "objectId": 81,
-        "description": "n/a",
+        "description": "key='shootlemurianspear_ht'",
         "originalText": "shootlemurianspear_ht",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:39:Value",
         "objectId": 82,
         "description": "n/a",
         "originalText": "Fire the spear's inbuilt plasma cannon, dealing {0} and {1} damage to the target. Consumes {2} energy. You are able to apply your special knowledge of high-tech weaponry here to increase its damage.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:40:Key",
         "objectId": 83,
-        "description": "n/a",
+        "description": "key='shootplasmaflare'",
         "originalText": "shootplasmaflare",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:40:Value",
         "objectId": 84,
         "description": "n/a",
         "originalText": "Shoot a plasma flare that burns everything along its path for {0} and {1} damage. Consumes {2} energy.\r\n\r\nWhen it lands, it immediately reveals all nearby stealthed targets, and then lights up the area for {3} seconds.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:41:Key",
         "objectId": 85,
-        "description": "n/a",
+        "description": "key='shootplasmaflare_ht'",
         "originalText": "shootplasmaflare_ht",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:41:Value",
         "objectId": 86,
         "description": "n/a",
         "originalText": "Shoot a plasma flare that burns everything along its path for {0} and {1} damage. Consumes {2} energy. You are able to apply your special knowledge of high-tech weaponry here to increase its damage.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:42:Key",
         "objectId": 87,
-        "description": "n/a",
+        "description": "key='towjetski'",
         "originalText": "towjetski",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:42:Value",
         "objectId": 88,
         "description": "n/a",
         "originalText": "Tow another jet ski or naval vehicle.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:43:Key",
         "objectId": 89,
-        "description": "n/a",
+        "description": "key='stoptowingjetski'",
         "originalText": "stoptowingjetski",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:43:Value",
         "objectId": 90,
         "description": "n/a",
         "originalText": "Stop towing what you're currently towing.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:44:Key",
         "objectId": 91,
-        "description": "n/a",
+        "description": "key='empoweredinvocation'",
         "originalText": "empoweredinvocation",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:44:Value",
         "objectId": 92,
         "description": "n/a",
         "originalText": "When activated increases the {0} skill by {1}% until the end of the turn, but drains away all the remaining psi points afterwards.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:45:Key",
         "objectId": 93,
-        "description": "n/a",
+        "description": "key='pickupthrownspear'",
         "originalText": "pickupthrownspear",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:45:Value",
         "objectId": 94,
         "description": "n/a",
         "originalText": "Picks up the closest thrown spear from the ground.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:46:Key",
         "objectId": 95,
-        "description": "n/a",
+        "description": "key='hypnotize'",
         "originalText": "hypnotize",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:46:Value",
         "objectId": 96,
         "description": "n/a",
         "originalText": "Attempts to incapacitate a humanoid target for {0}. Chance to succeed depends on the invoker's persuasion and the target's resolve. Uses {1} energy.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:47:Key",
         "objectId": 97,
-        "description": "n/a",
+        "description": "key='vanish'",
         "originalText": "vanish",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:47:Value",
         "objectId": 98,
         "description": "n/a",
         "originalText": "Immediately enter stealth, disappearing from everyone's sight, and convert all remaining action points into movement points.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:48:Key",
         "objectId": 99,
-        "description": "n/a",
+        "description": "key='wirelesschargingaura'",
         "originalText": "wirelesschargingaura",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:48:Value",
         "objectId": 100,
         "description": "n/a",
         "originalText": "When activated it will transfer up to {0} energy at {1}% efficiency from the source item to all other equipped items that require recharging, splitting the energy equally among them.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:49:Key",
         "objectId": 101,
-        "description": "n/a",
+        "description": "key='helmetlanternaura'",
         "originalText": "helmetlanternaura",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:49:Value",
         "objectId": 102,
         "description": "n/a",
         "originalText": "When activated it will immediately drain {0} energy and additional {1} every turn to provide light in radius of {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:50:Key",
         "objectId": 103,
-        "description": "n/a",
+        "description": "key='exoskeletondrillattack'",
         "originalText": "exoskeletondrillattack",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:50:Value",
         "objectId": 104,
         "description": "n/a",
         "originalText": "You attempt to use the mounted drill to hit the target {0} times for {1} damage. Can only be activated when the suit's power is on. Costs {2} energy.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:51:Key",
         "objectId": 105,
-        "description": "n/a",
+        "description": "key='industrialexoskeletonaura'",
         "originalText": "industrialexoskeletonaura",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:51:Value",
         "objectId": 106,
         "description": "n/a",
         "originalText": "Increases strength by {0} and movement points by {1}, and negates the movement speed and agility penalties of the armor. When activated it will immediately drain {2} energy and additional {3} energy every turn, as well as additional {4} energy for every tile of movement.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:52:Key",
         "objectId": 107,
-        "description": "n/a",
+        "description": "key='shootingspree'",
         "originalText": "shootingspree",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:52:Value",
         "objectId": 108,
         "description": "n/a",
         "originalText": "When activated it will cause your next sniper rifle attack to refund 100% of its action point cost if it kills the target. This will expire at the end of the turn if unused.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:53:Key",
         "objectId": 109,
-        "description": "n/a",
+        "description": "key='shootingspree2'",
         "originalText": "shootingspree2",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:53:Value",
         "objectId": 110,
         "description": "n/a",
         "originalText": "When activated it will cause your next two sniper rifle attacks to refund 100% of their action point cost if they kill their respective targets. This will expire at the end of the turn if unused.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:54:Key",
         "objectId": 111,
-        "description": "n/a",
+        "description": "key='bullettime'",
         "originalText": "bullettime",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:54:Value",
         "objectId": 112,
         "description": "n/a",
         "originalText": "When activated, reduces action point cost of firing firearm pistols by {0}% until the end of the turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:55:Key",
         "objectId": 113,
-        "description": "n/a",
+        "description": "key='energysiphon'",
         "originalText": "energysiphon",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:55:Value",
         "objectId": 114,
         "description": "n/a",
         "originalText": "Perform a melee touch attack that drains {0}-{1} energy from the target's equipped gear, using {2}% of that energy to recharge attacker's equipped gear, and dealing damage equal to {3}% of energy drained as unresistable electrical damage. When performed against a machine, it will instead deal {4} damage which cannot be resisted, converting {5}% of that damage to energy used to recharge attacker's equipped gear. Costs {6} energy.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:56:Key",
         "objectId": 115,
-        "description": "n/a",
+        "description": "key='catlaser'",
         "originalText": "catlaser",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:56:Value",
         "objectId": 116,
         "description": "n/a",
         "originalText": "Provoke the cat to shoot a laser beam towards a target dealing {0} damage at the cost of {1} energy.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "jsonVersion": "0.3"
     }
 ]

@@ -1,782 +1,709 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 19,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 20,
-        "description": "n/a",
-        "originalText": "interfacing",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 21,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 26,
         "description": "n/a",
         "originalText": "::LEMCO L-MSU-P4 - Medication Synthesis Unit\r\n\r\nThis unit is a working prototype and as such might exhibit errors during operation. Contact us at nexus.medtech.medsynth for problem reporting and suggestions. \r\n\r\nPlease select the item you want to synthesize. The percentage of total MedSynth chemical content required for synthesis is displayed next to each item.\r\n\r\n::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 42,
         "description": "n/a",
         "originalText": "::MSCC gauge level: $(context.loc_xpbl_rf_medicationSynthesisCanisterCharge)%::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 45,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesizerCanisterSet",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 47,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesizerCanisterSet",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 49,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 54,
         "description": "n/a",
         "originalText": ":: - Please replace the MedSynth chemical canister.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 73,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 80,
         "description": "n/a",
         "originalText": "::Synthesize antidote (-5%)::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 87,
         "description": "n/a",
         "originalText": "::Synthesize health hypo (-5%)::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 94,
         "description": "n/a",
         "originalText": "::Synthesize advanced health hypo (-10%)::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 101,
         "description": "n/a",
         "originalText": "::Synthesize morphine shot (-10%)::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 108,
         "description": "n/a",
         "originalText": "::Synthesize adrenaline shot (-10%)::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 115,
         "description": "n/a",
         "originalText": "::Synthesize psi booster (-5%)::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 122,
         "description": "n/a",
         "originalText": "::Synthesize desaturated psionic inhalant (-5%)::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 129,
         "description": "n/a",
         "originalText": "::Synthesize irongut (-15%)::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 136,
         "description": "n/a",
         "originalText": "::Synthesize coagulation shot (-15%)::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 142,
         "description": "n/a",
         "originalText": "::Other medication::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 145,
         "description": "n/a",
         "originalText": "::Exit::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 149,
         "description": "n/a",
         "originalText": "::Preparing container... Done.\r\n\r\nSynthesizing...\r\n \r\nSynthesis successful. Please collect your item from the deposit tray.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 155,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 156,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 161,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 162,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 167,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 168,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 173,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 174,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 179,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 180,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 185,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 186,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 191,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 192,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 197,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 198,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 203,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 204,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 209,
         "description": "n/a",
         "originalText": "::Synthesis of these types of medication is currently disabled. Check work log for more information.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 221,
         "description": "n/a",
         "originalText": "::Warning: Synthesis of these types of medication hasn't been fully tested and could result in malsynthesized substances or even complete synthesis failures!\r\n\r\n::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 251,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesis_hackedOtherMedication",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 255,
         "description": "n/a",
         "originalText": "::[Hacking] Enable synthesis of more medication types::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 258,
         "description": "n/a",
         "originalText": "::Synthesize focus stim (-15%)::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 262,
         "description": "n/a",
         "originalText": "::Synthesize super health hypo (-15%)::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 266,
         "description": "n/a",
         "originalText": "::Synthesize supersoldier drug (-25%)::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 270,
         "description": "n/a",
         "originalText": "::Synthesize psi reinvigorator (-30%)::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 275,
         "description": "n/a",
         "originalText": "::Back::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 280,
         "description": "n/a",
         "originalText": "::MSCC gauge level: $(context.loc_xpbl_rf_medicationSynthesisCanisterCharge)%::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 296,
         "description": "n/a",
         "originalText": "::Please wait...::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 299,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.none",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 300,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.none",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 301,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.none",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 302,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.none",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 307,
         "description": "n/a",
         "originalText": ":: - Please replace the canister.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 368,
         "description": "n/a",
         "originalText": "::Unknown error! \r\n\r\nRebooting...::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 371,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 373,
-        "description": "n/a",
-        "originalText": "interfacing",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 374,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 379,
         "description": "n/a",
         "originalText": "::Synthesize focus stim (-15%)::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 385,
         "description": "n/a",
         "originalText": "::Synthesize super health hypo (-15%)::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 391,
         "description": "n/a",
         "originalText": "::Synthesize supersoldier drug (-25%)::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 397,
         "description": "n/a",
         "originalText": "::Synthesize psi reinvigorator (-30%)::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>MI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>MI#-).LIDP:P",
         "objectId": 399,
         "description": "n/a",
         "originalText": "consumables\\medicine\\antidote",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>MI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>MI#-).LIDP:P",
         "objectId": 400,
         "description": "n/a",
         "originalText": "consumables\\medicine\\healthhypo",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>MI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>MI#-).LIDP:P",
         "objectId": 401,
         "description": "n/a",
         "originalText": "consumables\\medicine\\advancedhealthhypo",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>MI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>MI#-).LIDP:P",
         "objectId": 402,
         "description": "n/a",
         "originalText": "consumables\\medicine\\morphineshot",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>MI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>MI#-).LIDP:P",
         "objectId": 403,
         "description": "n/a",
         "originalText": "consumables\\medicine\\adrenalineshot",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>MI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>MI#-).LIDP:P",
         "objectId": 404,
         "description": "n/a",
         "originalText": "consumables\\medicine\\psibooster",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>MI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>MI#-).LIDP:P",
         "objectId": 405,
         "description": "n/a",
         "originalText": "consumables\\medicine\\psiinhalant",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>MI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>MI#-).LIDP:P",
         "objectId": 406,
         "description": "n/a",
         "originalText": "consumables\\medicine\\irongut",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>MI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>MI#-).LIDP:P",
         "objectId": 407,
         "description": "n/a",
         "originalText": "consumables\\medicine\\xpbl\\coagulationshot",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 410,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesis_hackedOtherMedication",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 415,
         "description": "n/a",
         "originalText": "::Preparing container... Done.\r\n\r\nSynthesizing...\r\n\r\n::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 419,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 420,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 426,
         "description": "n/a",
         "originalText": "::Preparing container... Done.\r\n\r\nSynthesizing...\r\n\r\n::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 430,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 431,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 437,
         "description": "n/a",
         "originalText": "::Preparing container... Done.\r\n\r\nSynthesizing...\r\n\r\n::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 441,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 442,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 448,
         "description": "n/a",
         "originalText": "::Preparing container... Done.\r\n\r\nSynthesizing...\r\n\r\n::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MIFV.SFVA:P",
+        "classInfo": "(MIFV).SFVA:P",
         "objectId": 452,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 453,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_rf_medicationSynthesisCanisterCharge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 483,
-        "description": "n/a",
-        "originalText": "interfacing",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 484,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 499,
-        "description": "n/a",
-        "originalText": "interfacing",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 500,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 515,
-        "description": "n/a",
-        "originalText": "interfacing",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 516,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 520,
         "description": "n/a",
         "originalText": "::Synthesis unsuccessful!\r\n\r\nDisposing of waste product...\r\n\r\nWaste disposal successful.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 526,
         "description": "n/a",
         "originalText": "::Synthesis successful. Please collect your item from the deposit tray.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 531,
-        "description": "n/a",
-        "originalText": "interfacing",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 532,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 535,
-        "description": "n/a",
-        "originalText": "interfacing",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 536,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 537,
-        "description": "n/a",
-        "originalText": "interfacing",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 538,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 541,
-        "description": "n/a",
-        "originalText": "interfacing",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 542,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 543,
-        "description": "n/a",
-        "originalText": "interfacing",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 544,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 547,
-        "description": "n/a",
-        "originalText": "interfacing",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 548,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 552,
         "description": "n/a",
         "originalText": "::Synthesis data has been logged for evaluation.\r\n\r\n::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>MI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>MI#-).LIDP:P",
         "objectId": 587,
         "description": "n/a",
         "originalText": "consumables\\medicine\\focusstim",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>MI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>MI#-).LIDP:P",
         "objectId": 588,
         "description": "n/a",
         "originalText": "consumables\\medicine\\superhealthhypo",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>MI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>MI#-).LIDP:P",
         "objectId": 589,
         "description": "n/a",
         "originalText": "consumables\\medicine\\supersoldierdrug",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>MI#-.LIDP:P",
+        "classInfo": "(LIDP#G1>MI#-).LIDP:P",
         "objectId": 590,
         "description": "n/a",
         "originalText": "consumables\\medicine\\psireinvigorator",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

@@ -1,3642 +1,4165 @@
 [
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Key",
         "objectId": 3,
-        "description": "n/a",
+        "description": "key='sprint'",
         "originalText": "sprint",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Value",
         "objectId": 4,
         "description": "n/a",
         "originalText": "Movement points increased by {0} when not in stealth.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Key",
         "objectId": 5,
-        "description": "n/a",
+        "description": "key='charging'",
         "originalText": "charging",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Value",
         "objectId": 6,
         "description": "n/a",
         "originalText": "Movement points increased by {0}. This character will deal {1}% bonus damage if their charge attack lands.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Key",
         "objectId": 7,
-        "description": "n/a",
+        "description": "key='chargingwithstun'",
         "originalText": "chargingwithstun",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Value",
         "objectId": 8,
         "description": "n/a",
         "originalText": "Movement points increased by {0}. This character will deal {1}% bonus damage and stun the target if their charge attack lands.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:3:Key",
         "objectId": 9,
-        "description": "n/a",
+        "description": "key='sprint-rt'",
         "originalText": "sprint-rt",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:3:Value",
         "objectId": 10,
         "description": "n/a",
         "originalText": "Movement speed increased by {0}% when not in stealth.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:4:Key",
         "objectId": 11,
-        "description": "n/a",
+        "description": "key='frozen'",
         "originalText": "frozen",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:4:Value",
         "objectId": 12,
         "description": "n/a",
         "originalText": "Frozen solid. Cannot perform any action, but any direct damage will cancel the effect.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:5:Key",
         "objectId": 13,
-        "description": "n/a",
+        "description": "key='chilled'",
         "originalText": "chilled",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:5:Value",
         "objectId": 14,
         "description": "n/a",
         "originalText": "Movement points reduced by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:6:Key",
         "objectId": 15,
-        "description": "n/a",
+        "description": "key='chilled-slowimmune'",
         "originalText": "chilled-slowimmune",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:6:Value",
         "objectId": 16,
         "description": "n/a",
         "originalText": "This character is immune to slow.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:7:Key",
         "objectId": 17,
-        "description": "n/a",
+        "description": "key='chilled-rt'",
         "originalText": "chilled-rt",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:7:Value",
         "objectId": 18,
         "description": "n/a",
         "originalText": "Movement speed decreased by {0}%",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:8:Key",
         "objectId": 19,
-        "description": "n/a",
+        "description": "key='acidicentanglement'",
         "originalText": "acidicentanglement",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:8:Value",
         "objectId": 20,
         "description": "n/a",
         "originalText": "Character is caught in a sticky acidic blob which prevents them from moving and deals {0} acid damage every turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:9:Key",
         "objectId": 21,
-        "description": "n/a",
+        "description": "key='corrosiveacidicentanglement'",
         "originalText": "corrosiveacidicentanglement",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:9:Value",
         "objectId": 22,
         "description": "n/a",
         "originalText": "Character is caught in a sticky acidic blob which prevents them from moving and deals {0} acid damage every turn and applies {1} stacks of corrosion.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:10:Key",
         "objectId": 23,
-        "description": "n/a",
+        "description": "key='rustingacidicentanglement'",
         "originalText": "rustingacidicentanglement",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:10:Value",
         "objectId": 24,
         "description": "n/a",
         "originalText": "Character is caught in a sticky acidic blob which prevents them from moving and deals {0} acid damage every turn and applies {1} stacks of rusting.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:11:Key",
         "objectId": 25,
-        "description": "n/a",
+        "description": "key='stealthmode'",
         "originalText": "stealthmode",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:11:Value",
         "objectId": 26,
         "description": "n/a",
         "originalText": "The character is currently in stealth mode which allows them to hide from others, but reduces their movement speed by {0}%.\r\n\r\nWhile in combat their movement points are reduced to {1} and they can receive no extra movement points from any source.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:12:Key",
         "objectId": 27,
-        "description": "n/a",
+        "description": "key='shadowtricks'",
         "originalText": "shadowtricks",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:12:Value",
         "objectId": 28,
         "description": "n/a",
         "originalText": "{1}% displacement.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:13:Key",
         "objectId": 29,
-        "description": "n/a",
+        "description": "key='psiboost'",
         "originalText": "psiboost",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:13:Value",
         "objectId": 30,
         "description": "n/a",
         "originalText": "Restores {0} psi each turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:14:Key",
         "objectId": 31,
-        "description": "n/a",
+        "description": "key='psiboost-old'",
         "originalText": "psiboost-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:14:Value",
         "objectId": 32,
         "description": "n/a",
         "originalText": "Psi regeneration increased by {0}% plus {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:15:Key",
         "objectId": 33,
-        "description": "n/a",
+        "description": "key='adrenaline'",
         "originalText": "adrenaline",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:15:Value",
         "objectId": 34,
         "description": "n/a",
         "originalText": "Action points increased by {0}, dodge and evasion by {1}%, and strength by {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:16:Key",
         "objectId": 35,
-        "description": "n/a",
+        "description": "key='adrenaline-old'",
         "originalText": "adrenaline-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:16:Value",
         "objectId": 36,
         "description": "n/a",
         "originalText": "Movement speed increased by {0}%, time between attacks decreased by {1}%, and dodge and evasion increased by {2}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:17:Key",
         "objectId": 37,
-        "description": "n/a",
+        "description": "key='vitalitysurge'",
         "originalText": "vitalitysurge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:17:Value",
         "objectId": 38,
         "description": "n/a",
         "originalText": "Action points increased by {0}, dodge and evasion by {1}%, and strength by {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:18:Key",
         "objectId": 39,
-        "description": "n/a",
+        "description": "key='vitalitydrain'",
         "originalText": "vitalitydrain",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:18:Value",
         "objectId": 40,
         "description": "n/a",
         "originalText": "Loses {0} health per turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:19:Key",
         "objectId": 41,
-        "description": "n/a",
+        "description": "key='fatigue'",
         "originalText": "fatigue",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:19:Value",
         "objectId": 42,
         "description": "n/a",
         "originalText": "Action points decreased by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:20:Key",
         "objectId": 43,
-        "description": "n/a",
+        "description": "key='fatigue-old'",
         "originalText": "fatigue-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:20:Value",
         "objectId": 44,
         "description": "n/a",
         "originalText": "Movement speed decreased by {0}% and time between attacks increased by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:21:Key",
         "objectId": 45,
-        "description": "n/a",
+        "description": "key='psionicwithdrawal'",
         "originalText": "psionicwithdrawal",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:21:Value",
         "objectId": 46,
         "description": "n/a",
         "originalText": "Drains {0} psi every turn. Intelligence, Will and Perception are decreased by {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:22:Key",
         "objectId": 47,
-        "description": "n/a",
+        "description": "key='psionicwithdrawal-old'",
         "originalText": "psionicwithdrawal-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:22:Value",
         "objectId": 48,
         "description": "n/a",
         "originalText": "All bonuses to psi regeneration are nullified and psi regeneration is decreased by {0}%. Intelligence, Wisdom and Will are decreased by {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:23:Key",
         "objectId": 49,
-        "description": "n/a",
+        "description": "key='stunned'",
         "originalText": "stunned",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:23:Value",
         "objectId": 50,
         "description": "n/a",
         "originalText": "Cannot move or perform any actions.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:24:Key",
         "objectId": 51,
-        "description": "n/a",
+        "description": "key='incapacitated'",
         "originalText": "incapacitated",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:24:Value",
         "objectId": 52,
         "description": "n/a",
         "originalText": "Cannot move or perform any actions, but any damage taken will remove the effect.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:25:Key",
         "objectId": 53,
-        "description": "n/a",
+        "description": "key='cerebraltrauma-old'",
         "originalText": "cerebraltrauma-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:25:Value",
         "objectId": 54,
         "description": "n/a",
         "originalText": "Intelligence decreased by {0} and psi regeneration rate decreased by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:26:Key",
         "objectId": 55,
-        "description": "n/a",
+        "description": "key='cerebraltrauma-oldaswell'",
         "originalText": "cerebraltrauma-oldaswell",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:26:Value",
         "objectId": 56,
         "description": "n/a",
         "originalText": "Intelligence decreased by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:27:Key",
         "objectId": 57,
-        "description": "n/a",
+        "description": "key='cerebraltrauma'",
         "originalText": "cerebraltrauma",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:27:Value",
         "objectId": 58,
         "description": "n/a",
         "originalText": "All psi point gains reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:28:Key",
         "objectId": 59,
-        "description": "n/a",
+        "description": "key='mentalsubversion'",
         "originalText": "mentalsubversion",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:28:Value",
         "objectId": 60,
         "description": "n/a",
         "originalText": "Resolve reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:29:Key",
         "objectId": 61,
-        "description": "n/a",
+        "description": "key='kneewound1'",
         "originalText": "kneewound1",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:29:Value",
         "objectId": 62,
         "description": "n/a",
         "originalText": "The character suffers {0} bleeding damage every turn and gains no movement points.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:30:Key",
         "objectId": 63,
-        "description": "n/a",
+        "description": "key='kneewound2'",
         "originalText": "kneewound2",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:30:Value",
         "objectId": 64,
         "description": "n/a",
         "originalText": "This character gains no movement points.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:31:Key",
         "objectId": 65,
-        "description": "n/a",
+        "description": "key='kneewound1-slowimmune'",
         "originalText": "kneewound1-slowimmune",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:31:Value",
         "objectId": 66,
         "description": "n/a",
         "originalText": "The character suffers {0} bleeding damage every turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:32:Key",
         "objectId": 67,
-        "description": "n/a",
+        "description": "key='kneewound2-slowimmune'",
         "originalText": "kneewound2-slowimmune",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:32:Value",
         "objectId": 68,
         "description": "n/a",
         "originalText": "This character is immune to slow.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:33:Key",
         "objectId": 69,
-        "description": "n/a",
+        "description": "key='kneewound1-old'",
         "originalText": "kneewound1-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:33:Value",
         "objectId": 70,
         "description": "n/a",
         "originalText": "The character suffers {0} bleeding damage every second and movement speed is reduced by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:34:Key",
         "objectId": 71,
-        "description": "n/a",
+        "description": "key='kneewound2-old'",
         "originalText": "kneewound2-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:34:Value",
         "objectId": 72,
         "description": "n/a",
         "originalText": "Movement speed reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:35:Key",
         "objectId": 73,
-        "description": "n/a",
+        "description": "key='hypothermia'",
         "originalText": "hypothermia",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:35:Value",
         "objectId": 74,
         "description": "n/a",
         "originalText": "Constitution decreased by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:36:Key",
         "objectId": 75,
-        "description": "n/a",
+        "description": "key='netentanglement'",
         "originalText": "netentanglement",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:36:Value",
         "objectId": 76,
         "description": "n/a",
         "originalText": "Cannot move.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:37:Key",
         "objectId": 77,
-        "description": "n/a",
+        "description": "key='webbed'",
         "originalText": "webbed",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:37:Value",
         "objectId": 78,
         "description": "n/a",
         "originalText": "Cannot move.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:38:Key",
         "objectId": 79,
-        "description": "n/a",
+        "description": "key='thermodynamicity_heat-old'",
         "originalText": "thermodynamicity_heat-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:38:Value",
         "objectId": 80,
         "description": "n/a",
         "originalText": "Cost of the next heat based psi ability reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:39:Key",
         "objectId": 81,
-        "description": "n/a",
+        "description": "key='thermodynamicity_cold-old'",
         "originalText": "thermodynamicity_cold-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:39:Value",
         "objectId": 82,
         "description": "n/a",
         "originalText": "Cost of the next cold based psi ability reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:40:Key",
         "objectId": 83,
-        "description": "n/a",
+        "description": "key='thermodynamicity_heat'",
         "originalText": "thermodynamicity_heat",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:40:Value",
         "objectId": 84,
         "description": "n/a",
         "originalText": "Action point cost of the next heat based psi ability reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:41:Key",
         "objectId": 85,
-        "description": "n/a",
+        "description": "key='thermodynamicity_cold'",
         "originalText": "thermodynamicity_cold",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:41:Value",
         "objectId": 86,
         "description": "n/a",
         "originalText": "Action point cost of the next cold based psi ability reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:42:Key",
         "objectId": 87,
-        "description": "n/a",
+        "description": "key='packhunting-old'",
         "originalText": "packhunting-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:42:Value",
         "objectId": 88,
         "description": "n/a",
         "originalText": "This creature is a pack hunter. Its damage is increased against targets that are surrounded by more of its pack. Damage against the current target is increased by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:43:Key",
         "objectId": 89,
-        "description": "n/a",
+        "description": "key='packhunting'",
         "originalText": "packhunting",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:43:Value",
         "objectId": 90,
         "description": "n/a",
         "originalText": "This creature is a pack hunter. Its damage and attack skill are increased against targets that are surrounded by more of its pack. Damage against the current target is increased by {0}% and attack skill is increased by {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:44:Key",
         "objectId": 91,
-        "description": "n/a",
+        "description": "key='bleedingwound'",
         "originalText": "bleedingwound",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:44:Value",
         "objectId": 92,
         "description": "n/a",
         "originalText": "Bleeding for {0} damage every turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:45:Key",
         "objectId": 93,
-        "description": "n/a",
+        "description": "key='contaminatedwound'",
         "originalText": "contaminatedwound",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:45:Value",
         "objectId": 94,
         "description": "n/a",
         "originalText": "Suffers {0} bio damage every turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:46:Key",
         "objectId": 95,
-        "description": "n/a",
+        "description": "key='fear'",
         "originalText": "fear",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:46:Value",
         "objectId": 96,
         "description": "n/a",
         "originalText": "Overwhelming fear prevents this character from acting rationally.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:47:Key",
         "objectId": 97,
-        "description": "n/a",
+        "description": "key='rage'",
         "originalText": "rage",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:47:Value",
         "objectId": 98,
         "description": "n/a",
         "originalText": "This character is raging and may attack anyone.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:48:Key",
         "objectId": 99,
-        "description": "n/a",
+        "description": "key='aphobia'",
         "originalText": "aphobia",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:48:Value",
         "objectId": 100,
         "description": "n/a",
         "originalText": "Short term immunity to all fear effects.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:49:Key",
         "objectId": 101,
-        "description": "n/a",
+        "description": "key='secondwind'",
         "originalText": "secondwind",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:49:Value",
         "objectId": 102,
         "description": "n/a",
         "originalText": "Short term immunity to stun effects.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:50:Key",
         "objectId": 103,
-        "description": "n/a",
+        "description": "key='safemode'",
         "originalText": "safemode",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:50:Value",
         "objectId": 104,
         "description": "n/a",
         "originalText": "Short term immunity to all disabling effects.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:51:Key",
         "objectId": 105,
-        "description": "n/a",
+        "description": "key='burning'",
         "originalText": "burning",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:51:Value",
         "objectId": 106,
         "description": "n/a",
         "originalText": "This character is burning for {0} damage each turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:52:Key",
         "objectId": 107,
-        "description": "n/a",
+        "description": "key='burningwithfear'",
         "originalText": "burningwithfear",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:52:Value",
         "objectId": 108,
         "description": "n/a",
         "originalText": "This character is burning for {0} damage each turn, while running around in panic.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:53:Key",
         "objectId": 109,
-        "description": "n/a",
+        "description": "key='poison'",
         "originalText": "poison",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:53:Value",
         "objectId": 110,
         "description": "n/a",
         "originalText": "This character is afflicted by {0}, suffering {1} bio damage every turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:54:Key",
         "objectId": 111,
-        "description": "n/a",
+        "description": "key='caveearpoison'",
         "originalText": "caveearpoison",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:54:Value",
         "objectId": 112,
         "description": "n/a",
         "originalText": "This character is afflicted by cave ear poison. All biological damage received increased by {0}% and perception reduced by {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:55:Key",
         "objectId": 113,
-        "description": "n/a",
+        "description": "key='crawlerpoison'",
         "originalText": "crawlerpoison",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:55:Value",
         "objectId": 114,
         "description": "n/a",
         "originalText": "This character is afflicted by crawler poison, suffering {0} bio damage every turn. If the poison is not removed before it expires it will stun the victim for up to {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:56:Key",
         "objectId": 115,
-        "description": "n/a",
+        "description": "key='spiritpoison'",
         "originalText": "spiritpoison",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:56:Value",
         "objectId": 116,
         "description": "n/a",
         "originalText": "This character is afflicted by spirit poison, suffering {0} bio damage every turn and having its resolve reduced by {1}%. If the poison is not removed before it expires it will summon a psionic doppelganger of the victim if it's human.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:57:Key",
         "objectId": 117,
-        "description": "n/a",
+        "description": "key='shortcircuited'",
         "originalText": "shortcircuited",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:57:Value",
         "objectId": 118,
         "description": "n/a",
         "originalText": "This machine is temporarily disabled and cannot perform any functions.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:58:Key",
         "objectId": 119,
-        "description": "n/a",
+        "description": "key='personalcloaking'",
         "originalText": "personalcloaking",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:58:Value",
         "objectId": 120,
         "description": "n/a",
         "originalText": "Stealth increased by {0} and evasion increased by {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:59:Key",
         "objectId": 121,
-        "description": "n/a",
+        "description": "key='nightvision'",
         "originalText": "nightvision",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:59:Value",
         "objectId": 122,
         "description": "n/a",
         "originalText": "You can see in the dark.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:60:Key",
         "objectId": 123,
-        "description": "n/a",
+        "description": "key='locusofcontrol'",
         "originalText": "locusofcontrol",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:60:Value",
         "objectId": 124,
         "description": "n/a",
         "originalText": "Immune to stun, fear, incapacitation, and mind control.\r\n\r\nNext thought control psi ability the character invokes will have an area of effect, but will end the effect.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:61:Key",
         "objectId": 125,
-        "description": "n/a",
+        "description": "key='premeditation'",
         "originalText": "premeditation",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:61:Value",
         "objectId": 126,
         "description": "n/a",
         "originalText": "Character's next psi ability will cost {0}% less psi points, {1}% less action points and will have its range increased by {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:62:Key",
         "objectId": 127,
-        "description": "n/a",
+        "description": "key='psionicmania'",
         "originalText": "psionicmania",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:62:Value",
         "objectId": 128,
         "description": "n/a",
         "originalText": "Character's next offensive psi ability will be an automatic critical hit.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:63:Key",
         "objectId": 129,
-        "description": "n/a",
+        "description": "key='psionicsynergy'",
         "originalText": "psionicsynergy",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:63:Value",
         "objectId": 130,
         "description": "n/a",
         "originalText": "Proximity of other psionically active Azuridae beetles increases this creature's psi skill levels by {0} and also allows it to invoke more powerful psi abilities.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:64:Key",
         "objectId": 131,
-        "description": "n/a",
+        "description": "key='specialtactics'",
         "originalText": "specialtactics",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:64:Value",
         "objectId": 132,
         "description": "n/a",
         "originalText": "Character's next special bolt attack will cost no action points.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:65:Key",
         "objectId": 133,
-        "description": "n/a",
+        "description": "key='food_rathoundbarbeque'",
         "originalText": "food_rathoundbarbeque",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:65:Value",
         "objectId": 134,
         "description": "n/a",
         "originalText": "Strength increased by 1.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:66:Key",
         "objectId": 135,
-        "description": "n/a",
+        "description": "key='food_burrowerburger'",
         "originalText": "food_burrowerburger",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:66:Value",
         "objectId": 136,
         "description": "n/a",
         "originalText": "Constitution increased by 1.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:67:Key",
         "objectId": 137,
-        "description": "n/a",
+        "description": "key='food_cavehoppersteak'",
         "originalText": "food_cavehoppersteak",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:67:Value",
         "objectId": 138,
         "description": "n/a",
         "originalText": "Agility increased by 1.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:68:Key",
         "objectId": 139,
-        "description": "n/a",
+        "description": "key='food_eelsandwich'",
         "originalText": "food_eelsandwich",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:68:Value",
         "objectId": 140,
         "description": "n/a",
         "originalText": "Dexterity increased by 1.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:69:Key",
         "objectId": 141,
-        "description": "n/a",
+        "description": "key='food_mushroombrew'",
         "originalText": "food_mushroombrew",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:69:Value",
         "objectId": 142,
         "description": "n/a",
         "originalText": "Strength increased by 1 and all mechanical damage taken reduced by 10%. Perception and dexterity reduced by 2. All psionic skills reduced by 20 and psi regeneration reduced by 30.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:70:Key",
         "objectId": 143,
-        "description": "n/a",
+        "description": "key='food_coffee'",
         "originalText": "food_coffee",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:70:Value",
         "objectId": 144,
         "description": "n/a",
         "originalText": "Movement points increased by 5 and psi cost of all psi abilities reduced by 10%, but psi regeneration also reduced by 3.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:71:Key",
         "objectId": 145,
-        "description": "n/a",
+        "description": "key='food_baconcheesesandwich'",
         "originalText": "food_baconcheesesandwich",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:71:Value",
         "objectId": 146,
         "description": "n/a",
         "originalText": "Maximum health increased by 20.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:72:Key",
         "objectId": 147,
-        "description": "n/a",
+        "description": "key='food_cannedfish'",
         "originalText": "food_cannedfish",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:72:Value",
         "objectId": 148,
         "description": "n/a",
         "originalText": "Cold damage taken reduced by 15%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:73:Key",
         "objectId": 149,
-        "description": "n/a",
+        "description": "key='food_cannedmeat'",
         "originalText": "food_cannedmeat",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:73:Value",
         "objectId": 150,
         "description": "n/a",
         "originalText": "Mechanical damage taken reduced by 5%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:74:Key",
         "objectId": 151,
-        "description": "n/a",
+        "description": "key='food_cannedmushrooms'",
         "originalText": "food_cannedmushrooms",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:74:Value",
         "objectId": 152,
         "description": "n/a",
         "originalText": "Bio damage taken reduced by 15%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:75:Key",
         "objectId": 153,
-        "description": "n/a",
+        "description": "key='food_cannedstew'",
         "originalText": "food_cannedstew",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:75:Value",
         "objectId": 154,
         "description": "n/a",
         "originalText": "Heat damage taken reduced by 8%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:76:Key",
         "objectId": 155,
-        "description": "n/a",
+        "description": "key='food_cookedburroweregg'",
         "originalText": "food_cookedburroweregg",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:76:Value",
         "objectId": 156,
         "description": "n/a",
         "originalText": "Poison damage taken reduced by 35%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:77:Key",
         "objectId": 157,
-        "description": "n/a",
+        "description": "key='food_corechips'",
         "originalText": "food_corechips",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:77:Value",
         "objectId": 158,
         "description": "n/a",
         "originalText": "Weapon critical hit chance increased by 2%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:78:Key",
         "objectId": 159,
-        "description": "n/a",
+        "description": "key='food_hardcorechips'",
         "originalText": "food_hardcorechips",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:78:Value",
         "objectId": 160,
         "description": "n/a",
         "originalText": "Weapon critical hit chance increased by 5%, but chance to get critically hit by weapons increased by 2%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:79:Key",
         "objectId": 161,
-        "description": "n/a",
+        "description": "key='food_friedsiphonertongue'",
         "originalText": "food_friedsiphonertongue",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:79:Value",
         "objectId": 162,
         "description": "n/a",
         "originalText": "Healing effectiveness increased by 15%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:80:Key",
         "objectId": 163,
-        "description": "n/a",
+        "description": "key='food_mushroomsalad'",
         "originalText": "food_mushroomsalad",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:80:Value",
         "objectId": 164,
         "description": "n/a",
         "originalText": "Perception increased by 1.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:81:Key",
         "objectId": 165,
-        "description": "n/a",
+        "description": "key='food_pentapusbarbecue'",
         "originalText": "food_pentapusbarbecue",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:81:Value",
         "objectId": 166,
         "description": "n/a",
         "originalText": "Carry capacity increased by 25.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:82:Key",
         "objectId": 167,
-        "description": "n/a",
+        "description": "key='food_pickledmindshrooms'",
         "originalText": "food_pickledmindshrooms",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:82:Value",
         "objectId": 168,
         "description": "n/a",
         "originalText": "Psionic critical damage bonus increased by 40%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:83:Key",
         "objectId": 169,
-        "description": "n/a",
+        "description": "key='food_psibeetlebrainsoup'",
         "originalText": "food_psibeetlebrainsoup",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:83:Value",
         "objectId": 170,
         "description": "n/a",
         "originalText": "Psi ability psi cost decreased by 15%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:84:Key",
         "objectId": 171,
-        "description": "n/a",
+        "description": "key='food_rootsoda'",
         "originalText": "food_rootsoda",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:84:Value",
         "objectId": 172,
         "description": "n/a",
         "originalText": "Initiative increased by 5.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:85:Key",
         "objectId": 173,
-        "description": "n/a",
+        "description": "key='food_stuffedbat'",
         "originalText": "food_stuffedbat",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:85:Value",
         "objectId": 174,
         "description": "n/a",
         "originalText": "Detection increased by 15%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:86:Key",
         "objectId": 175,
-        "description": "n/a",
+        "description": "key='food_underpie'",
         "originalText": "food_underpie",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:86:Value",
         "objectId": 176,
         "description": "n/a",
         "originalText": "All skills increased by 3.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:87:Key",
         "objectId": 177,
-        "description": "n/a",
+        "description": "key='food_cannedczernina'",
         "originalText": "food_cannedczernina",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:87:Value",
         "objectId": 178,
         "description": "n/a",
         "originalText": "Heat damage taken reduced by 15%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:88:Key",
         "objectId": 179,
-        "description": "n/a",
+        "description": "key='food_crabsandwich'",
         "originalText": "food_crabsandwich",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:88:Value",
         "objectId": 180,
         "description": "n/a",
         "originalText": "Global mechanical threshold increased by 15%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:89:Key",
         "objectId": 181,
-        "description": "n/a",
+        "description": "key='food_kzozel'",
         "originalText": "food_kzozel",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:89:Value",
         "objectId": 182,
         "description": "n/a",
         "originalText": "Dodge increased by 50 and all mechanical damage taken reduced by 10%. Perception reduced by 2. All psionic skills reduced by 20 and psi regeneration reduced by 30.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:90:Key",
         "objectId": 183,
-        "description": "n/a",
+        "description": "key='food_mutiestew'",
         "originalText": "food_mutiestew",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:90:Value",
         "objectId": 184,
         "description": "n/a",
         "originalText": "Acid damage taken reduced by 35%, but health reduced by 20 and healing effectiveness decreased by 35%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:91:Key",
         "objectId": 185,
-        "description": "n/a",
+        "description": "key='food_seaserpentfillet'",
         "originalText": "food_seaserpentfillet",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:91:Value",
         "objectId": 186,
         "description": "n/a",
         "originalText": "Poison damage taken reduced by 20% and evasion increased by 30.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:92:Key",
         "objectId": 187,
-        "description": "n/a",
+        "description": "key='food_butterysteamedclams'",
         "originalText": "food_butterysteamedclams",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:92:Value",
         "objectId": 188,
         "description": "n/a",
         "originalText": "Maximum health points increased by 40.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:93:Key",
         "objectId": 189,
-        "description": "n/a",
+        "description": "key='food_bisonmilk'",
         "originalText": "food_bisonmilk",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:93:Value",
         "objectId": 190,
         "description": "n/a",
         "originalText": "Strength increased by 1 and critical damage bonus of melee weapons and unarmed attacks increased by 25%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:94:Key",
         "objectId": 191,
-        "description": "n/a",
+        "description": "key='food_mysterycandy'",
         "originalText": "food_mysterycandy",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:94:Value",
         "objectId": 192,
         "description": "n/a",
         "originalText": "Critical chance with weapon, unarmed, and psi attacks increased by 5%, but will reduced by 1 and resolve reduced by 100.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:95:Key",
         "objectId": 193,
-        "description": "n/a",
+        "description": "key='food_iceofspades'",
         "originalText": "food_iceofspades",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:95:Value",
         "objectId": 194,
         "description": "n/a",
         "originalText": "Metathermics increased by 20 but movement points reduced by 10.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:96:Key",
         "objectId": 195,
-        "description": "n/a",
+        "description": "key='food_allin'",
         "originalText": "food_allin",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:96:Value",
         "objectId": 196,
         "description": "n/a",
         "originalText": "All base abilities increased by 3. Chance to get critically hit with weapons, unarmed attacks and psi abilities increased by 100% (additively).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:97:Key",
         "objectId": 197,
-        "description": "n/a",
+        "description": "key='food_cleandeal'",
         "originalText": "food_cleandeal",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:97:Value",
         "objectId": 198,
         "description": "n/a",
         "originalText": "Thought control increased by 20, but perception reduced by 1 and resolve reduced by 30.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:98:Key",
         "objectId": 199,
-        "description": "n/a",
+        "description": "key='food_sleightofthenight'",
         "originalText": "food_sleightofthenight",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:98:Value",
         "objectId": 200,
         "description": "n/a",
         "originalText": "Pickpocketing increased by 15.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:99:Key",
         "objectId": 201,
-        "description": "n/a",
+        "description": "key='food_slampipe'",
         "originalText": "food_slampipe",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:99:Value",
         "objectId": 202,
         "description": "n/a",
         "originalText": "Strength increased by 1 and character does 15% bonus damage with blunt melee weapons, fist weapons and unarmed attacks. Agility reduced by 1.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:100:Key",
         "objectId": 203,
-        "description": "n/a",
+        "description": "key='food_outwork'",
         "originalText": "food_outwork",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:100:Value",
         "objectId": 204,
         "description": "n/a",
         "originalText": "Carry capacity increased by 30.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:101:Key",
         "objectId": 205,
-        "description": "n/a",
+        "description": "key='food_jetdrag'",
         "originalText": "food_jetdrag",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:101:Value",
         "objectId": 206,
         "description": "n/a",
         "originalText": "Stability on jet skis increased by 10%, but action points reduced by 5.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:102:Key",
         "objectId": 207,
-        "description": "n/a",
+        "description": "key='food_laylow'",
         "originalText": "food_laylow",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:102:Value",
         "objectId": 208,
         "description": "n/a",
         "originalText": "Evasion increased by 15% and stealth increased by 20. Also all bio damage received reduced by 10%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:103:Key",
         "objectId": 209,
-        "description": "n/a",
+        "description": "key='food_mindshroommartini'",
         "originalText": "food_mindshroommartini",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:103:Value",
         "objectId": 210,
         "description": "n/a",
         "originalText": "Maximum psi points increased by 10.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:104:Key",
         "objectId": 211,
-        "description": "n/a",
+        "description": "key='food_whitedude'",
         "originalText": "food_whitedude",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:104:Value",
         "objectId": 212,
         "description": "n/a",
         "originalText": "Agility increased by 3, persuasion increased by 15, but dexterity and perception reduced by 2 and psi point regeneration reduced by 30.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:105:Key",
         "objectId": 213,
-        "description": "n/a",
+        "description": "key='food_slackjaw'",
         "originalText": "food_slackjaw",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:105:Value",
         "objectId": 214,
         "description": "n/a",
         "originalText": "Strength and constitution increased by 1 and intimidation increased by 15, but intelligence reduced by 3 and will reduced by 1.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:106:Key",
         "objectId": 215,
-        "description": "n/a",
+        "description": "key='food_absence'",
         "originalText": "food_absence",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:106:Value",
         "objectId": 216,
         "description": "n/a",
-        "originalText": "Detection increased by 23.3%, chance to get crit with weapons, unarmed attacks and psi abilities reduced by 16.6%. To balance the transcendental scales this character has 16.6% increased critical chance with psi abilities and 33.3% increased psi cost. They can also fInAl1y PerC3ive the rE4lity as It TRUEly is\u015d\u015f...",
-        "translatedText": ""
+        "originalText": "Detection increased by 23.3%, chance to get crit with weapons, unarmed attacks and psi abilities reduced by 16.6%. To balance the transcendental scales this character has 16.6% increased critical chance with psi abilities and 33.3% increased psi cost. They can also fInAl1y PerC3ive the rE4lity as It TRUEly isŝş...",
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:107:Key",
         "objectId": 217,
-        "description": "n/a",
+        "description": "key='food_bloodyoligarch'",
         "originalText": "food_bloodyoligarch",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:107:Value",
         "objectId": 218,
         "description": "n/a",
         "originalText": "Health increased by 30, but reslove reduced by the same amount. Its disgusting taste will linger in your mouth for hours.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:108:Key",
         "objectId": 219,
-        "description": "n/a",
+        "description": "key='food_scrapperac'",
         "originalText": "food_scrapperac",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:108:Value",
         "objectId": 220,
         "description": "n/a",
         "originalText": "This character does 15% bonus damage with melee weapons and unarmed attacks and also has a small chance to daze the target, themselves, or both on each such attack.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:109:Key",
         "objectId": 221,
-        "description": "n/a",
+        "description": "key='food_jonspecial'",
         "originalText": "food_jonspecial",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:109:Value",
         "objectId": 222,
         "description": "n/a",
         "originalText": "All skills increased by 5.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:110:Key",
         "objectId": 223,
-        "description": "n/a",
+        "description": "key='strangefeeling'",
         "originalText": "strangefeeling",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:110:Value",
         "objectId": 224,
         "description": "n/a",
         "originalText": "You feel the darkness clasp around you and an ominous presence in the back of your mind.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:111:Key",
         "objectId": 225,
-        "description": "n/a",
+        "description": "key='psionicapparition'",
         "originalText": "psionicapparition",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:111:Value",
         "objectId": 226,
         "description": "n/a",
         "originalText": "Immune to all physical attacks.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:112:Key",
         "objectId": 227,
-        "description": "n/a",
+        "description": "key='offbalance'",
         "originalText": "offbalance",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:112:Value",
         "objectId": 228,
         "description": "n/a",
         "originalText": "Dodge and evasion reduced to zero.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:113:Key",
         "objectId": 229,
-        "description": "n/a",
+        "description": "key='iceremnant'",
         "originalText": "iceremnant",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:113:Value",
         "objectId": 230,
         "description": "n/a",
         "originalText": "Cold apparition. Immune to all damage.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:114:Key",
         "objectId": 231,
-        "description": "n/a",
+        "description": "key='intimidated'",
         "originalText": "intimidated",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:114:Value",
         "objectId": 232,
         "description": "n/a",
         "originalText": "All offensive skills reduced by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:115:Key",
         "objectId": 233,
-        "description": "n/a",
+        "description": "key='creepingdread'",
         "originalText": "creepingdread",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:115:Value",
         "objectId": 234,
         "description": "n/a",
         "originalText": "You feel a deep primordial fear creeping in the back of your head. All offensive, defensive and psionic skills reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:116:Key",
         "objectId": 235,
-        "description": "n/a",
+        "description": "key='sporeinfection'",
         "originalText": "sporeinfection",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:116:Value",
         "objectId": 236,
         "description": "n/a",
         "originalText": "You're getting dizzy. Health reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:117:Key",
         "objectId": 237,
-        "description": "n/a",
+        "description": "key='eyeoftchort'",
         "originalText": "eyeoftchort",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:117:Value",
         "objectId": 238,
         "description": "n/a",
         "originalText": "The eye of Tchort is upon you, nearly paralyzing you with fear. All offensive, defensive and psionic skills reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:118:Key",
         "objectId": 239,
-        "description": "n/a",
+        "description": "key='crippled'",
         "originalText": "crippled",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:118:Value",
         "objectId": 240,
         "description": "n/a",
         "originalText": "Strength decreased by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:119:Key",
         "objectId": 241,
-        "description": "n/a",
+        "description": "key='tackled'",
         "originalText": "tackled",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:119:Value",
         "objectId": 242,
         "description": "n/a",
         "originalText": "Movement points decreased by {0}, action points decreased by {1} and chance to hit with all ranged weapons decreased by {2}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:120:Key",
         "objectId": 243,
-        "description": "n/a",
+        "description": "key='morphinehypo'",
         "originalText": "morphinehypo",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:120:Value",
         "objectId": 244,
         "description": "n/a",
         "originalText": "All damage taken reduced by {0}%. After the effect expires the character will take damage equal to {1}% of their missing health.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:121:Key",
         "objectId": 245,
-        "description": "n/a",
+        "description": "key='nervosomnifer'",
         "originalText": "nervosomnifer",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:121:Value",
         "objectId": 246,
         "description": "n/a",
         "originalText": "All damage taken reduced by {0}%. After the effect expires the character will take damage equal to {1}% of their missing health.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:122:Key",
         "objectId": 247,
-        "description": "n/a",
+        "description": "key='anticoagulation'",
         "originalText": "anticoagulation",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:122:Value",
         "objectId": 248,
         "description": "n/a",
         "originalText": "Prolongs all bleeding effects and increases effectiveness of blood draining attacks by {0}%. Also, all healing effects are reduced by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:123:Key",
         "objectId": 249,
-        "description": "n/a",
+        "description": "key='brokenrib'",
         "originalText": "brokenrib",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:123:Value",
         "objectId": 250,
         "description": "n/a",
         "originalText": "The character takes additional {0}% mechanical damage from all sources.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:124:Key",
         "objectId": 251,
-        "description": "n/a",
+        "description": "key='uncannydodge-old'",
         "originalText": "uncannydodge-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:124:Value",
         "objectId": 252,
         "description": "n/a",
         "originalText": "This character will dodge the next regular or special melee attack.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:125:Key",
         "objectId": 253,
-        "description": "n/a",
+        "description": "key='uncannydodge'",
         "originalText": "uncannydodge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:125:Value",
         "objectId": 254,
         "description": "n/a",
         "originalText": "This character will dodge a regular or special melee attack for each stack of this effect.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:126:Key",
         "objectId": 255,
-        "description": "n/a",
+        "description": "key='uncannyevasion'",
         "originalText": "uncannyevasion",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:126:Value",
         "objectId": 256,
         "description": "n/a",
         "originalText": "This character will evade a regular or special ranged weapon attack for each stack of this effect.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:127:Key",
         "objectId": 257,
-        "description": "n/a",
+        "description": "key='evasivemaneuvers'",
         "originalText": "evasivemaneuvers",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:127:Value",
         "objectId": 258,
         "description": "n/a",
         "originalText": "Evasion increased by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:128:Key",
         "objectId": 259,
-        "description": "n/a",
+        "description": "key='mentalbreakdown'",
         "originalText": "mentalbreakdown",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:128:Value",
         "objectId": 260,
         "description": "n/a",
         "originalText": "This character is incapacitated and suffering {0}% reduced resolve. If a detrimental thought control psi ability is invoked against them it will have double the effect, but will end the mental breakdown.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:129:Key",
         "objectId": 261,
-        "description": "n/a",
+        "description": "key='trapped'",
         "originalText": "trapped",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:129:Value",
         "objectId": 262,
         "description": "n/a",
         "originalText": "This character is rooted in place by a trap.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:130:Key",
         "objectId": 263,
-        "description": "n/a",
+        "description": "key='compass'",
         "originalText": "compass",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:130:Value",
         "objectId": 264,
         "description": "n/a",
         "originalText": "This character can tell which way north is.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:131:Key",
         "objectId": 265,
-        "description": "n/a",
+        "description": "key='infusion_reflexes'",
         "originalText": "infusion_reflexes",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:131:Value",
         "objectId": 266,
         "description": "n/a",
         "originalText": "Dodge and evasion increased by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:132:Key",
         "objectId": 267,
-        "description": "n/a",
+        "description": "key='infusion_strength'",
         "originalText": "infusion_strength",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:132:Value",
         "objectId": 268,
         "description": "n/a",
         "originalText": "Strength increased by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:133:Key",
         "objectId": 269,
-        "description": "n/a",
+        "description": "key='infusion_speed'",
         "originalText": "infusion_speed",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:133:Value",
         "objectId": 270,
         "description": "n/a",
         "originalText": "Movement points increased by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:134:Key",
         "objectId": 271,
-        "description": "n/a",
+        "description": "key='infusion_focus'",
         "originalText": "infusion_focus",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:134:Value",
         "objectId": 272,
         "description": "n/a",
         "originalText": "All psionic skills increased by {0}",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:135:Key",
         "objectId": 273,
-        "description": "n/a",
+        "description": "key='infectedwound'",
         "originalText": "infectedwound",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:135:Value",
         "objectId": 274,
         "description": "n/a",
         "originalText": "All damage taken increased by {0}%. Healing effectiveness reduced by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:136:Key",
         "objectId": 275,
-        "description": "n/a",
+        "description": "key='exposedweakness'",
         "originalText": "exposedweakness",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:136:Value",
         "objectId": 276,
         "description": "n/a",
         "originalText": "Mechanical damage resistance and threshold reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:137:Key",
         "objectId": 277,
-        "description": "n/a",
+        "description": "key='blastedarmor'",
         "originalText": "blastedarmor",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:137:Value",
         "objectId": 278,
         "description": "n/a",
         "originalText": "Mechanical and heat damage resistance and threshold reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:138:Key",
         "objectId": 279,
-        "description": "n/a",
+        "description": "key='suppressed'",
         "originalText": "suppressed",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:138:Value",
         "objectId": 280,
         "description": "n/a",
         "originalText": "Ranged chance to hit reduced by {0}%, action points reduced by {1} and movement points reduced by {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:139:Key",
         "objectId": 281,
-        "description": "n/a",
+        "description": "key='quicktinkering'",
         "originalText": "quicktinkering",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:139:Value",
         "objectId": 282,
         "description": "n/a",
         "originalText": "This character will arm the next trap instantly, even in combat in which case it will cost {0} action points.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:140:Key",
         "objectId": 283,
-        "description": "n/a",
+        "description": "key='tasteforblood'",
         "originalText": "tasteforblood",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:140:Value",
         "objectId": 284,
         "description": "n/a",
         "originalText": "Melee damage increased by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:141:Key",
         "objectId": 285,
-        "description": "n/a",
+        "description": "key='tasteforblood2-old'",
         "originalText": "tasteforblood2-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:141:Value",
         "objectId": 286,
         "description": "n/a",
         "originalText": "Melee damage increased by {0}% and action point cost for using melee weapons reduced by {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:142:Key",
         "objectId": 287,
-        "description": "n/a",
+        "description": "key='combo'",
         "originalText": "combo",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:142:Value",
         "objectId": 288,
         "description": "n/a",
         "originalText": "If you land three consecutive damage dealing unarmed or fist weapon attacks against a single target in a single turn, the third attack will deal {0}% bonus damage and stun the target for {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:143:Key",
         "objectId": 289,
-        "description": "n/a",
+        "description": "key='laststand'",
         "originalText": "laststand",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:143:Value",
         "objectId": 290,
         "description": "n/a",
         "originalText": "After this effect exipres the character's health will be reduced to 1.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:144:Key",
         "objectId": 291,
-        "description": "n/a",
+        "description": "key='thermodynamicdestabilization'",
         "originalText": "thermodynamicdestabilization",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:144:Value",
         "objectId": 292,
         "description": "n/a",
         "originalText": "If this target is destroyed it will explode, dealing {0} and {1} damage to the surrounding characters.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:145:Key",
         "objectId": 293,
-        "description": "n/a",
+        "description": "key='irongut'",
         "originalText": "irongut",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:145:Value",
         "objectId": 294,
         "description": "n/a",
         "originalText": "All biological damage taken reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:146:Key",
         "objectId": 295,
-        "description": "n/a",
+        "description": "key='psionictrance'",
         "originalText": "psionictrance",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:146:Value",
         "objectId": 296,
         "description": "n/a",
         "originalText": "Critical damage bonus of psi abilities increased by {0}%, but psi cost increased by {1}% as well.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:147:Key",
         "objectId": 297,
-        "description": "n/a",
+        "description": "key='painsuppression'",
         "originalText": "painsuppression",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:147:Value",
         "objectId": 298,
         "description": "n/a",
         "originalText": "All damage taken reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:148:Key",
         "objectId": 299,
-        "description": "n/a",
+        "description": "key='focusboost'",
         "originalText": "focusboost",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:148:Value",
         "objectId": 300,
         "description": "n/a",
         "originalText": "Critical chance with weapons, unarmed combat and psionics increased by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:149:Key",
         "objectId": 301,
-        "description": "n/a",
+        "description": "key='agilityboost'",
         "originalText": "agilityboost",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:149:Value",
         "objectId": 302,
         "description": "n/a",
         "originalText": "Dodge and evasion increased by {0}%. Movement points increased by {1} while not in stealth.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:150:Key",
         "objectId": 303,
-        "description": "n/a",
+        "description": "key='herculeanmight'",
         "originalText": "herculeanmight",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:150:Value",
         "objectId": 304,
         "description": "n/a",
         "originalText": "Strength, dexterity, agility, and constitution increased by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:151:Key",
         "objectId": 305,
-        "description": "n/a",
+        "description": "key='herculeanwithdrawal'",
         "originalText": "herculeanwithdrawal",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:151:Value",
         "objectId": 306,
         "description": "n/a",
         "originalText": "You feel ill. Strength, dexterity, agility, and constitution decreased by {0}. Action points reduced by {0}. Movement points reduced by {2} and movement speed reduced by {3}%. Taking {1} damage every turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:152:Key",
         "objectId": 307,
-        "description": "n/a",
+        "description": "key='zombiemutating'",
         "originalText": "zombiemutating",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:152:Value",
         "objectId": 308,
         "description": "n/a",
         "originalText": "This character is undergoing horrific mutations.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:153:Key",
         "objectId": 309,
-        "description": "n/a",
+        "description": "key='dreadnoughtpiloting'",
         "originalText": "dreadnoughtpiloting",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:153:Value",
         "objectId": 310,
         "description": "n/a",
         "originalText": "You are piloting a dreadnought.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:154:Key",
         "objectId": 311,
-        "description": "n/a",
+        "description": "key='jetskipiloting'",
         "originalText": "jetskipiloting",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:154:Value",
         "objectId": 312,
         "description": "n/a",
         "originalText": "You are piloting a jet ski.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:155:Key",
         "objectId": 313,
-        "description": "n/a",
+        "description": "key='dazed'",
         "originalText": "dazed",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:155:Value",
         "objectId": 314,
         "description": "n/a",
         "originalText": "Action points reduced by {0} and movement points reduced by {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:156:Key",
         "objectId": 315,
-        "description": "n/a",
+        "description": "key='inhibited'",
         "originalText": "inhibited",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:156:Value",
         "objectId": 316,
         "description": "n/a",
         "originalText": "Cannot invoke psi abilities or regenerate psi points naturally.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:157:Key",
         "objectId": 317,
-        "description": "n/a",
+        "description": "key='concentratedfire'",
         "originalText": "concentratedfire",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:157:Value",
         "objectId": 318,
         "description": "n/a",
         "originalText": "Receives {0}% extra damage from burst attacks.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:158:Key",
         "objectId": 319,
-        "description": "n/a",
+        "description": "key='gunrush'",
         "originalText": "gunrush",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:158:Value",
         "objectId": 320,
         "description": "n/a",
         "originalText": "Your next burst attack will cost no action points.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:159:Key",
         "objectId": 321,
-        "description": "n/a",
+        "description": "key='immobilized'",
         "originalText": "immobilized",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:159:Value",
         "objectId": 322,
         "description": "n/a",
         "originalText": "Cannot move.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:160:Key",
         "objectId": 323,
-        "description": "n/a",
+        "description": "key='charged'",
         "originalText": "charged",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:160:Value",
         "objectId": 324,
         "description": "n/a",
         "originalText": "Next electrical psionic attack will deal additional {0} electrical damage.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:161:Key",
         "objectId": 325,
-        "description": "n/a",
+        "description": "key='contaminated'",
         "originalText": "contaminated",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:161:Value",
         "objectId": 326,
         "description": "n/a",
         "originalText": "All damage taken increased by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:162:Key",
         "objectId": 327,
-        "description": "n/a",
+        "description": "key='workbenchskillbonus'",
         "originalText": "workbenchskillbonus",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:162:Value",
         "objectId": 328,
         "description": "n/a",
         "originalText": "{0} increased by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:163:Key",
         "objectId": 329,
-        "description": "n/a",
+        "description": "key='pseudospatialprojection'",
         "originalText": "pseudospatialprojection",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:163:Value",
         "objectId": 330,
         "description": "n/a",
         "originalText": "Unarmed and weapon attacks have a chance to miss this character, instead removing one of the psionic projections.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:164:Key",
         "objectId": 331,
-        "description": "n/a",
+        "description": "key='blurredvision'",
         "originalText": "blurredvision",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:164:Value",
         "objectId": 332,
         "description": "n/a",
         "originalText": "Perception reduced by {0} and detection by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:165:Key",
         "objectId": 333,
-        "description": "n/a",
+        "description": "key='neurovisualdisruption'",
         "originalText": "neurovisualdisruption",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:165:Value",
         "objectId": 334,
         "description": "n/a",
         "originalText": "Cannot detect stealthed characters.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:166:Key",
         "objectId": 335,
-        "description": "n/a",
+        "description": "key='disruptivefield'",
         "originalText": "disruptivefield",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:166:Value",
         "objectId": 336,
         "description": "n/a",
         "originalText": "Chance to hit with ranged and thrown weapon reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:167:Key",
         "objectId": 337,
-        "description": "n/a",
+        "description": "key='exothermicaura'",
         "originalText": "exothermicaura",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:167:Value",
         "objectId": 338,
         "description": "n/a",
         "originalText": "You are immune to heat damage and generate flames around you and in your wake (except on the last turn).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:168:Key",
         "objectId": 339,
-        "description": "n/a",
+        "description": "key='cryoshield'",
         "originalText": "cryoshield",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:168:Value",
         "objectId": 340,
         "description": "n/a",
         "originalText": "Each time the character suffers a melee attack, there's a {0}% chance that one of the shards will block {1} of mechanical damage and be destroyed in the process.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:169:Key",
         "objectId": 341,
-        "description": "n/a",
+        "description": "key='bullhead'",
         "originalText": "bullhead",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:169:Value",
         "objectId": 342,
         "description": "n/a",
         "originalText": "Immune to stun, daze, and incapacitation.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:170:Key",
         "objectId": 343,
-        "description": "n/a",
+        "description": "key='regeneration'",
         "originalText": "regeneration",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:170:Value",
         "objectId": 344,
         "description": "n/a",
         "originalText": "Regenerates {0} health each turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:171:Key",
         "objectId": 345,
-        "description": "n/a",
+        "description": "key='psiregeneration'",
         "originalText": "psiregeneration",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:171:Value",
         "objectId": 346,
         "description": "n/a",
         "originalText": "Regenerates {0} psi each turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:172:Key",
         "objectId": 347,
-        "description": "n/a",
+        "description": "key='supersoldierdrug'",
         "originalText": "supersoldierdrug",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:172:Value",
         "objectId": 348,
         "description": "n/a",
         "originalText": "Strength, dexterity, agility, constitution, and perception increased by {0}. All combat skills increased by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:173:Key",
         "objectId": 349,
-        "description": "n/a",
+        "description": "key='shieldrecharging'",
         "originalText": "shieldrecharging",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:173:Value",
         "objectId": 350,
         "description": "n/a",
         "originalText": "Regains {0} shield each turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:174:Key",
         "objectId": 351,
-        "description": "n/a",
+        "description": "key='corroded'",
         "originalText": "corroded",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:174:Value",
         "objectId": 352,
         "description": "n/a",
         "originalText": "All damage resistances and thresholds reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:175:Key",
         "objectId": 353,
-        "description": "n/a",
+        "description": "key='blackdragonpoison'",
         "originalText": "blackdragonpoison",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:175:Value",
         "objectId": 354,
         "description": "n/a",
         "originalText": "Affected by poison which prevents psi ability invocation and psi points regeneration.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:176:Key",
         "objectId": 355,
-        "description": "n/a",
+        "description": "key='psychostaticelectricity'",
         "originalText": "psychostaticelectricity",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:176:Value",
         "objectId": 356,
         "description": "n/a",
         "originalText": "Chance to get critically hit from weapon and unarmed attacks and psi abilities increased by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:177:Key",
         "objectId": 357,
-        "description": "n/a",
+        "description": "key='secondsight'",
         "originalText": "secondsight",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:177:Value",
         "objectId": 358,
         "description": "n/a",
         "originalText": "Perception increased by {0} and the character is granted the gift of second sight.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:178:Key",
         "objectId": 359,
-        "description": "n/a",
+        "description": "key='hemopsychosis'",
         "originalText": "hemopsychosis",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:178:Value",
         "objectId": 360,
         "description": "n/a",
         "originalText": "Your psi abilities cost health instead of psi points.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:179:Key",
         "objectId": 361,
-        "description": "n/a",
+        "description": "key='hemopsychosisreduced'",
         "originalText": "hemopsychosisreduced",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:179:Value",
         "objectId": 362,
         "description": "n/a",
         "originalText": "Your psi abilities cost health instead of psi points, but their cost is reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:180:Key",
         "objectId": 363,
-        "description": "n/a",
+        "description": "key='blindsiding'",
         "originalText": "blindsiding",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:180:Value",
         "objectId": 364,
         "description": "n/a",
         "originalText": "Unarmed and weapon damage increased by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:181:Key",
         "objectId": 365,
-        "description": "n/a",
+        "description": "key='temporaldistorsion'",
         "originalText": "temporaldistorsion",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:181:Value",
         "objectId": 366,
         "description": "n/a",
         "originalText": "When this effect expires, it will deal {0} and {1} damage to the target. This damage ignores shield and {2}% of damage resistance and threshold.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:182:Key",
         "objectId": 367,
-        "description": "n/a",
+        "description": "key='entropicrecurrence'",
         "originalText": "entropicrecurrence",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:182:Value",
         "objectId": 368,
         "description": "n/a",
         "originalText": "The character suffers {0} damage every turn. This damage ignores shields and resistances.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:183:Key",
         "objectId": 369,
-        "description": "n/a",
+        "description": "key='psychotemporaldilation'",
         "originalText": "psychotemporaldilation",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:183:Value",
         "objectId": 370,
         "description": "n/a",
         "originalText": "Action points reduced by {0} and movement points reduced by {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:184:Key",
         "objectId": 371,
-        "description": "n/a",
+        "description": "key='psychotemporalcontraction'",
         "originalText": "psychotemporalcontraction",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:184:Value",
         "objectId": 372,
         "description": "n/a",
         "originalText": "Action points increased by {0} and movement points increased by {1}. After the effect ends, there's a {2}% chance of it reversing into a psychotemporal dilation of varying power.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:185:Key",
         "objectId": 373,
-        "description": "n/a",
+        "description": "key='temporaryrewind'",
         "originalText": "temporaryrewind",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:185:Value",
         "objectId": 374,
         "description": "n/a",
         "originalText": "After this effect ends, the character will take {0} damage. This damage ignores shields and resistances.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:186:Key",
         "objectId": 375,
-        "description": "n/a",
+        "description": "key='precognition'",
         "originalText": "precognition",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:186:Value",
         "objectId": 376,
         "description": "n/a",
         "originalText": "Chance to dodge and evade attacks increased by {0}% (additively). Drains {1} psi points every turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:187:Key",
         "objectId": 377,
-        "description": "n/a",
+        "description": "key='stasis'",
         "originalText": "stasis",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:187:Value",
         "objectId": 378,
         "description": "n/a",
         "originalText": "Immune to all damage and most disabling effects, but cannot act. The character's status effects do not progress, but the cooldowns do.\r\n\r\nThis will expire at the beginning of the last turn of duration instead of at the end.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:188:Key",
         "objectId": 379,
-        "description": "n/a",
+        "description": "key='blindingpoison'",
         "originalText": "blindingpoison",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:188:Value",
         "objectId": 380,
         "description": "n/a",
         "originalText": "This character is afflicted by blinding poison, suffering {0} bio damage every turn. Their perception is also decreased by {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:189:Key",
         "objectId": 381,
-        "description": "n/a",
+        "description": "key='psionicacceleration'",
         "originalText": "psionicacceleration",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:189:Value",
         "objectId": 382,
         "description": "n/a",
         "originalText": "Psi regeneration increased by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:190:Key",
         "objectId": 383,
-        "description": "n/a",
+        "description": "key='blackoilslow'",
         "originalText": "blackoilslow",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:190:Value",
         "objectId": 384,
         "description": "n/a",
         "originalText": "Movement speed reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:191:Key",
         "objectId": 385,
-        "description": "n/a",
+        "description": "key='webslow'",
         "originalText": "webslow",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:191:Value",
         "objectId": 386,
         "description": "n/a",
         "originalText": "Movement speed reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:192:Key",
         "objectId": 387,
-        "description": "n/a",
+        "description": "key='heavyintoxication'",
         "originalText": "heavyintoxication",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:192:Value",
         "objectId": 388,
         "description": "n/a",
         "originalText": "This is what happens when you get wasted with Dude. All your base attributes have been reduced by {0}. Cheers!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:193:Key",
         "objectId": 389,
-        "description": "n/a",
+        "description": "key='sorehands'",
         "originalText": "sorehands",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:193:Value",
         "objectId": 390,
         "description": "n/a",
         "originalText": "Your hands are sore. Your dexterity has been reduced by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:194:Key",
         "objectId": 391,
-        "description": "n/a",
+        "description": "key='intelligenceboost'",
         "originalText": "intelligenceboost",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:194:Value",
         "objectId": 392,
         "description": "n/a",
         "originalText": "Intelligence increased by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:195:Key",
         "objectId": 393,
-        "description": "n/a",
+        "description": "key='initiativeboost'",
         "originalText": "initiativeboost",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:195:Value",
         "objectId": 394,
         "description": "n/a",
         "originalText": "Initiative increased by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:196:Key",
         "objectId": 395,
-        "description": "n/a",
+        "description": "key='thirdeye'",
         "originalText": "thirdeye",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:196:Value",
         "objectId": 396,
         "description": "n/a",
         "originalText": "Detection increased by {0}%. Perception increased by {1} for the purpose of detecting hidden passages and other secrets.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:197:Key",
         "objectId": 397,
-        "description": "n/a",
+        "description": "key='spearguard'",
         "originalText": "spearguard",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:197:Value",
         "objectId": 398,
         "description": "n/a",
         "originalText": "Has a {0}% chance to block up to {1} mechanical damage when holding a spear.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:198:Key",
         "objectId": 399,
-        "description": "n/a",
+        "description": "key='shatteredwill'",
         "originalText": "shatteredwill",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:198:Value",
         "objectId": 400,
         "description": "n/a",
         "originalText": "Your drive to continue on is rapidly deteriorating. All base abilities reduced by {0}, all skills reduced by {1}, movement and action points reduced by {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:199:Key",
         "objectId": 401,
-        "description": "n/a",
+        "description": "key='carvedup'",
         "originalText": "carvedup",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:199:Value",
         "objectId": 402,
         "description": "n/a",
         "originalText": "Action points reduced by {0} and the chance to get critically hit by weapon and unarmed attacks increased by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:200:Key",
         "objectId": 403,
-        "description": "n/a",
+        "description": "key='chemicaldestabilization'",
         "originalText": "chemicaldestabilization",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:200:Value",
         "objectId": 404,
         "description": "n/a",
         "originalText": "The character takes additional {0}% {1} damage from all sources.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:201:Key",
         "objectId": 405,
-        "description": "n/a",
+        "description": "key='chemicaldestabilizationprovider'",
         "originalText": "chemicaldestabilizationprovider",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:201:Value",
         "objectId": 406,
         "description": "n/a",
         "originalText": "Your successful chemical pistol attacks increase the amount of damage taken from the pistol's damage type by {0}% from all sources for {1}. Stacks {2} times.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:202:Key",
         "objectId": 407,
-        "description": "n/a",
+        "description": "key='leperpoison'",
         "originalText": "leperpoison",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:202:Value",
         "objectId": 408,
         "description": "n/a",
         "originalText": "This character is afflicted by leper poison, suffering {0} bio damage every turn and receiving {1}% more mechanical damage from all sources.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:203:Key",
         "objectId": 409,
-        "description": "n/a",
+        "description": "key='submerged'",
         "originalText": "submerged",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:203:Value",
         "objectId": 410,
         "description": "n/a",
         "originalText": "This character is submerged in water. Evasion is increased by {0}, dodge increased by {1} and all damage resistances are increased by {2}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:204:Key",
         "objectId": 411,
-        "description": "n/a",
+        "description": "key='heartbreakpoison'",
         "originalText": "heartbreakpoison",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:204:Value",
         "objectId": 412,
         "description": "n/a",
         "originalText": "This character is afflicted by heartbreak poison, suffering {0} bio damage every turn. If the poison is not removed, it will deal additional {1} bio damage on expiration.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:205:Key",
         "objectId": 413,
-        "description": "n/a",
+        "description": "key='rusting'",
         "originalText": "rusting",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:205:Value",
         "objectId": 414,
         "description": "n/a",
         "originalText": "Reduces durability of all mechanical items in your posession by {0} each turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:206:Key",
         "objectId": 415,
-        "description": "n/a",
+        "description": "key='vehicleturbo'",
         "originalText": "vehicleturbo",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:206:Value",
         "objectId": 416,
         "description": "n/a",
         "originalText": "Vehicle movement speed and movement points increased by {0}%, but energy consumption increased by {1}%. The bonuses only work if vehicle is not overencumbered.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:207:Key",
         "objectId": 417,
-        "description": "n/a",
+        "description": "key='flurry'",
         "originalText": "flurry",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:207:Value",
         "objectId": 418,
         "description": "n/a",
         "originalText": "Reduces action point cost of Flurry by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:208:Key",
         "objectId": 419,
-        "description": "n/a",
+        "description": "key='onslaught'",
         "originalText": "onslaught",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:208:Value",
         "objectId": 420,
         "description": "n/a",
         "originalText": "Increases damage done by swords by {0}%. Will be removed if an attack misses or does no damage.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:209:Key",
         "objectId": 421,
-        "description": "n/a",
+        "description": "key='riposte'",
         "originalText": "riposte",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:209:Value",
         "objectId": 422,
         "description": "n/a",
         "originalText": "This character can perform a free sword attack.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:210:Key",
         "objectId": 423,
-        "description": "n/a",
+        "description": "key='pelletmayhem'",
         "originalText": "pelletmayhem",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:210:Value",
         "objectId": 424,
         "description": "n/a",
         "originalText": "Your next shotgun attack will have the critical hit chance increased by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:211:Key",
         "objectId": 425,
-        "description": "n/a",
+        "description": "key='electroshockaura'",
         "originalText": "electroshockaura",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:211:Value",
         "objectId": 426,
         "description": "n/a",
         "originalText": "Drains {0} energy from the armor and hits adjacent characters for {1} damage at the end of every turn at the cost of {2} energy per character.\r\n\r\nAdditionally, whenever this character is attacked by a melee attack, the attacker will be hit by the same electrical damage at the same energy cost.\r\n\r\nWhenever this aura deals electrical damage, there's {3}% chance the target will be stunned for {4}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:212:Key",
         "objectId": 427,
-        "description": "n/a",
+        "description": "key='metallineenergization'",
         "originalText": "metallineenergization",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:212:Value",
         "objectId": 428,
         "description": "n/a",
         "originalText": "Drains {0} energy from the armor, but reduces the character's overall armor penalty by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:213:Key",
         "objectId": 429,
-        "description": "n/a",
+        "description": "key='energyshieldempowerment'",
         "originalText": "energyshieldempowerment",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:213:Value",
         "objectId": 430,
         "description": "n/a",
         "originalText": "Draing {0} energy from the armor, but increases all energy shielding values by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:214:Key",
         "objectId": 431,
-        "description": "n/a",
+        "description": "key='wirelesschargingaura'",
         "originalText": "wirelesschargingaura",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:214:Value",
         "objectId": 432,
         "description": "n/a",
         "originalText": "Transfers up to {0} energy at {1}% efficiency from the source item to all other equipped items that require recharging, splitting the energy equally among them.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:215:Key",
         "objectId": 433,
-        "description": "n/a",
+        "description": "key='restlessspirits'",
         "originalText": "restlessspirits",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:215:Value",
         "objectId": 434,
         "description": "n/a",
         "originalText": "Dexterity and perception reduced by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:216:Key",
         "objectId": 435,
-        "description": "n/a",
+        "description": "key='darkpresence'",
         "originalText": "darkpresence",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:216:Value",
         "objectId": 436,
         "description": "n/a",
         "originalText": "There is something unwholesome lingering in the back of your mind. Will reduced by {0} and resolve reduced by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:217:Key",
         "objectId": 437,
-        "description": "n/a",
+        "description": "key='striderparasiticinfestation_base'",
         "originalText": "striderparasiticinfestation_base",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:217:Value",
         "objectId": 438,
         "description": "n/a",
         "originalText": "This character has been infested!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:218:Key",
         "objectId": 439,
-        "description": "n/a",
+        "description": "key='striderparasiticinfestation_phase1'",
         "originalText": "striderparasiticinfestation_phase1",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:218:Value",
         "objectId": 440,
         "description": "n/a",
         "originalText": "They take {4} bio damage per turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:219:Key",
         "objectId": 441,
-        "description": "n/a",
+        "description": "key='striderparasiticinfestation_phase2'",
         "originalText": "striderparasiticinfestation_phase2",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:219:Value",
         "objectId": 442,
         "description": "n/a",
         "originalText": "Healing reduced by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:220:Key",
         "objectId": 443,
-        "description": "n/a",
+        "description": "key='striderparasiticinfestation_phase3'",
         "originalText": "striderparasiticinfestation_phase3",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:220:Value",
         "objectId": 444,
         "description": "n/a",
         "originalText": "Psi regeneration reduced by {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:221:Key",
         "objectId": 445,
-        "description": "n/a",
+        "description": "key='striderparasiticinfestation_phase4'",
         "originalText": "striderparasiticinfestation_phase4",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:221:Value",
         "objectId": 446,
         "description": "n/a",
         "originalText": "Movement points reduced by {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:222:Key",
         "objectId": 447,
-        "description": "n/a",
+        "description": "key='striderparasiticinfestation_phase5'",
         "originalText": "striderparasiticinfestation_phase5",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:222:Value",
         "objectId": 448,
         "description": "n/a",
         "originalText": "Action points reduced by {3}. The infested wound hurts abominably.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:223:Key",
         "objectId": 449,
-        "description": "n/a",
+        "description": "key='swamptrance'",
         "originalText": "swamptrance",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:223:Value",
         "objectId": 450,
         "description": "n/a",
         "originalText": "This character has perception increased by {0} and regenerates {1} health points each turn. Also makes the character glow.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:224:Key",
         "objectId": 451,
-        "description": "n/a",
+        "description": "key='polarized'",
         "originalText": "polarized",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:224:Value",
         "objectId": 452,
         "description": "n/a",
         "originalText": "Energy damage resistance and threshold reduced by {0}% and electrical ones reduced by {1}%. Chance to get critically hit by weapons increased by {2}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:225:Key",
         "objectId": 453,
-        "description": "n/a",
+        "description": "key='hyperallergenic'",
         "originalText": "hyperallergenic",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:225:Value",
         "objectId": 454,
         "description": "n/a",
         "originalText": "Consuming any type of medicine will inflict {0} unavoidable bio damage to this character and daze them for {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:226:Key",
         "objectId": 455,
-        "description": "n/a",
+        "description": "key='battletrance'",
         "originalText": "battletrance",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:226:Value",
         "objectId": 456,
         "description": "n/a",
         "originalText": "All offensive and psionic skills increased by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:227:Key",
         "objectId": 457,
-        "description": "n/a",
+        "description": "key='smoking'",
         "originalText": "smoking",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:227:Value",
         "objectId": 458,
         "description": "n/a",
         "originalText": "Increases psi regeneration by {0}, but reduces constitution by {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:228:Key",
         "objectId": 459,
-        "description": "n/a",
+        "description": "key='cerebralacidization'",
         "originalText": "cerebralacidization",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:228:Value",
         "objectId": 460,
         "description": "n/a",
         "originalText": "This creature suffers {0} acid damage every turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:229:Key",
         "objectId": 461,
-        "description": "n/a",
+        "description": "key='voidrot'",
         "originalText": "voidrot",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:229:Value",
         "objectId": 462,
         "description": "n/a",
         "originalText": "This character suffers {0} energy damage every turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:230:Key",
         "objectId": 463,
-        "description": "n/a",
+        "description": "key='improvedsprint'",
         "originalText": "improvedsprint",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:230:Value",
         "objectId": 464,
         "description": "n/a",
         "originalText": "Movement points increased by {0} and action points increased by {1} when not in stealth.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:231:Key",
         "objectId": 465,
-        "description": "n/a",
+        "description": "key='empoweredinvocation'",
         "originalText": "empoweredinvocation",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:231:Value",
         "objectId": 466,
         "description": "n/a",
         "originalText": "{0} skill increased by {1}%. When this effect expires, the character will lose all psi points.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:232:Key",
         "objectId": 467,
-        "description": "n/a",
+        "description": "key='boardedup'",
         "originalText": "boardedup",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:232:Value",
         "objectId": 468,
         "description": "n/a",
         "originalText": "Increases the amount blocked by a riot shield by {0}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:233:Key",
         "objectId": 469,
-        "description": "n/a",
+        "description": "key='shellcount'",
         "originalText": "shellcount",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:233:Value",
         "objectId": 470,
         "description": "n/a",
         "originalText": "Next shotgun shot will deal {0}% bonus damage.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:234:Key",
         "objectId": 471,
-        "description": "n/a",
+        "description": "key='scrambledcortex'",
         "originalText": "scrambledcortex",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:234:Value",
         "objectId": 472,
         "description": "n/a",
         "originalText": "This machine is confused and may attack anyone or retreat at random.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:235:Key",
         "objectId": 473,
-        "description": "n/a",
+        "description": "key='chemhaze'",
         "originalText": "chemhaze",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:235:Value",
         "objectId": 474,
         "description": "n/a",
         "originalText": "Chance to hit with ranged weapons reduced by {0}% and chance to hit with melee weapons and unarmed attacks reduced by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:236:Key",
         "objectId": 475,
-        "description": "n/a",
+        "description": "key='helmetlanternaura'",
         "originalText": "helmetlanternaura",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:236:Value",
         "objectId": 476,
         "description": "n/a",
         "originalText": "Drains {0} energy every turn and provides light in radius of {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:237:Key",
         "objectId": 477,
-        "description": "n/a",
+        "description": "key='electrictorchaura'",
         "originalText": "electrictorchaura",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:237:Value",
         "objectId": 478,
         "description": "n/a",
         "originalText": "Drains {0} energy every turn and provides light in radius of {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:238:Key",
         "objectId": 479,
-        "description": "n/a",
+        "description": "key='industrialexoskeletonaura'",
         "originalText": "industrialexoskeletonaura",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:238:Value",
         "objectId": 480,
         "description": "n/a",
         "originalText": "Strength increased by {0} and movement points increased by {1}. Movement speed penalty of the armor negated. Drains {2} energy every turn, as well as additional {3} energy for every tile of movement.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:239:Key",
         "objectId": 481,
-        "description": "n/a",
+        "description": "key='shootingspree'",
         "originalText": "shootingspree",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:239:Value",
         "objectId": 482,
         "description": "n/a",
         "originalText": "Your next sniper rifle attack will refund 100% of the action point cost if it kills the target.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:240:Key",
         "objectId": 483,
-        "description": "n/a",
+        "description": "key='playermutantfireclaw'",
         "originalText": "playermutantfireclaw",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:240:Value",
         "objectId": 484,
         "description": "n/a",
         "originalText": "Flames engulf your left claw, causing it to deal additional 10-15 heat damage with each melee attack.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:241:Key",
         "objectId": 485,
-        "description": "n/a",
+        "description": "key='playermutantfrostclaw'",
         "originalText": "playermutantfrostclaw",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:241:Value",
         "objectId": 486,
         "description": "n/a",
         "originalText": "Dipping your right claw into a liquid nitrogen freezer has encased it in solid ice, causing it do deal additional 20-35 cold damage with each melee attack, chilling the target in process.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:242:Key",
         "objectId": 487,
-        "description": "n/a",
+        "description": "key='playermutantrustingacidinfusion'",
         "originalText": "playermutantrustingacidinfusion",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:242:Value",
         "objectId": 488,
         "description": "n/a",
         "originalText": "Consuming a mysterious concoction has altered your acidic glands, causing your Acid Spray to inflict rusting acid upon use.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:243:Key",
         "objectId": 489,
-        "description": "n/a",
+        "description": "key='bullettime'",
         "originalText": "bullettime",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:243:Value",
         "objectId": 490,
         "description": "n/a",
         "originalText": "Reduces action point cost of firing firearm pistols by {0}%. Cannot reduce the action point cost below the hard minimum.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:244:Key",
         "objectId": 491,
-        "description": "n/a",
+        "description": "key='cutscenedamageresistance'",
         "originalText": "cutscenedamageresistance",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:244:Value",
         "objectId": 492,
         "description": "n/a",
         "originalText": "You shouldn't be seeing this. Look at something else.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:245:Key",
         "objectId": 493,
-        "description": "n/a",
+        "description": "key='campfire'",
         "originalText": "campfire",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:245:Value",
         "objectId": 494,
         "description": "n/a",
         "originalText": "The fire warms you up and relaxes you. Movement points are increased by {0}, movement speed by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:246:Key",
         "objectId": 495,
-        "description": "n/a",
+        "description": "key='frigidenvironment'",
         "originalText": "frigidenvironment",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:246:Value",
         "objectId": 496,
         "description": "n/a",
         "originalText": "It's freezing in here. Your cold resistance and threshold is reduced by {0}%, and all cold damage taken is increased by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:247:Key",
         "objectId": 497,
-        "description": "n/a",
+        "description": "key='psychokineticchainlink'",
         "originalText": "psychokineticchainlink",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:247:Value",
         "objectId": 498,
         "description": "n/a",
         "originalText": "This character is linked into a psychokinetic chain so {0}% of all direct mechanical and electrical damage taken will be transferred to the next link in the chain, up to maximum of {1} damage per single transfer.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:248:Key",
         "objectId": 499,
-        "description": "n/a",
+        "description": "key='telekineticgrounding'",
         "originalText": "telekineticgrounding",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:248:Value",
         "objectId": 500,
         "description": "n/a",
         "originalText": "This character is immobilized for now by telekinetic force, but may manage to break free.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:249:Key",
         "objectId": 501,
-        "description": "n/a",
+        "description": "key='psychosomaticpredator'",
         "originalText": "psychosomaticpredator",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:249:Value",
         "objectId": 502,
         "description": "n/a",
         "originalText": "This character is on the hunt for a specific prey, dealing bonus damage to them with weapon and unarmed attacks. The same damage is reduced by overall {0}% against other targts.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:250:Key",
         "objectId": 503,
-        "description": "n/a",
+        "description": "key='psychosomaticprey'",
         "originalText": "psychosomaticprey",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:250:Value",
         "objectId": 504,
         "description": "n/a",
         "originalText": "This character is being hunted and will receive {0}% bonus damage from its hunter's weapon and unarmed attacks. This damage is doubled if the attack is melee, and again doubled while this character is frightened.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:251:Key",
         "objectId": 505,
-        "description": "n/a",
+        "description": "key='psionictransceiver'",
         "originalText": "psionictransceiver",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:251:Value",
         "objectId": 506,
         "description": "n/a",
         "originalText": "Psionic skills increased by {0} due to presence of other psionics.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:252:Key",
         "objectId": 507,
-        "description": "n/a",
+        "description": "key='freezingmemories'",
         "originalText": "freezingmemories",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:252:Value",
         "objectId": 508,
         "description": "n/a",
         "originalText": "Will increased by {2}. All cold damage taken reduced by {0}% and all mechanical damage taken reduced by {1}%. The character is immune to any further chilling or freezing effects.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:253:Key",
         "objectId": 509,
-        "description": "n/a",
+        "description": "key='motion'",
         "originalText": "motion",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:253:Value",
         "objectId": 510,
         "description": "n/a",
         "originalText": "This cat is in motion, which means that intelligence and perception are reduced by {0}, while maximum psi points are increased by {1} and psi regeneration is increased by {2}. Also, resolve is reduced by {3}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:254:Key",
         "objectId": 511,
-        "description": "n/a",
+        "description": "key='motionwithdrawal'",
         "originalText": "motionwithdrawal",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:254:Value",
         "objectId": 512,
         "description": "n/a",
         "originalText": "This cat is suffering from severe motion deficiency, which means that intelligence and perception are reduced by {0}, maximum psi points are reduced by {1} and psi regeneration is reduced by {2}. Also, resolve is reduced by {3}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:255:Key",
         "objectId": 513,
-        "description": "n/a",
+        "description": "key='mindfog'",
         "originalText": "mindfog",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:255:Value",
         "objectId": 514,
         "description": "n/a",
         "originalText": "Intelligence reduced by {0} and psi cost increased by {1}%.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:256:Key",
         "objectId": 515,
-        "description": "n/a",
+        "description": "key='toxicgashealingforenergymicrofeat'",
         "originalText": "toxicgashealingforenergymicrofeat",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:256:Value",
         "objectId": 516,
         "description": "n/a",
         "originalText": "Restores {0}-{1} health each turn while standing inside a toxic gas cloud at the cost of up to {2} energy. The healing amount depends on the thickness of the cloud and the energy cost depends on the healing amount. Cannot heal above {3}% of the maximum health. Does not work while frozen or chilled.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:257:Key",
         "objectId": 517,
-        "description": "n/a",
+        "description": "key='headtrap'",
         "originalText": "headtrap",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:257:Value",
         "objectId": 518,
         "description": "n/a",
         "originalText": "Suffering {0} damage every turn. Perception reduced by {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:258:Key",
         "objectId": 519,
-        "description": "n/a",
+        "description": "key='scancalloverload'",
         "originalText": "scancalloverload",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:258:Value",
         "objectId": 520,
         "description": "n/a",
         "originalText": "Scan time increased by {0}%, which makes the camera slower to find and report intruders.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:259:Key",
         "objectId": 521,
-        "description": "n/a",
+        "description": "key='sweepingmomentum'",
         "originalText": "sweepingmomentum",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:259:Value",
         "objectId": 522,
         "description": "n/a",
         "originalText": "Sweep attack deals {0}% bonus damage.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "jsonVersion": "0.3"
     }
 ]

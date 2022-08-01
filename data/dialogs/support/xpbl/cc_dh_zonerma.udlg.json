@@ -1,761 +1,805 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 37,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 38,
-        "description": "n/a",
-        "originalText": "zonerMa",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 39,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 40,
-        "description": "n/a",
-        "originalText": "dude",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 44,
         "description": "n/a",
         "originalText": "You keep those filthy paws away from me, pipe-jammin' scum! Or I'll...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 50,
         "description": "n/a",
         "originalText": "You still here, $(#boy/girl)?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 59,
         "description": "n/a",
         "originalText": "::An ancient, shriveled woman angrily waves her ladle at you.::\r\n\r\nPipeworkin' sons of drop-offs! If I wanted some zone-ass bastards a-bargin' into my home, I would've never left the Drop Zone.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 62,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl\u001f_cc_dh_zonerMa_intimidateSuccess",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 63,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_cc_dh_zonerMa_allowSearch",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 68,
         "description": "n/a",
         "originalText": "You $(#boys/folks) leave this place now, you! Or else Imma open a can of zone-out and show ya how this grandma dominates pipelickers like you. Beat it now, y'all!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 72,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowDropZone",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 74,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.xpbl_npc_cc_dh_zonerMa_Met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 75,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.xpbl_npc_cc_dh_zonerMa_Met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 79,
         "description": "n/a",
         "originalText": "Excuse me, man, but this place used to be mine, you know. So you're actually a-bargin' into *my* place, you... you... nasty woman. We just need to, like, find something important and we're, like, gone.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 85,
         "description": "n/a",
         "originalText": "Whatcha say, dross-face? Your place? GET OUTTA HERE!\r\n\r\nYou too, $(#barrel-stuffer/pipe-scutchin' hooksie).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 105,
         "description": "n/a",
         "originalText": "Hey, w-who are you call-ing a $(#barrel-stuffer/pipe-scutchin' hooksie), you smelly crone?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 110,
         "description": "n/a",
         "originalText": "I am... My partner a-and I are here on official P-Praetorian Security business. Mhm. Y-you are to step aside and let us, um, do our s-search, or el... else I'll be forced to d-detain you... and stuff.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 117,
         "description": "n/a",
         "originalText": "::[Persuade]:: I am... My partner a-and I are here on official P-Praetorian Security business. Mhm. Y-you are to step aside and let us, um, do our s-search, or el... else I'll be forced to d-detain you... and stuff.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 124,
         "description": "n/a",
         "originalText": "::[Intimidate]:: Unless you... y-you want to be the main ingredient of that, um, soup you're m-making, you're go-ing to let us... search this-s-s place.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 131,
         "description": "n/a",
         "originalText": "::[Persuade]:: Please, ma'am, pl-ease. This m-m-man here has b-been trying to... uh... recover his fa-ther's t-techwatch for ten years! It's... the only thing... um... his fa-ther left him. H-have you no heart? It's been stashed some-where in your... your... house, ma'am. P-please let us, oh, search f-for it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 135,
         "description": "n/a",
         "originalText": "H-how about we give you a few ch-charons for your trouble? W-would it then be okay for us to take a peek-k-k?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 139,
         "description": "n/a",
         "originalText": "Step a-aside, Dude - I'm gonna solve this MY way. ::Burp and attack!::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 140,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl\u001f_cc_dh_zonerMa_intelCheck",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 143,
         "description": "n/a",
         "originalText": "Shut up, you rail-grindin' trash surfer!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 152,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl\u001f_cc_dh_zonerMa_intelCheck",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 158,
         "description": "n/a",
         "originalText": "Eh... ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 170,
         "description": "n/a",
         "originalText": "Eh... Praetorians? ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 176,
         "description": "n/a",
         "originalText": "Ya lyin' pipelicker. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 180,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl\u001f_cc_dh_zonerMa_persuadePS",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 181,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl\u001f_cc_dh_zonerMa_intimidateTry",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 187,
         "description": "n/a",
         "originalText": "::Her defenses buckle under pressure, and her piercing gaze turns dull.::\r\n\r\nAlright... Alright. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 193,
         "description": "n/a",
         "originalText": "It is you who is gonna be in this soup once I shove this ladle up your drop hole, $(#barrel-stuffer/pipe-scutchin' hooksie). I've seen and heard things you'd never believe durin' this long life o' mine, and your threats don't scare me one bit!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 197,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl\u001f_cc_dh_zonerMa_intimidateTry",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 198,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl\u001f_cc_dh_zonerMa_persuadeMoney",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 203,
         "description": "n/a",
         "originalText": "Father's techwatch? Like... wrist watch? I haven't found no watch in here, and I've been here for plenty a years now.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 207,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl\u001f_cc_dh_zonerMa_persuadeMoney",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 211,
         "description": "n/a",
         "originalText": "::Her eyes flare up.::\r\n\r\nCharons...? What are ya a-offerin' exactly?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 219,
         "description": "n/a",
         "originalText": "::[Intelligence]:: W-wrinkly guano-slurping sow!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 223,
         "description": "n/a",
         "originalText": "S-s-stupid old woman.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 227,
         "description": "n/a",
         "originalText": "Hag!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 231,
         "description": "n/a",
         "originalText": "No, you are a r-rail-grindin' tr-tr-tr... what w-as it?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 235,
         "description": "n/a",
         "originalText": "Uh, I don't know how to top that...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 242,
         "description": "n/a",
         "originalText": "You enforcers are the scum o' the earth! Where were you when my husband was bein' stabbed by a derailed madman at the metro station? Where were you when the Zone was a-riotin' and innocent people were bein' zoned out?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 248,
-        "description": "n/a",
-        "originalText": "zonerMa",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 249,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 250,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl\u001f_cc_dh_zonerMa_persuadePS",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 251,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.faction_Preatorian_joined",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".CCAVC.CHIEC:V",
+        "classInfo": "(CCAVC).CHIEC:V",
         "objectId": 252,
         "description": "n/a",
         "originalText": "praem",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCAVC.CHIEC:V",
+        "classInfo": "(CCAVC).CHIEC:V",
         "objectId": 253,
         "description": "n/a",
         "originalText": "praet",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCAVC.CHIEC:V",
+        "classInfo": "(CCAVC).CHIEC:V",
         "objectId": 254,
         "description": "n/a",
         "originalText": "praec",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 256,
-        "description": "n/a",
-        "originalText": "zonerMa",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 257,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 261,
         "description": "n/a",
         "originalText": "You ain't a-foolin' me!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 268,
         "description": "n/a",
         "originalText": "Just be quick and don't make no mess. Dig? Or else... ::She threatens you with her ladle.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 272,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl\u001f_cc_dh_zonerMa_intimidateSuccess",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 276,
         "description": "n/a",
         "originalText": "Now get your reekin' asses outta here, you!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 283,
         "description": "n/a",
         "originalText": "::She stares at you for a few moments.:: Alright, alright, you can come in. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 303,
         "description": "n/a",
         "originalText": "Wha-- How dare you, you pipe-cravin', stalagmite-ridin' yob!?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 314,
         "description": "n/a",
         "originalText": "I knew you were a dumb $(#barrel-stuffer/pipe-scutchin' hooksie).",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCAVC.CHIEC:V",
+        "classInfo": "(CCAVC).CHIEC:V",
         "objectId": 317,
         "description": "n/a",
         "originalText": "praem",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCAVC.CHIEC:V",
+        "classInfo": "(CCAVC).CHIEC:V",
         "objectId": 318,
         "description": "n/a",
         "originalText": "praet",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCAVC.CHIEC:V",
+        "classInfo": "(CCAVC).CHIEC:V",
         "objectId": 319,
         "description": "n/a",
         "originalText": "praec",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 326,
         "description": "n/a",
         "originalText": "Just let us do our b-business. We won't be l-l-long.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 330,
         "description": "n/a",
         "originalText": "We c-c-can't be every-where.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 334,
         "description": "n/a",
         "originalText": "I c-cannot answer t-to that question.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 336,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_xpbl_cc_dh_zonerMa_allowSearch",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 341,
         "description": "n/a",
         "originalText": "*One* charon.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 346,
         "description": "n/a",
         "originalText": "Two ch-arons.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 351,
         "description": "n/a",
         "originalText": "Five char-ons.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 356,
         "description": "n/a",
         "originalText": "T-t-ten charons.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 361,
         "description": "n/a",
         "originalText": "Twenty ch-arons.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 366,
         "description": "n/a",
         "originalText": "F-fifty charons.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 372,
         "description": "n/a",
         "originalText": "One hun-dred charons.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 378,
         "description": "n/a",
         "originalText": "T-two hun-dred charons and not a ch-charon more.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 382,
         "description": "n/a",
         "originalText": "I'd make an offer, bu--but I'm all outta m-money.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 387,
         "description": "n/a",
         "originalText": "::[Intelligence]:: Mutant-humping, shroom-assed hag!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 391,
         "description": "n/a",
         "originalText": "No, y-you're a pipe-cravin', stalactite... uh, w-what was it?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCAVC.CHIEC:V",
+        "classInfo": "(CCAVC).CHIEC:V",
         "objectId": 392,
         "description": "n/a",
         "originalText": "praem",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCAVC.CHIEC:V",
+        "classInfo": "(CCAVC).CHIEC:V",
         "objectId": 393,
         "description": "n/a",
         "originalText": "praet",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCAVC.CHIEC:V",
+        "classInfo": "(CCAVC).CHIEC:V",
         "objectId": 394,
         "description": "n/a",
         "originalText": "praec",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 398,
         "description": "n/a",
         "originalText": "Bah...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 404,
         "description": "n/a",
         "originalText": "But you can be here, a-botherin' me!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 410,
         "description": "n/a",
         "originalText": "I'm sure of that...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 413,
         "description": "n/a",
         "originalText": "currency.sc",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 417,
         "description": "n/a",
         "originalText": "But that's pittance! I ain't gonna let you in for that.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 420,
         "description": "n/a",
         "originalText": "currency.sc",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 421,
         "description": "n/a",
         "originalText": "currency.sc",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 422,
         "description": "n/a",
         "originalText": "currency.sc",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 423,
         "description": "n/a",
         "originalText": "currency.sc",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 427,
         "description": "n/a",
         "originalText": "Not bad, but if the thing you want is so important, then it ought to be worth some more, right?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 430,
         "description": "n/a",
         "originalText": "currency.sc",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 431,
         "description": "n/a",
         "originalText": "currency.sc",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 435,
         "description": "n/a",
         "originalText": "::She pockets the coins before you even realized you gave it to her.::\r\n\r\nDominatin'! You're free to do your business. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".T13.T13:IC",
+        "classInfo": "(T13).T13:IC",
         "objectId": 439,
         "description": "n/a",
         "originalText": "currency.sc",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PHIC.PHIC:IC",
+        "classInfo": "(PHIC).PHIC:IC",
         "objectId": 441,
         "description": "n/a",
         "originalText": "currency.sc",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".T13.T13:IC",
+        "classInfo": "(T13).T13:IC",
         "objectId": 443,
         "description": "n/a",
         "originalText": "currency.sc",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 448,
         "description": "n/a",
         "originalText": "Pipeworks-muncher!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 454,
         "description": "n/a",
         "originalText": "Mut-- Whaaaaaaa--? Why you slackjaw-brained, butt-dwellin' boar snot!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 465,
         "description": "n/a",
         "originalText": "Do your dirty business, you. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 472,
         "description": "n/a",
         "originalText": "::[Intelligence]:: At least I am n-not a doddering, colostomy bag-for-brains m-m-mole rat!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 476,
         "description": "n/a",
         "originalText": "No, you're a slackjaw-bearded... uh, what w-w-was it?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 481,
         "description": "n/a",
         "originalText": "Oh, you! OH, YOU! I'll... ::Both you and Dude instinctively flinch as she raises her ladle - but she freezes in that position. After a brief pause, she returns to stirring her soup.:: Where... where'd ya learn to talk like that, $(#boy/girl)? Anyone with a tongue *that* foul, *that*... *repulsive* must've had a horrible, horrible life. Or severe brain damage. Or that truffle syndrome thing, whatever.\r\n\r\nPoor, poor you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 486,
         "description": "n/a",
         "originalText": "::Her eyes bounce between Dude and you, and instead of wrath her face now displays pity.:: You $(#boys/folks) don't look so bad after all. You ain't no bandits, thank the chasm - you're just a pair of miserable drifters. You... a-feelin' hungry, kids? This ain't no stinky barrel soup, no - it be proper hopper stew. Bought some off Ol' Lumber for almost nothin' at all, he-he! Nothin' at all!\r\n\r\nWant some?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 494,
         "description": "n/a",
         "originalText": "Why not?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 498,
         "description": "n/a",
         "originalText": "We're in a hurry, but t-thanks!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 502,
         "description": "n/a",
         "originalText": "Listen, man, I too would love a bowl, but it'll sober us up - and that's not good right now, man.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 508,
         "description": "n/a",
         "originalText": "Hey, man, we're just gonna take a quick look around the place, okay? We just gotta find something, like, really important. You have no idea how important, man.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 514,
         "description": "n/a",
         "originalText": "Eh? You've been a-drinkin'? My late husband used to drink like a pi--",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

@@ -1,775 +1,861 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 48,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 49,
-        "description": "n/a",
-        "originalText": "oinko",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 50,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 56,
         "description": "n/a",
         "originalText": "::The pig speaks to you.:: Ah, $(context.player.Name), glad you could make it. I'm Oinko. I mean, my dear, dear friend Ditch is the one who named me so, to be exact. I personally fail to see how pigs make oinking sounds; to my ears it sounds more like snorting, but in the end - who am I to complain? We shall stick with Oinko.\r\n\r\nI must tell you, human, I rarely have any conversational partners coming here, sadly, so this is quite an exciting moment for me! I can't wait to... socialize again with someone other than Ditch.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 68,
         "description": "n/a",
         "originalText": "Ah, back for more chatting, human?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 73,
         "description": "n/a",
         "originalText": "Snort!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 79,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.cc_npc_oinko_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 81,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowDitch",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 87,
         "description": "n/a",
         "originalText": "How do you know my name?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 91,
         "description": "n/a",
         "originalText": "Nice to meet you. I suppose...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 95,
         "description": "n/a",
         "originalText": "You can talk!?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 99,
         "description": "n/a",
         "originalText": "A talking pig? Is this some kind of trick!?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 103,
         "description": "n/a",
         "originalText": "I'm starving! I hope you won't mind if I take a few bites out of ya. ::Attack!::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 116,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.cc_npc_oinko_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".PIIAC.PIIAC:AN",
+        "classInfo": "(PIIAC).PIIAC:AN",
         "objectId": 117,
         "description": "n/a",
         "originalText": "cc14x",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 118,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.cc_npc_oinko_askHowKnowName",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 122,
         "description": "n/a",
         "originalText": "Oh, I just took a wild guess, and judging by your reaction - I believe got it right! ::Laughs like a pig.:: I jest, I jest. I know your name from... before. How so? Ah well, to figure that out you'll have to harness all that brainpower you've got in your oddly shaped skull.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 126,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.cc_npc_oinko_askHowKnowName",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 130,
         "description": "n/a",
         "originalText": "To tell you the truth, I'm just glad you didn't say something akin to: \"Oh, my beloved mother - it's a talking pig! How odd is that! I'll point at you in amazement!\" It just gets... tiresome after a while.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 135,
         "description": "n/a",
         "originalText": "Let me check that for a second... ::Clears throat.:: Testing... Testing... Yes, your statement seems correct - I can actually talk! Never noticed that. Thank you for bringing it to my attention, human. Really perceptive of you. Yes.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 142,
         "description": "n/a",
         "originalText": "\"A talking human? Is this some trick?\" Now, I hope you realize how utterly ridiculous that sounds, am I right? Yes, I CAN speak, human, and I simply fail to see what all the fuss is about. ::Sighs.:: Always the same...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 149,
         "description": "n/a",
         "originalText": "::Horrified eyes begin a nervous dance.::\r\n\r\nOink!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PIIAC.PIIAC:AN",
+        "classInfo": "(PIIAC).PIIAC:AN",
         "objectId": 153,
         "description": "n/a",
         "originalText": "cc14x",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 159,
         "description": "n/a",
         "originalText": "How did you know my name?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 163,
         "description": "n/a",
         "originalText": "I'd like to know your opinion on city-related matters.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 168,
         "description": "n/a",
         "originalText": "What can you tell me about Ditch?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 173,
         "description": "n/a",
         "originalText": "Aren't you supposed to be dead?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 177,
         "description": "n/a",
         "originalText": "How do you feel about the Faceless invasion?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 181,
         "description": "n/a",
         "originalText": "See you later, Oinko.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 184,
         "description": "n/a",
         "originalText": "Think hard - but don't let your head explode, human. It would mean a premature ending to our conversation, and no one wants that. I know I don't.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 194,
         "description": "n/a",
         "originalText": "Anyway, human, shall we chat? What do you say to *that*? ::Giggles like a pig.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 200,
         "description": "n/a",
         "originalText": "No need to be a jerk about it. I never had the chance to talk to a pig before.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 204,
         "description": "n/a",
         "originalText": "I apologize, it's just that I've never talked to a pig.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 208,
         "description": "n/a",
         "originalText": "::Attack!::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 209,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.cc_npc_oinko_askHowKnowName",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 213,
         "description": "n/a",
         "originalText": "Oh, I just took a wild guess, and judging by your reaction - I believe got it right! ::Laughs like a pig.:: I jest, I jest. I know your name from... before. How so? Ah well, to figure that out you'll have to harness all that brainpower you've got in your oddly shaped skull.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 217,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.cc_npc_oinko_askHowKnowName",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 221,
         "description": "n/a",
         "originalText": "Ah, why not!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 227,
         "description": "n/a",
         "originalText": "Ditch? Oh, he's an interesting human, indeed he is. The poor fellow really had a rough life: His whole family was slain by vile bandits when he was but a little boy, and after that horrifying event he was adopted by another human. Who was also killed some time later. Also by bandits, but not the same. I think. Horrible, simply horrible! ::Snorts.::\r\n\r\nThese tragic events, as well as the hard life that soon followed, morphed him into one distinctive human. He is difficult to describe, though, and one needs to spend some time with him to \"get\" what he's all about.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 236,
         "description": "n/a",
         "originalText": "Yes, your point is?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 244,
         "description": "n/a",
         "originalText": "Invasion? Don't know anything about that. I... Now that I think about it, I *did* hear some zoner humans yelling: \"Faceless! Faceless!\" but I thought they were just killing some other zoner human and ripping his face off. It happens.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 249,
         "description": "n/a",
         "originalText": "See you later, human.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 255,
         "description": "n/a",
         "originalText": "Oh, well, nice to meet you. I suppose.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 259,
         "description": "n/a",
         "originalText": "Agh. Look, being viewed as a jerk most definitely wasn't my intention. Sincerely. You have a point, maybe I did overreact a bit there. Let's just forget about this and start anew, shall we?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 265,
         "description": "n/a",
         "originalText": "Ah, well, in all honesty - I might have overreacted in this instance. I too apologize for that; let's forget about all this and simply start anew, shall we?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 273,
         "description": "n/a",
         "originalText": "Think hard - but don't let your head explode, human. It would mean a premature ending to our conversation, and no one wants that. I know I don't.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 291,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowDitch",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 295,
         "description": "n/a",
         "originalText": "How did you end up with him?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 299,
         "description": "n/a",
         "originalText": "Let's discuss something else.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 300,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_oinko_died",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 301,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_oinko_askDeath",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 306,
         "description": "n/a",
         "originalText": "Dead creatures don't talk.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 310,
         "description": "n/a",
         "originalText": "Never mind.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 314,
         "description": "n/a",
         "originalText": "::Snorts.:: Silly zoner humans...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 320,
         "description": "n/a",
         "originalText": "I'm sure we can find better topics to discuss.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 328,
         "description": "n/a",
         "originalText": "What can you tell me about Drop Zone?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 333,
         "description": "n/a",
         "originalText": "What can you tell me about the Arena?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 338,
         "description": "n/a",
         "originalText": "What can you tell me about the Gauntlet?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 343,
         "description": "n/a",
         "originalText": "What can you tell me about the Oligarchy?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 349,
         "description": "n/a",
         "originalText": "What can you tell me about Coretech?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 354,
         "description": "n/a",
         "originalText": "What can you tell me about JKK?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 359,
         "description": "n/a",
         "originalText": "What can you tell me about Praetorian Security?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 364,
         "description": "n/a",
         "originalText": "What can you tell me about Hardcore City Bar?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 369,
         "description": "n/a",
         "originalText": "What can you tell me about Tchortists?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 373,
         "description": "n/a",
         "originalText": "Maybe we should discuss something else.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 377,
         "description": "n/a",
         "originalText": "Met him while running away from trouble; stayed with him for-- ::Snorts loudly.:: PARDON ME!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 383,
         "description": "n/a",
         "originalText": "Sure. ::Snorts.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 389,
         "description": "n/a",
         "originalText": "Well now, apparently they do, human. What is wrong with you, have you been taking something funny?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 393,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_cc_oinko_askDeath",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 397,
         "description": "n/a",
         "originalText": "That was a strange question...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 400,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowDropZone",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 404,
         "description": "n/a",
         "originalText": "The drop zone is a term for this... slum you and me are currently in. You see, human, Drop Zone was gradually consructed over the years as more and more of the poor humans were forced to live on the brinks of Core City. ::Snorts.:: Basically, these zoner humans were squeezed between society on one side and death by high velocity impacts on the other. One wrong step, and you fall to your doom.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 407,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowArena",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 412,
         "description": "n/a",
         "originalText": "The Arena is a great way to pacify the impoverished masses, such as these zoner humans here in Drop Zone. You see, $(context.player.Name), when you can give the rabble something to occupy their - mostly - simple minds, you divert attention from other things. Like hunger, disease and rioting!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 415,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowGauntlet",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 420,
         "description": "n/a",
         "originalText": "Just like the Arena, it's simply another way to waste people's energy on silly, meaningless and outright brutal entertainment. I just fail to see the point of humans running and fighting through some awfully dangerous rooms so that they may die horribly in the process. ::Snorts.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 423,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowOligarchy",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 428,
         "description": "n/a",
         "originalText": "The Oligarchy? ::Laughs.:: Ah, they are the reason Core City is so decadent. My dear human, you have no idea how horrible these men were, are, and will be until they all go belly up. All they care about is brainwashing people into watching that horrible Arena, so that they can do whatever they want while the average human is distracted by high-definition violence. ::Snorts.:: It makes perfect sense: It's all about power and money.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 431,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowCoretech",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 435,
         "description": "n/a",
         "originalText": "::Snorts.:: Ah, Coretech... Humans will tell you that it's the successor to Biocorp, that they'll lead us into future with their advanced technology and shiny appliances! But no! They are corporate pigs-- err, I mean scum...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 439,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowOligarchy",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 440,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowJKK",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 446,
         "description": "n/a",
         "originalText": "Here's somethin-- ::Snorts.:: Pardon me! Here's something interesting about JKK: They are the worst. Alright, they broadcast the Arena, the Gauntlet, have the betting monopoly... That's all fine and dandy. But they are much more sinister than that!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 449,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowPraetorian",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 454,
         "description": "n/a",
         "originalText": "::Snorts.:: \"Security.\" ::Laughs like a pig.:: No security there; don't fall for that, human. Maybe if one's wealthy and lives residential level of Core City and has his own personal security and a near-endless supply of consumables. Here? In Drop Zone? Never ever seen them enforce the law, well, other than that one group near the lower bridge; I have no idea why they're there.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 457,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowHardCoreBar",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 461,
         "description": "n/a",
         "originalText": "I never had the chance to visit it; Ditch is afraid someone is going to steal and eat me, so I never ever get a chance to leave this comfy room. Even if we ignore the previous statement, I just dislike the idea of visiting places like that. Drunk people are hungry, and I'm a pig. But I have heard stuff about the bar, though...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 467,
         "description": "n/a",
         "originalText": "What? I'm sorry, I don't know anything about \"Tchortists.\"",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 471,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowTchortists",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 475,
         "description": "n/a",
         "originalText": "I accept your proposal. ::Snorts.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 481,
         "description": "n/a",
         "originalText": "What was I saying? Oh, yes: Stayed with him for his rather unique and interesting character.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 487,
         "description": "n/a",
         "originalText": "Get a hold of yourself, $(#man/woman)!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 493,
         "description": "n/a",
         "originalText": "Where the name for it comes from is apparent to you, I hope. You've probably heard terms like \"dropping off\" or \"zoning out.\" That all originated because of this place. All in all, a horrible place to live, but I guess most of us are stuck here.\r\n\r\nOh, Drop Zone... if it wasn't for that sweet, delicious barrel soup, I'd have absolutely nothing good to say about it! ::Snorts.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 499,
         "description": "n/a",
         "originalText": "Also, the Arena fills the city's treasury room like... like... one of the zoner neighbors fills that sweet red barrel full of soup. The tantalizing smell! ::Snorts.:: Anyway, as you can see, the coins simply do not end up in the hands of zoner humans. And, well, once people are poor, they try to steal friendly pigs and eat them! Funnily, some humans eat other humans, like in the case of Lurker humans who sometimes emerge from the under-passages.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 503,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowDropZone",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 507,
         "description": "n/a",
         "originalText": "Ditch loves watching it nearly as much as the Arena. I keep trying to convince him otherwise, but he just doesn't seem to understand what I'm saying. I guess this human desire for carnage... heh, \"beautiful\" carnage is just too strong.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 511,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowArena",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 515,
         "description": "n/a",
         "originalText": "Even what they have is not enough: They constantly work behind each other's backs, secretly sabotaging one another, but only up to a certain point - to keep each other in check. They never do anything openly, never to take full control of the city, because in the end, they need each other to keep on ruling this decadent place. Humans - they sure are complicated. ::Snorts.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 519,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowArena",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 523,
         "description": "n/a",
         "originalText": "Seriously - they are owned by one of the Oligarchs, blast it! Bad humans they are, all of the Oligarchs. ::Snorts.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 530,
         "description": "n/a",
         "originalText": "Secret operations, assassinations, torture, sabotage, brainwashing! They know everything that's going on in the city - maybe even about this conversation - and if you get in their way, you get zoned out in a flash. Ah, I'll never understand you humans. Except for Ditch, but he's got that piggy-wiggy goodness in his heart. ::Snorts.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 534,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowArena",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 536,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowGauntlet",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 540,
         "description": "n/a",
         "originalText": "::Snorts.:: It's very sad, is it not?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 544,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowDropZone",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 548,
         "description": "n/a",
         "originalText": "That it is hardcore, that it dominates and... that it's full of drunks. That's pretty much all I know. I'm one dull pig, I know. ::Snorts.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 554,
         "description": "n/a",
         "originalText": "Is it edible? ::Snorts.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 560,
         "description": "n/a",
         "originalText": "And because he protects me from hungry humans. Indeed.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 566,
         "description": "n/a",
         "originalText": "Zoner humans are bad, but I'd rather be surrounded by them than those kin-eating meanies. ::Snorts.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 570,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_cc_knowDitch",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

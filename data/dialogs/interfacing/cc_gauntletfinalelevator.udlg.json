@@ -1,96 +1,85 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 17,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 18,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 19,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 22,
         "description": "n/a",
         "originalText": "::What would you like to do?::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 34,
         "description": "n/a",
         "originalText": "::Exit the Gauntlet.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 37,
         "description": "n/a",
         "originalText": "::Nothing.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 43,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quest_cc_gauntlet_didFirstRun",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".LR.LR:LI",
+        "classInfo": "(LR).LR:LI",
         "objectId": 48,
         "description": "n/a",
         "originalText": "cc_enterGauntlet",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LR.LR:EI",
+        "classInfo": "(LR).LR:EI",
         "objectId": 49,
         "description": "n/a",
         "originalText": "exitGauntlet",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PLSJ.LSJ:CI",
+        "classInfo": "(PLSJ).LSJ:CI",
         "objectId": 51,
         "description": "n/a",
         "originalText": "interface",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PLSJ.LSJ:SI",
+        "classInfo": "(PLSJ).LSJ:SI",
         "objectId": 52,
         "description": "n/a",
         "originalText": "ElevatorPickFloor",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q0.Q0:L",
+        "classInfo": "(Q0).Q0:L",
         "objectId": 54,
         "description": "n/a",
         "originalText": "cc_enterGauntlet",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q0.Q0:L",
+        "classInfo": "(Q0).Q0:L",
         "objectId": 56,
         "description": "n/a",
         "originalText": "cc_enterGauntlet",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

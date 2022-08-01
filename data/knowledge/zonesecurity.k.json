@@ -1,86 +1,101 @@
 [
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Key",
         "objectId": 3,
-        "description": "n/a",
+        "description": "key='uncontrolled'",
         "originalText": "uncontrolled",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Value",
         "objectId": 4,
         "description": "n/a",
         "originalText": "- Setting traps or planting explosives near other characters might provoke them\r\n- Setting traps or planting explosives out of sight cannot be traced to you",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Key",
         "objectId": 5,
-        "description": "n/a",
+        "description": "key='partiallycontrolled'",
         "originalText": "partiallycontrolled",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Value",
         "objectId": 6,
         "description": "n/a",
         "originalText": "- Setting traps or planting explosives near other characters might provoke them\r\n- If members of certain factions take damage from your traps or explosives they will automatically track it back to you and will turn hostile",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Key",
         "objectId": 7,
-        "description": "n/a",
+        "description": "key='controlled'",
         "originalText": "controlled",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Value",
         "objectId": 8,
         "description": "n/a",
         "originalText": "- Setting traps or planting explosives near other characters might provoke them\r\n- If members of certain factions take damage from your traps or explosives they will automatically track it back to you and will turn hostile\r\n- If members of certain factions discover traps or explosives planted by you they will automatically track it back to you and will turn hostile",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:3:Key",
         "objectId": 9,
-        "description": "n/a",
+        "description": "key='camerafootage'",
         "originalText": "camerafootage",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:3:Value",
         "objectId": 10,
         "description": "n/a",
         "originalText": "If you are spotted by the cameras in this zone, you might later trigger hostilities from certain factions if the footage is not promptly erased.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:4:Key",
         "objectId": 11,
-        "description": "n/a",
+        "description": "key='leavenowitnesses'",
         "originalText": "leavenowitnesses",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:4:Value",
         "objectId": 12,
         "description": "n/a",
         "originalText": "If you trigger hostilities with characters in this zone and leave the zone before disposing of the witnesses, the hostilities may propagate to the entire faction and even allied factions.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:5:Key",
         "objectId": 13,
-        "description": "n/a",
+        "description": "key='savingdisabled'",
         "originalText": "savingdisabled",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:5:Value",
         "objectId": 14,
         "description": "n/a",
         "originalText": "You cannot save the game while in this zone.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "jsonVersion": "0.3"
     }
 ]

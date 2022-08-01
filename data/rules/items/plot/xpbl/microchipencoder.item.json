@@ -1,51 +1,109 @@
 [
     {
-        "className": "TI",
+        "classInfo": "(TI).I:C",
         "objectId": 3,
         "description": "n/a",
         "originalText": "xpbl.microchipEncoder",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "TI",
+        "classInfo": "(TI).I:N",
         "objectId": 4,
         "description": "n/a",
         "originalText": "Microchip Implant Encoder (Nexus of Technology)",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "TI",
+        "classInfo": "(TI).I:D",
         "objectId": 6,
         "description": "n/a",
         "originalText": "This device can be used to read and write data from and to microchip implants. Manufactured by LEMCO.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "TI",
+        "classInfo": "(TI).I:VM",
         "objectId": 7,
         "description": "n/a",
         "originalText": "xpbl_Plot.35",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "CR",
+        "classInfo": "(CR).CR:CFTN",
         "objectId": 17,
         "description": "n/a",
         "originalText": "startInterfacing",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "P",
+        "classInfo": "(P).P:N",
         "objectId": 18,
         "description": "n/a",
         "originalText": "InterfaceDialog",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "P",
+        "classInfo": "(P).P:V",
         "objectId": 19,
         "description": "n/a",
         "originalText": "interfacing\\xpbl\\microchipEncoder",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:N",
+        "objectId": 20,
+        "description": "n/a",
+        "originalText": "InterfaceActorName",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:V",
+        "objectId": 21,
+        "description": "n/a",
+        "originalText": "Microchip Implant Encoder",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:N",
+        "objectId": 22,
+        "description": "n/a",
+        "originalText": "InterfaceCommandText",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:V",
+        "objectId": 23,
+        "description": "n/a",
+        "originalText": "Activate the device.",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:N",
+        "objectId": 24,
+        "description": "n/a",
+        "originalText": "InterfaceActorId",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "classInfo": "(P).P:V",
+        "objectId": 25,
+        "description": "n/a",
+        "originalText": "encoder",
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "jsonVersion": "0.3"
     }
 ]

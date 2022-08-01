@@ -1,688 +1,789 @@
 [
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Key",
         "objectId": 3,
-        "description": "n/a",
+        "description": "key='cryokinesis'",
         "originalText": "cryokinesis",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Value",
         "objectId": 4,
         "description": "n/a",
         "originalText": "Materializes an ice shard and shoots it towards the target, dealing {0}-{1} cold and {2}-{3} mechanical damage, and applying Chill debuff which decreases target's movement points by {4} for {5} turns. Stacks {6} times.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Key",
         "objectId": 5,
-        "description": "n/a",
+        "description": "key='cryokinesis-rt'",
         "originalText": "cryokinesis-rt",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Value",
         "objectId": 6,
         "description": "n/a",
         "originalText": "Materializes an ice shard and shoots it towards the target, dealing {0}-{1} cold and {2}-{3} mechanical damage, and applying Chill debuff which decreases target's movement speed by 10% for {4} seconds. Stacks {5} times.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Key",
         "objectId": 7,
-        "description": "n/a",
+        "description": "key='cryostasis'",
         "originalText": "cryostasis",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:2:Value",
         "objectId": 8,
         "description": "n/a",
         "originalText": "Suspends the target in cryostasis for {0} turns plus an additional turn per Chill effect currently on the target. Any damage will undo cryostasis.\r\n\r\nThe effect can be lessened or mitigated through cold resistance.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:3:Key",
         "objectId": 9,
-        "description": "n/a",
+        "description": "key='cryostasis-rt'",
         "originalText": "cryostasis-rt",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:3:Value",
         "objectId": 10,
         "description": "n/a",
         "originalText": "Suspends the target in cryostasis for {0} seconds plus additional {1} seconds per Chill effect currently on the target. Any damage will undo cryostasis.\r\n\r\nThe effect can be lessened or mitigated through cold resistance.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:4:Key",
         "objectId": 11,
-        "description": "n/a",
+        "description": "key='telekineticpunch'",
         "originalText": "telekineticpunch",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:4:Value",
         "objectId": 12,
         "description": "n/a",
         "originalText": "Telekinetical force strikes the target, dealing {0}-{1} mechanical damage and stunning it for {2} unless it passes a fortitude check. The stun only affects organic targets.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:5:Key",
         "objectId": 13,
-        "description": "n/a",
+        "description": "key='telekineticpunch-rt'",
         "originalText": "telekineticpunch-rt",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:5:Value",
         "objectId": 14,
         "description": "n/a",
         "originalText": "Telekinetical force strikes the target, dealing {0}-{1} mechanical damage and stunning it for {2} seconds unless it passes resolve check. The stun affects only organic targets.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:6:Key",
         "objectId": 15,
-        "description": "n/a",
+        "description": "key='pyrokinesis'",
         "originalText": "pyrokinesis",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:6:Value",
         "objectId": 16,
         "description": "n/a",
         "originalText": "Creates a ball of superheated gas and hurls it to the designated area. Everyone caught in the blast take {0}-{1} heat damage.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:7:Key",
         "objectId": 17,
-        "description": "n/a",
+        "description": "key='pyrokinesispyromaniac'",
         "originalText": "pyrokinesispyromaniac",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:7:Value",
         "objectId": 18,
         "description": "n/a",
         "originalText": "There's a {0}% chance for each target to catch on fire, suffering {1}% of the original damage dealt again over {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:8:Key",
         "objectId": 19,
-        "description": "n/a",
+        "description": "key='neuraloverload'",
         "originalText": "neuraloverload",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:8:Value",
         "objectId": 20,
         "description": "n/a",
         "originalText": "Short circuits the central nervous system of a living target dealing {0}-{1} electrical damage. Damage is increased by {2}% for every target's point of intelligence above {3}.\r\n\r\nThis damage cannot be shielded and bypasses standard electrical resistance, but can be lowered by the target's resolve.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:9:Key",
         "objectId": 21,
-        "description": "n/a",
+        "description": "key='neuraloverloadintimidation'",
         "originalText": "neuraloverloadintimidation",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:9:Value",
         "objectId": 22,
         "description": "n/a",
         "originalText": "Also intimidates the target, reducing their offensive skills by {0} for {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:10:Key",
         "objectId": 23,
-        "description": "n/a",
+        "description": "key='neuraloverloadcerebralacidization'",
         "originalText": "neuraloverloadcerebralacidization",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:10:Value",
         "objectId": 24,
         "description": "n/a",
         "originalText": "Deals another {0}% of the original damage over {1} as unresistable acid damage.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:11:Key",
         "objectId": 25,
-        "description": "n/a",
+        "description": "key='forcefield-old'",
         "originalText": "forcefield-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:11:Value",
         "objectId": 26,
         "description": "n/a",
         "originalText": "Places an impenetrable force field on the designated unoccupied location for {0} turns.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:12:Key",
         "objectId": 27,
-        "description": "n/a",
+        "description": "key='forcefield'",
         "originalText": "forcefield",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:12:Value",
         "objectId": 28,
         "description": "n/a",
         "originalText": "Places a force field on the designated unoccupied location and all unoccupied tiles adjecent to it that has {0} health. Lasts until destroyed or up to {1} turns.\r\n\r\nDestroying one segment of the force field will break all of it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:13:Key",
         "objectId": 29,
-        "description": "n/a",
+        "description": "key='frighten'",
         "originalText": "frighten",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:13:Value",
         "objectId": 30,
         "description": "n/a",
         "originalText": "Projects terrifying images into the target's mind in an attempt to cause it to panic for up to {0} turns.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:14:Key",
         "objectId": 31,
-        "description": "n/a",
+        "description": "key='forceemission-old'",
         "originalText": "forceemission-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:14:Value",
         "objectId": 32,
         "description": "n/a",
         "originalText": "While this ability is active, your unarmed attacks deal additional {0} damage and have the range of {1}, but at the cost of {2} psi points per attack.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:15:Key",
         "objectId": 33,
-        "description": "n/a",
+        "description": "key='forceemission'",
         "originalText": "forceemission",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:15:Value",
         "objectId": 34,
         "description": "n/a",
         "originalText": "While this ability is active, your unarmed and fist weapon attacks deal additional {0} damage, but at the cost of {1} psi points per attack.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:16:Key",
         "objectId": 35,
-        "description": "n/a",
+        "description": "key='pyrokineticstream'",
         "originalText": "pyrokineticstream",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:16:Value",
         "objectId": 36,
         "description": "n/a",
         "originalText": "Creates a stream of fire towards the targeted location, damaging everything in its path for {0}-{1} heat damage every tick. The stream hits the targets {2} times plus an additional time for every {3} spare action points and {4} spare psi points remaining after the initial invocation.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:17:Key",
         "objectId": 37,
-        "description": "n/a",
+        "description": "key='pyrokineticstreampyromaniac'",
         "originalText": "pyrokineticstreampyromaniac",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:17:Value",
         "objectId": 38,
         "description": "n/a",
         "originalText": "Every time a target is damaged there's a {0}% chance it will catch on fire, suffering {1}% of the original damage dealt again over {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:18:Key",
         "objectId": 39,
-        "description": "n/a",
+        "description": "key='electrokinesis'",
         "originalText": "electrokinesis",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:18:Value",
         "objectId": 40,
         "description": "n/a",
         "originalText": "Projects an electrical bolt that deals {0}-{1} electrical damage to the primary target and stuns it for {2} before jumping to a nearby target (unless fully resisted). It can jump up to {3} times, but the damage decreases by {4}% of the original amount with each jump. It can strike the same target multiple times, but it needs at least two targets to jump between. Only the primary target is stunned.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:19:Key",
         "objectId": 41,
-        "description": "n/a",
+        "description": "key='mentalbreakdown'",
         "originalText": "mentalbreakdown",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:19:Value",
         "objectId": 42,
         "description": "n/a",
         "originalText": "Incapacitates the target for up to {0} and reduces its resolve by {1}%. If a detrimental thought control psi ability is invoked against the target during this period it will have double the effect, but will end the mental breakdown.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:20:Key",
         "objectId": 43,
-        "description": "n/a",
+        "description": "key='bilocation'",
         "originalText": "bilocation",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:20:Value",
         "objectId": 44,
         "description": "n/a",
         "originalText": "Creates a doppelganger of a human target bent on their destruction. The doppelganger is immune to all physical attacks and deals {0}-{1} mental damage that bypasses all shields and resistances. Lasts for {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:21:Key",
         "objectId": 45,
-        "description": "n/a",
+        "description": "key='telekineticproxy'",
         "originalText": "telekineticproxy",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:21:Value",
         "objectId": 46,
         "description": "n/a",
         "originalText": "Moves the telekinetic proxy from its current location to the specified location, dealing {0} damage to everything in its path. If the proxy is not present, is too far away, or doesn't have a clear straight line path to the destination, a new one will be spawned.\r\n\r\nTelekinetic proxy will mimic your damaging telekinetic psi abilities and effects if the target is within its radius. The proxy lasts {1}, but the timer refreshes with each move or mimic.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:22:Key",
         "objectId": 47,
-        "description": "n/a",
+        "description": "key='thermodynamicdestabilization'",
         "originalText": "thermodynamicdestabilization",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:22:Value",
         "objectId": 48,
         "description": "n/a",
         "originalText": "Afflicts the target with thermodynamical destabilization for {0}. If the target is destroyed during this period it explodes, dealing heat and mechanical damage to surrounding characters that (in total) equals {1}% of the target's health at the point in which it was afflicted.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:23:Key",
         "objectId": 49,
-        "description": "n/a",
+        "description": "key='thermodynamicdestabilizationpyromaniac'",
         "originalText": "thermodynamicdestabilizationpyromaniac",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:23:Value",
         "objectId": 50,
         "description": "n/a",
         "originalText": "For each target caught in the explosion there's a {0}% chance to catch on fire, suffering {1}% of the original damage dealt again over {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:24:Key",
         "objectId": 51,
-        "description": "n/a",
+        "description": "key='enrage'",
         "originalText": "enrage",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:24:Value",
         "objectId": 52,
         "description": "n/a",
         "originalText": "Enrages a living target for up to {0} which causes it to turn hostile to everything.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:25:Key",
         "objectId": 53,
-        "description": "n/a",
+        "description": "key='psicognitiveinterruption'",
         "originalText": "psicognitiveinterruption",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:25:Value",
         "objectId": 54,
         "description": "n/a",
         "originalText": "Burns up {0}-{1} of target's psi points, dealing damage equal to {2}% of psi burned. This damage cannot be shielded and bypasses standard resistance, but can be lowered by the target's resolve.\r\n\r\nIt also applies psionic inhibition to the target for up to {3}, preventing it from invoking psi abilities or regenerating psi points.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:26:Key",
         "objectId": 55,
-        "description": "n/a",
+        "description": "key='pseudospatialprojection'",
         "originalText": "pseudospatialprojection",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:26:Value",
         "objectId": 56,
         "description": "n/a",
         "originalText": "In the minds of your enemies you project {0} additional copies of yourself in your immediate vicinity that last up to {1}. Each time you are attacked by a weapon or unarmed attack, there's a chance (depending on attacker's resolve) that the attack will hit a copy instead, removing it from play. \r\n\r\nMachines and true-sighted attackers are not affected.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:27:Key",
         "objectId": 57,
-        "description": "n/a",
+        "description": "key='neurovisualdisruption'",
         "originalText": "neurovisualdisruption",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:27:Value",
         "objectId": 58,
         "description": "n/a",
         "originalText": "You disappear from the sight of the target, removing its ability to detect for {0} and immediately entering stealth. Target also has its perception reduced by {1} and detection by {2}% for {3}.\r\n\r\nInvoking this ability immediately drains all your remaining action and movement points. Does not work on machines or true-sighted creatures. Can only be invoked in combat.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:28:Key",
         "objectId": 59,
-        "description": "n/a",
+        "description": "key='electrokineticimprint'",
         "originalText": "electrokineticimprint",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:28:Value",
         "objectId": 60,
         "description": "n/a",
         "originalText": "Generates an electrokinetic imprint at the target location that deals {0} damage to the first character that steps on it and stuns it for {1}. If you try to place the imprint on top of a trap, it will backfire. You can only have one imprint active at a time.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:29:Key",
         "objectId": 61,
-        "description": "n/a",
+        "description": "key='implosion'",
         "originalText": "implosion",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:29:Value",
         "objectId": 62,
         "description": "n/a",
         "originalText": "Deals mechanical damage equal to {0}% of target's current health. This attack bypasses damage thresholds and shields, but cannot critically hit.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:30:Key",
         "objectId": 63,
-        "description": "n/a",
+        "description": "key='disruptivefield'",
         "originalText": "disruptivefield",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:30:Value",
         "objectId": 64,
         "description": "n/a",
         "originalText": "Creates a disruptive field around the target that reduces their chance to hit with ranged and thrown weapons by {0}% for {1}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:31:Key",
         "objectId": 65,
-        "description": "n/a",
+        "description": "key='cryokineticorb'",
         "originalText": "cryokineticorb",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:31:Value",
         "objectId": 66,
         "description": "n/a",
         "originalText": "You launch a large frozen orb which shatters on impact, sending ice shards flying in all directions. Each shard deals {0} and {1} damage and chills the target. \r\n\r\nChilled characters have their movement points decreased by {2} for {3}. This effect stacks {4} times.\r\n\r\nDue to shards fanning out, targets closer to the place of impact may be hit by multiple shards, while those farther away might not be hit at all.\r\n\r\nEach shard has {5}% chance to inflict a bleeding wound that does additional {6}% of the original mechanical damage done over {7}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:32:Key",
         "objectId": 67,
-        "description": "n/a",
+        "description": "key='exothermicaura'",
         "originalText": "exothermicaura",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:32:Value",
         "objectId": 68,
         "description": "n/a",
         "originalText": "Makes you immune to heat damage and generates flames around you and in your wake. Lasts {0}, but the flames won't be generated on the last turn.\r\n\r\nCreatures standing in the fire suffer heat damage equal to {1}%-{2}% of their maximal health (up to maximum of {3}-{4}), plus additional {5}-{6}, depending on the intensity of fire at that spot, while creatures moving through the fire suffer one third of that damage per tile.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:33:Key",
         "objectId": 69,
-        "description": "n/a",
+        "description": "key='cryoshield'",
         "originalText": "cryoshield",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:33:Value",
         "objectId": 70,
         "description": "n/a",
         "originalText": "Creates {0} frozen shards around the invoker. Each time the character suffers a melee attack, there's a {1}% chance that one of the shards will block {2} of mechanical damage and be destroyed in the process. Lasts {3} or until all shards are destroyed.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:34:Key",
         "objectId": 71,
-        "description": "n/a",
+        "description": "key='temporaldistorsion-old'",
         "originalText": "temporaldistorsion-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:34:Value",
         "objectId": 72,
         "description": "n/a",
         "originalText": "Places a debuff on the target that lasts {0} and deals {1} and {2} damage when it expires. In the case the target is already affected by temporal distortion, its duration will be increased by {3} and damage by {4}% and the newly applied temporal distortion will have the same duration and damage bonus. Damage dealt by this ability ignores shield and {5}% of damage resistance and threshold. This ability cannot critically hit.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:35:Key",
         "objectId": 73,
-        "description": "n/a",
+        "description": "key='temporaldistorsion'",
         "originalText": "temporaldistorsion",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:35:Value",
         "objectId": 74,
         "description": "n/a",
         "originalText": "Places a debuff on the target that lasts {0} and deals {1} and {2} damage when it expires. In the case the target is already affected by temporal distortion, its damage will be increased by {3}% and the newly applied temporal distortion will have the same duration and damage bonus. Damage dealt by this ability ignores shield and {4}% of damage resistance and threshold. This ability cannot critically hit.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:36:Key",
         "objectId": 75,
-        "description": "n/a",
+        "description": "key='entropicrecurrence'",
         "originalText": "entropicrecurrence",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:36:Value",
         "objectId": 76,
         "description": "n/a",
         "originalText": "Repeats {0}% of the last unit of damage taken by the target over {1}. This damage ignores shields and resistances. In cases when the original damage was very slight, the recurrence may actually empower it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:37:Key",
         "objectId": 77,
-        "description": "n/a",
+        "description": "key='psychotemporaldilation'",
         "originalText": "psychotemporaldilation",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:37:Value",
         "objectId": 78,
         "description": "n/a",
         "originalText": "Reduces target's action points by {0} and movement points by {1}. Lasts {2}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:38:Key",
         "objectId": 79,
-        "description": "n/a",
+        "description": "key='psychotemporalcontraction'",
         "originalText": "psychotemporalcontraction",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:38:Value",
         "objectId": 80,
         "description": "n/a",
         "originalText": "Increases target's action points by {0} and movement points by {1}. Lasts {2}. After the effect ends, there's a {3}% chance of it reversing into a psychotemporal dilation of varying power.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:39:Key",
         "objectId": 81,
-        "description": "n/a",
+        "description": "key='limitedtemporalincrement'",
         "originalText": "limitedtemporalincrement",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:39:Value",
         "objectId": 82,
         "description": "n/a",
         "originalText": "Reduces all remaining cooldowns by {0}.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:40:Key",
         "objectId": 83,
-        "description": "n/a",
+        "description": "key='temporaryrewind'",
         "originalText": "temporaryrewind",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:40:Value",
         "objectId": 84,
         "description": "n/a",
         "originalText": "Reverses the last damage done to the target, up to maximum of {0} health points. After two turns this health is lost and this may cause the target to die.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:41:Key",
         "objectId": 85,
-        "description": "n/a",
+        "description": "key='precognition'",
         "originalText": "precognition",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:41:Value",
         "objectId": 86,
         "description": "n/a",
         "originalText": "While this ability is active, your chance to dodge and evade attacks is increased by {0}% (additively). Drains {1} psi points every turn.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:42:Key",
         "objectId": 87,
-        "description": "n/a",
+        "description": "key='stasis'",
         "originalText": "stasis",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:42:Value",
         "objectId": 88,
         "description": "n/a",
         "originalText": "Places the target in stasis for {0}, making it immune to all damage and most disabling effects, but also preventing it from acting. While in stasis, the target's status effects will not progress (except the stasis one), but the cooldowns will.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:43:Key",
         "objectId": 89,
-        "description": "n/a",
+        "description": "key='psychokineticchain'",
         "originalText": "psychokineticchain",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:43:Value",
         "objectId": 90,
         "description": "n/a",
         "originalText": "Links up to {0} enemies into psychokinetic chain which transfers {1}% of all direct mechanical and electrical damage down the chain to the next link as mechanical damage that bypasses energy shields. Maximum total damage transferred from link to link is {2}. The chain lasts {3} or until broken.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:44:Key",
         "objectId": 91,
-        "description": "n/a",
+        "description": "key='telekineticgrounding'",
         "originalText": "telekineticgrounding",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:44:Value",
         "objectId": 92,
         "description": "n/a",
         "originalText": "Immobilizes the target for up to {0}. This ability cannot be resisted, but the victim has a chance to free itself at the end of every turn. This chance starts out small but increases steadily as the telekinetic chains weaken over time. Also, the higher your strength, the easier it is to free yourself.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:45:Key",
         "objectId": 93,
-        "description": "n/a",
+        "description": "key='plasmabeam'",
         "originalText": "plasmabeam",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:45:Value",
         "objectId": 94,
         "description": "n/a",
         "originalText": "Projects a beam of superheated plasma that intensifies towards its maximum range. It reaches maximum power 2/3 of the way there, where it can deal {0} and {1} damage to anyone in its trajectory.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:46:Key",
         "objectId": 95,
-        "description": "n/a",
+        "description": "key='psychosomaticpredation'",
         "originalText": "psychosomaticpredation",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:46:Value",
         "objectId": 96,
         "description": "n/a",
         "originalText": "Creates a predatory focus in the invoker against a living enemy, granting {0}% bonus damage to the predator's weapon and unarmed attacks, but reduces the damage of these attacks against everyone else by {1}%. The damage bonus is double if the attack is melee, and again doubled if performed against a frightened enemy. Lasts up to {2}, as long as the predator and prey stay relatively near each other.\r\n\r\nIf the predator kills the target with a direct attack, they will regain {3} psi.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:47:Key",
         "objectId": 97,
-        "description": "n/a",
+        "description": "key='motorcognitivetransference'",
         "originalText": "motorcognitivetransference",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:47:Value",
         "objectId": 98,
         "description": "n/a",
         "originalText": "Reduces each of the target's offensive skills base values by up to {0}% (capped at {1}) and then transfers half of this amount to invoker's base skill value or changes the invoker's base skill value to up to {2}% of that of the target (capped at {3}), whichever will yield the higher effective skill. Lasts up to {4}. Only works on humanoids.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:48:Key",
         "objectId": 99,
-        "description": "n/a",
+        "description": "key='cryogenicbarrier'",
         "originalText": "cryogenicbarrier",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:48:Value",
         "objectId": 100,
         "description": "n/a",
         "originalText": "Causes shards of ice to be formed from the water taken from the primary target tile that deal {0} and {1} damage to all characters on those tiles. If the tile is treversable and empty, an ice barrier will be left behind that has {2} health and lasts {3} or until destroyed.\r\n\r\nTargets that suffer cold damage will also become chilled. Chilled characters have their movement points decreased by {4} for {5}. This effect stacks {6} times.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "jsonVersion": "0.3"
     }
 ]

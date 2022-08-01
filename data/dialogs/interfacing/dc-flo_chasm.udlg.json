@@ -1,110 +1,101 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 12,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 13,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 14,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 20,
         "description": "n/a",
         "originalText": "::While the rocky ledge seems rather narrow, you think it is possible to sidle to the other side.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 26,
         "description": "n/a",
         "originalText": "::You can use the narrow ledge to get ot the other side of the chasm.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 29,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc-flo_ledge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 38,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc-flo_ledge",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 43,
         "description": "n/a",
         "originalText": "::[Agility] Walk along the ledge to reach the other side.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 46,
         "description": "n/a",
         "originalText": "::Leave::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 52,
         "description": "n/a",
         "originalText": "::The intimidatingly narrow ledge poses no challenge for your excellent sense of balance and great agility. You swiftly move across the ledge and reach the other side.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 57,
         "description": "n/a",
         "originalText": "::You start inching across the ledge, firmly leaning against the wall. But, it took only a few steps, some wobbling and an unintentional look down for you realize that perhaps it would be best for your well-being if you returned back and found a different way around.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MPBAC.MPBAC:BAN",
+        "classInfo": "(MPBAC).MPBAC:BAN",
         "objectId": 61,
         "description": "n/a",
         "originalText": "Agility",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 75,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dc-flo_ledgeCaveSide",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".ATA.ATA:DW",
+        "classInfo": "(ATA).ATA:DW",
         "objectId": 77,
         "description": "n/a",
         "originalText": "FromLedgeBase",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ATA.ATA:DW",
+        "classInfo": "(ATA).ATA:DW",
         "objectId": 79,
         "description": "n/a",
         "originalText": "FromLedgeCave",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

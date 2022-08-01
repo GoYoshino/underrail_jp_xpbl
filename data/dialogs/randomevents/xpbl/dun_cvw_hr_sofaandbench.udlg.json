@@ -1,89 +1,77 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 12,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 13,
-        "description": "n/a",
-        "originalText": "sofa",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 14,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 18,
         "description": "n/a",
         "originalText": "::This is a spectator sofa. That's right.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 25,
         "description": "n/a",
         "originalText": "::One should take a seat on the bench before watching a race. Either that, or just chill.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 35,
         "description": "n/a",
         "originalText": "::Take a seat and wait for the Hopperdrome race to begin.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 38,
         "description": "n/a",
         "originalText": "::Leave.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PCA1.PCA1:WP",
+        "classInfo": "(PCA1).PCA1:WP",
         "objectId": 42,
         "description": "n/a",
         "originalText": "Xpbl_Dun_Cvw_Hr_RaceStart",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".FR0.FR0:S",
+        "classInfo": "(FR0).FR0:S",
         "objectId": 43,
         "description": "n/a",
         "originalText": "player",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".FR0.FR0:T",
+        "classInfo": "(FR0).FR0:T",
         "objectId": 44,
         "description": "n/a",
         "originalText": "waterWays_hopperdrome",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SC1.CIC:P",
+        "classInfo": "(SC1).CIC:P",
         "objectId": 47,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_xpbl_dun_cvw_hr_raceStatus",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SC1.SC1:V",
+        "classInfo": "(SC1).SC1:V",
         "objectId": 48,
         "description": "n/a",
         "originalText": "initial",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

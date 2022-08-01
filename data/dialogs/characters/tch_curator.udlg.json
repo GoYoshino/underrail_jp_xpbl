@@ -1,404 +1,437 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 30,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 31,
-        "description": "n/a",
-        "originalText": "nenna",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 32,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 36,
         "description": "n/a",
         "originalText": "Eidein's Library will not fall into their hands!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 44,
         "description": "n/a",
         "originalText": "::The woman, upon noticing you approach, puts her hand on her chest and salutes you. Her voice is quiet, almost a whisper, yet it sounds perfectly clear and understandable thanks to the almost unreal silence within the library.::\r\n\r\nTchort is evolution. Welcome to Eidein's Library, $(#brother/sister). I am Curator Nenna. Can I help you with anything?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 50,
         "description": "n/a",
         "originalText": "Need a recommendation, $(#brother/sister)?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 53,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_tch_invasionStarted",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 54,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_nenna_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 69,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_nenna_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 75,
         "description": "n/a",
         "originalText": "::[Persuade]:: If I could be trusted with the Reaching Man, which allowed me to become a Tchortist despite the Institute not accepting new members, then how can I not be trusted to download a few investigative papers to study in private?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 81,
         "description": "n/a",
         "originalText": "Certain files require curator or propagator rights so that they can be transferred to a memory stick. Any way for me to obtain such rights?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 86,
         "description": "n/a",
         "originalText": "What can you tell me about Eidein's Library?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 91,
         "description": "n/a",
         "originalText": "What exactly is the Original Report?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 95,
         "description": "n/a",
         "originalText": "Can you tell me something about the library's history?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 101,
         "description": "n/a",
         "originalText": "I am looking for a rassophore called Nevil. Have you seen him recently?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 105,
         "description": "n/a",
         "originalText": "Tchort guide you, Nenna.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 109,
         "description": "n/a",
         "originalText": "Goodbye, Nenna.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 118,
         "description": "n/a",
         "originalText": "The Reaching Man is... While you truly are well-evolved, novitiate... Don't misunderstand me, please, but the propagator rights are a completely, completely different matter...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 124,
         "description": "n/a",
         "originalText": "You truly are well-evolved, novitiate - don't misunderstand me, please - but propagator rights are a completely separate matter.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 132,
         "description": "n/a",
         "originalText": "Only curators can have curator rights, and only notability and certain members of Propagation can have the privilege of having a propagator card entrusted to them.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 138,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_nenna_talkedRestrictedAccess",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 142,
         "description": "n/a",
         "originalText": "Eidein's Library is the major repository of information for the Institute of Tchort. The library's database offers over six million pages of textual content ranging from both contemporary and historical works in different scientific fields, as well as of preserved works of literary arts, journals, documents and other. Most of it is in digital form, accessible to all members at any time, but there is also a significant number of physical copies which, due to their rarity as well as the fragility of the medium, require special permissions.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 146,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_nenna_askLibrary",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 147,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_nenna_askLibrary",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 151,
         "description": "n/a",
         "originalText": "Ah, the Original Report was written a hundred years ago, when Eidein first discovered Tchort in the dark depths of the Deep Caverns. This short text describes the event itself, Eiden's original discoveries and thoughts. Essentially, it narrates the genesis of Tchortism.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 157,
         "description": "n/a",
         "originalText": "I can give you some brief information, yes. This room we are currently in was a library from the very day the building was constructed. While it was much smaller... I should say humbler with respect to available information, it was nonetheless just as integral to the Institute of Tchort as it is today, embracing all those who seek knowledge with wide open arms.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 166,
         "description": "n/a",
         "originalText": "No, I'm afraid not. He hasn't been here since... hmmm, nearly a month, frankly.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 170,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_curator_askNevil",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 173,
         "description": "n/a",
         "originalText": "And you too, $(#brother/sister). Read well.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 178,
         "description": "n/a",
         "originalText": "Tchort guide you, $(#brother/sister). Read well.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 181,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_nenna_talkedRestrictedAccess",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 182,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_nenna_gotPropagatorCard",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 187,
         "description": "n/a",
         "originalText": "::She stops. The library is too silent to make the wait comfortable.::\r\n\r\nI'll grant you propagator rights. After giving it a thought, I'd rather not retard your progress.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 191,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_nenna_gotPropagatorCard",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 197,
         "description": "n/a",
         "originalText": "My answer is still going to be no.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 200,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.interface_tch_library_knowRestrictedAccess",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 201,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_nenna_talkedRestrictedAccess",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 202,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_nenna_askLibrary",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 206,
         "description": "n/a",
         "originalText": "Why Propagation?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 210,
         "description": "n/a",
         "originalText": "Is there any way for me to gain this privilege, sister?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 213,
         "description": "n/a",
         "originalText": "It goes without saying that Eidein's Library contains the single most important, most monumental document in the history of Tchortism - the Original Report, written by none other than Eidein himself. Being a novitiate, you are advised to start with the Original Report before moving on to more current Tchort-related works.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 221,
         "description": "n/a",
         "originalText": "If you haven't read it still, $(#brother/sister), do so as soon as possible. I - and I am being completely honest here - have read it an uncountable amount of times, and I am most certainly not the only one to have done so.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 227,
         "description": "n/a",
         "originalText": "Sadly, the Great Earthquake turned it - as well as the whole West Wing - into rubble back in year twenty-four. Most physical copies the library contained were destroyed, with only a few salvaged copies retrieved from the rubble. What a waste. Of course, Eidein knew that the library *had* to be restored to its previous glory, so according to his will the library was rebuilt within a relatively short period of time. Institute members named the library in his honor, and it remained so until this day.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 230,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quests_tch_preservation_TrackDownNevilStarted",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 231,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.quests_tch_preservation_TrackDownNevilCompleted",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 232,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_tch_curator_askNevil",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 235,
         "description": "n/a",
         "originalText": "Yes, I believe it was a month. Sure of it. By the way, what do you mean by \"looking for him\"? What happened, $(#brother/sister)?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 243,
         "description": "n/a",
         "originalText": "Do be discreet, please. ::She hands you a library propagator card.::\r\n\r\nAnd don't share copies with anyone outside the Institute unless instructed otherwise.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 251,
         "description": "n/a",
         "originalText": "Most members don't need to download files - they can read everything here, in the library; it minimizes risks of valuable information falling into undesirable hands as well. But they, the propagators, they are the ones who propagate Tchortism to the world - they require physical media to do so.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 258,
         "description": "n/a",
         "originalText": "I'm afraid not, $(#brother/sister). It takes a long time even for members of Propagation to obtain their propagator cards.\r\n\r\nHow can I just hand one over to you?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 264,
         "description": "n/a",
         "originalText": "Thank you, I had other questions.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 268,
         "description": "n/a",
         "originalText": "I hope that is the answer you sought. Was there anything else you wished to ask me?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 274,
         "description": "n/a",
         "originalText": "He disappeared.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 278,
         "description": "n/a",
         "originalText": "Never mind, that is all I needed to know. Goodbye.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 283,
         "description": "n/a",
         "originalText": "::She nods.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 289,
         "description": "n/a",
         "originalText": "Oh... I'm sorry I couldn't be of more help. I hope everything turns out well, $(#brother/sister). Best of luck.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".LIDP#G1>KI2#-.LIDP:P",
+        "classInfo": "(LIDP#G1>KI2#-).LIDP:P",
         "objectId": 297,
         "description": "n/a",
         "originalText": "plot\\librarypropagatorcard",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

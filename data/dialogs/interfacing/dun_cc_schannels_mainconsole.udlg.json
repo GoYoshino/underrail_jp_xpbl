@@ -1,1216 +1,1109 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 19,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 20,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 21,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 27,
         "description": "n/a",
         "originalText": "::The light coming from the console's display illuminates the gratings on which you stand, catching your attention to look below. Down there, you see that this cabin you're in right now is on top of a large machine with countless coupled gears and long pipes all leading to the head of the engine. The observation point from which you stand doesn't allow you to see the bottom of this massive motor which is used to run the intricate hanging crane system outside. \r\n\r\nThe display on the console showcases two green graphs, one on each monitor, with several large red circles, seemingly placed at random all throughout the scheme. These dots most likely represent the positions of the crane's many lifting arms available at your disposal. Some sections at both monitors are starting to fade out, the others outright not showing up. In the top right corner of the left screen you can see what seems to be a power bar, and it's showing a number: *21*. In between the two large monitors is a third one which shows two large rectangles on it. However, the diminished visuals there leave you with no useful information other than the fact that they are pulsating in orange color.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 38,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dun_cc_sChannels_craneUses",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 43,
         "description": "n/a",
         "originalText": "::With a few swipes, you clean the accumulated dust from the keyboard. The letters on them are still preserved and it doesn't take you long to figure the controls out.::\r\n\r\n::This vantage point allows you to see very far away. By leaning back and forth you can observe every section of the room. Outside the double doors you've walked in is a wide open clear area suitable for lowering anything you can pick up with the crane.::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SIFV.SFVA:P",
+        "classInfo": "(SIFV).SFVA:P",
         "objectId": 47,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dun_cc_sChannels_craneUses",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 51,
         "description": "n/a",
         "originalText": "::Power display: $(context.loc_dun_cc_sChannels_craneUses). The console is functional.::\r\n\r\n::Clear trash from: ::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 63,
         "description": "n/a",
         "originalText": "::Power display: $(context.loc_dun_cc_sChannels_craneUses). The console is no longer responding to any of your inputs. It has self locked itself.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 69,
         "description": "n/a",
         "originalText": "::Most of the display has been turned off. Little what was left can be barely seen as it's mostly faded out. All of the controls have become unresponsive. All three monitors share a common message: Power Critical!::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 73,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dun_cc_sChannels_craneUses",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 78,
         "description": "n/a",
         "originalText": "::North channel.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 82,
         "description": "n/a",
         "originalText": "::South channel.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 86,
         "description": "n/a",
         "originalText": "::Middle channel. ::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 90,
         "description": "n/a",
         "originalText": "::East platform.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 94,
         "description": "n/a",
         "originalText": "::West platform.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 97,
         "description": "n/a",
         "originalText": "::Leave.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ICC.CIC:P",
+        "classInfo": "(ICC).CIC:P",
         "objectId": 98,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.loc_dun_cc_sChannels_craneUses",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 102,
         "description": "n/a",
         "originalText": "::Leave.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 105,
         "description": "n/a",
         "originalText": "::Use the crane to: ::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 113,
         "description": "n/a",
         "originalText": "::Use the crane to: ::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 122,
         "description": "n/a",
         "originalText": "::Use the crane to: ::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 130,
         "description": "n/a",
         "originalText": "::Use the crane to: ::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 139,
         "description": "n/a",
         "originalText": "::Use the crane to: ::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 153,
         "description": "n/a",
         "originalText": "::Bring over the western floating barrel.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 158,
         "description": "n/a",
         "originalText": "::Bring over the floating corpse in the east.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 162,
         "description": "n/a",
         "originalText": "::Back.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 167,
         "description": "n/a",
         "originalText": "::Bring over the western floating barrel.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 172,
         "description": "n/a",
         "originalText": "::Bring over the eastern floating box.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 177,
         "description": "n/a",
         "originalText": "::Clear the obstacle next to most southern point of the section.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 182,
         "description": "n/a",
         "originalText": "::Bring over the northen floating box.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 187,
         "description": "n/a",
         "originalText": "::Bring over the southern floating barrel.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 188,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 189,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 194,
         "description": "n/a",
         "originalText": "::Clear the obstacle next to the north sewage pool.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 199,
         "description": "n/a",
         "originalText": "::Clear the obstacle next to the south sewage pool.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 204,
         "description": "n/a",
         "originalText": "::Bring over the floating barrel which is inside the southern sewage pool.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 209,
         "description": "n/a",
         "originalText": "::Clear the trash which is covering the northen sewage pool and bring the box closer to you.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 214,
         "description": "n/a",
         "originalText": "::Clear the trash in the middle, which is east from the small console.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 219,
         "description": "n/a",
         "originalText": "::Clear the trash in the middle, which is south from the small console.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 224,
         "description": "n/a",
         "originalText": "::Clear the crates in the south, which are east from the sewage pool.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 229,
         "description": "n/a",
         "originalText": "::Clear the trash in the south, which is south from the sewage pool.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 234,
         "description": "n/a",
         "originalText": "::Bring over the floating box which is inside the southern sewage pool.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:A",
+        "classInfo": "(CCRCC).CCRCC:A",
         "objectId": 236,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:RCC",
+        "classInfo": "(CCRCC).CCRCC:RCC",
         "objectId": 237,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 247,
         "description": "n/a",
         "originalText": "::Using the crane you manage pick up the barrel and bring it in front of the cabin. ::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:A",
+        "classInfo": "(CCRCC).CCRCC:A",
         "objectId": 251,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:RCC",
+        "classInfo": "(CCRCC).CCRCC:RCC",
         "objectId": 252,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 262,
         "description": "n/a",
         "originalText": "::Using the crane you manage pick up the box and bring it in front of the cabin. ::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:A",
+        "classInfo": "(CCRCC).CCRCC:A",
         "objectId": 266,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:RCC",
+        "classInfo": "(CCRCC).CCRCC:RCC",
         "objectId": 267,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 277,
         "description": "n/a",
         "originalText": "::Using the crane you manage pick up the barrel and bring it in front of the cabin. ::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:A",
+        "classInfo": "(CCRCC).CCRCC:A",
         "objectId": 281,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:RCC",
+        "classInfo": "(CCRCC).CCRCC:RCC",
         "objectId": 282,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 292,
         "description": "n/a",
         "originalText": "::Using the crane you manage pick up the box and bring it in front of the cabin. ::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:A",
+        "classInfo": "(CCRCC).CCRCC:A",
         "objectId": 296,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:RCC",
+        "classInfo": "(CCRCC).CCRCC:RCC",
         "objectId": 297,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 304,
         "description": "n/a",
         "originalText": "::Using the crane you manage to clear the obstacle. ::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:A",
+        "classInfo": "(CCRCC).CCRCC:A",
         "objectId": 308,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:RCC",
+        "classInfo": "(CCRCC).CCRCC:RCC",
         "objectId": 309,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 319,
         "description": "n/a",
         "originalText": "::Using the crane you manage pick up the box and bring it in front of the cabin. ::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:A",
+        "classInfo": "(CCRCC).CCRCC:A",
         "objectId": 323,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:RCC",
+        "classInfo": "(CCRCC).CCRCC:RCC",
         "objectId": 324,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 333,
         "description": "n/a",
         "originalText": "::Using the crane you manage pick up the barrel and bring it in front of the cabin. ::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:A",
+        "classInfo": "(CCRCC).CCRCC:A",
         "objectId": 337,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:RCC",
+        "classInfo": "(CCRCC).CCRCC:RCC",
         "objectId": 338,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 348,
         "description": "n/a",
         "originalText": "::Using the crane you manage to clear the obstacle. ::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:A",
+        "classInfo": "(CCRCC).CCRCC:A",
         "objectId": 352,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:RCC",
+        "classInfo": "(CCRCC).CCRCC:RCC",
         "objectId": 353,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 362,
         "description": "n/a",
         "originalText": "::Using the crane you manage to clear the obstacle. ::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:A",
+        "classInfo": "(CCRCC).CCRCC:A",
         "objectId": 366,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:RCC",
+        "classInfo": "(CCRCC).CCRCC:RCC",
         "objectId": 367,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 376,
         "description": "n/a",
         "originalText": "::Using the crane you manage to clear the obstacle. ::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:A",
+        "classInfo": "(CCRCC).CCRCC:A",
         "objectId": 380,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:RCC",
+        "classInfo": "(CCRCC).CCRCC:RCC",
         "objectId": 381,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 391,
         "description": "n/a",
         "originalText": "::Using the crane you manage to remove the obstacles and move the box closer to the cabin. ::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:A",
+        "classInfo": "(CCRCC).CCRCC:A",
         "objectId": 395,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:RCC",
+        "classInfo": "(CCRCC).CCRCC:RCC",
         "objectId": 396,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 403,
         "description": "n/a",
         "originalText": "::Using the crane you manage to remove the trash. ::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:A",
+        "classInfo": "(CCRCC).CCRCC:A",
         "objectId": 407,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:RCC",
+        "classInfo": "(CCRCC).CCRCC:RCC",
         "objectId": 408,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 415,
         "description": "n/a",
         "originalText": "::Using the crane you manage to remove the trash. ::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:A",
+        "classInfo": "(CCRCC).CCRCC:A",
         "objectId": 419,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:RCC",
+        "classInfo": "(CCRCC).CCRCC:RCC",
         "objectId": 420,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 429,
         "description": "n/a",
         "originalText": "::Using the crane you manage to remove the crates. ::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:A",
+        "classInfo": "(CCRCC).CCRCC:A",
         "objectId": 433,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:RCC",
+        "classInfo": "(CCRCC).CCRCC:RCC",
         "objectId": 434,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 440,
         "description": "n/a",
         "originalText": "::Using the crane you manage to clear the obstacle. ::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:A",
+        "classInfo": "(CCRCC).CCRCC:A",
         "objectId": 444,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".CCRCC.CCRCC:RCC",
+        "classInfo": "(CCRCC).CCRCC:RCC",
         "objectId": 445,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 455,
         "description": "n/a",
         "originalText": "::Using the crane you manage pick up the box and bring it in front of the cabin. ::\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A4.A4:N",
-        "objectId": 470,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 471,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 484,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 485,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 498,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 499,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 512,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 513,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 520,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 521,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 534,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 535,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 546,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 547,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 570,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 571,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 582,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 583,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 596,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 597,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 604,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 605,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 612,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 613,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 624,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 625,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 630,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 631,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 644,
-        "description": "n/a",
-        "originalText": "interface",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 645,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".MGCJ.MGCJ:N",
+        "classInfo": "(MGCJ).MGCJ:N",
         "objectId": 646,
         "description": "n/a",
         "originalText": "loc_dun_cc_sChannels_craneUses",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ATJ.ATJ:DW",
+        "classInfo": "(ATJ).ATJ:DW",
         "objectId": 649,
         "description": "n/a",
         "originalText": "drop2",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RCRCJ.RCRCJ:A",
+        "classInfo": "(RCRCJ).RCRCJ:A",
         "objectId": 652,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RCRCJ.RCRCJ:R",
+        "classInfo": "(RCRCJ).RCRCJ:R",
         "objectId": 653,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PLSJ.LSJ:SI",
+        "classInfo": "(PLSJ).LSJ:SI",
         "objectId": 656,
         "description": "n/a",
         "originalText": "CrowbarHitMetal",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MGCJ.MGCJ:N",
+        "classInfo": "(MGCJ).MGCJ:N",
         "objectId": 661,
         "description": "n/a",
         "originalText": "loc_dun_cc_sChannels_craneUses",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ATJ.ATJ:DW",
+        "classInfo": "(ATJ).ATJ:DW",
         "objectId": 664,
         "description": "n/a",
         "originalText": "drop2",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RCRCJ.RCRCJ:A",
+        "classInfo": "(RCRCJ).RCRCJ:A",
         "objectId": 667,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RCRCJ.RCRCJ:R",
+        "classInfo": "(RCRCJ).RCRCJ:R",
         "objectId": 668,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PLSJ.LSJ:SI",
+        "classInfo": "(PLSJ).LSJ:SI",
         "objectId": 673,
         "description": "n/a",
         "originalText": "HumanDie",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MGCJ.MGCJ:N",
+        "classInfo": "(MGCJ).MGCJ:N",
         "objectId": 676,
         "description": "n/a",
         "originalText": "loc_dun_cc_sChannels_craneUses",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ATJ.ATJ:DW",
+        "classInfo": "(ATJ).ATJ:DW",
         "objectId": 679,
         "description": "n/a",
         "originalText": "drop1",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RCRCJ.RCRCJ:A",
+        "classInfo": "(RCRCJ).RCRCJ:A",
         "objectId": 682,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RCRCJ.RCRCJ:R",
+        "classInfo": "(RCRCJ).RCRCJ:R",
         "objectId": 683,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PLSJ.LSJ:SI",
+        "classInfo": "(PLSJ).LSJ:SI",
         "objectId": 686,
         "description": "n/a",
         "originalText": "CrowbarHitMetal",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MGCJ.MGCJ:N",
+        "classInfo": "(MGCJ).MGCJ:N",
         "objectId": 691,
         "description": "n/a",
         "originalText": "loc_dun_cc_sChannels_craneUses",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ATJ.ATJ:DW",
+        "classInfo": "(ATJ).ATJ:DW",
         "objectId": 694,
         "description": "n/a",
         "originalText": "drop3",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RCRCJ.RCRCJ:A",
+        "classInfo": "(RCRCJ).RCRCJ:A",
         "objectId": 697,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RCRCJ.RCRCJ:R",
+        "classInfo": "(RCRCJ).RCRCJ:R",
         "objectId": 698,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PLSJ.LSJ:SI",
+        "classInfo": "(PLSJ).LSJ:SI",
         "objectId": 703,
         "description": "n/a",
         "originalText": "SledgehammerHitMetal",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MGCJ.MGCJ:N",
+        "classInfo": "(MGCJ).MGCJ:N",
         "objectId": 706,
         "description": "n/a",
         "originalText": "loc_dun_cc_sChannels_craneUses",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MGCJ.MGCJ:N",
+        "classInfo": "(MGCJ).MGCJ:N",
         "objectId": 711,
         "description": "n/a",
         "originalText": "loc_dun_cc_sChannels_craneUses",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ATJ.ATJ:DW",
+        "classInfo": "(ATJ).ATJ:DW",
         "objectId": 714,
         "description": "n/a",
         "originalText": "drop2",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RCRCJ.RCRCJ:A",
+        "classInfo": "(RCRCJ).RCRCJ:A",
         "objectId": 717,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RCRCJ.RCRCJ:R",
+        "classInfo": "(RCRCJ).RCRCJ:R",
         "objectId": 718,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PLSJ.LSJ:SI",
+        "classInfo": "(PLSJ).LSJ:SI",
         "objectId": 723,
         "description": "n/a",
         "originalText": "SledgehammerHitMetal",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MGCJ.MGCJ:N",
+        "classInfo": "(MGCJ).MGCJ:N",
         "objectId": 726,
         "description": "n/a",
         "originalText": "loc_dun_cc_sChannels_craneUses",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ATJ.ATJ:DW",
+        "classInfo": "(ATJ).ATJ:DW",
         "objectId": 729,
         "description": "n/a",
         "originalText": "drop3",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RCRCJ.RCRCJ:A",
+        "classInfo": "(RCRCJ).RCRCJ:A",
         "objectId": 732,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RCRCJ.RCRCJ:R",
+        "classInfo": "(RCRCJ).RCRCJ:R",
         "objectId": 733,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PLSJ.LSJ:SI",
+        "classInfo": "(PLSJ).LSJ:SI",
         "objectId": 736,
         "description": "n/a",
         "originalText": "CrowbarHitMetal",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MGCJ.MGCJ:N",
+        "classInfo": "(MGCJ).MGCJ:N",
         "objectId": 739,
         "description": "n/a",
         "originalText": "loc_dun_cc_sChannels_craneUses",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SVEJ.SVEJ:EM",
+        "classInfo": "(SVEJ).SVEJ:EM",
         "objectId": 748,
         "description": "n/a",
         "originalText": "WaterSplashLargeDirty",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MGCJ.MGCJ:N",
+        "classInfo": "(MGCJ).MGCJ:N",
         "objectId": 750,
         "description": "n/a",
         "originalText": "loc_dun_cc_sChannels_craneUses",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SVEJ.SVEJ:EM",
+        "classInfo": "(SVEJ).SVEJ:EM",
         "objectId": 756,
         "description": "n/a",
         "originalText": "WaterSplashLargeDirty",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MGCJ.MGCJ:N",
+        "classInfo": "(MGCJ).MGCJ:N",
         "objectId": 758,
         "description": "n/a",
         "originalText": "loc_dun_cc_sChannels_craneUses",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ATJ.ATJ:DW",
+        "classInfo": "(ATJ).ATJ:DW",
         "objectId": 761,
         "description": "n/a",
         "originalText": "drop1",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RCRCJ.RCRCJ:A",
+        "classInfo": "(RCRCJ).RCRCJ:A",
         "objectId": 764,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RCRCJ.RCRCJ:R",
+        "classInfo": "(RCRCJ).RCRCJ:R",
         "objectId": 765,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PLSJ.LSJ:SI",
+        "classInfo": "(PLSJ).LSJ:SI",
         "objectId": 768,
         "description": "n/a",
         "originalText": "CrowbarHitMetal",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MGCJ.MGCJ:N",
+        "classInfo": "(MGCJ).MGCJ:N",
         "objectId": 771,
         "description": "n/a",
         "originalText": "loc_dun_cc_sChannels_craneUses",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ATJ.ATJ:DW",
+        "classInfo": "(ATJ).ATJ:DW",
         "objectId": 778,
         "description": "n/a",
         "originalText": "drop2",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RCRCJ.RCRCJ:R",
+        "classInfo": "(RCRCJ).RCRCJ:R",
         "objectId": 781,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MGCJ.MGCJ:N",
+        "classInfo": "(MGCJ).MGCJ:N",
         "objectId": 782,
         "description": "n/a",
         "originalText": "loc_dun_cc_sChannels_craneUses",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MGCJ.MGCJ:N",
+        "classInfo": "(MGCJ).MGCJ:N",
         "objectId": 787,
         "description": "n/a",
         "originalText": "loc_dun_cc_sChannels_craneUses",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MGCJ.MGCJ:N",
+        "classInfo": "(MGCJ).MGCJ:N",
         "objectId": 792,
         "description": "n/a",
         "originalText": "loc_dun_cc_sChannels_craneUses",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MGCJ.MGCJ:N",
+        "classInfo": "(MGCJ).MGCJ:N",
         "objectId": 801,
         "description": "n/a",
         "originalText": "loc_dun_cc_sChannels_craneUses",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".MGCJ.MGCJ:N",
+        "classInfo": "(MGCJ).MGCJ:N",
         "objectId": 804,
         "description": "n/a",
         "originalText": "loc_dun_cc_sChannels_craneUses",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".ATJ.ATJ:DW",
+        "classInfo": "(ATJ).ATJ:DW",
         "objectId": 807,
         "description": "n/a",
         "originalText": "drop1",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RCRCJ.RCRCJ:A",
+        "classInfo": "(RCRCJ).RCRCJ:A",
         "objectId": 810,
         "description": "n/a",
         "originalText": "dun_cc_sChannels",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".RCRCJ.RCRCJ:R",
+        "classInfo": "(RCRCJ).RCRCJ:R",
         "objectId": 811,
         "description": "n/a",
         "originalText": "notLooted",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".PLSJ.LSJ:SI",
+        "classInfo": "(PLSJ).LSJ:SI",
         "objectId": 816,
         "description": "n/a",
         "originalText": "SledgehammerHitMetal",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]

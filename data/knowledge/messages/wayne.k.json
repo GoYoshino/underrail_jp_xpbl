@@ -1,30 +1,37 @@
 [
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Key",
         "objectId": 3,
-        "description": "n/a",
+        "description": "key='fixedyourdoor-old'",
         "originalText": "fixedyourdoor-old",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:0:Value",
         "objectId": 4,
         "description": "n/a",
         "originalText": "Hi {0}. \r\n\r\nI fixed your door, so the keycard should work fine now. In case you haven't found it yet, it's in your desk.\r\n\r\nSee you around.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Key",
         "objectId": 5,
-        "description": "n/a",
+        "description": "key='fixedyourdoor'",
         "originalText": "fixedyourdoor",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "className": "KI",
+        "classInfo": "(KI).KI:S:1:Value",
         "objectId": 6,
         "description": "n/a",
         "originalText": "Hi,\r\n\r\nI fixed your door, so the keycard should work fine now. In case you haven't found it yet, it's in your desk.\r\n\r\nSee you around.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
+    },
+    {
+        "jsonVersion": "0.3"
     }
 ]

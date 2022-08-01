@@ -1,992 +1,1101 @@
 [
     {
-        "classInfo": ".J.CE:N",
-        "objectId": 32,
-        "description": "n/a",
-        "originalText": "Start Element",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 33,
-        "description": "n/a",
-        "originalText": "beatrice",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 34,
-        "description": "n/a",
-        "originalText": "adira",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".A4.A4:N",
-        "objectId": 35,
-        "description": "n/a",
-        "originalText": "player",
-        "translatedText": ""
-    },
-    {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 41,
         "description": "n/a",
         "originalText": "::Two robed women stand in the middle of a small cavern, facing each other. Their gleaming eyes become focused on you the moment you reveal your presence. The darkness of the cave as well as that of their hoods make it difficult for you to discern any facial features of these two women, but the details are not your concern right now - their hostile poses are.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 47,
         "description": "n/a",
         "originalText": "::The two sisters are silent.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 50,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jgi_sisters_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 53,
         "description": "n/a",
         "originalText": "::One of the two women speaks with a frigid, unwelcoming voice.::\r\n\r\nIdentify yourself, visitor. Who are you and what is your purpose here?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 61,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jgi_sisters_met",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 77,
         "description": "n/a",
         "originalText": "I'm $(context.player.Name) and I mean you no harm.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 81,
         "description": "n/a",
         "originalText": "Who are *you* and what is going on here?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 85,
         "description": "n/a",
         "originalText": "I guess I took a wrong turn. Sorry for the disturbance. Bye bye!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 89,
         "description": "n/a",
         "originalText": "I'm here to kill you, steal your stuff and then try to sell it to someone. Die! ::Attack!::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 94,
         "description": "n/a",
         "originalText": "What can you tell me about the Forsaken Behemoth?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 100,
         "description": "n/a",
         "originalText": "I heard about a creature called Forsaken Behemoth living on this island. Do you know anything about that?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 105,
         "description": "n/a",
         "originalText": "How did you two end up here, if I may ask?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 110,
         "description": "n/a",
         "originalText": "What do you do to pass the time here?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 115,
         "description": "n/a",
         "originalText": "Have you ever left this island after you came here?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 120,
         "description": "n/a",
         "originalText": "Well, I have to be leaving now. Goodbye.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 124,
         "description": "n/a",
         "originalText": "I gotta go.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 128,
         "description": "n/a",
         "originalText": "::The two women exchange looks, but not words. A short glance is all it takes for them to know what the other one is thinking, it seems.::\r\n\r\n$(context.player.Name)... I am Adira, and this is my sister Beatrice.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 133,
         "description": "n/a",
         "originalText": "We *suggest* you answer our question first, visitor.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 140,
         "description": "n/a",
         "originalText": "Stop right there! Take a step back and it'll be your last one. Answer our question, visitor! Who are you and what are you doing here?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 152,
         "description": "n/a",
         "originalText": "::She smiles.:: You've gotten this far, so I think you deserve the truth. The Forsaken Behemoth doesn't exist. All the things you've been told are, in fact, false.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 158,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jgi_sisters_mentionedGooshterIntro",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 159,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jgi_sisters_toldLifeStory",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 162,
         "description": "n/a",
         "originalText": "Allow us to tell you a story...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 168,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jgi_sisters_toldLifeStory",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 172,
         "description": "n/a",
         "originalText": "Besides fishing, picking mushrooms and hunting hoppers...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 175,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jgi_sisters_toldLifeStory",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 179,
         "description": "n/a",
         "originalText": "No...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 182,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jgi_sisters_persuadeNotKill",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 185,
         "description": "n/a",
         "originalText": "Where do you think you're going?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 193,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jgi_sisters_persuadeNotKill",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 196,
         "description": "n/a",
         "originalText": "Your purpose here, $(context.player.Name)?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 206,
         "description": "n/a",
         "originalText": "I don't think so, ladies.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 208,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jgi_sisters_mentionedGooshterIntro",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 209,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jgi_sisters_toldGooshter",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 212,
         "description": "n/a",
         "originalText": "Everything you heard is a product of my sister's skillful manipulation. If one has the ability to control fire, moving air to create frightening sounds is not an issue. Especially when the entrance to the cave helps it resonate and reach the ears of superstitious ferrymen.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 218,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jgi_sisters_mentionedGooshterIntro",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".BC.CIC:P",
+        "classInfo": "(BC).CIC:P",
         "objectId": 219,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jgi_sisters_toldGooshter",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 223,
         "description": "n/a",
         "originalText": "Alright. You may start.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 227,
         "description": "n/a",
         "originalText": "I think you misheard me. I didn't ask for a story, I asked you to tell me how you ended up here.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 231,
         "description": "n/a",
         "originalText": "Actually, before you start, I had other questions I wanted to ask you.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 235,
         "description": "n/a",
         "originalText": "I like creating ice sculptures...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 241,
         "description": "n/a",
         "originalText": "No! Why would we do that?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 247,
         "description": "n/a",
         "originalText": "Home.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 251,
         "description": "n/a",
         "originalText": "I just wanted to take a look around.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 255,
         "description": "n/a",
         "originalText": "To kill all the hoppers on the island! I hate those filthy creatures!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 259,
         "description": "n/a",
         "originalText": "I'm going on a new adventure!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 263,
         "description": "n/a",
         "originalText": "To grab something to eat. I'm starving.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 267,
         "description": "n/a",
         "originalText": "I heard about the monster - Behemoth.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 271,
         "description": "n/a",
         "originalText": "A strong current pulled the ferry I was on and I ended up stranded here. I originally intended to go to Core City, but I guess I will be spending some time on this cursed place.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 275,
         "description": "n/a",
         "originalText": "I wanted to explore the Forsaken Island despite the tales of a great and deadly creature inhabiting it.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 278,
         "description": "n/a",
         "originalText": "So rude...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 285,
         "description": "n/a",
         "originalText": "I guess your ruse worked. You convinced a lot of people that this island is the home of a terrifying monster.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 289,
         "description": "n/a",
         "originalText": "But why are you doing all this?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 293,
         "description": "n/a",
         "originalText": "I see you really don't want visitors here.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 298,
         "description": "n/a",
         "originalText": "::You manage catch a little smile on Adira's face, vanishing as quickly as it appeared. Even if it was there only for a brief moment, you could tell that hiding behind that smile was not joy but, in fact, sadness.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 303,
         "description": "n/a",
         "originalText": "ALLOW us to tell you a story...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 311,
         "description": "n/a",
         "originalText": "::They both nod.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 317,
         "description": "n/a",
         "originalText": "I enjoy creating dancing flames of various shapes and sizes...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 323,
         "description": "n/a",
         "originalText": "We don't need anything from the outside world; we have everything we need *right* here.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 328,
         "description": "n/a",
         "originalText": "Did you really think we were gonna let you just leave this place and tell anyone about what you witnessed here?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 337,
         "description": "n/a",
         "originalText": "::The two women exchange looks yet again. This time, their wordless communication took a bit longer than previously. Still, you eventually get your response.::\r\n\r\nMany came here for this very reason. I'm sure you walked past the remains of some on your way in.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 343,
         "description": "n/a",
         "originalText": "::The two women exchange looks yet again. This time, their wordless communication took a bit longer than previously. Still, you eventually get your response.::\r\n\r\nThe Forsaken Island itself is very dangerous, and so are the waters around it. You are lucky to still be breathing, visitor.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 349,
         "description": "n/a",
         "originalText": "::Fight!::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 353,
         "description": "n/a",
         "originalText": "Ironically, our whole plan also attracted a fair number of crazy monster hunters - or at least what we suspect they were, since they came well armed.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 359,
         "description": "n/a",
         "originalText": "We don't like visitors. I think that's fairly obvious.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 365,
         "description": "n/a",
         "originalText": "A young girl was born and raised in a small station far away from here. The girl had a twin sister whom she loved more than anything in this world. The two were inseparable.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 369,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jgi_sisters_toldLifeStory",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 373,
         "description": "n/a",
         "originalText": "We come up with interesting tales...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 379,
         "description": "n/a",
         "originalText": "But you seemed talkative and friendly.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 383,
         "description": "n/a",
         "originalText": "I'm not going down without a fight! ::Attack!::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 385,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jgi_sisters_mentionedGooshterIntro",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 391,
         "description": "n/a",
         "originalText": "And some of them were really rude. They still haven't left the island to this day! It's impolite to overstay your welcome, I say. ::She flashes a malicious smile.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 399,
         "description": "n/a",
         "originalText": "The sisters were inseparable - as most twins tend to be. As unfortunate as it is, several tragedies made the bond between the sisters even stronger than before. Their father, a good and caring man, died from the hands of vile raiders that had constantly circled the station like packs of hungry rathounds. Their mother, a gorgeous woman and equally - if not more - caring than the father died from a broken heart.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 405,
         "description": "n/a",
         "originalText": "Or just meditate... or practice our skills.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 410,
         "description": "n/a",
         "originalText": "In all honesty, it was interesting to hear another voice. Perhaps something of the outside world, not that it matters much. In the end, we can't let you get out of here alive.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 421,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jgi_sisters_toldGooshter",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 425,
         "description": "n/a",
         "originalText": "So basically, there's nothing interesting on this island.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 429,
         "description": "n/a",
         "originalText": "I had other questions...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 433,
         "description": "n/a",
         "originalText": "The little girl and her sister were left living with their grandmother, an old, disabled woman who could barely take care of herself, let alone feed and raise two young girls.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 439,
         "description": "n/a",
         "originalText": "Life here is not as boring as one might think. Trust us.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 447,
         "description": "n/a",
         "originalText": "::[Persuade]:: Okay, kill me. Then my powerful friends, who know I'm here, will come looking for me - armed to the teeth. After all, they will be expecting the Behemoth to be here so they'll pack quite a bit of firepower. Can you deal with all of them?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 451,
         "description": "n/a",
         "originalText": "I promise I'll bring you a gift if you let me go! I'll get you something nice!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 455,
         "description": "n/a",
         "originalText": "I'll give you money if you let me live!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 460,
         "description": "n/a",
         "originalText": "No... Unless you think hoppers and mindshrooms are interesting.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 466,
         "description": "n/a",
         "originalText": "The sisters never loved her. She was a selfish and bitter old woman. It was a miracle how she even managed to raise such a selfless and intelligent son when she herself was quite the opposite.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 472,
         "description": "n/a",
         "originalText": "::Adira is silent, and so is her sister.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 478,
         "description": "n/a",
         "originalText": "Your excuse is pathetic! Let's get this over with!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".SBFV.SFVA:P",
+        "classInfo": "(SBFV).SFVA:P",
         "objectId": 483,
-        "description": "n/a",
+        "description": "前後のテキストの状況を示すヒントになるかも",
         "originalText": "context.npc_jgi_sisters_persuadeNotKill",
+        "ignore": true,
         "translatedText": ""
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 487,
         "description": "n/a",
         "originalText": "Oooh! I want a doll! ::She laughs out loud.:: Actually... no. I don't need a stinking doll!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 493,
         "description": "n/a",
         "originalText": "::She laughs out loud.:: Money? We have no use for that here! That was pathetic!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 499,
         "description": "n/a",
         "originalText": "Nothing interesting at all?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 505,
         "description": "n/a",
         "originalText": "The next page of the story spells poverty and a life that was about to get even harder: The girl and her sister shared a gift - they were psionics. One was gifted with the ability to control fire, one the ability to control frost.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 512,
         "description": "n/a",
         "originalText": "I know it's hard to trust a complete stranger, but at least give it a shot. What I saw here will remain between you and me. You have my word.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 515,
         "description": "n/a",
         "originalText": "The talk is over!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 522,
         "description": "n/a",
         "originalText": "The visitor meant other than the two of us...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 528,
         "description": "n/a",
         "originalText": "Control is the wrong word here, for they had no real control over their abilities and there was no one in that small, forgotten station that could help them embrace this ability that they possessed and teach them how to use it properly.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 533,
         "description": "n/a",
         "originalText": "::Looks are exchanged between the sisters once again. Your answer came quickly, preceded only by a short sigh.::\r\n\r\nYou convinced us. We won't stop you from leaving, $(context.player.Name). You are free to go.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 541,
         "description": "n/a",
         "originalText": "I'm sure of that...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 547,
         "description": "n/a",
         "originalText": "Accidental fires, flying ice spikes and an occasional frozen door knob quickly raised the whole station to its feet; the residents were filled with fear as well as prejudice.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 552,
         "description": "n/a",
         "originalText": "Well, I'm outta here. So long!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 555,
         "description": "n/a",
         "originalText": "Goodbye.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 559,
         "description": "n/a",
         "originalText": "The sisters were scared too; they didn't want to hurt anyone, they tried not to. It was a true horror. There was no one to guide them, show them the right way to innervate and use their abilities - no one to help them! All they got were looks of fear and prejudice, and even hatred. Even their own grandmother proved even more useless and selfish than what the girls had originally thought.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 565,
         "description": "n/a",
         "originalText": "Fear overcame the simple-minded. The girls were forced to leave in fear of their \"evil\" powers hurting the community. Grandmother had a pseudo-wise explanation which, at least in her own distorted mind, justified such actions. The sisters were given some money, some clothes, some food, and were told to go to Core City. There, someone could perhaps help them.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 571,
         "description": "n/a",
         "originalText": "Nonsense...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 577,
         "description": "n/a",
         "originalText": "The capital of decadence, torn apart by rioters, was luckily not the destination of the little sisters. They were sick of people, of the whole treacherous human race! The bastards, the inconsiderate walking piles of rathound excrement threw us out - FORCED US OUT like we were... like we weren't even human beings... If we had been eaten by rabid animals right outside the station they wouldn't have cared one stinking bit! They got rid of us. We were not their problem anymore, and that's all they cared about.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 583,
         "description": "n/a",
         "originalText": "::She gives her sister a short glance.:: Naturally, a place - any place untainted by humans was the best place for the little sisters to settle. Not only that, but it also had to be difficult for anyone to reach this place. The little girls tried to find a ferryman to take them to Forsaken Island, an island surrounded by dangerous currents that had doomed a vast number of unfortunate boats in the past and was often avoided. As there was no one willing to take them there, they had to... *steal* their ride.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 589,
         "description": "n/a",
         "originalText": "The island offered them a life of isolation and sufficient resources to survive. They grew up, and many years later they eventually mastered their \"cursed\" gifts. They sought and gained control over the abilities that were a burden up to that point. ",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 594,
         "description": "n/a",
         "originalText": "In the end, they only needed each other in life. Through joint effort they managed to survive through everything. And to this day, their bond is stronger then ever. And so are their powers.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 605,
         "description": "n/a",
         "originalText": "That was a really sad story. Some people are so small-minded! But as you said, who needs those bastards!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 609,
         "description": "n/a",
         "originalText": "You might not agree with me, but you were a potential danger to those people. Psionics out of control don't seem safe to me.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 613,
         "description": "n/a",
         "originalText": "I don't know what to say to all this...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 618,
         "description": "n/a",
         "originalText": "Now that was a long story! Hey, I grew a long gray beard!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 623,
         "description": "n/a",
         "originalText": "What a long story! If I were a man, I'd be sporting a long gray beard by now!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 627,
         "description": "n/a",
         "originalText": "Well... what's done is done. It's all in the past now.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 633,
         "description": "n/a",
         "originalText": "So, throwing us out was perfectly justified according to you? How can you say such a thing? All we needed was some love... some understanding, some help. Nothing else. And we got none of it, not even a little.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 639,
         "description": "n/a",
         "originalText": "That's alright. There are times when words cannot describe something you wish to express.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 646,
         "description": "n/a",
         "originalText": "::Both sisters stand in disbelief. Your comment wasn't the one they expected, it seems. They look at each other for a second before Adira replies.::\r\n\r\nI am at a loss for words, visitor.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 653,
         "description": "n/a",
         "originalText": "Ugh... I still hate them to this day! I wish...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 658,
         "description": "n/a",
         "originalText": "We never hurt anyone, and never would have - not even by accident!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 666,
         "description": "n/a",
         "originalText": "Adira and I sometimes don't utter a single word for a whole day or two. Yet, we never fail to understand each other.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 671,
         "description": "n/a",
         "originalText": "You think you're funny? You think you can come to our home and act like a jerk!? Why I'll...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 680,
         "description": "n/a",
         "originalText": "You wish nothing, Beatrice. Leave it be.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 686,
         "description": "n/a",
         "originalText": "I'm sorry. I didn't mean to sound like I support their decision. Forget I said anything.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 690,
         "description": "n/a",
         "originalText": "Yeah, whatever you say. I had other question.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 694,
         "description": "n/a",
         "originalText": "Actually, we haven't talked this much in a long, long time...",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 700,
         "description": "n/a",
         "originalText": "I'm sorry, okay! I didn't mean it like that. Again, I'm sorry.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 704,
         "description": "n/a",
         "originalText": "What? Please continue. I'm really interested in what you were going to say.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".A3.SE:LT:0:Value",
+        "classInfo": "(A3).SE:LT:0:Value",
         "objectId": 708,
         "description": "n/a",
         "originalText": "Wow, someone's oversensitive!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 712,
         "description": "n/a",
         "originalText": "I... ::She sighs.:: Yes, sister. I'll leave it be.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 718,
         "description": "n/a",
         "originalText": "::Both of them put on a frown but say nothing.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 724,
         "description": "n/a",
         "originalText": "Well now we have a visitor. ::She smiles.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 730,
         "description": "n/a",
         "originalText": "Let's all calm down. You better watch your words next time, visitor.",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 735,
         "description": "n/a",
         "originalText": "That's it! You're going down!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 741,
         "description": "n/a",
         "originalText": "Overse--!? That's it! You're going down!",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 748,
         "description": "n/a",
         "originalText": "::Both of them fall silent. They seem to have drifted off, perhaps somewhere far back in the past.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 754,
         "description": "n/a",
         "originalText": "::Beatrice says nothing. She just stares at you.::",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "classInfo": ".Q.SE:LT:0:Value",
+        "classInfo": "(Q).SE:LT:0:Value",
         "objectId": 760,
         "description": "n/a",
         "originalText": "Did you have any other questions, visitor?",
-        "translatedText": ""
+        "translatedText": "",
+        "ignore": false
     },
     {
-        "jsonVersion": "0.2"
+        "jsonVersion": "0.3"
     }
 ]
