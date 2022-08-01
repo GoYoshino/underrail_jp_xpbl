@@ -60,7 +60,7 @@
         "objectId": 184,
         "description": "n/a",
         "originalText": "You must be $(context.player.Name). They call me Big Bret.\r\n\r\nSo you've passed all the tests, I see; couldn't have been easy. Those were just getting harder and harder in recent years.",
-        "translatedText": ""
+        "translatedText": "$(context.player.Name)だな。俺はBig_Bretと呼ばれているモンだ。\r\n\r\n試験を全部クリアしたそうだな。簡単ではなかっただろう。最近どんどん難しくなってってるんだ。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
@@ -158,35 +158,35 @@
         "objectId": 274,
         "description": "n/a",
         "originalText": "They were pretty hard but I like challenges.",
-        "translatedText": ""
+        "translatedText": "確かに難しかったが、挑戦することは好きなんだ。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 278,
         "description": "n/a",
         "originalText": "I'm just really glad I made it.",
-        "translatedText": ""
+        "translatedText": "突破出来て本当によかったよ。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 282,
         "description": "n/a",
         "originalText": "I think they were just the right difficulty. You wouldn't want just anyone here, right?",
-        "translatedText": ""
+        "translatedText": "適切な難易度だと思ったけどな。あんたも他の皆と同じで疑問を持ってるのか？"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 287,
         "description": "n/a",
         "originalText": "It was a breeze.",
-        "translatedText": ""
+        "translatedText": "楽勝だったね。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 291,
         "description": "n/a",
         "originalText": "They could've at least given me a day off. I've been running their tests for weeks.",
-        "translatedText": ""
+        "translatedText": "数週間も試験が続いたのに、休みは1日しかなかったぞ。"
     },
     {
         "classInfo": ".BC.CIC:P",
@@ -249,7 +249,7 @@
         "objectId": 325,
         "description": "n/a",
         "originalText": "Do you have anything to trade? ::Barter.::",
-        "translatedText": ""
+        "translatedText": "何か取引できないか？ ::売買::"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
@@ -319,7 +319,7 @@
         "objectId": 393,
         "description": "n/a",
         "originalText": "What is this place?",
-        "translatedText": ""
+        "translatedText": "この場所は？"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
@@ -340,7 +340,7 @@
         "objectId": 407,
         "description": "n/a",
         "originalText": "Must be going.",
-        "translatedText": ""
+        "translatedText": "もう行かないと。"
     },
     {
         "classInfo": ".BC.CIC:P",
@@ -417,28 +417,28 @@
         "objectId": 421,
         "description": "n/a",
         "originalText": "You're going to love it here then. So what brings you to the Pens?",
-        "translatedText": ""
+        "translatedText": "それなら、ここの暮らしもすぐに気に入るだろうな。それで、厩舎に何の用かな？"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 427,
         "description": "n/a",
         "originalText": "In that case we're glad to have you!\r\n\r\nSo anyway, what can I do you for?",
-        "translatedText": ""
+        "translatedText": "そうか、俺たちもあんたが一員になってくれて嬉しいよ！\r\n\r\nともあれ、何か用かい？"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 433,
         "description": "n/a",
         "originalText": "You're right. Indeed we don't.\r\n\r\nSo anyway, what can I do you for?",
-        "translatedText": ""
+        "translatedText": "まあ、正論だな。俺たちが間違ってるのかも。\r\n\r\nともあれ、何か用かい？"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 438,
         "description": "n/a",
         "originalText": "::He smirks, unimpressed.:: Either you're joking or you're the next Tanner.",
-        "translatedText": ""
+        "translatedText": "::彼はにやにや笑う。本気にしていないようだ。::冗談だろ、そうじゃなきゃあんたは次代のTannerかもな。"
     },
     {
         "classInfo": ".MNLA.MNLA:NN",
@@ -452,7 +452,7 @@
         "objectId": 448,
         "description": "n/a",
         "originalText": "Well, I reckon they usually would. Things have been rough this month though and we need all capable hands to pull their weight.",
-        "translatedText": ""
+        "translatedText": "あー、平時ならもっと楽なスケジュールだったんじゃないか。今月はいろんなことが起こりすぎて、一刻も早く人手が必要だったんだと思うぜ。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
@@ -543,7 +543,7 @@
         "objectId": 536,
         "description": "n/a",
         "originalText": "Inbreeding makes hoppers susceptible to disease. It is necessary to freshen up the gene pool with new specimens as often as possible.",
-        "translatedText": ""
+        "translatedText": "近親交配を繰り返すと病気が増えるんだ。だからできるだけ頻繁に、遺伝子プールに新しい風を吹き込んでやらないといけないのさ。"
     },
     {
         "classInfo": ".SIFV.SFVA:P",
@@ -571,7 +571,7 @@
         "objectId": 556,
         "description": "n/a",
         "originalText": "Very good. So, say, have you ever captured a hopper?",
-        "translatedText": ""
+        "translatedText": "それはありがたい。Hopperを捕まえたことはあるかい？"
     },
     {
         "classInfo": ".SQA.SQA:QN",
@@ -634,7 +634,7 @@
         "objectId": 587,
         "description": "n/a",
         "originalText": "This is the agronomy sector where we grow and harvest all kinds of plants. But we also breed animals for food. In short, our job is to provide food to the station in any way possible.",
-        "translatedText": ""
+        "translatedText": "この農学セクターでは、主にあらゆる種類の植物を栽培してる。それだけじゃなくて家畜の交配もやってる。簡単に言えば、使える方法は何でも使ってこのステーションの食料をなんとかするのが仕事だな。"
     },
     {
         "classInfo": ".SIFV.SFVA:P",
@@ -676,35 +676,35 @@
         "objectId": 615,
         "description": "n/a",
         "originalText": "I'm just kidding.",
-        "translatedText": ""
+        "translatedText": "冗談だよ。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 619,
         "description": "n/a",
         "originalText": "I see Tanner is well respected here?",
-        "translatedText": ""
+        "translatedText": "Tannerは尊敬されているんだな。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 623,
         "description": "n/a",
         "originalText": "No really, it was pretty easy.",
-        "translatedText": ""
+        "translatedText": "いや、冗談じゃない。本当に簡単だった。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 627,
         "description": "n/a",
         "originalText": "What exactly are you talking about?",
-        "translatedText": ""
+        "translatedText": "いろんなことというのは？"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 631,
         "description": "n/a",
         "originalText": "I understand.",
-        "translatedText": ""
+        "translatedText": "そういうことか。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
@@ -998,28 +998,28 @@
         "objectId": 764,
         "description": "n/a",
         "originalText": "Yes, I have. Just point me to the gear.",
-        "translatedText": ""
+        "translatedText": "ああ。道具だけ用立てしてくれ。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 768,
         "description": "n/a",
         "originalText": "No.",
-        "translatedText": ""
+        "translatedText": "いいや。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 773,
         "description": "n/a",
         "originalText": "I don't even know what that is.",
-        "translatedText": ""
+        "translatedText": "Hopperとやらが何なのかすら知らない。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 777,
         "description": "n/a",
         "originalText": "No, but I did shoot a few.",
-        "translatedText": ""
+        "translatedText": "捕まえたことはないな、撃ったことはあるけど。"
     },
     {
         "classInfo": ".Q0.Q0:L",
@@ -1089,7 +1089,7 @@
         "objectId": 805,
         "description": "n/a",
         "originalText": "Figured you've must've had. \r\n\r\nSo what can I do you for, citizen?",
-        "translatedText": ""
+        "translatedText": "そうだと思ったよ。\r\n\r\nで、何か用かな、市民？"
     },
     {
         "classInfo": ".MNLA.MNLA:NN",
@@ -1103,28 +1103,28 @@
         "objectId": 812,
         "description": "n/a",
         "originalText": "Respected? The man is a living legend. He took charge of the station in the worst of its days and turned things around. He fought off our enemies, wrestled back control of our power plant, reintroduced a lot of old world technology that allows us to run a station this big, *and* he ensured a very favorable trading agreement with the Union.",
-        "translatedText": ""
+        "translatedText": "尊敬だって？　そんなもんじゃないさ。あの人は生ける伝説だ。このステーションが窮地にあった頃に着任して、状況を全部変えちまった。敵と戦って、奪われた発電所を取り返して、旧世界の技術をいくつも復活させて、それでこのステーションはここまで大きくなったんだ。*しかも*あの::United_Stations::と有利な条件で通商条約まで結んできた。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 821,
         "description": "n/a",
         "originalText": "Right. So what can I do you for?",
-        "translatedText": ""
+        "translatedText": "そうかい。で、何の用だ？"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 827,
         "description": "n/a",
         "originalText": "Well, you know - the network problems, Tunnelers and all that stuff. And now this freaking earthquake. Just go watch the news feeds in the commons, you'll see what I mean.",
-        "translatedText": ""
+        "translatedText": "えーと、まずネットワークの障害だろ？　それに::Tunneler::どもの動きと、そして次は忌々しい地震ときた。公共フロアのニュース端末を見るといい。この一カ月がどれだけ激動だったかわかるぜ。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 833,
         "description": "n/a",
         "originalText": "So anyway, what can I do you for?",
-        "translatedText": ""
+        "translatedText": "ともあれ、何の用だい？"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
@@ -1334,7 +1334,7 @@
         "objectId": 983,
         "description": "n/a",
         "originalText": "Look over there in the pen. Those are cave hoppers; hoppers for short.\r\n\r\nThey are speedy little bastards, let me tell you. Shooting one is hard, but catching it alive is even harder. They are usually found near the lakes, because that's where their favorite food grows - the lake mushroom.",
-        "translatedText": ""
+        "translatedText": "そこの檻にいるやつだよ。正式名称が::Cave_Hopper::。まあ、みんなHopperって呼んでる。\r\n\r\n小さくてすばしっこい強敵さ。銃を当てるだけでも難しいが、捕まえるとなるともっと難しい。だいたい湖の近くに住んでる。キノコが好物で、それは湖の近くに生えるからな。"
     },
     {
         "classInfo": ".MNLA.MNLA:NN",
@@ -1348,7 +1348,7 @@
         "objectId": 991,
         "description": "n/a",
         "originalText": "Well, catching them alive is a lot harder.",
-        "translatedText": ""
+        "translatedText": "そうか、だが生け捕りにするのは何倍も難しいぞ。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
@@ -1376,28 +1376,28 @@
         "objectId": 1017,
         "description": "n/a",
         "originalText": "::He nods.::",
-        "translatedText": ""
+        "translatedText": "::彼は頷く。::"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 1024,
         "description": "n/a",
         "originalText": "Impressive.",
-        "translatedText": ""
+        "translatedText": "それはすごいな。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 1028,
         "description": "n/a",
         "originalText": "I see.",
-        "translatedText": ""
+        "translatedText": "わかった。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 1033,
         "description": "n/a",
         "originalText": "Alright, alright. Sorry I asked.",
-        "translatedText": ""
+        "translatedText": "わかったわかった、そこまでにしてくれ。"
     },
     {
         "classInfo": ".BC.CIC:P",
@@ -1649,21 +1649,21 @@
         "objectId": 1183,
         "description": "n/a",
         "originalText": "Your hunting ground is the Mushroom Cove. Head south from the Crossroad Watch until you reach a waterfall. Go past the waterfall and take the western tunnel in a cave after it. Now, you'll come across a big cavern with a lake. That's the Cove. I'll need three healthy specimens. Good luck.",
-        "translatedText": ""
+        "translatedText": "奴らの居場所は::Mushroom_Cove::だな。::Crossroad_Watch::から南に進んで、滝を通り過ぎたら西へ向かうトンネルがあるはずだ。そこを通れば、湖のある巨大な空洞につく。そこがMushroom_Coveだ。3匹ほど捕まえてきてほしい。頑張れよ。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 1189,
         "description": "n/a",
         "originalText": "First go to the storage room - it's the room with two entrances just across the hallway - and get some dog crates. You'll need them to hold your quarry.",
-        "translatedText": ""
+        "translatedText": "まずこの階で倉庫を探すといい。廊下の向こうの入口が二つある部屋だ――そこでケージを入手してくれ。捕まえたHopperを入れるものが必要だからな。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 1195,
         "description": "n/a",
         "originalText": "Anyway, here's what you need to do to capture some hoppers.\r\n\r\n",
-        "translatedText": ""
+        "translatedText": "とにかく、Hopperを捕まえてきてほしいんだ。\r\n\r\n"
     },
     {
         "classInfo": ".BC.CIC:P",
@@ -1698,7 +1698,7 @@
         "objectId": 1216,
         "description": "n/a",
         "originalText": "Indeed. So what can I do you for?",
-        "translatedText": ""
+        "translatedText": "まったくだ。それで、何の用だい？"
     },
     {
         "classInfo": ".MNLA.MNLA:NN",
@@ -1712,14 +1712,14 @@
         "objectId": 1224,
         "description": "n/a",
         "originalText": "So what can I do you for?",
-        "translatedText": ""
+        "translatedText": "何の用だい？"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 1230,
         "description": "n/a",
         "originalText": "Anyway, let's get down to business. That's why you're here for, right?",
-        "translatedText": ""
+        "translatedText": "ともあれ、仕事の話に戻ろう。何の用でここに来たんだい？"
     },
     {
         "classInfo": ".MNLA.MNLA:NN",
@@ -1831,7 +1831,7 @@
         "objectId": 1308,
         "description": "n/a",
         "originalText": "Oh, and by the way: I've also sent a young man called Newton to catch some hoppers. It's been a while, so see if you can find him and learn what's taking him so long.",
-        "translatedText": ""
+        "translatedText": "ああ、そうだ。もう一つ、Cave_Hopperを捕まえるのに若い奴を一人送ったんだが、ずいぶん長い間帰ってこないんだ。Newtonって男だ。ついでにそいつを探して、どうして帰ってこないのか突き止めてくれないか。"
     },
     {
         "classInfo": ".SBFV.SFVA:P",
@@ -1845,7 +1845,7 @@
         "objectId": 1316,
         "description": "n/a",
         "originalText": "Getting them inside won't be easy, though. As soon as they sense you're coming they'll scurry off and crawl through the crevices in the cave wall. So what you need to do is immobilize them before they run away, either with hopper traps - which unlike bear traps will ensnare them without snapping most of their bones in half - or with throwing nets.",
-        "translatedText": ""
+        "translatedText": "まあ、ケージだけあったってに奴らをそこに収めるのは簡単じゃないがな。存在に気づかれた瞬間、慌てて逃げ出して、壁の割れ目とかに逃げ込みやがる。だから動きを止める手段が必要だな。Hopper用の罠を使うのが一つの手だ。トラバサミだと奴らの身体が真っ二つになってしまうから、専用の罠を使うんだぞ。あるいは、投げ網も有効だ。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
@@ -2048,7 +2048,7 @@
         "objectId": 1416,
         "description": "n/a",
         "originalText": "Also, if you can handle a crossbow, you could try shooting them with tranquilizing bolts. A single shot will drop a hopper quickly and will allow you to capture it easily.\r\n\r\nNow, you'll find all of these in the storage room, and you are free to take as many as you need. But if you need more than what's in the storage room, then, well, I can only sell it to you.",
-        "translatedText": ""
+        "translatedText": "あと、もしクロスボウの腕に自信があるなら、麻酔ボルトを使うのも手だ。一発撃ち込めばすぐにお寝んねするから、あとは捕まえるだけだ。\r\n\r\n今言った道具は全部倉庫にあるから、必要なだけ持って行ってくれ。けど足りなくなった場合は、そうだな、俺から買ってもらうしかないな。"
     },
     {
         "classInfo": ".LIDP#G1>NEI#-.LIDP:P",
@@ -2069,42 +2069,42 @@
         "objectId": 1426,
         "description": "n/a",
         "originalText": "Why do you need more hoppers? Looks like you have plenty back there.",
-        "translatedText": ""
+        "translatedText": "Hopperならその檻にたくさんいように見えるが、どうしてこれ以上必要なんだ？"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 1432,
         "description": "n/a",
         "originalText": "What is the Mushroom Cove?",
-        "translatedText": ""
+        "translatedText": "::Mushroom_Cove::というのは？"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 1436,
         "description": "n/a",
         "originalText": "Who's Newton?",
-        "translatedText": ""
+        "translatedText": "Newtonというのは誰なんだ？"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 1439,
         "description": "n/a",
         "originalText": "I'll get right on it.",
-        "translatedText": ""
+        "translatedText": "出発しよう。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 1442,
         "description": "n/a",
         "originalText": "I have a feeling this is going to be a long day.",
-        "translatedText": ""
+        "translatedText": "こいつは長い一日になりそうだ。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 1448,
         "description": "n/a",
         "originalText": "I don't think this is a right job for me. Is there maybe something else I could do?",
-        "translatedText": ""
+        "translatedText": "この仕事は自分にはふさわしくない。他の仕事はないのか？"
     },
     {
         "classInfo": ".ICC.CIC:P",
@@ -2139,7 +2139,7 @@
         "objectId": 1464,
         "description": "n/a",
         "originalText": "It's a place where a couple of streams and rivers join up to form a cove. From there the water flows further down as Celeritas River which is joined by other streams and rivers and becomes more and more treacherous as it journeys on. \r\n\r\nPresumably it leads straight down into Deep Caverns and ends in a magnificent waterfall, but I'm not sure I believe that.",
-        "translatedText": ""
+        "translatedText": "川がいくつも合流して入り江を作っている場所だ。そこからは水はCeleritas川を流れて、たくさんの川が合流し、下流に行けば行くほど恐ろしい環境が待ってる。\r\n\r\nたぶん::Deep_Caverns::まで続いてるだろうし、だとすれば見事な滝があるかもしれないが、それは謎だな。"
     },
     {
         "classInfo": ".SIFV.SFVA:P",
@@ -2153,7 +2153,7 @@
         "objectId": 1472,
         "description": "n/a",
         "originalText": "Well, he's just like you, a newcomer who needs to learn the basics of what it takes for this station to operate. I've sent him to catch hoppers; he should have been back by now, though. I hope he hasn't gotten himself into some sort of trouble.",
-        "translatedText": ""
+        "translatedText": "あんたと同じ新人だ。このステーションがどうやって回っているかを学ばせるつもりで、Hopperの捕獲に向かわせたんだが……帰ってこないってわけだ。トラブルに巻き込まれてないといいんだが。"
     },
     {
         "classInfo": ".BC.CIC:P",
@@ -2167,7 +2167,7 @@
         "objectId": 1478,
         "description": "n/a",
         "originalText": "And why is that?",
-        "translatedText": ""
+        "translatedText": "ふさわしくない？　どうして？"
     },
     {
         "classInfo": ".SBFV.SFVA:P",
@@ -2181,35 +2181,35 @@
         "objectId": 1489,
         "description": "n/a",
         "originalText": "So please, look for him while you're there.",
-        "translatedText": ""
+        "translatedText": "Coveに用事がある間、彼を探してほしい。頼む。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 1496,
         "description": "n/a",
         "originalText": "I think my skill could be put to better use than this.",
-        "translatedText": ""
+        "translatedText": "この程度の仕事は自分の能力にはふさわしくない。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 1501,
         "description": "n/a",
         "originalText": "Hunting is not really my thing.",
-        "translatedText": ""
+        "translatedText": "狩りは専門じゃないんだ。"
     },
     {
         "classInfo": ".A3.SE:LT:0:Value",
         "objectId": 1505,
         "description": "n/a",
         "originalText": "Never mind.",
-        "translatedText": ""
+        "translatedText": "いや、なんでもない。"
     },
     {
         "classInfo": ".Q.SE:LT:0:Value",
         "objectId": 1508,
         "description": "n/a",
         "originalText": "::Bret frowns.:: Oh, really. So you're too good to be helping with hopper breeding? I'll have you know that what we do here is very important work, maybe the most important. We're feeding the station.\r\n\r\nSo get going and don't come back without those hoppers. And see what's Newton been up to.",
-        "translatedText": ""
+        "translatedText": "::Bretは眉をひそめる。::ああ、マジか。つまりHopperの繁殖を手伝う程度の仕事はあんたの能力の無駄遣いだっていうのか？　あのな、これはとても大事な仕事なんだ。最も大事と言ってもいいかもしれない。俺たちがいなければこのステーションは飢えて死ぬんだ。\r\n\r\nさっさと行け、そこまで言うなら収穫なしで帰ってくるんじゃないぞ。Newtonの件も当然調べられるな？"
     },
     {
         "classInfo": ".MNLA.MNLA:NN",
